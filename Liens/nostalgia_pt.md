@@ -51,3 +51,9 @@ https://www.hypeness.com.br/2021/09/nostalgia-e-a-busca-pelo-que-nao-podemos-ter
 https://www.projetodraft.com/nostalgia-e-amor-e-doenca/
 
 https://colunaitalo.com.br/saude/1713/quando-a-nostalgia-pode-fazer-mal
+
+https://amenteemaravilhosa.com.br/nostalgia-antecipatoria/
+
+https://repensandoatitudes.com.br/2020/07/09/nostalgia-tem-a-ver-com-futuro/
+
+https://www.coletiva.net/colunas-/sindrome-da-nostalgia,280592.jhtml

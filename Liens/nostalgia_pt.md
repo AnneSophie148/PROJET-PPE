@@ -47,3 +47,5 @@ https://www.revistaserrote.com.br/2014/04/a-potencia-estetica-da-nostalgia/
 https://rockcontent.com/br/blog/marketing-da-nostalgia/
 
 https://www.hypeness.com.br/2021/09/nostalgia-e-a-busca-pelo-que-nao-podemos-ter/
+
+https://www.projetodraft.com/nostalgia-e-amor-e-doenca/

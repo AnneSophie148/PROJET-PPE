@@ -67,3 +67,13 @@ https://www.ecycle.com.br/economia-da-nostalgia/
 https://gauchazh.clicrbs.com.br/cultura-e-lazer/noticia/2022/01/nostalgia-do-passado-se-explica-por-caracteristicas-do-presente-escreve-pesquisador-sobre-onda-de-series-e-filmes-que-remetem-aos-anos-1980-ckyeerjgo000v015p4liv29kh.html
 
 https://br.psicologia-online.com/o-que-e-nostalgia-na-psicologia-1038.html
+
+https://www.terra.com.br/vida-e-estilo/mulher/nostalgia-e-a-solucao-para-alcancar-a-felicidade-diz-psicologo,64486ee9f9e27310VgnCLD100000bbcceb0aRCRD.html
+
+https://canaltech.com.br/comportamento/por-que-sentimos-nostalgia-228164/
+
+https://www.clinico-psicologo.com/nostalgia-depressao/
+
+https://www.gazetadopovo.com.br/educacao/a-perigosa-nostalgia-do-fascismo-na-italia/
+
+https://revistazum.com.br/colunistas/deep-nostalgia/

@@ -57,3 +57,13 @@ https://amenteemaravilhosa.com.br/nostalgia-antecipatoria/
 https://repensandoatitudes.com.br/2020/07/09/nostalgia-tem-a-ver-com-futuro/
 
 https://www.coletiva.net/colunas-/sindrome-da-nostalgia,280592.jhtml
+
+https://www.correiobraziliense.com.br/revista-do-correio/2022/07/5021993-millennials-e-geracao-z-unidos-na-nostalgia-que-os-leva-de-volta-ao-passado.html
+
+https://pesquisafacomufjf.wordpress.com/2020/02/04/o-poder-da-nostalgia-sobre-o-papel-e-o-lugar-da-midia-e-da-comunicacao-academicos-em-estudos-sobre-nostalgia-por-talita-magnolo/
+
+https://www.ecycle.com.br/economia-da-nostalgia/
+
+https://gauchazh.clicrbs.com.br/cultura-e-lazer/noticia/2022/01/nostalgia-do-passado-se-explica-por-caracteristicas-do-presente-escreve-pesquisador-sobre-onda-de-series-e-filmes-que-remetem-aos-anos-1980-ckyeerjgo000v015p4liv29kh.html
+
+https://br.psicologia-online.com/o-que-e-nostalgia-na-psicologia-1038.html

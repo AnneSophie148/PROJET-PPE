@@ -1,1 +1,1 @@
-\# Links for the word xiāngchóu, equivalent of "nostalgia" in Mandarin Chinese
+\# Links for the word 乡愁 xiāngchóu, equivalent of "nostalgia" in Mandarin Chinese

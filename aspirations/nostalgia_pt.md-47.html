@@ -1,0 +1,839 @@
+<!doctype html>
+<html lang="pt-BR">
+<head><meta charset="UTF-8"><script>if(navigator.userAgent.match(/MSIE|Internet Explorer/i)||navigator.userAgent.match(/Trident\/7\..*?rv:11/i)){var href=document.location.href;if(!href.match(/[?&]nowprocket/)){if(href.indexOf("?")==-1){if(href.indexOf("#")==-1){document.location.href=href+"?nowprocket=1"}else{document.location.href=href.replace("#","?nowprocket=1#")}}else{if(href.indexOf("#")==-1){document.location.href=href+"&nowprocket=1"}else{document.location.href=href.replace("#","&nowprocket=1#")}}}}</script><script>class RocketLazyLoadScripts{constructor(){this.triggerEvents=["keydown","mousedown","mousemove","touchmove","touchstart","touchend","wheel"],this.userEventHandler=this._triggerListener.bind(this),this.touchStartHandler=this._onTouchStart.bind(this),this.touchMoveHandler=this._onTouchMove.bind(this),this.touchEndHandler=this._onTouchEnd.bind(this),this.clickHandler=this._onClick.bind(this),this.interceptedClicks=[],window.addEventListener("pageshow",(e=>{this.persisted=e.persisted})),window.addEventListener("DOMContentLoaded",(()=>{this._preconnect3rdParties()})),this.delayedScripts={normal:[],async:[],defer:[]},this.allJQueries=[]}_addUserInteractionListener(e){document.hidden?e._triggerListener():(this.triggerEvents.forEach((t=>window.addEventListener(t,e.userEventHandler,{passive:!0}))),window.addEventListener("touchstart",e.touchStartHandler,{passive:!0}),window.addEventListener("mousedown",e.touchStartHandler),document.addEventListener("visibilitychange",e.userEventHandler))}_removeUserInteractionListener(){this.triggerEvents.forEach((e=>window.removeEventListener(e,this.userEventHandler,{passive:!0}))),document.removeEventListener("visibilitychange",this.userEventHandler)}_onTouchStart(e){"HTML"!==e.target.tagName&&(window.addEventListener("touchend",this.touchEndHandler),window.addEventListener("mouseup",this.touchEndHandler),window.addEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.addEventListener("mousemove",this.touchMoveHandler),e.target.addEventListener("click",this.clickHandler),this._renameDOMAttribute(e.target,"onclick","rocket-onclick"))}_onTouchMove(e){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler),e.target.removeEventListener("click",this.clickHandler),this._renameDOMAttribute(e.target,"rocket-onclick","onclick")}_onTouchEnd(e){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler)}_onClick(e){e.target.removeEventListener("click",this.clickHandler),this._renameDOMAttribute(e.target,"rocket-onclick","onclick"),this.interceptedClicks.push(e),e.preventDefault(),e.stopPropagation(),e.stopImmediatePropagation()}_replayClicks(){window.removeEventListener("touchstart",this.touchStartHandler,{passive:!0}),window.removeEventListener("mousedown",this.touchStartHandler),this.interceptedClicks.forEach((e=>{e.target.dispatchEvent(new MouseEvent("click",{view:e.view,bubbles:!0,cancelable:!0}))}))}_renameDOMAttribute(e,t,n){e.hasAttribute&&e.hasAttribute(t)&&(event.target.setAttribute(n,event.target.getAttribute(t)),event.target.removeAttribute(t))}_triggerListener(){this._removeUserInteractionListener(this),"loading"===document.readyState?document.addEventListener("DOMContentLoaded",this._loadEverythingNow.bind(this)):this._loadEverythingNow()}_preconnect3rdParties(){let e=[];document.querySelectorAll("script[type=rocketlazyloadscript]").forEach((t=>{if(t.hasAttribute("src")){const n=new URL(t.src).origin;n!==location.origin&&e.push({src:n,crossOrigin:t.crossOrigin||"module"===t.getAttribute("data-rocket-type")})}})),e=[...new Map(e.map((e=>[JSON.stringify(e),e]))).values()],this._batchInjectResourceHints(e,"preconnect")}async _loadEverythingNow(){this.lastBreath=Date.now(),this._delayEventListeners(),this._delayJQueryReady(this),this._handleDocumentWrite(),this._registerAllDelayedScripts(),this._preloadAllScripts(),await this._loadScriptsFromList(this.delayedScripts.normal),await this._loadScriptsFromList(this.delayedScripts.defer),await this._loadScriptsFromList(this.delayedScripts.async);try{await this._triggerDOMContentLoaded(),await this._triggerWindowLoad()}catch(e){}window.dispatchEvent(new Event("rocket-allScriptsLoaded")),this._replayClicks()}_registerAllDelayedScripts(){document.querySelectorAll("script[type=rocketlazyloadscript]").forEach((e=>{e.hasAttribute("src")?e.hasAttribute("async")&&!1!==e.async?this.delayedScripts.async.push(e):e.hasAttribute("defer")&&!1!==e.defer||"module"===e.getAttribute("data-rocket-type")?this.delayedScripts.defer.push(e):this.delayedScripts.normal.push(e):this.delayedScripts.normal.push(e)}))}async _transformScript(e){return await this._littleBreath(),new Promise((t=>{const n=document.createElement("script");[...e.attributes].forEach((e=>{let t=e.nodeName;"type"!==t&&("data-rocket-type"===t&&(t="type"),n.setAttribute(t,e.nodeValue))})),e.hasAttribute("src")?(n.addEventListener("load",t),n.addEventListener("error",t)):(n.text=e.text,t());try{e.parentNode.replaceChild(n,e)}catch(e){t()}}))}async _loadScriptsFromList(e){const t=e.shift();return t?(await this._transformScript(t),this._loadScriptsFromList(e)):Promise.resolve()}_preloadAllScripts(){this._batchInjectResourceHints([...this.delayedScripts.normal,...this.delayedScripts.defer,...this.delayedScripts.async],"preload")}_batchInjectResourceHints(e,t){var n=document.createDocumentFragment();e.forEach((e=>{if(e.src){const i=document.createElement("link");i.href=e.src,i.rel=t,"preconnect"!==t&&(i.as="script"),e.getAttribute&&"module"===e.getAttribute("data-rocket-type")&&(i.crossOrigin=!0),e.crossOrigin&&(i.crossOrigin=e.crossOrigin),n.appendChild(i)}})),document.head.appendChild(n)}_delayEventListeners(){let e={};function t(t,n){!function(t){function n(n){return e[t].eventsToRewrite.indexOf(n)>=0?"rocket-"+n:n}e[t]||(e[t]={originalFunctions:{add:t.addEventListener,remove:t.removeEventListener},eventsToRewrite:[]},t.addEventListener=function(){arguments[0]=n(arguments[0]),e[t].originalFunctions.add.apply(t,arguments)},t.removeEventListener=function(){arguments[0]=n(arguments[0]),e[t].originalFunctions.remove.apply(t,arguments)})}(t),e[t].eventsToRewrite.push(n)}function n(e,t){let n=e[t];Object.defineProperty(e,t,{get:()=>n||function(){},set(i){e["rocket"+t]=n=i}})}t(document,"DOMContentLoaded"),t(window,"DOMContentLoaded"),t(window,"load"),t(window,"pageshow"),t(document,"readystatechange"),n(document,"onreadystatechange"),n(window,"onload"),n(window,"onpageshow")}_delayJQueryReady(e){let t=window.jQuery;Object.defineProperty(window,"jQuery",{get:()=>t,set(n){if(n&&n.fn&&!e.allJQueries.includes(n)){n.fn.ready=n.fn.init.prototype.ready=function(t){e.domReadyFired?t.bind(document)(n):document.addEventListener("rocket-DOMContentLoaded",(()=>t.bind(document)(n)))};const t=n.fn.on;n.fn.on=n.fn.init.prototype.on=function(){if(this[0]===window){function e(e){return e.split(" ").map((e=>"load"===e||0===e.indexOf("load.")?"rocket-jquery-load":e)).join(" ")}"string"==typeof arguments[0]||arguments[0]instanceof String?arguments[0]=e(arguments[0]):"object"==typeof arguments[0]&&Object.keys(arguments[0]).forEach((t=>{delete Object.assign(arguments[0],{[e(t)]:arguments[0][t]})[t]}))}return t.apply(this,arguments),this},e.allJQueries.push(n)}t=n}})}async _triggerDOMContentLoaded(){this.domReadyFired=!0,await this._littleBreath(),document.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this._littleBreath(),window.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this._littleBreath(),document.dispatchEvent(new Event("rocket-readystatechange")),await this._littleBreath(),document.rocketonreadystatechange&&document.rocketonreadystatechange()}async _triggerWindowLoad(){await this._littleBreath(),window.dispatchEvent(new Event("rocket-load")),await this._littleBreath(),window.rocketonload&&window.rocketonload(),await this._littleBreath(),this.allJQueries.forEach((e=>e(window).trigger("rocket-jquery-load"))),await this._littleBreath();const e=new Event("rocket-pageshow");e.persisted=this.persisted,window.dispatchEvent(e),await this._littleBreath(),window.rocketonpageshow&&window.rocketonpageshow({persisted:this.persisted})}_handleDocumentWrite(){const e=new Map;document.write=document.writeln=function(t){const n=document.currentScript,i=document.createRange(),r=n.parentElement;let o=e.get(n);void 0===o&&(o=n.nextSibling,e.set(n,o));const s=document.createDocumentFragment();i.setStart(s,0),s.appendChild(i.createContextualFragment(t)),r.insertBefore(s,o)}}async _littleBreath(){Date.now()-this.lastBreath>45&&(await this._requestAnimFrame(),this.lastBreath=Date.now())}async _requestAnimFrame(){return document.hidden?new Promise((e=>setTimeout(e))):new Promise((e=>requestAnimationFrame(e)))}static run(){const e=new RocketLazyLoadScripts;e._addUserInteractionListener(e)}}RocketLazyLoadScripts.run();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+<title>Marketing de Nostalgia: Tudo que você precisa saber!</title>
+<meta name="description" content="Separamos aqui tudo o que você precisa saber sobre o Marketing da Nostalgia para poder implementar na sua estratégia de Marketing Digital!" />
+<link rel="canonical" href="https://rockcontent.com/br/blog/marketing-da-nostalgia/" />
+<meta property="og:locale" content="pt_BR" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Marketing de Nostalgia: Tudo que você precisa saber!" />
+<meta property="og:description" content="Separamos aqui tudo o que você precisa saber sobre o Marketing da Nostalgia para poder implementar na sua estratégia de Marketing Digital!" />
+<meta property="og:url" content="https://rockcontent.com/br/blog/marketing-da-nostalgia/" />
+<meta property="og:site_name" content="Rock Content - BR" />
+<meta property="article:publisher" content="https://www.facebook.com/werockcontent" />
+<meta property="article:published_time" content="2018-09-27T00:00:00+00:00" />
+<meta property="article:modified_time" content="2022-05-26T17:55:08+00:00" />
+<meta property="og:image" content="https://rockcontent.com/br/wp-content/uploads/sites/2/2016/09/marketing-de-nostalgia.png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:image:type" content="image/png" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:creator" content="@rockcontent" />
+<meta name="twitter:site" content="@rockcontent" />
+<meta name="twitter:label1" content="Escrito por" />
+<meta name="twitter:data1" content="Ana Rennó" />
+<meta name="twitter:label2" content="Est. tempo de leitura" />
+<meta name="twitter:data2" content="10 minutos" />
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://rockcontent.com/br/#organization","name":"Rock Content","url":"https://rockcontent.com/br/","sameAs":["https://www.instagram.com/rockcontent/","https://www.linkedin.com/company/rockcontent","https://www.youtube.com/user/tvrockcontent","https://www.facebook.com/werockcontent","https://twitter.com/rockcontent"],"logo":{"@type":"ImageObject","inLanguage":"pt-BR","@id":"https://rockcontent.com/br/#/schema/logo/image/","url":"https://rockcontent.com/br/wp-content/uploads/sites/2/2021/02/favicom-rock-content-min.png","contentUrl":"https://rockcontent.com/br/wp-content/uploads/sites/2/2021/02/favicom-rock-content-min.png","width":58,"height":56,"caption":"Rock Content"},"image":{"@id":"https://rockcontent.com/br/#/schema/logo/image/"}},{"@type":"WebSite","@id":"https://rockcontent.com/br/#website","url":"https://rockcontent.com/br/","name":"Rock Content - BR","description":"Marketing Content","publisher":{"@id":"https://rockcontent.com/br/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://rockcontent.com/br/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"pt-BR"},{"@type":"ImageObject","inLanguage":"pt-BR","@id":"https://rockcontent.com/br/blog/marketing-da-nostalgia/#primaryimage","url":"https://rockcontent.com/br/wp-content/uploads/sites/2/2016/09/marketing-de-nostalgia.png","contentUrl":"https://rockcontent.com/br/wp-content/uploads/sites/2/2016/09/marketing-de-nostalgia.png","width":1200,"height":630,"caption":"Marketing de nostalgia"},{"@type":"WebPage","@id":"https://rockcontent.com/br/blog/marketing-da-nostalgia/#webpage","url":"https://rockcontent.com/br/blog/marketing-da-nostalgia/","name":"Marketing de Nostalgia: Tudo que você precisa saber!","isPartOf":{"@id":"https://rockcontent.com/br/#website"},"primaryImageOfPage":{"@id":"https://rockcontent.com/br/blog/marketing-da-nostalgia/#primaryimage"},"datePublished":"2018-09-27T00:00:00+00:00","dateModified":"2022-05-26T17:55:08+00:00","description":"Separamos aqui tudo o que você precisa saber sobre o Marketing da Nostalgia para poder implementar na sua estratégia de Marketing Digital!","breadcrumb":{"@id":"https://rockcontent.com/br/blog/marketing-da-nostalgia/#breadcrumb"},"inLanguage":"pt-BR","potentialAction":[{"@type":"ReadAction","target":["https://rockcontent.com/br/blog/marketing-da-nostalgia/"]}]},{"@type":"BreadcrumbList","@id":"https://rockcontent.com/br/blog/marketing-da-nostalgia/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://rockcontent.com/br/"},{"@type":"ListItem","position":2,"name":"Recentes","item":"https://rockcontent.com/br/blog/recentes/"},{"@type":"ListItem","position":3,"name":"Marketing da nostalgia, por que ele é tão eficaz?"}]},{"@type":"Article","@id":"https://rockcontent.com/br/blog/marketing-da-nostalgia/#article","isPartOf":{"@id":"https://rockcontent.com/br/blog/marketing-da-nostalgia/#webpage"},"author":{"@id":"https://rockcontent.com/br/#/schema/person/6cabfbcc3e80c70b733cdbef9db85ac6"},"headline":"Marketing da nostalgia, por que ele é tão eficaz?","datePublished":"2018-09-27T00:00:00+00:00","dateModified":"2022-05-26T17:55:08+00:00","mainEntityOfPage":{"@id":"https://rockcontent.com/br/blog/marketing-da-nostalgia/#webpage"},"wordCount":1704,"publisher":{"@id":"https://rockcontent.com/br/#organization"},"image":{"@id":"https://rockcontent.com/br/blog/marketing-da-nostalgia/#primaryimage"},"thumbnailUrl":"https://rockcontent.com/br/wp-content/uploads/sites/2/2016/09/marketing-de-nostalgia.png","articleSection":["Marketing"],"inLanguage":"pt-BR"},{"@type":"Person","@id":"https://rockcontent.com/br/#/schema/person/6cabfbcc3e80c70b733cdbef9db85ac6","name":"Ana Rennó","image":{"@type":"ImageObject","inLanguage":"pt-BR","@id":"https://rockcontent.com/br/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/7672c8358decc10c903dbcc212f83414?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/7672c8358decc10c903dbcc212f83414?s=96&d=mm&r=g","caption":"Ana Rennó"},"description":"Analista de Marketing na Rock Content.","url":"https://rockcontent.com/br/blog/author/ana/"}]}</script>
+
+<link rel='dns-prefetch' href='//js.hsforms.net' />
+<link rel='dns-prefetch' href='//api.privacy.rockcontent.com' />
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//www.google-analytics.com' />
+<link rel='dns-prefetch' href='//connect.facebook.net' />
+<link rel='dns-prefetch' href='//forms.hsforms.com' />
+<link rel='dns-prefetch' href='//js.hs-analytics.net' />
+<link rel="alternate" type="application/rss+xml" title="Feed para Rock Content - BR &raquo;" href="https://rockcontent.com/br/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Rock Content - BR &raquo;" href="https://rockcontent.com/br/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de Rock Content - BR &raquo; Story" href="https://rockcontent.com/br/web-stories/feed/"><link rel='stylesheet' id='rock-single-post-base-css' href='https://rockcontent.com/br/wp-content/plugins/rock-content-custom-code/assets/css/min/rock-single-post-base.min.css?ver=1.7.6' media='' />
+<link rel='stylesheet' id='rock-convert-css' href='https://rockcontent.com/br/wp-content/plugins/rock-convert/inc/frontend/css/rock-convert-frontend.min.css?ver=2.8' media='all' />
+<link rel='stylesheet' id='hello-elementor-css' href='https://rockcontent.com/br/wp-content/themes/hello-elementor/style.min.css?ver=2.6.1' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://rockcontent.com/br/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.7.8' media='all' />
+<link rel='stylesheet' id='elementor-post-7-css' href='https://rockcontent.com/br/wp-content/uploads/sites/2/elementor/css/post-7.css?ver=1665439747' media='all' />
+<link rel='stylesheet' id='elementor-pro-css' href='https://rockcontent.com/br/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.7.5' media='all' />
+<link rel='stylesheet' id='elementor-post-34722-css' href='https://rockcontent.com/br/wp-content/uploads/sites/2/elementor/css/post-34722.css?ver=1666651092' media='all' />
+<link rel='stylesheet' id='elementor-post-34720-css' href='https://rockcontent.com/br/wp-content/uploads/sites/2/elementor/css/post-34720.css?ver=1665439747' media='all' />
+<link rel='stylesheet' id='elementor-post-34714-css' href='https://rockcontent.com/br/wp-content/uploads/sites/2/elementor/css/post-34714.css?ver=1665439747' media='all' />
+<style id='rocket-lazyload-inline-css'>
+.rll-youtube-player{position:relative;padding-bottom:56.23%;height:0;overflow:hidden;max-width:100%;}.rll-youtube-player:focus-within{outline: 2px solid currentColor;outline-offset: 5px;}.rll-youtube-player iframe{position:absolute;top:0;left:0;width:100%;height:100%;z-index:100;background:0 0}.rll-youtube-player img{bottom:0;display:block;left:0;margin:auto;max-width:100%;width:100%;position:absolute;right:0;top:0;border:none;height:auto;-webkit-transition:.4s all;-moz-transition:.4s all;transition:.4s all}.rll-youtube-player img:hover{-webkit-filter:brightness(75%)}.rll-youtube-player .play{height:100%;width:100%;left:0;top:0;position:absolute;background:url(https://rockcontent.com/br/wp-content/plugins/wp-rocket/assets/img/youtube.png) no-repeat center;background-color: transparent !important;cursor:pointer;border:none;}
+</style>
+<link rel="https://api.w.org/" href="https://rockcontent.com/br/wp-json/" /><link rel="alternate" type="application/json" href="https://rockcontent.com/br/wp-json/wp/v2/posts/651" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://rockcontent.com/br/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://rockcontent.com/br/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 5.8.3" />
+<link rel='shortlink' href='https://rockcontent.com/br/?p=651' />
+<link rel="alternate" type="application/json+oembed" href="https://rockcontent.com/br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frockcontent.com%2Fbr%2Fblog%2Fmarketing-da-nostalgia%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://rockcontent.com/br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frockcontent.com%2Fbr%2Fblog%2Fmarketing-da-nostalgia%2F&#038;format=xml" />
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript'>
+      window.chorusAnalytics_blogName = 'Rock Content - BR';
+    </script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript'>
+        window.chorusAnalytics_postType              = 'post';
+        window.chorusAnalytics_postDate              =  1538006400;
+        window.chorusAnalytics_postAuthor            = 'Ana Rennó';
+        window.chorusAnalytics_postCategories        = '"[\"Marketing\"]"';
+        window.chorusAnalytics_postTags              = '""';
+        window.chorusAnalytics_postWordCount         =  1695;
+        window.chorusAnalytics_postPublishedByStudio =  false;
+      </script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript'>
+      window.addEventListener('load', function () {
+        if (!window.chorusAnalytics_isLoaded) {
+          
+          var rockAnalyticsScript_V2 = document.createElement('script');
+          rockAnalyticsScript_V2.type = 'text/javascript';
+          rockAnalyticsScript_V2.src =  'https://api.analytics.rockcontent.com/api/tracker?domain=rockcontent.com/br';
+
+          var source = document.createAttribute('source');
+          source.value = 'stage';
+          rockAnalyticsScript_V2.setAttributeNode(source); 
+
+          rockAnalyticsScript_V2.async = false;
+          rockAnalyticsScript_V2.defer = 'defer';
+
+          var website = document.createAttribute('data-website-id');
+          website.value = '5c987038-9273-45de-9425-88568a2a1ef5';
+          rockAnalyticsScript_V2.setAttributeNode(website); 
+
+          var host = document.createAttribute('data-host-url');
+          host.value = 'https://api.analytics.rockcontent.com';
+          rockAnalyticsScript_V2.setAttributeNode(host); 
+
+          document.body.appendChild(rockAnalyticsScript_V2);
+    
+        }
+      });
+    </script>
+<script type="rocketlazyloadscript">window.chorusAnalytics_integrationsUrl = "https:\/\/rockcontent.com\/br\/wp-json\/chorus-core\/v1\/integrations";</script><link rel="alternate" href="https://rockcontent.com/br/blog/marketing-da-nostalgia/" hreflang="pt-br" /><script type="rocketlazyloadscript" data-rocket-type="text/javascript">var rockPostCategories = 'Marketing';</script> 
+<script data-minify="1" id="cheq-script" async src="https://rockcontent.com/br/wp-content/cache/min/2/i/7fe874ab8c2ddfb2725c2014fbcf3af2.js?ver=1669067771" data-ch="cheq4ppc" class="ct_clicktrue_37221">
+	</script>
+
+
+<script type="rocketlazyloadscript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-5ZNR5RW');</script>
+
+<link rel="preload" as="font" href="https://rockcontent.com/br/wp-content/uploads/sites/2/2021/02/font-manrope-regular-1.woff" crossorigin>
+<link rel="preload" as="font" href="https://rockcontent.com/br/wp-content/uploads/sites/2/2021/02/font-manrope-bold-2.woff" crossorigin>
+<link rel="preload" as="font" href="https://rockcontent.com/br/wp-content/uploads/sites/2/2021/02/font-inter-regular-1.woff" crossorigin>
+<link rel="preload" as="font" href="https://rockcontent.com/br/wp-content/uploads/sites/2/2021/02/font-inter-bold-1.woff" crossorigin><link rel="icon" href="https://rockcontent.com/br/wp-content/uploads/sites/2/2021/02/favicom-rock-content-min.png" sizes="32x32" />
+<link rel="icon" href="https://rockcontent.com/br/wp-content/uploads/sites/2/2021/02/favicom-rock-content-min.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://rockcontent.com/br/wp-content/uploads/sites/2/2021/02/favicom-rock-content-min.png" />
+<meta name="msapplication-TileImage" content="https://rockcontent.com/br/wp-content/uploads/sites/2/2021/02/favicom-rock-content-min.png" />
+<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript></head>
+<body class="post-template-default single single-post postid-651 single-format-standard wp-custom-logo elementor-default elementor-kit-7 elementor-page-34714">
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5ZNR5RW"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<a class="skip-link screen-reader-text" href="#content">
+Skip to content</a>
+<div data-elementor-type="header" data-elementor-id="34722" class="elementor elementor-34722 elementor-location-header">
+<header class="elementor-section elementor-top-section elementor-element elementor-element-2cf6e4d elementor-section-height-min-height elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="2cf6e4d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-24a98800" data-id="24a98800" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-68941e0a elementor-widget__width-initial elementor-widget-tablet__width-initial elementor-widget-mobile__width-initial elementor-widget elementor-widget-rock-logo" data-id="68941e0a" data-element_type="widget" data-widget_type="rock-logo.default">
+<div class="elementor-widget-container">
+<style type="text/css">.rock-logo{display:flex;align-items:center;position:relative}.rock-logo__first{display:flex;align-items:center}.rock-logo__first>a,.rock-logo__secound>a{display:flex;align-items:center}.rock-logo__secound>a{font-size:28px;line-height:21px;font-weight:700;color:#677389!important}.rock-logo__divider{border-left:solid 1px #aab1bf;height:25px;margin:0 10px}</style>
+<div class="rock-logo">
+<div class="rock-logo__first">
+<a href="https://rockcontent.com/br/">
+<svg role="img" alt="Rock Content Logo" width="171" height="26" viewBox="0 0 171 26" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M38.4827 10.202V20.1085H35.3887V6.89134H38.3381V7.97064C39.59 6.86765 41.2178 6.56315 42.8694 6.56315V9.4035C41.2672 9.4035 39.4965 9.73169 38.4827 10.202Z" fill="#25292C" /><title>Rock Content</title>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M44.0991 14.3111C44.0991 18.4879 46.2236 20.4604 50.095 20.4604C53.9646 20.4604 56.0891 18.4879 56.0908 14.3111V12.6904C56.0908 8.53565 53.9663 6.56483 50.095 6.56483C46.2236 6.56483 44.0991 8.53565 44.0991 12.6904V14.3111ZM50.0949 9.21572C52.1242 9.21572 52.9984 10.1529 52.9984 12.6905V14.3111C52.9984 16.8453 52.1259 17.8078 50.0949 17.8078C48.064 17.8078 47.1914 16.8486 47.1914 14.3111V12.6905C47.1914 10.1546 48.0657 9.21572 50.0949 9.21572Z" fill="#25292C" />
+<path d="M64.0905 20.4604C60.2668 20.4604 58.4961 18.3001 58.4961 14.3331V12.6668C58.4961 8.6287 60.2668 6.56315 64.0905 6.56315C66.1198 6.56315 67.5843 6.86765 68.1966 7.05543V9.4035C66.5212 9.26309 65.3645 9.19204 64.6246 9.19204C62.6889 9.19204 61.6037 9.80274 61.6037 12.6668V14.3331C61.6037 17.1734 62.6889 17.8315 64.6246 17.8315C65.356 17.8315 66.5127 17.7605 68.1966 17.62V19.9664C66.855 20.3061 65.4749 20.4722 64.0905 20.4604Z" fill="#25292C" />
+<path d="M78.6524 20.1068L73.9561 13.8476V20.1068H70.8638V1.86871H73.9561V12.7835L78.6762 6.89134H82.2482L77.0944 13.2301L82.3809 20.1085L78.6524 20.1068Z" fill="#25292C" />
+<path d="M88.7541 20.4604C84.9304 20.4604 83.1597 18.3001 83.1597 14.3331V12.6668C83.1597 8.6287 84.9304 6.56315 88.7541 6.56315C90.7833 6.56315 92.2479 6.86765 92.8602 7.05543V9.4035C91.1848 9.26309 90.0281 9.19204 89.2882 9.19204C87.3525 9.19204 86.2673 9.80274 86.2673 12.6668V14.3331C86.2673 17.1734 87.3525 17.8315 89.2882 17.8315C90.0196 17.8315 91.1763 17.7605 92.8602 17.62V19.9664C91.5186 20.3061 90.1385 20.4722 88.7541 20.4604Z" fill="#25292C" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M94.6548 14.3111C94.6548 18.4879 96.7793 20.4604 100.649 20.4604C104.52 20.4604 106.643 18.4879 106.645 14.3111V12.6904C106.645 8.53565 104.519 6.56483 100.649 6.56483C96.7793 6.56483 94.6548 8.53565 94.6548 12.6904V14.3111ZM100.649 9.21572C102.68 9.21572 103.552 10.1529 103.552 12.6905V14.3111C103.552 16.8453 102.678 17.8078 100.649 17.8078C98.6196 17.8078 97.747 16.8486 97.747 14.3111V12.6905C97.747 10.1546 98.6179 9.21572 100.649 9.21572Z" fill="#25292C" />
+<path d="M118.019 20.1068V11.7279C118.019 9.82643 117.689 9.17006 116.148 9.17006C115.252 9.17006 114.072 9.49825 112.655 10.0616V20.1085H109.571V6.89135H112.544V7.94697C113.983 7.1248 115.424 6.56147 116.91 6.56147C120.664 6.56147 121.163 8.72007 121.163 11.7245V20.1052L118.019 20.1068Z" fill="#25292C" />
+<path d="M129.017 20.4604C126.398 20.4604 125.358 19.4268 125.358 16.6575V9.38318L122.882 9.17003V6.89132H125.36V3.535H128.476V6.89132H131.708V9.3798H128.476V16.6135C128.476 17.8349 128.57 18.0683 129.703 18.0683C130.383 18.0683 131.33 18.021 131.71 17.9753V20.0882C130.831 20.3198 129.927 20.4447 129.017 20.4604Z" fill="#25292C" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M136.359 14.7087V14.4735L145.26 14.4718V13.4382C145.26 9.4255 143.7 6.56147 139.264 6.56147C135.299 6.56147 133.268 8.72176 133.268 13.1591V13.9795C133.268 18.6283 134.967 20.4587 139.759 20.4587C141.42 20.4627 143.075 20.2737 144.692 19.8954V17.5727C142.945 17.7368 141.291 17.8772 139.9 17.8772C136.643 17.8772 136.359 16.6338 136.359 14.7087ZM139.262 9.05163C141.834 9.05163 142.142 10.7213 142.142 12.2439L142.14 12.4553H136.383V12.2439C136.383 10.7433 136.76 9.05163 139.262 9.05163Z" fill="#25292C" />
+<path d="M156.585 20.1068V11.7279C156.585 9.82643 156.255 9.17006 154.714 9.17006C153.818 9.17006 152.637 9.49825 151.22 10.0616V20.1085H148.135V6.89135H151.11V7.94697C152.549 7.1248 153.989 6.56147 155.476 6.56147C159.23 6.56147 159.728 8.72007 159.728 11.7245V20.1052L156.585 20.1068Z" fill="#25292C" />
+<path d="M167.583 20.4604C164.964 20.4604 163.925 19.4268 163.925 16.6575V9.38318L161.446 9.17003V6.89132H163.925V3.535H167.042V6.89132H170.274V9.3798H167.042V16.6135C167.042 17.8349 167.136 18.0683 168.269 18.0683C168.949 18.0683 169.897 18.021 170.276 17.9753V20.0882C169.397 20.3198 168.493 20.4447 167.583 20.4604Z" fill="#25292C" />
+<rect x="7.10425" y="11.7752" width="12.6835" height="2.68525" fill="#3576ED" />
+<path d="M19.7878 9.09167H7.10938V7.86955C7.10937 7.06121 7.75782 6.40566 8.55833 6.40471H18.3439C19.1444 6.40566 19.7928 7.06121 19.7928 7.86955L19.7878 9.09167Z" fill="#3576ED" />
+<path d="M19.7878 17.1594H7.10938V18.3798C7.10937 19.1881 7.75782 19.8437 8.55833 19.8446H18.3439C19.1444 19.8437 19.7928 19.1881 19.7928 18.3798L19.7878 17.1594Z" fill="#3576ED" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10.1444 0.396685H16.9271C23.6979 0.396685 27.0715 4.56215 27.0715 13.117C27.0715 21.6718 23.6979 25.8065 16.9271 25.8065H10.1444C3.37018 25.8065 0 21.6787 0 13.117C0 4.55531 3.37018 0.396685 10.1444 0.396685ZM16.4191 23.1418C16.4191 23.1418 13.3621 23.1298 16.4191 23.1298V23.123C23.6826 23.123 23.6826 18.7689 23.6826 13.159V13.1238V13.0887C23.6826 7.47862 23.6826 3.09391 16.4191 3.09391H10.6335C3.36994 3.09391 3.36999 7.47055 3.37006 13.0732L3.37006 13.1238V13.159C3.37002 18.769 3.37 23.1298 10.6335 23.1298C13.6905 23.1298 10.6335 23.1418 10.6335 23.1418H16.4191Z" fill="#3576ED" />
+</svg> </a>
+</div>
+<div class="rock-logo__divider"></div>
+<div class="rock-logo__secound">
+<a href="https://rockcontent.com/br/blog/">
+blog </a>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-23380cae elementor-widget__width-initial elementor-widget-tablet__width-initial elementor-widget-mobile__width-initial elementor-widget elementor-widget-rock-mega-menu" data-id="23380cae" data-element_type="widget" data-widget_type="rock-mega-menu.default">
+<div class="elementor-widget-container">
+<style type="text/css">.rock-menu__item-a {font-family:inter,Sans-serif;}</style>
+<div class="rock-menu-mobile" id="rock-menu-mobile">
+<svg onclick="RockOpenCloseMenu(this)" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M24 6h-24v-4h24v4zm0 4h-24v4h24v-4zm0 8h-24v4h24v-4z" /></svg>
+</div>
+<div class="rock-menu-container" id="rock-menu-container">
+<div class="rock-menu-mobile__close" id="rock-menu-mobile__close">
+<svg onclick="RockOpenCloseMenu(this)" id="rock-menu-mobile__icon-close" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 2c5.514 0 10 4.486 10 10s-4.486 10-10 10-10-4.486-10-10 4.486-10 10-10zm0-2c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm5 15.538l-3.592-3.548 3.546-3.587-1.416-1.403-3.545 3.589-3.588-3.543-1.405 1.405 3.593 3.552-3.547 3.592 1.405 1.405 3.555-3.596 3.591 3.55 1.403-1.416z" /></svg>
+</div>
+<nav id="rock-nav-menu-id" class="rock-nav-menu"><ul class="rock-nav-menu__items"><li id="menu-item-35765" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-35765"><a title="Categorias" class="rock-menu__item-a" href="#">Categorias <svg width="11" height="6" viewBox="0 0 11 6" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1.5 1L5.5 5L9.5 1" stroke="#171923" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /></svg></a><input type='checkbox' title='navigation item' class='rock-menu__item-checkbox'>
+<ul class="sub-menu rock-single-submenu">
+<li id="menu-item-36314" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-36314"><a title="Marketing" class="rock-menu__item-a" href="https://rockcontent.com/br/blog/categoria/marketing/">Marketing</a></li>
+<li id="menu-item-36315" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-36315"><a title="Experiência de Conteúdo" class="rock-menu__item-a" href="https://rockcontent.com/br/blog/categoria/experiencia-de-conteudo/">Experiência de Conteúdo</a></li>
+<li id="menu-item-36316" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-36316"><a title="Vendas" class="rock-menu__item-a" href="https://rockcontent.com/br/blog/categoria/vendas/">Vendas</a></li>
+<li id="menu-item-36318" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-36318"><a title="Gestão" class="rock-menu__item-a" href="https://rockcontent.com/br/blog/categoria/gestao/">Gestão</a></li>
+<li id="menu-item-36319" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-36319"><a title="Tech" class="rock-menu__item-a" href="https://rockcontent.com/br/blog/categoria/tech/">Tech</a></li>
+<li id="menu-item-36320" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-36320"><a title="Agências" class="rock-menu__item-a" href="https://rockcontent.com/br/blog/categoria/agencias/">Agências</a></li>
+<li id="menu-item-36321" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-36321"><a title="Notícias" class="rock-menu__item-a" href="https://rockcontent.com/br/blog/categoria/noticias/">Notícias</a></li>
+<li id="menu-item-36322" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-36322"><a title="Autor Convidado" class="rock-menu__item-a" href="https://rockcontent.com/br/blog/categoria/autor-convidado/">Autor Convidado</a></li>
+</ul>
+</li>
+<li id="menu-item-35764" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-35764"><a title="Conheça a Rock Content" class="rock-menu__item-a" href="https://rockcontent.com/br/sobre-nos/">Conheça a Rock Content <svg width="11" height="6" viewBox="0 0 11 6" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1.5 1L5.5 5L9.5 1" stroke="#171923" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /></svg></a><input type='checkbox' title='navigation item' class='rock-menu__item-checkbox'>
+<ul class="sub-menu rock-single-submenu">
+<li id="menu-item-44600" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44600"><a title="Produtos e Serviços" class="rock-menu__item-a" href="https://rockcontent.com/br/?utm_source=menuBlog&#038;utm_campaign=menuBlog">Produtos e Serviços</a></li>
+<li id="menu-item-44601" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44601"><a title="Sobre nós" class="rock-menu__item-a" href="https://rockcontent.com/br/sobre-nos/?utm_source=menuBlog&#038;utm_campaign=menuBlog">Sobre nós</a></li>
+<li id="menu-item-44602" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44602"><a title="Entre em contato" class="rock-menu__item-a" href="https://rockcontent.com/br/entre-em-contato/?utm_source=menuBlog&#038;utm_campaign=menuBlog">Entre em contato</a></li>
+</ul>
+</li>
+<li id="menu-item-44595" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-44595"><a title="Materiais gratuitos" class="rock-menu__item-a" href="#">Materiais gratuitos <svg width="11" height="6" viewBox="0 0 11 6" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1.5 1L5.5 5L9.5 1" stroke="#171923" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /></svg></a><input type='checkbox' title='navigation item' class='rock-menu__item-checkbox'>
+<ul class="sub-menu rock-single-submenu">
+<li id="menu-item-44596" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44596"><a title="Webinars e eventos" class="rock-menu__item-a" href="https://rockcontent.com/br/recurso/webinars-e-eventos/?utm_source=menuBlog&#038;utm_campaign=menuBlog">Webinars e eventos</a></li>
+<li id="menu-item-44597" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44597"><a title="Ebooks, Ferramentas &#038; mais" class="rock-menu__item-a" href="https://rockcontent.com/br/recursos/?utm_source=menuBlog&#038;utm_campaign=menuBlog">Ebooks, Ferramentas &#038; mais</a></li>
+<li id="menu-item-44598" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44598"><a title="Rock University" class="rock-menu__item-a" href="https://university.rockcontent.com/?utm_source=menuBlog&#038;utm_campaign=menuBlog">Rock University</a></li>
+<li id="menu-item-44599" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44599"><a title="O que é Experiência de Conteúdo?" class="rock-menu__item-a" href="https://rockcontent.com/br/experiencia-de-conteudo/?utm_source=menuBlog&#038;utm_campaign=menuBlog">O que é Experiência de Conteúdo?</a></li>
+</ul>
+</li>
+</ul></nav> <div class="rock-menu-container__footer" id="rock-menu-container__footer">
+<a class="rock-menu-container__btn" href="https://rockcontent.com/br/contato/">Contate nossos especialistas</a>
+<ul class="rock-menu-container__ul">
+<li><svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1.04889 8.11111H2.77778C3.24927 8.11111 3.70146 8.29841 4.03486 8.63181C4.36825 8.96521 4.55556 9.41739 4.55556 9.88889V10.7778C4.55556 11.2493 4.74286 11.7015 5.07625 12.0349C5.40965 12.3683 5.86184 12.5556 6.33333 12.5556C6.80483 12.5556 7.25701 12.7429 7.59041 13.0763C7.92381 13.4097 8.11111 13.8618 8.11111 14.3333V16.9511M5.44444 1.83111V3.22222C5.44444 3.81159 5.67857 4.37682 6.09532 4.79357C6.51207 5.21032 7.0773 5.44444 7.66667 5.44444H8.11111C8.58261 5.44444 9.03479 5.63175 9.36819 5.96514C9.70159 6.29854 9.88889 6.75073 9.88889 7.22222C9.88889 7.69372 10.0762 8.1459 10.4096 8.4793C10.743 8.8127 11.1952 9 11.6667 9C12.1382 9 12.5903 8.8127 12.9237 8.4793C13.2571 8.1459 13.4444 7.69372 13.4444 7.22222C13.4444 6.75073 13.6317 6.29854 13.9651 5.96514C14.2985 5.63175 14.7507 5.44444 15.2222 5.44444H16.168M11.6667 16.5449V14.3333C11.6667 13.8618 11.854 13.4097 12.1874 13.0763C12.5208 12.7429 12.9729 12.5556 13.4444 12.5556H16.168M17 9C17 10.0506 16.7931 11.0909 16.391 12.0615C15.989 13.0321 15.3997 13.914 14.6569 14.6569C13.914 15.3997 13.0321 15.989 12.0615 16.391C11.0909 16.7931 10.0506 17 9 17C7.94943 17 6.90914 16.7931 5.93853 16.391C4.96793 15.989 4.08601 15.3997 3.34315 14.6569C2.60028 13.914 2.011 13.0321 1.60896 12.0615C1.20693 11.0909 1 10.0506 1 9C1 6.87827 1.84285 4.84344 3.34315 3.34315C4.84344 1.84285 6.87827 1 9 1C11.1217 1 13.1566 1.84285 14.6569 3.34315C16.1571 4.84344 17 6.87827 17 9Z" stroke="#818488" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /></svg></li>
+<li><a class="rock-menu-container__lang" data-lang="EN" href="https://rockcontent.com/">English</a></li>
+<li><a class="rock-menu-container__lang" data-lang="BR" href="https://rockcontent.com/br/">Português</a></li>
+<li><a class="rock-menu-container__lang" data-lang="ES" href="https://rockcontent.com/es/">Español</a></li>
+</ul>
+</div>
+</div>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript">
+		if(window.addEventListener("load",function(e){if(window.innerWidth>=1024){let e=document.querySelectorAll(".sub-menu.rock-mega-menu");if(0!==e.length){let n=document.getElementById("rock-nav-menu-id").getBoundingClientRect().left;e.forEach(e=>{e.style.marginLeft="-"+n+"px"})}}}),window.innerWidth<=768)function RockOpenCloseMenu(e){let n=e.closest(".elementor-widget-container").querySelector(".rock-menu-container");document.querySelector("body").classList.toggle("rock-body-noscroll"),n.classList.toggle("rock-menu--active")}</script>
+</div>
+</div>
+<div class="elementor-element elementor-element-8d74782 elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-rock-custom-search" data-id="8d74782" data-element_type="widget" data-widget_type="rock-custom-search.default">
+<div class="elementor-widget-container">
+<style>#rock-custom-seach{display:flex;border:solid 1px #cbd2e0;border-radius:4px}#rock-custom-seach__button{padding:0 10px;display:flex;align-items:center;border:0;border-radius:0;background:#fff}#rock-custom-seach__input{border:0;outline:0;height:35px;padding:0 10px 0 10px;font-size:14px}input#rock-custom-seach__input::placeholder{font-size:14px}</style>
+<form action="https://rockcontent.com/br/" role="search" method="get">
+<div class="rock-custom-seach" id="rock-custom-seach">
+<input type="search" class="rock-custom-seach__input" id="rock-custom-seach__input" value="" name="s" title="" placeholder="Pesquise...">
+<input type="hidden" name="post_type" value="post">
+<button class="" id="rock-custom-seach__button"><svg role="img" alt="Rock Content blog search" width="18" height="18" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><title>Rock Content blog search icon</title><path d="M18.9062 18.9062C19.3723 18.4402 19.3723 17.6847 18.9063 17.2187L13.9338 12.2453C14.8711 10.9572 15.3753 9.40488 15.3738 7.81188C15.3738 3.64234 11.9814 0.25 7.81188 0.25C3.64234 0.25 0.25 3.64234 0.25 7.81188C0.25 11.9814 3.64234 15.3738 7.81188 15.3738C9.40488 15.3753 10.9572 14.8711 12.2453 13.9338L17.2187 18.9063C17.6847 19.3723 18.4402 19.3723 18.9062 18.9062ZM7.81188 12.9855C6.7885 12.9856 5.78809 12.6822 4.93714 12.1137C4.0862 11.5452 3.42296 10.7371 3.03129 9.79165C2.63961 8.8462 2.53711 7.80583 2.73674 6.80211C2.93637 5.7984 3.42916 4.87643 4.15279 4.15279C4.87643 3.42916 5.7984 2.93637 6.80211 2.73674C7.80583 2.53711 8.8462 2.63961 9.79165 3.03129C10.7371 3.42296 11.5452 4.0862 12.1137 4.93714C12.6822 5.78809 12.9856 6.7885 12.9855 7.81188C12.9839 9.1835 12.4383 10.4985 11.4684 11.4684C10.4985 12.4383 9.1835 12.9839 7.81188 12.9855Z" fill="#A0ABC0" /></svg></button>
+</div>
+</form>
+</div>
+</div>
+<div class="elementor-element elementor-element-394a03b8 elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-hidden-tablet elementor-hidden-phone elementor-widget elementor-widget-rock-lang-switcher" data-id="394a03b8" data-element_type="widget" data-widget_type="rock-lang-switcher.default">
+<div class="elementor-widget-container">
+<style type="text/css">.rock-lang-selector{display:flex;font-size:14px;color:#25292C;align-items:center;justify-content:center;padding:8px 0 8px 0}.rock-lang-selector a{color:#25292C!important}.rock-lang-selector a:hover{color:#225ED8!important}.rock-lang-selector__svg{position:relative;display:flex}.rock-lang-selector__checkbox{width:100%;position:absolute;height:100%;opacity:0;visibility:hidden;cursor:pointer}.rock-lang-selector__langs{position:absolute;opacity:0;display:none;cursor:pointer;top:100%;padding:10px 12px 5px 12px;background:#fff;border-radius:6px;border:1px solid #E2E7F0}.rock-lang-selector__langs-ul{list-style:none;padding:0;margin:0}.rock-lang-selector__langs-ul>li{margin:0 0 5px 0}.rock-lang-selector:hover .rock-lang-selector__langs{opacity:1;visibility:visible;display:block}.rock-lang-selector__selected{margin:0 0 0 3px}</style>
+<div class="rock-lang-selector">
+<div class="rock-lang-selector__svg">
+<svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M1.04889 8.11111H2.77778C3.24927 8.11111 3.70146 8.29841 4.03486 8.63181C4.36825 8.96521 4.55556 9.41739 4.55556 9.88889V10.7778C4.55556 11.2493 4.74286 11.7015 5.07625 12.0349C5.40965 12.3683 5.86184 12.5556 6.33333 12.5556C6.80483 12.5556 7.25701 12.7429 7.59041 13.0763C7.92381 13.4097 8.11111 13.8618 8.11111 14.3333V16.9511M5.44444 1.83111V3.22222C5.44444 3.81159 5.67857 4.37682 6.09532 4.79357C6.51207 5.21032 7.0773 5.44444 7.66667 5.44444H8.11111C8.58261 5.44444 9.03479 5.63175 9.36819 5.96514C9.70159 6.29854 9.88889 6.75073 9.88889 7.22222C9.88889 7.69372 10.0762 8.1459 10.4096 8.4793C10.743 8.8127 11.1952 9 11.6667 9C12.1382 9 12.5903 8.8127 12.9237 8.4793C13.2571 8.1459 13.4444 7.69372 13.4444 7.22222C13.4444 6.75073 13.6317 6.29854 13.9651 5.96514C14.2985 5.63175 14.7507 5.44444 15.2222 5.44444H16.168M11.6667 16.5449V14.3333C11.6667 13.8618 11.854 13.4097 12.1874 13.0763C12.5208 12.7429 12.9729 12.5556 13.4444 12.5556H16.168M17 9C17 10.0506 16.7931 11.0909 16.391 12.0615C15.989 13.0321 15.3997 13.914 14.6569 14.6569C13.914 15.3997 13.0321 15.989 12.0615 16.391C11.0909 16.7931 10.0506 17 9 17C7.94943 17 6.90914 16.7931 5.93853 16.391C4.96793 15.989 4.08601 15.3997 3.34315 14.6569C2.60028 13.914 2.011 13.0321 1.60896 12.0615C1.20693 11.0909 1 10.0506 1 9C1 6.87827 1.84285 4.84344 3.34315 3.34315C4.84344 1.84285 6.87827 1 9 1C11.1217 1 13.1566 1.84285 14.6569 3.34315C16.1571 4.84344 17 6.87827 17 9Z" stroke="#818488" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
+</div><div class="rock-lang-selector__selected">BR</div><div class="rock-lang-selector__langs"><ul class="rock-lang-selector__langs-ul"><li><a class="rock-lang-selector__item" data-lang="EN" href="https://rockcontent.com/">English</a></li><li><a class="rock-lang-selector__item" data-lang="BR" href="https://rockcontent.com/br/blog/marketing-da-nostalgia/">Português</a></li><li><a class="rock-lang-selector__item" data-lang="ES" href="https://rockcontent.com/">Español</a></li></ul></div> </div>
+</div>
+</div>
+<div class="elementor-element elementor-element-9e436c9 elementor-widget__width-initial elementor-hidden-tablet elementor-hidden-mobile elementor-align-justify elementor-widget elementor-widget-button" data-id="9e436c9" data-element_type="widget" id="rock-new-btn" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a href="https://materiais.rockcontent.com/diagnostico-marketing-gratuito?utm_source=rockcontent-blog&#038;utm_medium=header-button&#038;utm_campaign=test-003" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-text">Fale com consultor</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+</div>
+<div data-elementor-type="single-post" data-elementor-id="34714" class="elementor elementor-34714 elementor-location-single post-651 post type-post status-publish format-standard has-post-thumbnail hentry category-marketing">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-3ca14a73 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3ca14a73" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2a20ad68" data-id="2a20ad68" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-6a7c53d5 elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-heading" data-id="6a7c53d5" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<style>/*! elementor - v3.7.8 - 02-10-2022 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h1 class="elementor-heading-title elementor-size-default">Marketing da nostalgia, por que ele é tão eficaz?</h1> </div>
+</div>
+<div class="elementor-element elementor-element-50566359 elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-heading" data-id="50566359" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<p class="elementor-heading-title elementor-size-default">Separamos aqui tudo o que você precisa saber sobre o Marketing da Nostalgia para poder implementar na sua estratégia de Marketing Digital!</p> </div>
+</div>
+<div class="elementor-element elementor-element-b86b046 elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-rock-post-meta" data-id="b86b046" data-element_type="widget" data-widget_type="rock-post-meta.default">
+<div class="elementor-widget-container">
+<div class="rock-grid__blog-meta">
+<div class="rock-grid__blog-author author--inline">
+<a href="https://rockcontent.com/br/blog/author/ana/" rel="author">
+<span class="rock-grid__blog-author-name">Ana Rennó</span>
+</a>
+<p class="rock-grid__blog-author-bio">
+</p>
+</div>
+<div class="rock-grid__blog-date">
+<time datetime="2018-09-27">27 set, 18</time>
+|
+Leitura: 7min </div>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-90d7fc8 elementor-widget elementor-widget-image" data-id="90d7fc8" data-element_type="widget" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<style>/*! elementor - v3.7.8 - 02-10-2022 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style> <img width="800" height="420" src="https://rockcontent.com/br/wp-content/uploads/sites/2/2016/09/marketing-de-nostalgia-1024x538.png" class="rock-hero-img attachment-large size-large" alt="Marketing de nostalgia" srcset="https://rockcontent.com/br/wp-content/uploads/sites/2/2016/09/marketing-de-nostalgia-1024x538.png 1024w, https://rockcontent.com/br/wp-content/uploads/sites/2/2016/09/marketing-de-nostalgia-300x158.png 300w, https://rockcontent.com/br/wp-content/uploads/sites/2/2016/09/marketing-de-nostalgia-768x403.png 768w, https://rockcontent.com/br/wp-content/uploads/sites/2/2016/09/marketing-de-nostalgia.png 1200w" sizes="(max-width: 800px) 100vw, 800px" /> </div>
+</div>
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-2a5256ad rock-post-content elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2a5256ad" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-4d78d2c7 elementor-hidden-tablet elementor-hidden-phone" data-id="4d78d2c7" data-element_type="column">
+<div class="elementor-widget-wrap">
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-59e66ad8" data-id="59e66ad8" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-4d14d151 elementor-widget elementor-widget-theme-post-content" data-id="4d14d151" data-element_type="widget" data-widget_type="theme-post-content.default">
+<div class="elementor-widget-container">
+<div class="rock-convert-banner"><a href="https://materiais.rockcontent.com/jam-session-tahiana-degmont?utm_medium=social&utm_source=blog-rockcontent&utm_campaign=rockconvert&blogconversionurl=https://rockcontent.com/br/blog/cta/br-jam-session-com-hugo-vasconcelos/&blogconversionpath=RockConvert&blogconversiondate=11/29/2022" target="_blank" class="rock-convert-cta-link" data-cta-id="63696" data-cta-title="[BR] Jam Session com Tahiana D&#8217;Egmont"><picture class="attachment-full size-full" title="[BR] Jam Session com Tahiana D&#8217;Egmont">
+<source type="image/webp" data-lazy-srcset="https://rockcontent.com/br/wp-content/uploads/sites/2/2022/10/Banner-de-blog-Rock-Convert-2.png.webp 2000w, https://rockcontent.com/br/wp-content/uploads/sites/2/2022/10/Banner-de-blog-Rock-Convert-2-300x80.png.webp 300w, https://rockcontent.com/br/wp-content/uploads/sites/2/2022/10/Banner-de-blog-Rock-Convert-2-1024x273.png.webp 1024w, https://rockcontent.com/br/wp-content/uploads/sites/2/2022/10/Banner-de-blog-Rock-Convert-2-768x205.png.webp 768w, https://rockcontent.com/br/wp-content/uploads/sites/2/2022/10/Banner-de-blog-Rock-Convert-2-1536x409.png.webp 1536w, https://rockcontent.com/br/wp-content/uploads/sites/2/2022/10/Banner-de-blog-Rock-Convert-2-150x40.png.webp 150w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%202000%20533&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 2000px) 100vw, 2000px" />
+<img width="2000" height="533" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%202000%20533&#039;%3E%3C/svg%3E" alt="" data-lazy-srcset="https://rockcontent.com/br/wp-content/uploads/sites/2/2022/10/Banner-de-blog-Rock-Convert-2.png 2000w, https://rockcontent.com/br/wp-content/uploads/sites/2/2022/10/Banner-de-blog-Rock-Convert-2-300x80.png 300w, https://rockcontent.com/br/wp-content/uploads/sites/2/2022/10/Banner-de-blog-Rock-Convert-2-1024x273.png 1024w, https://rockcontent.com/br/wp-content/uploads/sites/2/2022/10/Banner-de-blog-Rock-Convert-2-768x205.png 768w, https://rockcontent.com/br/wp-content/uploads/sites/2/2022/10/Banner-de-blog-Rock-Convert-2-1536x409.png 1536w, https://rockcontent.com/br/wp-content/uploads/sites/2/2022/10/Banner-de-blog-Rock-Convert-2-150x40.png 150w" data-lazy-sizes="(max-width: 2000px) 100vw, 2000px" data-lazy-src="https://rockcontent.com/br/wp-content/uploads/sites/2/2022/10/Banner-de-blog-Rock-Convert-2.png" />
+</picture>
+<noscript><picture class="attachment-full size-full" title="[BR] Jam Session com Tahiana D&#8217;Egmont">
+<source type="image/webp" srcset="https://rockcontent.com/br/wp-content/uploads/sites/2/2022/10/Banner-de-blog-Rock-Convert-2.png.webp 2000w, https://rockcontent.com/br/wp-content/uploads/sites/2/2022/10/Banner-de-blog-Rock-Convert-2-300x80.png.webp 300w, https://rockcontent.com/br/wp-content/uploads/sites/2/2022/10/Banner-de-blog-Rock-Convert-2-1024x273.png.webp 1024w, https://rockcontent.com/br/wp-content/uploads/sites/2/2022/10/Banner-de-blog-Rock-Convert-2-768x205.png.webp 768w, https://rockcontent.com/br/wp-content/uploads/sites/2/2022/10/Banner-de-blog-Rock-Convert-2-1536x409.png.webp 1536w, https://rockcontent.com/br/wp-content/uploads/sites/2/2022/10/Banner-de-blog-Rock-Convert-2-150x40.png.webp 150w" sizes="(max-width: 2000px) 100vw, 2000px"/>
+<img width="2000" height="533" src="https://rockcontent.com/br/wp-content/uploads/sites/2/2022/10/Banner-de-blog-Rock-Convert-2.png" alt="" srcset="https://rockcontent.com/br/wp-content/uploads/sites/2/2022/10/Banner-de-blog-Rock-Convert-2.png 2000w, https://rockcontent.com/br/wp-content/uploads/sites/2/2022/10/Banner-de-blog-Rock-Convert-2-300x80.png 300w, https://rockcontent.com/br/wp-content/uploads/sites/2/2022/10/Banner-de-blog-Rock-Convert-2-1024x273.png 1024w, https://rockcontent.com/br/wp-content/uploads/sites/2/2022/10/Banner-de-blog-Rock-Convert-2-768x205.png 768w, https://rockcontent.com/br/wp-content/uploads/sites/2/2022/10/Banner-de-blog-Rock-Convert-2-1536x409.png 1536w, https://rockcontent.com/br/wp-content/uploads/sites/2/2022/10/Banner-de-blog-Rock-Convert-2-150x40.png 150w" sizes="(max-width: 2000px) 100vw, 2000px"/>
+</picture>
+</noscript></a></div>
+<p>Sabe aquela coisa que você sente quando chega na casa dos seus pais e sente o cheiro da comida da sua mãe?</p>
+<p>Ou quando você liga a TV e está passando aquele desenho animado que você assistia quando era pequeno?</p>
+<p>E quando abre sua gaveta de coisas antigas e dá de cara com um tamagoshi? E talvez aquela música que era &#8220;A&#8221; música de um relacionamento passado?</p>
+<p><strong>Tudo isso nos trás a famosa nostalgia</strong>. Aquele&nbsp;sentimento bom que carregamos nas memórias da nossa vida.</p>
+<p>E a nostalgia vende e atrai consumidores. Você dúvida?</p>
+<p>O que Stranger Things, Pokémon Go e a peça do Harry Potter tem em comum? Isso mesmo, o <a href="https://rockcontent.com/br/blog/o-que-e-marketing/" target="_blank" rel="noopener noreferrer">marketing</a> da nostalgia.</p>
+<p>Todos despertam em nós aquela saudadezinha dos velhos tempos e aquele frenesi e vontade em viver aquilo de novo, mesmo que por pouco tempo.</p>
+<p>Mas esse tipo de marketing é realmente efetivo? Como criar conteúdos nostálgicos?&nbsp;E como aplicá-los na sua estratégia?</p>
+<p>Vou te mostrar &nbsp;tudo isso aqui! Vamos la?</p>
+<h2>O que é o Marketing de Nostalgia?</h2>
+<div class="wp-block-image"><figure class="aligncenter"><img width="1000" height="1000" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%201000'%3E%3C/svg%3E" alt="maketing da nostalgia" class="wp-image-6847" data-lazy-src="https://rockcontent.com/br/wp-content/uploads/sites/2/2016/09/maketing-da-nostalgia.jpg" /><noscript><img width="1000" height="1000" src="https://rockcontent.com/br/wp-content/uploads/sites/2/2016/09/maketing-da-nostalgia.jpg" alt="maketing da nostalgia" class="wp-image-6847" /></noscript></figure></div>
+<p>Itubaína, Lollo, biscoitos Mirabel e aquele brinquedo Genius da estrela&nbsp;(se você não lembra, é esse da foto acima!)</p>
+<p>Além de fazerem parte do passado de muitas pessoas, todas essas coisas citadas já foram ou estão sendo relançadas.</p>
+<p>Mas uma pausa.</p>
+<p>Elas não estão sendo relançadas com <a href="https://rockcontent.com/br/blog/design-grafico/" target="_blank" rel="noopener noreferrer">designs atuais</a> ou nada do tipo, as empresas responsáveis estão fazendo uso do design vintage/ retrô em seus lançamentos.</p>
+<p>Mas por que?</p>
+<p>Por que vende. Como eu disse na introdução a nostalgia vende.</p>
+<p>E é isso que o marketing da nostalgia é, usar temas e produtos do passado na sua estratégia atual <strong>para despertar nos seus consumidores aquela vontade de matar a saudade comprando seus produtos.</strong></p>
+<p>Os profissionais de marketing de plantão já perceberam que a nostalgia ultrapassa a hashtag #throwbackthursday nas redes sociais para algo muito maior, atraindo muito mais&nbsp;atenção e consumidores.</p>
+<h2>Por que o Marketing de Nostalgia é tão poderoso assim?</h2>
+<p>De acordo com<a href="https://www.nytimes.com/2013/07/09/science/what-is-nostalgia-good-for-quite-a-bit-research-shows.html?pagewanted=1&amp;_r=4&amp;adxnnlx=1400185234-Exc8QHOW/zIwYtuN3zLDfw" target="_blank" rel="noopener noreferrer"> Dr. Constantine Sedikides da Universidade de Southampton</a>, que liderou uma equipe de pesquisadores, eles descobriram que a nostalgia consegue atacar a solidão e a ansiedade.</p>
+<p>E foi descoberto que esse sentimento é normalmente usado pelo corpo para reagir em momentos estressantes e de grandes transições.</p>
+<p>Além disso, os pesquisadores descobriram que as pessoas normalmente sentem nostalgia pelo menos uma vez por semana!</p>
+<p>Incrível, não?</p>
+<p>Para <a href="https://rockcontent.com/br/blog/marketing-digital/" target="_blank" rel="noopener noreferrer">o marketing</a>, <strong>a nostalgia cria um laço emocional da marca com seus consumidores</strong>, por isso se torna tão poderoso.</p>
+<p>Por ser um sentimento que combate sentimentos ruins, como solidão e stress, os consumidores que se deparam com o marketing de nostalgia normalmente <strong>associam a marca a algo bom e tendem a serem fiéis a ela!</strong></p>
+<h2>Millenials e o marketing de nostalgia</h2>
+<p>Millenials são a geração do significado.</p>
+<p>Isso quer dizer que não procuram marcas que vendem produtos de forma desconexa de seus consumidores.</p>
+<p>Não procuram marcas que não apoiem alguma coisa social ou que estejam distantes do meio ambiente.</p>
+<p>É&nbsp;a geração que tende a<strong> se conectar emocionalmente com os produtos e serviços</strong> que usa de uma forma intima, como se criassem um relacionamento.</p>
+<p>E o marketing de nostalgia responde justamente neste quesito a essa geração.</p>
+<p>A criação do Pokemon Go, por exemplo, foi uma incrível sacada.</p>
+<p>Aliando o sentimento de<strong> familiaridade e nostalgia com o mundo moderno</strong>, como os smartphones.</p>
+<div class="wp-block-image"><figure class="aligncenter"><img width="777" height="437" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20777%20437'%3E%3C/svg%3E" alt="maketing da nostalgia" class="wp-image-6850" data-lazy-src="https://rockcontent.com/br/wp-content/uploads/sites/2/2016/09/maketing-da-nostalgia-1.jpg" /><noscript><img width="777" height="437" src="https://rockcontent.com/br/wp-content/uploads/sites/2/2016/09/maketing-da-nostalgia-1.jpg" alt="maketing da nostalgia" class="wp-image-6850" /></noscript></figure></div>
+<p>Outra incrível sacada atual é a série&nbsp;Stranger Things, que conseguiu aliar o encanto da década de 80 ( com inúmeras referências à época) &nbsp;com uma trama de Sci-Fi que faz qualquer um virar a noite assistindo.</p>
+<div class="wp-block-image"><figure class="aligncenter"><img width="574" height="328" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20574%20328'%3E%3C/svg%3E" alt="maketing da nostalgia" class="wp-image-6851" data-lazy-src="https://rockcontent.com/br/wp-content/uploads/sites/2/2016/09/maketing-da-nostalgia-2.jpg" /><noscript><img width="574" height="328" src="https://rockcontent.com/br/wp-content/uploads/sites/2/2016/09/maketing-da-nostalgia-2.jpg" alt="maketing da nostalgia" class="wp-image-6851" /></noscript></figure></div>
+<h2>Conteúdo Nostálgico</h2>
+<p>Se você trabalha com <a href="https://rockcontent.com/br/blog/marketing-de-conteudo/" target="_blank" rel="noopener noreferrer">marketing de conteúdo</a> apostar na nostalgia pode ser uma maneira de conseguir mais visitantes.</p>
+<p>Criar conteúdos engraçados e que criem uma conexão com o leitor revivendo coisas do passado é uma alternativa.</p>
+<p>Você pode fazer isso através de <a href="https://rockcontent.com/br/blog/como-criar-um-blog/" target="_blank" rel="noopener noreferrer">blog posts</a>, quizzes e até vídeos.</p>
+<p>O importante é que você relacione a nostalgia da sua persona com o tipo de conteúdo que você oferece.</p>
+<p>O <a href="https://www.buzzfeed.com/" target="_blank" rel="noopener noreferrer">Buzzfeed</a> é rei quando o assunto é criar conteúdos nostálgicos.</p>
+<p>Um bom exemplo de conteúdo que eles já criaram e que é exemplifica bem a criação de conteúdo nostálgico é&nbsp;<a href="https://www.buzzfeed.com/irangiusti/20-situacoes-que-so-quem-e-de-belo-horizonte-vai-entender?utm_term=.ylM7BgBDm#.fwkdkXk59" target="_blank" rel="noopener noreferrer" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.buzzfeed.com/irangiusti/20-situacoes-que-so-quem-e-de-belo-horizonte-vai-entender?utm_term%3D.ylM7BgBDm%23.fwkdkXk59&amp;source=gmail&amp;ust=1475080564581000&amp;usg=AFQjCNFiYV3yLhxTr-AMiT-Iaj0AKE3rew">28 situações que só quem é de Belo Horizonte vai&nbsp;entender</a>.</p>
+<p>Um exemplo de conteúdo parecido com esse do Buzzfeed Brasil mas que foi criado por uma marca e postado no Buzzfeed americano é&nbsp;<a href="https://www.buzzfeed.com/mccaindeepndelicious/things-that-will-forever-remind-you-of-your-canadian-childho?utm_term=.dfMOaXaQG#.pjy1MvM2J" target="_blank" rel="noopener noreferrer" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.buzzfeed.com/mccaindeepndelicious/things-that-will-forever-remind-you-of-your-canadian-childho?utm_term%3D.dfMOaXaQG%23.pjy1MvM2J&amp;source=gmail&amp;ust=1475080564581000&amp;usg=AFQjCNEHmPjZeXpgdvyZp7EaKe3-oRUvFQ">14 Things Everyone Who Grew Up In Canada Will&nbsp;Remember</a>, (14 coisas que qualquer pessoa que cresceu no Cánada vai lembrar).</p>
+<p>Foi uma incrível sacada de marketing pois a empresa que fez o post, a McCain Cakes, faz parte da tradição do Canadá e se encaixa perfeitamente no contexto do post!</p>
+<p>Nós aqui da Rock por exemplo, apostamos em conteúdos que misturam a nostalgia com Marketing Digital para alcançar nossa persona de uma forma divertida.</p>
+<p>Dois exemplos de conteúdos nossos que você pode conferir são:</p>
+<ul><li>
+<p id="blog_ttl"><a href="https://rockcontent.com/br/blog/star-wars/" target="_blank" rel="noopener noreferrer">Star Wars, a Força e o Marketing de Conteúdo</a></p>
+</li><li>
+<p id="blog_ttl"><a href="https://rockcontent.com/br/blog/funil-de-vendas-e-street-fighter/" target="_blank" rel="noopener noreferrer">Um artigo em defesa do funil de vendas, ou como se jogar uma partida de Street Fighter</a></p>
+</li></ul>
+<p>São conteúdos que associam os interesses&nbsp;atuais da nossa persona com interesses do passado e que causam nostalgia, saudade.</p>
+<h2>Nostalgia nas redes sociais</h2>
+<p>Nostalgia é incrível para gerar engajamento nas<a href="https://rockcontent.com/br/blog/redes-sociais-mais-usadas-no-brasil/" target="_blank" rel="noopener noreferrer"> redes sociais.</a></p>
+<p>Mas como fazer?</p>
+<p>Uma ideia que você pode fazer para gerar engajamento com os seus visitantes é recriar imagens com fundos e fontes com cartazes de filmes antigos mas com o nome da sua empresa.</p>
+<div class="wp-block-image"><figure class="aligncenter"><img width="1024" height="538" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20538'%3E%3C/svg%3E" alt="maketing da nostalgia" class="wp-image-6853" data-lazy-src="https://rockcontent.com/br/wp-content/uploads/sites/2/2016/09/rock-content-1024x538.png" /><noscript><img width="1024" height="538" src="https://rockcontent.com/br/wp-content/uploads/sites/2/2016/09/rock-content-1024x538.png" alt="maketing da nostalgia" class="wp-image-6853" /></noscript></figure></div>
+<p>Ou recriar um vídeo engraçado que foi hit no passado e colocar seu time como os protagonistas.</p>
+<p>Podem parecer ideias bobas, eu sei, mas acredite,<strong> geram engajamento e diversão!</strong></p>
+<p>Outra boa solução para usar a nostalgia como estratégia nas suas redes sociais é repostar aqueles posts que tiveram uma boa performance, e quem sabe até <a href="https://rockcontent.com/br/blog/anuncios-no-facebook/" target="_blank" rel="noopener noreferrer">dar uma promovida nele?</a></p>
+<p>E se você precisa de exemplos dos velhos tempos para poder montar uma campanha nostalgica você pode acessar o<a href="https://www.instagram.com/velhostempos/?hl=pt-br" target="_blank" rel="noopener noreferrer" data-saferedirecturl="https://www.google.com/url?hl=pt-BR&amp;q=https://www.instagram.com/velhostempos/?hl%3Dpt-br&amp;source=gmail&amp;ust=1475080564581000&amp;usg=AFQjCNFkKD91BQBPVVI6u3G5V95f-fqLzg">&nbsp;Instagram Velhos Tempo</a>, lá tem bastante coisa legal do passado!</p>
+<div class="wp-block-image"><figure class="aligncenter"><img width="1024" height="470" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20470'%3E%3C/svg%3E" alt="maketing da nostalgia" class="wp-image-6854" data-lazy-src="https://rockcontent.com/br/wp-content/uploads/sites/2/2016/09/maketing-da-nostalgia-1024x470.png" /><noscript><img width="1024" height="470" src="https://rockcontent.com/br/wp-content/uploads/sites/2/2016/09/maketing-da-nostalgia-1024x470.png" alt="maketing da nostalgia" class="wp-image-6854" /></noscript></figure></div>
+<p>Ahhh, estava quase me esquecendo! Sabe quem já usou da estratégia da nostalgia nas redes sociais? O Netflix!</p>
+<p>Sim, e eles, obviamente, arrasaram! (e tem como não arrasar?)</p>
+<p>Olha só o vídeo que eles fizeram com a Xuxa para divulgar Stranger Things! Nostalgia pura!</p>
+<p><div class="rll-youtube-player" data-src="https://www.youtube.com/embed/2t-AIbErqts" data-id="2t-AIbErqts" data-query="feature=oembed"></div><noscript><iframe title="Stranger Things - Xuxa e o baixinho que sumiu" width="800" height="450" src="https://www.youtube.com/embed/2t-AIbErqts?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></noscript></p>
+<p>Aproveita a essa deixa incrível desse vídeo e vem descobrir que é você no marketing<a href="https://rockcontent.com/br/blog/quiz-stranger-things/" target="_blank" rel="noopener noreferrer"> nesse quiz de Stranger Things!!&nbsp;</a></p>
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://rockcontent.com/br/blog/quiz-stranger-things/" target="_blank" rel="noopener noreferrer"><img width="1024" height="538" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20538'%3E%3C/svg%3E" alt="Stranger Things - Stranger marketing" class="wp-image-6609" data-lazy-src="https://rockcontent.com/br/wp-content/uploads/sites/2/2016/09/stranger-marketing-1024x538.png" /><noscript><img width="1024" height="538" src="https://rockcontent.com/br/wp-content/uploads/sites/2/2016/09/stranger-marketing-1024x538.png" alt="Stranger Things - Stranger marketing" class="wp-image-6609" /></noscript></a></figure></div>
+<h2>O que fazer e o que não fazer na sua estratégia de nostalgia</h2>
+<p>Bem, por mais que seja muito divertido criar campanhas de teor nostálgico<strong> é muito importante fazer isso da forma certa.</strong></p>
+<p>O maior benefício que o marketing de nostalgia traz é a possibilidade de se conectar com o leitor e criar uma relação mais forte emocionalmente.</p>
+<p>E assim como existem memórias boas também existem as memórias ruins, <strong>e você não quer despertar elas.</strong></p>
+<p>Então, tenha certeza que você que sua campanha não está trazendo nenhuma memória ruim para não boicotar toda a campanha.</p>
+<p>Outro ponto muito importante é:<strong> não faça nada ilegal.</strong></p>
+<p>O uso de imagens que não são suas, ou alguma ação na internet que venha a ferir terceiros deve ser vetada da sua campanha.</p>
+<p>Separamos mais algumas coisas que você deve e não deve fazer abaixo.</p>
+<p>Vamos lá!</p>
+<h3>O que fazer na sua estratégia de marketing de nostalgia:</h3>
+<p>Vamos a nossa lista de coisas que você deve fazer!</p>
+<h4>Boas fontes</h4>
+<p>Primeiramente use fontes confiáveis.</p>
+<p>Se você vai escrever um post sobre os melhores brinquedos dos anos 70 não faz sentido colocar alguém que nasceu nos anos 90 para escrever,certo?</p>
+<p><a href="https://rockcontent.com/br/blog/tipos-de-post/" target="_blank" rel="noopener noreferrer">Seu post </a>ficará muito mais real se você utilizar fontes que passaram por aquilo que você quer postar.</p>
+<h4>Datas especiais</h4>
+<p>Datas especiais são ótimas para gerar conteúdos nostálgicos.</p>
+<p>Por exemplo, no dias das crianças, <strong>você pode colocar uma foto dos membros da sua equipe</strong> quando eram novinhos.</p>
+<p>Olha que massa!</p>
+<h4>Foco na persona</h4>
+<p>Considera a idade <a href="https://rockcontent.com/br/blog/persona-ou-seo/" target="_blank" rel="noopener noreferrer">da sua persona</a>. Para cada estágio da vida os momentos nostálgicos são diferentes.</p>
+<p>Então avalie a idade da sua persona para saber <strong>qual memórias ressuscitar na hora de criar sua campanha.</strong></p>
+<h3>O que não fazer na sua estratégia de marketing de nostalgia</h3>
+<p>Agora vamos às coisas que você NÃO deve fazer de jeito nenhum!</p>
+<h4>Forçar a barra</h4>
+<p>Não force a barra. Só porque uma coisa é tendência não vale a pena você empurrar pra cima dos seu leitores.</p>
+<p>Avalie sua persona e não crie um conteúdo nostálgico só porque está na moda.</p>
+<h4>Copiar o coleguinha</h4>
+<p>Não copie outras empresas!</p>
+<p>Nunca, NUNCA, copie o que as outras empresas estão fazendo. Você pode se inspirar mas fazer a copycat não!</p>
+<p>Seja original!</p>
+<h4>Dar uma bola fora</h4>
+<p>Pesquise antes de criar uma campanha.</p>
+<p>Como os tempos mudaram, pode ser que o que já foi bom hoje pode ser considerado péssimo.</p>
+<p>Lembre-se você não quer despertar uma sentimento ruim!</p>
+<p>Para<a href="https://rockcontent.com/br/blog/qualificar-equipes-de-marketing/" target="_blank" rel="noopener noreferrer"> profissionais de Marketing</a> a nostalgia pode ser uma ferramenta incrível na hora de criar campanhas que possam gerar um alto engajamento.</p>
+<p>Mas lembre-se, marketing de nostalgia<strong> é sobre despertar aqueles sentimento bom nos leitores</strong>, então não force a barra e não pise na bola!</p>
+<p>Quer aprender um pouco mais sobre<a href="https://rockcontent.com/br/blog/marketing-digital/" target="_blank" rel="noopener noreferrer"> Marketing Digital</a>? Por que não baixar <a href="https://materiais.rockcontent.com/marketing-digital" target="_blank" rel="noopener noreferrer">nosso ebook sobre Marketing Digital</a> e começar a dar um up na sua estratégia?</p>
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://materiais.rockcontent.com/marketing-digital" target="_blank" rel="noopener noreferrer"><img width="631" height="300" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20631%20300'%3E%3C/svg%3E" alt="ebook-marketing-digital-baixe-agora" class="wp-image-4422" data-lazy-src="https://rockcontent.com/br/wp-content/uploads/sites/2/2014/12/ebook-marketing-digital-baixe-agora.png" /><noscript><img width="631" height="300" src="https://rockcontent.com/br/wp-content/uploads/sites/2/2014/12/ebook-marketing-digital-baixe-agora.png" alt="ebook-marketing-digital-baixe-agora" class="wp-image-4422" /></noscript></a></figure></div>
+<p>Ah, e <strong>não se esqueça de deixar nos comentários aquelas campanhas que mais te fizeram sentir saudade</strong> de alguém ou alguma coisa!</p>
+<p>Até a próxima!</p>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-5ac99367" data-id="5ac99367" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-5da71357 elementor-widget elementor-widget-rock-share-posts" data-id="5da71357" data-element_type="widget" data-widget_type="rock-share-posts.default">
+<div class="elementor-widget-container">
+<style id="rock-share-post-widget">.rock-share-post{display:flex;flex-direction:column;align-items:center;color:#a0abc0}.rock-share-post__text{font-size:14px;margin:0 0 8px 0}.rock-share-post__icon{padding:8px;background:#edf1f7;border-radius:12px;margin:0 0 8px 0;display:flex;justify-content:center;width:36px;height:36px;align-items:center;cursor:pointer}.rock-share-post__icon:hover{background:#e5e9f0}.rock-share-post__icon-link{margin:auto}@media only screen and (max-width:768px){.rock-share-post{flex-direction:row;justify-content:space-evenly;}}</style>
+<div class="rock-share-post" id="rock-share-post">
+<div class="rock-share-post__text" id="rock-share-post__text">
+Compartilhe </div>
+<div class="rock-share-post__icon">
+<a class="rock-share-post__icon-link" href="https://www.facebook.com/sharer/sharer.php?u=https://rockcontent.com/br/blog/marketing-da-nostalgia/" target="_blank" rel="noreferrer noopener" aria-label="Share on Facebook">
+<svg width="18" height="18" role="img" alt="facebook-icon" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg"><title>facebook</title>
+<path d="M18 9.05502C18 4.05407 13.9706 0 9 0C4.02944 0 0 4.05407 0 9.05502C0 13.5746 3.29117 17.3207 7.59375 18V11.6725H5.30859V9.05502H7.59375V7.06009C7.59375 4.79067 8.9374 3.53712 10.9932 3.53712C11.9779 3.53712 13.0078 3.71397 13.0078 3.71397V5.94236H11.8729C10.7549 5.94236 10.4062 6.64035 10.4062 7.35645V9.05502H12.9023L12.5033 11.6725H10.4062V18C14.7088 17.3207 18 13.5746 18 9.05502Z" fill="#677389" />
+</svg> </a>
+</div>
+<div class="rock-share-post__icon">
+<a class="rock-share-post__icon-link" href="https://www.linkedin.com/shareArticle?mini=true&url=https://rockcontent.com/br/blog/marketing-da-nostalgia/&title=&summary=&source=" target="_blank" rel="noreferrer noopener" aria-label="Share on Linkedin">
+<svg width="16" height="16" role="img" alt="linkedin-icon" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><title>linkedin</title>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M14.8186 0H1.18221C0.52924 0 0 0.513087 0 1.14636V14.8532C0 15.4865 0.529426 16 1.18221 16H14.8186C15.4714 16 16.0001 15.4861 16.0001 14.8532V1.14636C16.0001 0.513273 15.4714 0 14.8186 0ZM4.85071 13.3931H2.43322V6.16929H4.85071V13.3931ZM3.62593 5.18239H3.64219C4.48447 5.18239 5.00894 4.62812 5.00894 3.93387C4.99287 3.22564 4.48428 2.6864 3.65744 2.6864C2.83068 2.6864 2.28972 3.22579 2.28972 3.93387C2.28972 4.62797 2.81524 5.18239 3.62593 5.18239ZM13.5651 13.3931H11.1484V9.5281C11.1484 8.55694 10.7982 7.89427 9.92425 7.89427C9.25566 7.89427 8.85878 8.34133 8.6845 8.77295C8.61992 8.92711 8.60393 9.14271 8.60393 9.35802V13.3929H6.18766C6.18766 13.3929 6.21928 6.84667 6.18766 6.16917H8.6043V7.1933C8.92511 6.70119 9.49839 5.9992 10.7817 5.9992C12.3724 5.9992 13.5651 7.03107 13.5651 9.25093V13.3931ZM8.63467 7.20168C8.62235 7.21872 8.60995 7.23624 8.60107 7.2508H8.63467V7.20168Z" fill="#677389" /></svg> </a>
+</div>
+<div class="rock-share-post__icon">
+<a class="rock-share-post__icon-link" href="https://twitter.com/intent/tweet?text=https://rockcontent.com/br/blog/marketing-da-nostalgia/" target="_blank" rel="noreferrer noopener" aria-label="Share on Twitter">
+<svg width="20" height="17" role="img" alt="twitter-icon" viewBox="0 0 20 17" fill="none" xmlns="http://www.w3.org/2000/svg"><title>twitter</title>
+<path d="M6.2896 16.251C13.8368 16.251 17.9648 9.99824 17.9648 4.57584C17.9648 4.39824 17.9648 4.22144 17.9528 4.04544C18.7559 3.46457 19.4491 2.74534 20 1.92144C19.2511 2.25328 18.4567 2.4709 17.6432 2.56704C18.4998 2.05423 19.1409 1.24766 19.4472 0.29744C18.6417 0.775404 17.7605 1.11225 16.8416 1.29344C16.2229 0.635588 15.4047 0.199975 14.5135 0.0540106C13.6223 -0.0919534 12.7079 0.0598692 11.9116 0.485984C11.1154 0.9121 10.4819 1.58875 10.109 2.41123C9.73605 3.23371 9.64462 4.15616 9.8488 5.03584C8.2174 4.95405 6.62144 4.53011 5.16451 3.79151C3.70759 3.05292 2.42227 2.0162 1.392 0.74864C0.867274 1.65197 0.70656 2.72133 0.942583 3.73899C1.17861 4.75665 1.79362 5.6461 2.6624 6.22624C2.00939 6.20689 1.37062 6.03073 0.8 5.71264C0.8 5.72944 0.8 5.74704 0.8 5.76464C0.800259 6.71201 1.12821 7.63014 1.72823 8.36328C2.32824 9.09642 3.16338 9.59945 4.092 9.78704C3.4879 9.95179 2.85406 9.97588 2.2392 9.85744C2.50141 10.6728 3.01189 11.3858 3.69926 11.8967C4.38662 12.4076 5.21649 12.691 6.0728 12.707C4.61979 13.849 2.82485 14.4689 0.9768 14.467C0.650323 14.4664 0.324163 14.4466 0 14.4078C1.87651 15.6121 4.05993 16.2508 6.2896 16.2478" fill="#677389" />
+</svg> </a>
+</div>
+<div class="rock-share-post__icon">
+<a class="rock-share-post__icon-link" href="/cdn-cgi/l/email-protection#ab94d8dec9c1cec8df96f2c4de8bc5cececf8bdfc48bd8cece8bdfc3c2d88bdbc4d8df8dc9c4cfd296e8c3cec8c08bdfc3c2d88bdbc4d8df918bc3dfdfdbd8918484d9c4c8c0c8c4c5dfcec5df85c8c4c684c9d984c9c7c4cc84c6cad9c0cedfc2c5cc86cfca86c5c4d8dfcac7ccc2ca84" target="_blank" rel="noreferrer noopener" aria-label="Share on Email">
+<svg xmlns="http://www.w3.org/2000/svg" role="img" alt="email-icon" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" version="1.1" width="20" height="17" x="0" y="0" viewBox="0 0 511.626 511.626" style="enable-background:new 0 0 512 512" xml:space="preserve"><title>mail</title><g><g xmlns="http://www.w3.org/2000/svg"><g><path d="M49.106,178.729c6.472,4.567,25.981,18.131,58.528,40.685c32.548,22.554,57.482,39.92,74.803,52.099    c1.903,1.335,5.946,4.237,12.131,8.71c6.186,4.476,11.326,8.093,15.416,10.852c4.093,2.758,9.041,5.852,14.849,9.277    c5.806,3.422,11.279,5.996,16.418,7.7c5.14,1.718,9.898,2.569,14.275,2.569h0.287h0.288c4.377,0,9.137-0.852,14.277-2.569    c5.137-1.704,10.615-4.281,16.416-7.7c5.804-3.429,10.752-6.52,14.845-9.277c4.093-2.759,9.229-6.376,15.417-10.852    c6.184-4.477,10.232-7.375,12.135-8.71c17.508-12.179,62.051-43.11,133.615-92.79c13.894-9.703,25.502-21.411,34.827-35.116    c9.332-13.699,13.993-28.07,13.993-43.105c0-12.564-4.523-23.319-13.565-32.264c-9.041-8.947-19.749-13.418-32.117-13.418H45.679    c-14.655,0-25.933,4.948-33.832,14.844C3.949,79.562,0,91.934,0,106.779c0,11.991,5.236,24.985,15.703,38.974    C26.169,159.743,37.307,170.736,49.106,178.729z" fill="#677389" data-original="#000000" style="" /><path d="M483.072,209.275c-62.424,42.251-109.824,75.087-142.177,98.501c-10.849,7.991-19.65,14.229-26.409,18.699    c-6.759,4.473-15.748,9.041-26.98,13.702c-11.228,4.668-21.692,6.995-31.401,6.995h-0.291h-0.287    c-9.707,0-20.177-2.327-31.405-6.995c-11.228-4.661-20.223-9.229-26.98-13.702c-6.755-4.47-15.559-10.708-26.407-18.699    c-25.697-18.842-72.995-51.68-141.896-98.501C17.987,202.047,8.375,193.762,0,184.437v226.685c0,12.57,4.471,23.319,13.418,32.265    c8.945,8.949,19.701,13.422,32.264,13.422h420.266c12.56,0,23.315-4.473,32.261-13.422c8.949-8.949,13.418-19.694,13.418-32.265    V184.437C503.441,193.569,493.927,201.854,483.072,209.275z" fill="#677389" data-original="#000000" style="" /></g></g></svg> </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="elementor-element elementor-element-514ee730 elementor-widget elementor-widget-rock-author-box" data-id="514ee730" data-element_type="widget" data-widget_type="rock-author-box.default">
+<div class="elementor-widget-container">
+<style>.rock-author-box{background:#e2e7f0;padding:32px;border-radius:12px;width:100%;max-width:700px;margin:0 auto;display:flex}.rock-author-box__image{flex-basis:20%;display:flex;align-items:center}.rock-author-box__image-wrapper{margin:0 0 0 -85px;position:relative}.rock-author-box__image-wrapper>.avatar{border-radius:90px!important}.rock-author-box__image-base{position:absolute;top:0;left:0;bottom:0;margin:auto}.rock-author-box__content{flex-basis:80%;margin:auto 0}.rock-author-box__content-tag{color:#677389;font-size:16px;line-height:24px;font-weight:400}.rock-author-box__content-name{font-size:36px;line-height:46px;font-weight:700;color:#171923}.rock-author-box__content-bio{font-size:16px;line-height:24px;font-weight:400;color:#4a5568}.rock-author-box__content-icons{margin:12px 0 0 0;display:flex}.rock-author-box__content-social-icon{margin:0 5px 0 0;background:#f7fafd;border-radius:12px;padding:8px 8px 8px 8px;width:36px;height:36px;display:flex;justify-content:center;align-items:center;cursor:pointer}.rock-author-box__content-social-icon:hover{background:#ebf0f5}.rock-author-box__content-tag{flex-basis:100%}.rock-author-box__content-contributors{display:flex;margin:30px 0 0 0;flex-wrap:wrap}.rock-author-box__content-author{flex-basis:33%;margin:6px 5px 0 0;display:flex;align-items:center}.rock-author-box__contributor-image{flex-basis:20%;display:flex;align-items:center;margin:0 5px 0 0}.rock-author-box__contributor-image>img{border-radius:30px!important}.rock-author-box__contributor-content{flex-basis:80%}.rock-author-box__contributor-name{color:#171923;font-size:16px;line-height:24px;font-weight:700}.rock-author-box__contributor-office{font-size:14px;line-height:16px;font-weight:400;color:#677389}@media only screen and (max-width:768px){.rock-author-box{flex-wrap:wrap}.rock-author-box__content,.rock-author-box__image{flex-basis:100%}.rock-author-box__content-author{flex-basis:100%;margin:6px 0 0 0}.rock-author-box__image-wrapper{margin:0 auto 20px auto}.rock-author-box__contributor-image{flex-basis:15%}}</style>
+<div class="rock-author-box" id="rock-author-box">
+<div class="rock-author-box__image">
+<div class="rock-author-box__image-wrapper">
+<img alt='Ana Rennó' src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20172%20172'%3E%3C/svg%3E" data-lazy-srcset='https://secure.gravatar.com/avatar/7672c8358decc10c903dbcc212f83414?s=344&#038;d=mm&#038;r=g 2x' class='avatar avatar-172 photo' height='172' width='172' data-lazy-src="https://secure.gravatar.com/avatar/7672c8358decc10c903dbcc212f83414?s=172&#038;d=mm&#038;r=g" /><noscript><img alt='Ana Rennó' src='https://secure.gravatar.com/avatar/7672c8358decc10c903dbcc212f83414?s=172&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/7672c8358decc10c903dbcc212f83414?s=344&#038;d=mm&#038;r=g 2x' class='avatar avatar-172 photo' height='172' width='172' /></noscript> <picture class="rock-author-box__image-base">
+<source type="image/webp" data-lazy-srcset="https://rockcontent.com/wp-content/uploads/2021/03/author-avatar-base.png.webp" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20172%20160&#039;%3E%3C/svg%3E" />
+<img alt="Rock author vector" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20172%20160&#039;%3E%3C/svg%3E" width="172" height="160" data-lazy-src="https://rockcontent.com/wp-content/uploads/2021/03/author-avatar-base.png" />
+</picture>
+<noscript><picture class="rock-author-box__image-base" loading="lazy">
+<source type="image/webp" srcset="https://rockcontent.com/wp-content/uploads/2021/03/author-avatar-base.png.webp"/>
+<img loading="lazy" alt="Rock author vector" src="https://rockcontent.com/wp-content/uploads/2021/03/author-avatar-base.png" width="172" height="160"/>
+</picture>
+</noscript>
+</div>
+</div>
+<div class="rock-author-box__content">
+<div class="rock-author-box__content-tag">Author</div>
+<a href="https://rockcontent.com/br/blog/author/ana/" rel="author">
+<div class="rock-author-box__content-name">Ana Rennó</div>
+</a>
+<div class="rock-author-box__content-bio"></div>
+<div class="rock-author-box__content-icons">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-a09e62c elementor-widget elementor-widget-menu-anchor" data-id="a09e62c" data-element_type="widget" data-widget_type="menu-anchor.default">
+<div class="elementor-widget-container">
+<style>/*! elementor - v3.7.8 - 02-10-2022 */
+body.elementor-page .elementor-widget-menu-anchor{margin-bottom:0}</style> <div id="news" class="elementor-menu-anchor"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-69fcf241 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="69fcf241" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-4cc8c644" data-id="4cc8c644" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-16ee706b elementor-widget elementor-widget-heading" data-id="16ee706b" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default"><strong> Inscreva-se</strong> em nosso blog</h2> </div>
+</div>
+<div class="elementor-element elementor-element-738adb99 elementor-widget elementor-widget-heading" data-id="738adb99" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-default">Acesse, em primeira mão, nossos principais posts diretamente em seu email</h3> </div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-54a1090d" data-id="54a1090d" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-1e690dc elementor-widget elementor-widget-rock-hubspot-form" data-id="1e690dc" data-element_type="widget" data-widget_type="rock-hubspot-form.default">
+<div class="elementor-widget-container">
+<style>#rock-contact-form{min-height: 400px;}</style>
+<div id="rock-news-form2" class="rock-hubspot-form blog">
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="rocketlazyloadscript">
+                window.addEventListener("load", function(event) {
+					let rockGetHubForm = setInterval(
+						rockHsForm,
+						300
+					);
+					function rockHsForm () {
+						if(window.hbspt) {
+							hbspt.forms.create({
+								portalId: "355484",
+								css: '',
+								formId: '8d1df51a-f6d6-4d28-920f-fda4086a46c3',
+								formInstanceId: 'rock-form-1'
+							});
+							clearInterval(rockGetHubForm);
+						}
+					}
+                });
+            </script>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-66c5f64a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="66c5f64a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7f675e57" data-id="7f675e57" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-426b57ee elementor-widget elementor-widget-heading" data-id="426b57ee" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default"><span class="rock-color-highlight">Posts</span> Relacionados</h2> </div>
+</div>
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-6ae53c46 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6ae53c46" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-7742e36a" data-id="7742e36a" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-55d7ee8 elementor-widget elementor-widget-rock-blog-posts" data-id="55d7ee8" data-element_type="widget" data-widget_type="rock-blog-posts.default">
+<div class="elementor-widget-container">
+<div class="rock-grid">
+<article class="rock-grid__item">
+<div class="rock-grid__blog-image">
+<a href="https://rockcontent.com/br/blog/encurtadores-de-url/">
+<picture class="attachment-300x300 size-300x300 wp-post-image">
+<source type="image/webp" data-lazy-srcset="https://rockcontent.com/br/wp-content/uploads/sites/2/2020/10/encurtadores-de-URL.png.webp 1100w, https://rockcontent.com/br/wp-content/uploads/sites/2/2020/10/encurtadores-de-URL-300x172.png.webp 300w, https://rockcontent.com/br/wp-content/uploads/sites/2/2020/10/encurtadores-de-URL-1024x586.png.webp 1024w, https://rockcontent.com/br/wp-content/uploads/sites/2/2020/10/encurtadores-de-URL-768x440.png.webp 768w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20172&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 300px) 100vw, 300px" />
+<img width="300" height="172" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20172&#039;%3E%3C/svg%3E" alt="encurtadores de URL" data-lazy-srcset="https://rockcontent.com/br/wp-content/uploads/sites/2/2020/10/encurtadores-de-URL.png 1100w, https://rockcontent.com/br/wp-content/uploads/sites/2/2020/10/encurtadores-de-URL-300x172.png 300w, https://rockcontent.com/br/wp-content/uploads/sites/2/2020/10/encurtadores-de-URL-1024x586.png 1024w, https://rockcontent.com/br/wp-content/uploads/sites/2/2020/10/encurtadores-de-URL-768x440.png 768w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://rockcontent.com/br/wp-content/uploads/sites/2/2020/10/encurtadores-de-URL.png" />
+</picture>
+<noscript><picture class="attachment-300x300 size-300x300 wp-post-image">
+<source type="image/webp" srcset="https://rockcontent.com/br/wp-content/uploads/sites/2/2020/10/encurtadores-de-URL.png.webp 1100w, https://rockcontent.com/br/wp-content/uploads/sites/2/2020/10/encurtadores-de-URL-300x172.png.webp 300w, https://rockcontent.com/br/wp-content/uploads/sites/2/2020/10/encurtadores-de-URL-1024x586.png.webp 1024w, https://rockcontent.com/br/wp-content/uploads/sites/2/2020/10/encurtadores-de-URL-768x440.png.webp 768w" sizes="(max-width: 300px) 100vw, 300px"/>
+<img width="300" height="172" src="https://rockcontent.com/br/wp-content/uploads/sites/2/2020/10/encurtadores-de-URL.png" alt="encurtadores de URL" srcset="https://rockcontent.com/br/wp-content/uploads/sites/2/2020/10/encurtadores-de-URL.png 1100w, https://rockcontent.com/br/wp-content/uploads/sites/2/2020/10/encurtadores-de-URL-300x172.png 300w, https://rockcontent.com/br/wp-content/uploads/sites/2/2020/10/encurtadores-de-URL-1024x586.png 1024w, https://rockcontent.com/br/wp-content/uploads/sites/2/2020/10/encurtadores-de-URL-768x440.png 768w" sizes="(max-width: 300px) 100vw, 300px"/>
+</picture>
+</noscript> </a>
+</div>
+<div class="rock-grid__blog-content">
+<h2 class="rock-grid__blog-title">
+<a href="https://rockcontent.com/br/blog/encurtadores-de-url/">
+Conheça os 10 melhores encurtadores de URL disponíveis online! </a>
+</h2>
+<div class="rock-grid__blog-meta">
+<div class="rock-grid__blog-author">
+<img alt='alt' src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2018'%3E%3C/svg%3E" data-lazy-srcset='https://secure.gravatar.com/avatar/f5288fa0e674088f26a8234568f29555?s=36&#038;d=mm&#038;r=g 2x' class='avatar avatar-18 photo rock-grid__blog-author-img' height='18' width='18' data-lazy-src="https://secure.gravatar.com/avatar/f5288fa0e674088f26a8234568f29555?s=18&#038;d=mm&#038;r=g" /><noscript><img alt='alt' src='https://secure.gravatar.com/avatar/f5288fa0e674088f26a8234568f29555?s=18&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/f5288fa0e674088f26a8234568f29555?s=36&#038;d=mm&#038;r=g 2x' class='avatar avatar-18 photo rock-grid__blog-author-img' height='18' width='18' /></noscript> <span>Daniel Moraes</span>
+</div>
+<span class="rock-grid__blog-date">
+<time datetime="2020-10-22">22 out, 20</time>
+|
+Leitura: 7min </span>
+</div>
+</div>
+</article>
+<article class="rock-grid__item">
+<div class="rock-grid__blog-image">
+<a href="https://rockcontent.com/br/blog/paginas-b2b/">
+<picture class="attachment-300x300 size-300x300 wp-post-image">
+<source type="image/webp" data-lazy-srcset="https://rockcontent.com/br/wp-content/uploads/sites/2/2020/07/paginas-b2b.png.webp 1280w, https://rockcontent.com/br/wp-content/uploads/sites/2/2020/07/paginas-b2b-300x169.png.webp 300w, https://rockcontent.com/br/wp-content/uploads/sites/2/2020/07/paginas-b2b-1024x576.png.webp 1024w, https://rockcontent.com/br/wp-content/uploads/sites/2/2020/07/paginas-b2b-768x432.png.webp 768w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20169&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 300px) 100vw, 300px" />
+<img width="300" height="169" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20169&#039;%3E%3C/svg%3E" alt="Páginas B2B" data-lazy-srcset="https://rockcontent.com/br/wp-content/uploads/sites/2/2020/07/paginas-b2b.png 1280w, https://rockcontent.com/br/wp-content/uploads/sites/2/2020/07/paginas-b2b-300x169.png 300w, https://rockcontent.com/br/wp-content/uploads/sites/2/2020/07/paginas-b2b-1024x576.png 1024w, https://rockcontent.com/br/wp-content/uploads/sites/2/2020/07/paginas-b2b-768x432.png 768w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://rockcontent.com/br/wp-content/uploads/sites/2/2020/07/paginas-b2b.png" />
+</picture>
+<noscript><picture class="attachment-300x300 size-300x300 wp-post-image">
+<source type="image/webp" srcset="https://rockcontent.com/br/wp-content/uploads/sites/2/2020/07/paginas-b2b.png.webp 1280w, https://rockcontent.com/br/wp-content/uploads/sites/2/2020/07/paginas-b2b-300x169.png.webp 300w, https://rockcontent.com/br/wp-content/uploads/sites/2/2020/07/paginas-b2b-1024x576.png.webp 1024w, https://rockcontent.com/br/wp-content/uploads/sites/2/2020/07/paginas-b2b-768x432.png.webp 768w" sizes="(max-width: 300px) 100vw, 300px"/>
+<img width="300" height="169" src="https://rockcontent.com/br/wp-content/uploads/sites/2/2020/07/paginas-b2b.png" alt="Páginas B2B" srcset="https://rockcontent.com/br/wp-content/uploads/sites/2/2020/07/paginas-b2b.png 1280w, https://rockcontent.com/br/wp-content/uploads/sites/2/2020/07/paginas-b2b-300x169.png 300w, https://rockcontent.com/br/wp-content/uploads/sites/2/2020/07/paginas-b2b-1024x576.png 1024w, https://rockcontent.com/br/wp-content/uploads/sites/2/2020/07/paginas-b2b-768x432.png 768w" sizes="(max-width: 300px) 100vw, 300px"/>
+</picture>
+</noscript> </a>
+</div>
+<div class="rock-grid__blog-content">
+<h2 class="rock-grid__blog-title">
+<a href="https://rockcontent.com/br/blog/paginas-b2b/">
+Páginas B2B: como usar sua presença digital para gerar leads qualificados? </a>
+</h2>
+<div class="rock-grid__blog-meta">
+<div class="rock-grid__blog-author">
+<img alt='alt' src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2018'%3E%3C/svg%3E" data-lazy-srcset='https://secure.gravatar.com/avatar/8223e756567ed1117c78b33a752f08d2?s=36&#038;d=mm&#038;r=g 2x' class='avatar avatar-18 photo rock-grid__blog-author-img' height='18' width='18' data-lazy-src="https://secure.gravatar.com/avatar/8223e756567ed1117c78b33a752f08d2?s=18&#038;d=mm&#038;r=g" /><noscript><img alt='alt' src='https://secure.gravatar.com/avatar/8223e756567ed1117c78b33a752f08d2?s=18&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/8223e756567ed1117c78b33a752f08d2?s=36&#038;d=mm&#038;r=g 2x' class='avatar avatar-18 photo rock-grid__blog-author-img' height='18' width='18' /></noscript> <span>Redator Rock Content</span>
+</div>
+<span class="rock-grid__blog-date">
+<time datetime="2020-07-14">14 jul, 20</time>
+|
+Leitura: 10min </span>
+</div>
+</div>
+</article>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2463bf27" data-id="2463bf27" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-77082340 elementor-widget elementor-widget-heading" data-id="77082340" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-default"><a href="https://rockcontent.com/br/blog/categoria/seo/">Mais em <strong><span style="color:#4076ed;">SEO</span></strong></a></h3> </div>
+</div>
+<div class="elementor-element elementor-element-26ebd53 elementor-widget elementor-widget-rock-blog-posts" data-id="26ebd53" data-element_type="widget" data-widget_type="rock-blog-posts.default">
+<div class="elementor-widget-container">
+<div class="rock-grid">
+<article class="rock-grid__item">
+<div class="rock-grid__blog-image">
+<a href="https://rockcontent.com/br/blog/screaming-frog/">
+<picture class="attachment-300x300 size-300x300 wp-post-image">
+<source type="image/webp" data-lazy-srcset="https://rockcontent.com/br/wp-content/uploads/sites/2/2019/11/screaming_frog-1-1.png.webp 1200w, https://rockcontent.com/br/wp-content/uploads/sites/2/2019/11/screaming_frog-1-1-300x158.png.webp 300w, https://rockcontent.com/br/wp-content/uploads/sites/2/2019/11/screaming_frog-1-1-1024x538.png.webp 1024w, https://rockcontent.com/br/wp-content/uploads/sites/2/2019/11/screaming_frog-1-1-768x403.png.webp 768w" srcset="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20158&#039;%3E%3C/svg%3E" data-lazy-sizes="(max-width: 300px) 100vw, 300px" />
+<img width="300" height="158" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20viewBox=&#039;0%200%20300%20158&#039;%3E%3C/svg%3E" alt="Screaming Frog: a ferramenta que executa auditorias completas em seu site" data-lazy-srcset="https://rockcontent.com/br/wp-content/uploads/sites/2/2019/11/screaming_frog-1-1.png 1200w, https://rockcontent.com/br/wp-content/uploads/sites/2/2019/11/screaming_frog-1-1-300x158.png 300w, https://rockcontent.com/br/wp-content/uploads/sites/2/2019/11/screaming_frog-1-1-1024x538.png 1024w, https://rockcontent.com/br/wp-content/uploads/sites/2/2019/11/screaming_frog-1-1-768x403.png 768w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://rockcontent.com/br/wp-content/uploads/sites/2/2019/11/screaming_frog-1-1.png" />
+</picture>
+<noscript><picture class="attachment-300x300 size-300x300 wp-post-image">
+<source type="image/webp" srcset="https://rockcontent.com/br/wp-content/uploads/sites/2/2019/11/screaming_frog-1-1.png.webp 1200w, https://rockcontent.com/br/wp-content/uploads/sites/2/2019/11/screaming_frog-1-1-300x158.png.webp 300w, https://rockcontent.com/br/wp-content/uploads/sites/2/2019/11/screaming_frog-1-1-1024x538.png.webp 1024w, https://rockcontent.com/br/wp-content/uploads/sites/2/2019/11/screaming_frog-1-1-768x403.png.webp 768w" sizes="(max-width: 300px) 100vw, 300px"/>
+<img width="300" height="158" src="https://rockcontent.com/br/wp-content/uploads/sites/2/2019/11/screaming_frog-1-1.png" alt="Screaming Frog: a ferramenta que executa auditorias completas em seu site" srcset="https://rockcontent.com/br/wp-content/uploads/sites/2/2019/11/screaming_frog-1-1.png 1200w, https://rockcontent.com/br/wp-content/uploads/sites/2/2019/11/screaming_frog-1-1-300x158.png 300w, https://rockcontent.com/br/wp-content/uploads/sites/2/2019/11/screaming_frog-1-1-1024x538.png 1024w, https://rockcontent.com/br/wp-content/uploads/sites/2/2019/11/screaming_frog-1-1-768x403.png 768w" sizes="(max-width: 300px) 100vw, 300px"/>
+</picture>
+</noscript> </a>
+</div>
+<div class="rock-grid__blog-content">
+<h2 class="rock-grid__blog-title">
+<a href="https://rockcontent.com/br/blog/screaming-frog/">
+Screaming Frog: guia para a ferramenta que executa auditorias completas em seu site </a>
+</h2>
+<div class="rock-grid__blog-meta">
+<div class="rock-grid__blog-author">
+<img alt='alt' src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2018'%3E%3C/svg%3E" data-lazy-srcset='https://secure.gravatar.com/avatar/80b2711d1b0a293a6864e7560b32e9dc?s=36&#038;d=mm&#038;r=g 2x' class='avatar avatar-18 photo rock-grid__blog-author-img' height='18' width='18' data-lazy-src="https://secure.gravatar.com/avatar/80b2711d1b0a293a6864e7560b32e9dc?s=18&#038;d=mm&#038;r=g" /><noscript><img alt='alt' src='https://secure.gravatar.com/avatar/80b2711d1b0a293a6864e7560b32e9dc?s=18&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/80b2711d1b0a293a6864e7560b32e9dc?s=36&#038;d=mm&#038;r=g 2x' class='avatar avatar-18 photo rock-grid__blog-author-img' height='18' width='18' /></noscript> <span>Camila Casarotto</span>
+</div>
+<span class="rock-grid__blog-date">
+<time datetime="2019-11-01">1 nov, 19</time>
+|
+Leitura: 12min </span>
+</div>
+</div>
+</article>
+<article class="rock-grid__item">
+<div class="rock-grid__blog-image">
+<a href="https://rockcontent.com/br/blog/tecnicas-de-seo-que-nao-funcionam/">
+<img width="300" height="158" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20158'%3E%3C/svg%3E" class="attachment-300x300 size-300x300 wp-post-image" alt="Técnicas de SEO que não funcionam mais" data-lazy-srcset="https://rockcontent.com/br/wp-content/uploads/sites/2/2018/12/x-Técnicas-de-SEO-antigas-que-não-funcionam-mais.png 1200w, https://rockcontent.com/br/wp-content/uploads/sites/2/2018/12/x-Técnicas-de-SEO-antigas-que-não-funcionam-mais-300x158.png 300w, https://rockcontent.com/br/wp-content/uploads/sites/2/2018/12/x-Técnicas-de-SEO-antigas-que-não-funcionam-mais-1024x538.png 1024w, https://rockcontent.com/br/wp-content/uploads/sites/2/2018/12/x-Técnicas-de-SEO-antigas-que-não-funcionam-mais-768x403.png 768w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://rockcontent.com/br/wp-content/uploads/sites/2/2018/12/x-Técnicas-de-SEO-antigas-que-não-funcionam-mais.png" /><noscript><img width="300" height="158" src="https://rockcontent.com/br/wp-content/uploads/sites/2/2018/12/x-Técnicas-de-SEO-antigas-que-não-funcionam-mais.png" class="attachment-300x300 size-300x300 wp-post-image" alt="Técnicas de SEO que não funcionam mais" srcset="https://rockcontent.com/br/wp-content/uploads/sites/2/2018/12/x-Técnicas-de-SEO-antigas-que-não-funcionam-mais.png 1200w, https://rockcontent.com/br/wp-content/uploads/sites/2/2018/12/x-Técnicas-de-SEO-antigas-que-não-funcionam-mais-300x158.png 300w, https://rockcontent.com/br/wp-content/uploads/sites/2/2018/12/x-Técnicas-de-SEO-antigas-que-não-funcionam-mais-1024x538.png 1024w, https://rockcontent.com/br/wp-content/uploads/sites/2/2018/12/x-Técnicas-de-SEO-antigas-que-não-funcionam-mais-768x403.png 768w" sizes="(max-width: 300px) 100vw, 300px" /></noscript> </a>
+</div>
+<div class="rock-grid__blog-content">
+<h2 class="rock-grid__blog-title">
+<a href="https://rockcontent.com/br/blog/tecnicas-de-seo-que-nao-funcionam/">
+Conheça 12 Técnicas de SEO antigas que você PRECISA parar de usar </a>
+</h2>
+<div class="rock-grid__blog-meta">
+<div class="rock-grid__blog-author">
+<img alt='alt' src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2018'%3E%3C/svg%3E" data-lazy-srcset='https://secure.gravatar.com/avatar/a69776c4f16f17c80673c459d5875e04?s=36&#038;d=mm&#038;r=g 2x' class='avatar avatar-18 photo rock-grid__blog-author-img' height='18' width='18' data-lazy-src="https://secure.gravatar.com/avatar/a69776c4f16f17c80673c459d5875e04?s=18&#038;d=mm&#038;r=g" /><noscript><img alt='alt' src='https://secure.gravatar.com/avatar/a69776c4f16f17c80673c459d5875e04?s=18&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/a69776c4f16f17c80673c459d5875e04?s=36&#038;d=mm&#038;r=g 2x' class='avatar avatar-18 photo rock-grid__blog-author-img' height='18' width='18' /></noscript> <span>Amanda Gusmão</span>
+</div>
+<span class="rock-grid__blog-date">
+<time datetime="2018-12-04">4 dez, 18</time>
+|
+Leitura: 13min </span>
+</div>
+</div>
+</article>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-63359c09 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="63359c09" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+<div class="elementor-background-overlay"></div>
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5547f004" data-id="5547f004" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-6e99638 elementor-widget elementor-widget-heading" data-id="6e99638" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-default">Quer receber mais <strong><span style="color: #FFB92E">conteúdos brilhantes</span></strong> como esse de <strong>graça?</strong></h3> </div>
+</div>
+<div class="elementor-element elementor-element-52997687 elementor-widget elementor-widget-heading" data-id="52997687" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<p class="elementor-heading-title elementor-size-default">Inscreva-se para receber nossos conteúdos por email e participe da <strong>comunidade da Rock Content!</strong></p> </div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5c232dc6" data-id="5c232dc6" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-94ac5e6 elementor-widget elementor-widget-rock-hubspot-form" data-id="94ac5e6" data-element_type="widget" data-widget_type="rock-hubspot-form.default">
+<div class="elementor-widget-container">
+<style>#rock-contact-form{min-height: 400px;}</style>
+<div id="rock-news-form2" class="rock-hubspot-form blog">
+<script type="rocketlazyloadscript">
+                window.addEventListener("load", function(event) {
+					let rockGetHubForm = setInterval(
+						rockHsForm,
+						300
+					);
+					function rockHsForm () {
+						if(window.hbspt) {
+							hbspt.forms.create({
+								portalId: "355484",
+								css: '',
+								formId: '8d1df51a-f6d6-4d28-920f-fda4086a46c3',
+								formInstanceId: 'rock-form-2'
+							});
+							clearInterval(rockGetHubForm);
+						}
+					}
+                });
+            </script>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<div data-elementor-type="footer" data-elementor-id="34720" class="elementor elementor-34720 elementor-location-footer">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-fdae8eb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fdae8eb" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-fb6c8fb" data-id="fb6c8fb" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-d618d1a elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-widget-mobile__width-inherit elementor-widget elementor-widget-rock-logo" data-id="d618d1a" data-element_type="widget" data-widget_type="rock-logo.default">
+<div class="elementor-widget-container">
+<style type="text/css">.rock-logo{display:flex;align-items:center;position:relative}.rock-logo__first{display:flex;align-items:center}.rock-logo__first>a,.rock-logo__secound>a{display:flex;align-items:center}.rock-logo__secound>a{font-size:28px;line-height:21px;font-weight:700;color:#677389!important}.rock-logo__divider{border-left:solid 1px #aab1bf;height:25px;margin:0 10px}</style>
+<div class="rock-logo">
+<div class="rock-logo__first">
+<a href="https://rockcontent.com/br/">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="46" role="img" alt="Rock Content Logo" viewBox="0 0 171 26" fill="none" style="width: 171; height: 26;"><title>Rock Content</title><path d="M38.4827 10.2018V20.1084H35.3887V6.89118H38.3381V7.97048C39.59 6.86749 41.2178 6.56299 42.8695 6.56299V9.40334C41.2672 9.40334 39.4965 9.73153 38.4827 10.2018Z" fill="white"></path><path fill-rule="evenodd" clip-rule="evenodd" d="M44.0991 14.3112C44.0991 18.488 46.2236 20.4605 50.095 20.4605C53.9646 20.4605 56.0891 18.488 56.0908 14.3112V12.6906C56.0908 8.53576 53.9663 6.56494 50.095 6.56494C46.2236 6.56494 44.0991 8.53576 44.0991 12.6906V14.3112ZM50.0949 9.21583C52.1241 9.21583 52.9984 10.153 52.9984 12.6906V14.3112C52.9984 16.8454 52.1258 17.8079 50.0949 17.8079C48.064 17.8079 47.1914 16.8487 47.1914 14.3112V12.6906C47.1914 10.1547 48.0657 9.21583 50.0949 9.21583Z" fill="white"></path><path d="M64.0905 20.4602C60.2668 20.4602 58.4961 18.2999 58.4961 14.3329V12.6666C58.4961 8.62854 60.2668 6.56299 64.0905 6.56299C66.1198 6.56299 67.5843 6.86749 68.1966 7.05527V9.40334C66.5212 9.26293 65.3645 9.19188 64.6246 9.19188C62.6889 9.19188 61.6037 9.80258 61.6037 12.6666V14.3329C61.6037 17.1733 62.6889 17.8313 64.6246 17.8313C65.356 17.8313 66.5127 17.7603 68.1966 17.6199V19.9663C66.855 20.306 65.4749 20.472 64.0905 20.4602Z" fill="white"></path><path d="M78.6524 20.1068L73.9561 13.8475V20.1068H70.8638V1.86865H73.9561V12.7834L78.6762 6.89129H82.2482L77.0944 13.2301L82.3809 20.1085L78.6524 20.1068Z" fill="white"></path><path d="M88.7541 20.4602C84.9304 20.4602 83.1597 18.2999 83.1597 14.3329V12.6666C83.1597 8.62854 84.9304 6.56299 88.7541 6.56299C90.7833 6.56299 92.2479 6.86749 92.8602 7.05527V9.40334C91.1848 9.26293 90.0281 9.19188 89.2882 9.19188C87.3525 9.19188 86.2673 9.80258 86.2673 12.6666V14.3329C86.2673 17.1733 87.3525 17.8313 89.2882 17.8313C90.0196 17.8313 91.1763 17.7603 92.8602 17.6199V19.9663C91.5186 20.306 90.1385 20.472 88.7541 20.4602Z" fill="white"></path><path fill-rule="evenodd" clip-rule="evenodd" d="M94.6548 14.3112C94.6548 18.488 96.7793 20.4605 100.649 20.4605C104.52 20.4605 106.643 18.488 106.645 14.3112V12.6906C106.645 8.53576 104.519 6.56494 100.649 6.56494C96.7793 6.56494 94.6548 8.53576 94.6548 12.6906V14.3112ZM100.649 9.21583C102.68 9.21583 103.552 10.153 103.552 12.6906V14.3112C103.552 16.8454 102.678 17.8079 100.649 17.8079C98.6196 17.8079 97.747 16.8487 97.747 14.3112V12.6906C97.747 10.1547 98.6179 9.21583 100.649 9.21583Z" fill="white"></path><path d="M118.019 20.1069V11.7279C118.019 9.82649 117.689 9.17011 116.148 9.17011C115.252 9.17011 114.072 9.4983 112.655 10.0616V20.1086H109.571V6.8914H112.544V7.94702C113.983 7.12486 115.424 6.56152 116.91 6.56152C120.664 6.56152 121.163 8.72012 121.163 11.7246V20.1052L118.019 20.1069Z" fill="white"></path><path d="M129.017 20.4605C126.398 20.4605 125.358 19.4269 125.358 16.6576V9.38333L122.882 9.17018V6.89147H125.36V3.53516H128.476V6.89147H131.708V9.37995H128.476V16.6136C128.476 17.835 128.57 18.0685 129.703 18.0685C130.383 18.0685 131.33 18.0211 131.71 17.9754V20.0884C130.831 20.3199 129.927 20.4449 129.017 20.4605Z" fill="white"></path><path fill-rule="evenodd" clip-rule="evenodd" d="M136.359 14.7087V14.4736L145.26 14.4719V13.4383C145.26 9.42556 143.7 6.56152 139.264 6.56152C135.299 6.56152 133.268 8.72181 133.268 13.1591V13.9796C133.268 18.6284 134.967 20.4588 139.759 20.4588C141.42 20.4628 143.075 20.2737 144.692 19.8954V17.5727C142.945 17.7368 141.291 17.8772 139.9 17.8772C136.643 17.8772 136.359 16.6339 136.359 14.7087ZM139.262 9.05168C141.834 9.05168 142.142 10.7214 142.142 12.2439L142.14 12.4554H136.383V12.2439C136.383 10.7434 136.76 9.05168 139.262 9.05168Z" fill="white"></path><path d="M156.585 20.1069V11.7279C156.585 9.82649 156.255 9.17011 154.714 9.17011C153.818 9.17011 152.637 9.4983 151.22 10.0616V20.1086H148.135V6.8914H151.11V7.94702C152.549 7.12486 153.989 6.56152 155.476 6.56152C159.23 6.56152 159.728 8.72012 159.728 11.7246V20.1052L156.585 20.1069Z" fill="white"></path><path d="M167.583 20.4605C164.964 20.4605 163.925 19.4269 163.925 16.6576V9.38333L161.446 9.17018V6.89147H163.925V3.53516H167.042V6.89147H170.274V9.37995H167.042V16.6136C167.042 17.835 167.136 18.0685 168.269 18.0685C168.949 18.0685 169.897 18.0211 170.276 17.9754V20.0884C169.397 20.3199 168.493 20.4449 167.583 20.4605Z" fill="white"></path><rect x="7.10425" y="11.7749" width="12.6835" height="2.68525" fill="white"></rect><path d="M19.7878 9.09125H7.10938V7.86913C7.10937 7.06079 7.75782 6.40524 8.55833 6.4043H18.3439C19.1444 6.40524 19.7928 7.06079 19.7928 7.86913L19.7878 9.09125Z" fill="white"></path><path d="M19.7878 17.1592H7.10938V18.3796C7.10937 19.1879 7.75782 19.8435 8.55833 19.8444H18.3439C19.1444 19.8435 19.7928 19.1879 19.7928 18.3796L19.7878 17.1592Z" fill="white"></path><path fill-rule="evenodd" clip-rule="evenodd" d="M10.1444 0.396484H16.9271C23.6979 0.396484 27.0715 4.56195 27.0715 13.1168C27.0715 21.6716 23.6979 25.8063 16.9271 25.8063H10.1444C3.37018 25.8063 0 21.6785 0 13.1168C0 4.55511 3.37018 0.396484 10.1444 0.396484ZM16.4191 23.1416C16.4191 23.1416 13.3621 23.1296 16.4191 23.1296V23.1228C23.6826 23.1228 23.6826 18.7687 23.6826 13.1588V13.1236V13.0885C23.6826 7.47842 23.6826 3.09371 16.4191 3.09371H10.6335C3.36994 3.09371 3.36999 7.47035 3.37006 13.073L3.37006 13.1236V13.1588C3.37002 18.7688 3.37 23.1296 10.6335 23.1296C13.6905 23.1296 10.6335 23.1416 10.6335 23.1416H16.4191Z" fill="white"></path></svg> </a>
+</div>
+<div class="rock-logo__divider"></div>
+<div class="rock-logo__secound">
+<a href="https://rockcontent.com/br/blog/">
+blog </a>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-6005b1c elementor-icon-list--layout-inline elementor-mobile-align-center elementor-tablet-align-center elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-widget-mobile__width-inherit elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="6005b1c" data-element_type="widget" data-widget_type="icon-list.default">
+<div class="elementor-widget-container">
+<link rel="stylesheet" href="https://rockcontent.com/br/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css"> <ul class="elementor-icon-list-items elementor-inline-items">
+<li class="elementor-icon-list-item elementor-inline-item">
+<span class="elementor-icon-list-text">© 2013-2021 Rock Content</span>
+</li>
+<li class="elementor-icon-list-item elementor-inline-item">
+<a href="https://rockcontent.com/br/legal/">
+<span class="elementor-icon-list-text">Legal</span>
+</a>
+</li>
+<li class="elementor-icon-list-item elementor-inline-item">
+<a href="https://rockcontent.com/br/legal/politica-de-privacidade/">
+<span class="elementor-icon-list-text">Política de Privacidade</span>
+</a>
+</li>
+<li class="elementor-icon-list-item elementor-inline-item">
+<a href="https://rockcontent.com/br/talent/legal/">
+<span class="elementor-icon-list-text">Termos para Freelancers</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-7c2d970 e-grid-align-right e-grid-align-mobile-center e-grid-align-tablet-center elementor-grid-mobile-5 elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-widget-mobile__width-inherit elementor-shape-rounded elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="7c2d970" data-element_type="widget" data-widget_type="social-icons.default">
+<div class="elementor-widget-container">
+<style>/*! elementor - v3.7.8 - 02-10-2022 */
+.elementor-widget-social-icons.elementor-grid-0 .elementor-widget-container,.elementor-widget-social-icons.elementor-grid-mobile-0 .elementor-widget-container,.elementor-widget-social-icons.elementor-grid-tablet-0 .elementor-widget-container{line-height:1;font-size:0}.elementor-widget-social-icons:not(.elementor-grid-0):not(.elementor-grid-tablet-0):not(.elementor-grid-mobile-0) .elementor-grid{display:inline-grid}.elementor-widget-social-icons .elementor-grid{grid-column-gap:var(--grid-column-gap,5px);grid-row-gap:var(--grid-row-gap,5px);grid-template-columns:var(--grid-template-columns);-webkit-box-pack:var(--justify-content,center);-ms-flex-pack:var(--justify-content,center);justify-content:var(--justify-content,center);justify-items:var(--justify-content,center)}.elementor-icon.elementor-social-icon{font-size:var(--icon-size,25px);line-height:var(--icon-size,25px);width:calc(var(--icon-size, 25px) + (2 * var(--icon-padding, .5em)));height:calc(var(--icon-size, 25px) + (2 * var(--icon-padding, .5em)))}.elementor-social-icon{--e-social-icon-icon-color:#fff;display:-webkit-inline-box;display:-ms-inline-flexbox;display:inline-flex;background-color:#818a91;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;text-align:center;cursor:pointer}.elementor-social-icon i{color:var(--e-social-icon-icon-color)}.elementor-social-icon svg{fill:var(--e-social-icon-icon-color)}.elementor-social-icon:last-child{margin:0}.elementor-social-icon:hover{opacity:.9;color:#fff}.elementor-social-icon-android{background-color:#a4c639}.elementor-social-icon-apple{background-color:#999}.elementor-social-icon-behance{background-color:#1769ff}.elementor-social-icon-bitbucket{background-color:#205081}.elementor-social-icon-codepen{background-color:#000}.elementor-social-icon-delicious{background-color:#39f}.elementor-social-icon-deviantart{background-color:#05cc47}.elementor-social-icon-digg{background-color:#005be2}.elementor-social-icon-dribbble{background-color:#ea4c89}.elementor-social-icon-elementor{background-color:#d30c5c}.elementor-social-icon-envelope{background-color:#ea4335}.elementor-social-icon-facebook,.elementor-social-icon-facebook-f{background-color:#3b5998}.elementor-social-icon-flickr{background-color:#0063dc}.elementor-social-icon-foursquare{background-color:#2d5be3}.elementor-social-icon-free-code-camp,.elementor-social-icon-freecodecamp{background-color:#006400}.elementor-social-icon-github{background-color:#333}.elementor-social-icon-gitlab{background-color:#e24329}.elementor-social-icon-globe{background-color:#818a91}.elementor-social-icon-google-plus,.elementor-social-icon-google-plus-g{background-color:#dd4b39}.elementor-social-icon-houzz{background-color:#7ac142}.elementor-social-icon-instagram{background-color:#262626}.elementor-social-icon-jsfiddle{background-color:#487aa2}.elementor-social-icon-link{background-color:#818a91}.elementor-social-icon-linkedin,.elementor-social-icon-linkedin-in{background-color:#0077b5}.elementor-social-icon-medium{background-color:#00ab6b}.elementor-social-icon-meetup{background-color:#ec1c40}.elementor-social-icon-mixcloud{background-color:#273a4b}.elementor-social-icon-odnoklassniki{background-color:#f4731c}.elementor-social-icon-pinterest{background-color:#bd081c}.elementor-social-icon-product-hunt{background-color:#da552f}.elementor-social-icon-reddit{background-color:#ff4500}.elementor-social-icon-rss{background-color:#f26522}.elementor-social-icon-shopping-cart{background-color:#4caf50}.elementor-social-icon-skype{background-color:#00aff0}.elementor-social-icon-slideshare{background-color:#0077b5}.elementor-social-icon-snapchat{background-color:#fffc00}.elementor-social-icon-soundcloud{background-color:#f80}.elementor-social-icon-spotify{background-color:#2ebd59}.elementor-social-icon-stack-overflow{background-color:#fe7a15}.elementor-social-icon-steam{background-color:#00adee}.elementor-social-icon-stumbleupon{background-color:#eb4924}.elementor-social-icon-telegram{background-color:#2ca5e0}.elementor-social-icon-thumb-tack{background-color:#1aa1d8}.elementor-social-icon-tripadvisor{background-color:#589442}.elementor-social-icon-tumblr{background-color:#35465c}.elementor-social-icon-twitch{background-color:#6441a5}.elementor-social-icon-twitter{background-color:#1da1f2}.elementor-social-icon-viber{background-color:#665cac}.elementor-social-icon-vimeo{background-color:#1ab7ea}.elementor-social-icon-vk{background-color:#45668e}.elementor-social-icon-weibo{background-color:#dd2430}.elementor-social-icon-weixin{background-color:#31a918}.elementor-social-icon-whatsapp{background-color:#25d366}.elementor-social-icon-wordpress{background-color:#21759b}.elementor-social-icon-xing{background-color:#026466}.elementor-social-icon-yelp{background-color:#af0606}.elementor-social-icon-youtube{background-color:#cd201f}.elementor-social-icon-500px{background-color:#0099e5}.elementor-shape-rounded .elementor-icon.elementor-social-icon{border-radius:10%}.elementor-shape-circle .elementor-icon.elementor-social-icon{border-radius:50%}</style> <div class="elementor-social-icons-wrapper elementor-grid">
+<span class="elementor-grid-item">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-Rock Content Linkedin elementor-repeater-item-f301d27" href="https://www.linkedin.com/company/rockcontent/" target="_blank" rel="noreferrer">
+<span class="elementor-screen-only">Rock Content Linkedin</span>
+<svg xmlns="http://www.w3.org/2000/svg" id="Bold" height="16" viewBox="0 0 24 24" width="16"><path d="m23.994 24v-.001h.006v-8.802c0-4.306-.927-7.623-5.961-7.623-2.42 0-4.044 1.328-4.707 2.587h-.07v-2.185h-4.773v16.023h4.97v-7.934c0-2.089.396-4.109 2.983-4.109 2.549 0 2.587 2.384 2.587 4.243v7.801z"></path><path d="m.396 7.977h4.976v16.023h-4.976z"></path><path d="m2.882 0c-1.591 0-2.882 1.291-2.882 2.882s1.291 2.909 2.882 2.909 2.882-1.318 2.882-2.909c-.001-1.591-1.292-2.882-2.882-2.882z"></path></svg> </a>
+</span>
+<span class="elementor-grid-item">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-Rock Content Instagram elementor-repeater-item-b73a6af" href="https://www.instagram.com/rockcontent/" target="_blank" rel="noreferrer">
+<span class="elementor-screen-only">Rock Content Instagram</span>
+<svg xmlns="http://www.w3.org/2000/svg" height="16" viewBox="0 0 511 511.9" width="16"><path d="m510.949219 150.5c-1.199219-27.199219-5.597657-45.898438-11.898438-62.101562-6.5-17.199219-16.5-32.597657-29.601562-45.398438-12.800781-13-28.300781-23.101562-45.300781-29.5-16.296876-6.300781-34.898438-10.699219-62.097657-11.898438-27.402343-1.300781-36.101562-1.601562-105.601562-1.601562s-78.199219.300781-105.5 1.5c-27.199219 1.199219-45.898438 5.601562-62.097657 11.898438-17.203124 6.5-32.601562 16.5-45.402343 29.601562-13 12.800781-23.097657 28.300781-29.5 45.300781-6.300781 16.300781-10.699219 34.898438-11.898438 62.097657-1.300781 27.402343-1.601562 36.101562-1.601562 105.601562s.300781 78.199219 1.5 105.5c1.199219 27.199219 5.601562 45.898438 11.902343 62.101562 6.5 17.199219 16.597657 32.597657 29.597657 45.398438 12.800781 13 28.300781 23.101562 45.300781 29.5 16.300781 6.300781 34.898438 10.699219 62.101562 11.898438 27.296876 1.203124 36 1.5 105.5 1.5s78.199219-.296876 105.5-1.5c27.199219-1.199219 45.898438-5.597657 62.097657-11.898438 34.402343-13.300781 61.601562-40.5 74.902343-74.898438 6.296876-16.300781 10.699219-34.902343 11.898438-62.101562 1.199219-27.300781 1.5-36 1.5-105.5s-.101562-78.199219-1.300781-105.5zm-46.097657 209c-1.101562 25-5.300781 38.5-8.800781 47.5-8.601562 22.300781-26.300781 40-48.601562 48.601562-9 3.5-22.597657 7.699219-47.5 8.796876-27 1.203124-35.097657 1.5-103.398438 1.5s-76.5-.296876-103.402343-1.5c-25-1.097657-38.5-5.296876-47.5-8.796876-11.097657-4.101562-21.199219-10.601562-29.398438-19.101562-8.5-8.300781-15-18.300781-19.101562-29.398438-3.5-9-7.699219-22.601562-8.796876-47.5-1.203124-27-1.5-35.101562-1.5-103.402343s.296876-76.5 1.5-103.398438c1.097657-25 5.296876-38.5 8.796876-47.5 4.101562-11.101562 10.601562-21.199219 19.203124-29.402343 8.296876-8.5 18.296876-15 29.398438-19.097657 9-3.5 22.601562-7.699219 47.5-8.800781 27-1.199219 35.101562-1.5 103.398438-1.5 68.402343 0 76.5.300781 103.402343 1.5 25 1.101562 38.5 5.300781 47.5 8.800781 11.097657 4.097657 21.199219 10.597657 29.398438 19.097657 8.5 8.300781 15 18.300781 19.101562 29.402343 3.5 9 7.699219 22.597657 8.800781 47.5 1.199219 27 1.5 35.097657 1.5 103.398438s-.300781 76.300781-1.5 103.300781zm0 0"></path><path d="m256.449219 124.5c-72.597657 0-131.5 58.898438-131.5 131.5s58.902343 131.5 131.5 131.5c72.601562 0 131.5-58.898438 131.5-131.5s-58.898438-131.5-131.5-131.5zm0 216.800781c-47.097657 0-85.300781-38.199219-85.300781-85.300781s38.203124-85.300781 85.300781-85.300781c47.101562 0 85.300781 38.199219 85.300781 85.300781s-38.199219 85.300781-85.300781 85.300781zm0 0"></path><path d="m423.851562 119.300781c0 16.953125-13.746093 30.699219-30.703124 30.699219-16.953126 0-30.699219-13.746094-30.699219-30.699219 0-16.957031 13.746093-30.699219 30.699219-30.699219 16.957031 0 30.703124 13.742188 30.703124 30.699219zm0 0"></path></svg> </a>
+</span>
+<span class="elementor-grid-item">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-Rock Content Facebook elementor-repeater-item-7e83c80" href="https://www.facebook.com/werockcontent" target="_blank" rel="noreferrer">
+<span class="elementor-screen-only">Rock Content Facebook</span>
+<svg xmlns="http://www.w3.org/2000/svg" id="Bold" height="16" viewBox="0 0 24 24" width="16"><path d="m15.997 3.985h2.191v-3.816c-.378-.052-1.678-.169-3.192-.169-3.159 0-5.323 1.987-5.323 5.639v3.361h-3.486v4.266h3.486v10.734h4.274v-10.733h3.345l.531-4.266h-3.877v-2.939c.001-1.233.333-2.077 2.051-2.077z"></path></svg> </a>
+</span>
+<span class="elementor-grid-item">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-Rock Content Twitter elementor-repeater-item-2538fcb" href="https://twitter.com/rockcontent" target="_blank" rel="noreferrer">
+<span class="elementor-screen-only">Rock Content Twitter</span>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve" width="16" height="16">
+<g>
+<g>
+<path d="M512,97.248c-19.04,8.352-39.328,13.888-60.48,16.576c21.76-12.992,38.368-33.408,46.176-58.016    c-20.288,12.096-42.688,20.64-66.56,25.408C411.872,60.704,384.416,48,354.464,48c-58.112,0-104.896,47.168-104.896,104.992    c0,8.32,0.704,16.32,2.432,23.936c-87.264-4.256-164.48-46.08-216.352-109.792c-9.056,15.712-14.368,33.696-14.368,53.056    c0,36.352,18.72,68.576,46.624,87.232c-16.864-0.32-33.408-5.216-47.424-12.928c0,0.32,0,0.736,0,1.152    c0,51.008,36.384,93.376,84.096,103.136c-8.544,2.336-17.856,3.456-27.52,3.456c-6.72,0-13.504-0.384-19.872-1.792    c13.6,41.568,52.192,72.128,98.08,73.12c-35.712,27.936-81.056,44.768-130.144,44.768c-8.608,0-16.864-0.384-25.12-1.44    C46.496,446.88,101.6,464,161.024,464c193.152,0,298.752-160,298.752-298.688c0-4.64-0.16-9.12-0.384-13.568    C480.224,136.96,497.728,118.496,512,97.248z"></path>
+</g></g></svg> </a>
+</span>
+<span class="elementor-grid-item">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-Rock Content Youtube elementor-repeater-item-05b3553" href="https://www.youtube.com/user/tvrockcontent" target="_blank" rel="noreferrer">
+<span class="elementor-screen-only">Rock Content Youtube</span>
+<svg xmlns="http://www.w3.org/2000/svg" height="16" viewBox="-21 -117 682.66672 682" width="16"><path d="m626.8125 64.035156c-7.375-27.417968-28.992188-49.03125-56.40625-56.414062-50.082031-13.703125-250.414062-13.703125-250.414062-13.703125s-200.324219 0-250.40625 13.183593c-26.886719 7.375-49.03125 29.519532-56.40625 56.933594-13.179688 50.078125-13.179688 153.933594-13.179688 153.933594s0 104.378906 13.179688 153.933594c7.382812 27.414062 28.992187 49.027344 56.410156 56.410156 50.605468 13.707031 250.410156 13.707031 250.410156 13.707031s200.324219 0 250.40625-13.183593c27.417969-7.378907 49.03125-28.992188 56.414062-56.40625 13.175782-50.082032 13.175782-153.933594 13.175782-153.933594s.527344-104.382813-13.183594-154.460938zm-370.601562 249.878906v-191.890624l166.585937 95.945312zm0 0"></path></svg> </a>
+</span>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-464b5e9 elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-widget-mobile__width-inherit elementor-widget elementor-widget-heading" data-id="464b5e9" data-element_type="widget" id="rock-to-top" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<p class="elementor-heading-title elementor-size-default">Topo</p> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<script defer src='https://rockcontent.com/br/wp-content/plugins/rock-content-custom-code/assets/js/min/rock-table-index.min.js?ver=1.7.6' id='rock-table-index-js'></script>
+<script defer src='https://rockcontent.com/br/wp-content/plugins/rock-content-custom-code/assets/js/min/rock-menu-and-switcher.min.js?ver=1.7.6' id='rock-menu-and-switcher-js'></script>
+<script type="rocketlazyloadscript" async defer src='//js.hsforms.net/forms/v2.js?ver=1.7.6' id='rock-hubspot-forms-js'></script>
+<script defer src='https://rockcontent.com/br/wp-includes/js/wp-embed.min.js?ver=5.8.3' id='wp-embed-js'></script>
+<script>window.lazyLoadOptions=[{elements_selector:"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:".rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://rockcontent.com/br/wp-content/plugins/wp-rocket/assets/js/lazyload/17.5/lazyload.min.js"></script><script>function lazyLoadThumb(e){var t='<img data-lazy-src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"><noscript><img src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"></noscript>',a='<button class="play" aria-label="play Youtube video"></button>';return t.replace("ID",e)+a}function lazyLoadYoutubeIframe(){var e=document.createElement("iframe"),t="ID?autoplay=1";t+=0===this.parentNode.dataset.query.length?'':'&'+this.parentNode.dataset.query;e.setAttribute("src",t.replace("ID",this.parentNode.dataset.src)),e.setAttribute("frameborder","0"),e.setAttribute("allowfullscreen","1"),e.setAttribute("allow", "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"),this.parentNode.parentNode.replaceChild(e,this.parentNode)}document.addEventListener("DOMContentLoaded",function(){var e,t,p,a=document.getElementsByClassName("rll-youtube-player");for(t=0;t<a.length;t++)e=document.createElement("div"),e.setAttribute("data-id",a[t].dataset.id),e.setAttribute("data-query", a[t].dataset.query),e.setAttribute("data-src", a[t].dataset.src),e.innerHTML=lazyLoadThumb(a[t].dataset.id),a[t].appendChild(e),p=e.querySelector('.play'),p.onclick=lazyLoadYoutubeIframe});</script>
+<script>class RocketElementorAnimation{constructor(){this.deviceMode=document.createElement("span"),this.deviceMode.id="elementor-device-mode",this.deviceMode.setAttribute("class","elementor-screen-only"),document.body.appendChild(this.deviceMode)}_detectAnimations(){let t=getComputedStyle(this.deviceMode,":after").content.replace(/"/g,"");this.animationSettingKeys=this._listAnimationSettingsKeys(t),document.querySelectorAll(".elementor-invisible[data-settings]").forEach(t=>{const e=t.getBoundingClientRect();if(e.bottom>=0&&e.top<=window.innerHeight)try{this._animateElement(t)}catch(t){}})}_animateElement(t){const e=JSON.parse(t.dataset.settings),i=e._animation_delay||e.animation_delay||0,n=e[this.animationSettingKeys.find(t=>e[t])];if("none"===n)return void t.classList.remove("elementor-invisible");t.classList.remove(n),this.currentAnimation&&t.classList.remove(this.currentAnimation),this.currentAnimation=n;let s=setTimeout(()=>{t.classList.remove("elementor-invisible"),t.classList.add("animated",n),this._removeAnimationSettings(t,e)},i);window.addEventListener("rocket-startLoading",function(){clearTimeout(s)})}_listAnimationSettingsKeys(t="mobile"){const e=[""];switch(t){case"mobile":e.unshift("_mobile");case"tablet":e.unshift("_tablet");case"desktop":e.unshift("_desktop")}const i=[];return["animation","_animation"].forEach(t=>{e.forEach(e=>{i.push(t+e)})}),i}_removeAnimationSettings(t,e){this._listAnimationSettingsKeys().forEach(t=>delete e[t]),t.dataset.settings=JSON.stringify(e)}static run(){const t=new RocketElementorAnimation;requestAnimationFrame(t._detectAnimations.bind(t))}}document.addEventListener("DOMContentLoaded",RocketElementorAnimation.run);</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon='{"rayId":"771e3971fc249996","token":"6d36604caad846d687c4227cefbb188f","version":"2022.11.3","si":100}' crossorigin="anonymous"></script>
+</body>
+</html>

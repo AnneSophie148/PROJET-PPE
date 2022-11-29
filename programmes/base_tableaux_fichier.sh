@@ -36,6 +36,8 @@ while read -r URL; do
 	# curl -I -L -s $URL : sortie propre pour avoir les en-têtes
 	code=$(curl -ILs $URL | grep -e "^HTTP/" | grep -Eo "[0-9]{3}" | tail -n 1) #L suit les redirections ?; tail -n 1 : on prend les dernières lignes du fichier et dernière ligne qu'on prend = l1
 	charset=$(curl -ILs $URL | grep -Eo "charset=(\w|-)+" | cut -d= -f2) 
+	aspiration=$(curl $URL)
+	echo "$aspiration" > "aspirations/$basename-$lineno.html"
 
 	# autre façon, avec l'option -w de cURL
 	# code=$(curl -Ls -o /dev/null -w "%{http_code}" $URL)

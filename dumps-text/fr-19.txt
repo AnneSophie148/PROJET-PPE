@@ -1,0 +1,230 @@
+UTF-8 and Unicode
+
+   Unicode Transformation Format 8-bit is a variable-width encoding that
+   can represent every character in the Unicode character set. It was
+   designed for backward compatibility with ASCII and to avoid the
+   complications of endianness and byte order marks in UTF-16 and UTF-32.
+   ^[1]
+
+   UTF-8 encodes each Unicode character as a variable number of 1 to 4
+   octets, where the number of octets depends on the integer value
+   assigned to the Unicode character. It is an efficient encoding of
+   Unicode documents that use mostly US-ASCII characters because it
+   represents each character in the range U+0000 through U+007F as a
+   single octet.
+
+   UTF-8 is the default encoding for XML and since 2010 has become the
+   dominant character set on the Web.
+
+Standards
+
+     * RFC 3629: UTF-8, a transformation format of ISO 10646. November
+       2003.
+     * The Unicode Standard 5.0, November 2006. [purchase from Amazon.com]
+          + In particular, see the informal description of UTF-8 in
+            sections 2.5 and 2.6, pages 30-32, and a much more formal
+            definition in sections 3.9 and 3.10, pages 77-81.
+
+Articles and background reading
+
+     * UTF-8 and Unicode FAQ for Unix/Linux by Markus Kuhn
+     * Forms of Unicode, an excellent overview by Mark Davis
+     * Wikipedia UTF-8 contains a good discussion of why five- and
+       six-octet sequences are now illegal UTF-8
+     * Unicode Transformation Formats [czyborra.com]
+     * The Absolute Minimum Every Software Developer Absolutely,
+       Positively Must Know About Unicode and Character Sets (No
+       Excuses!), an amusing and informative article by Joel Spolsky
+
+Character Sets
+
+   The MIME character set attribute for UTF-8 is UTF-8. Character sets are
+   case-insensitive, so utf-8 is equally valid. [IANA Character Sets].
+
+   In a modern HTML 5 page, place this tag inside <head> ... </head>:
+<meta charset="UTF-8">
+
+   In an XML prolog, the encoding is typically specified as an attribute:
+<?xml version="1.0" encoding="UTF-8" ?>
+     __________________________________________________________________
+
+   Last modified: Wed Jan 5 12:57:21 PST 2022
+
+     *
+          + A la une
+          + Bien-être
+          + Art de vivre
+          + Environnement
+          + Argent
+          + Culture Pop
+          + Vie digitale
+          + Mode Beauté
+
+   L'esprit de Noël a-t-il un réel impact sur notre cerveau ?
+   News
+   L'esprit de Noël a-t-il un réel impact sur notre cerveau ?
+   06 décembre 2022
+   Repas de Noël : 10 sujets de conversation à esquiver pour éviter les
+   embrouilles
+   News
+   Repas de Noël : 10 sujets de conversation à esquiver pour éviter les
+   ...
+   06 décembre 2022
+   Maman ou femme : comment trouver l'équilibre ?
+   News
+   Maman ou femme : comment trouver l'équilibre ?
+   22 novembre 2022
+   Rétroplanning de Noël : 10 étapes pour préparer les fêtes sereinement
+   News
+   Rétroplanning de Noël : 10 étapes pour préparer les fêtes sereinement
+   22 novembre 2022
+   Est-il mauvais pour le moral de regarder la télévision ?
+   News
+   Est-il mauvais pour le moral de regarder la télévision ?
+   08 novembre 2022
+   10 conseils pour une famille recomposée réussie
+   News
+   10 conseils pour une famille recomposée réussie
+   08 novembre 2022
+   Ils n'ont jamais montré leurs enfants pour préserver leur famille
+   News
+   Ils n'ont jamais montré leurs enfants pour préserver leur famille
+   03 novembre 2022
+   Déco thérapie : quand la décoration permet d'aller mieux
+   News
+   Déco thérapie : quand la décoration permet d'aller mieux
+   25 octobre 2022
+   Hypersensibilité : 10 signes pour la déceler
+   News
+   Hypersensibilité : 10 signes pour la déceler
+   25 octobre 2022
+   Fatigue physique ou mentale : comment les discerner ?
+   News
+   Fatigue physique ou mentale : comment les discerner ?
+   11 octobre 2022
+   Ces personnalités qui ont ralenti le rythme pour se consacrer à leur
+   famille
+   News
+   Ces personnalités qui ont ralenti le rythme pour se consacrer à leur
+   ...
+   11 octobre 2022
+   Trahison : 10 étapes pour pardonner
+   News
+   Trahison : 10 étapes pour pardonner
+   11 octobre 2022
+   Contact humain : pourquoi est-il important pour notre bonheur ?
+   News
+   Contact humain : pourquoi est-il important pour notre bonheur ?
+   27 septembre 2022
+   Psycho
+
+La nostalgie est-elle une émotion positive ou négative ?
+
+   Chargement en cours
+   Fouler de nouveau un lieu familier peut faire apparaître de la
+   nostalgie.
+   Feuilleter des photos peut faire surgir un état de nostalgie positif !
+   Chargement en cours
+   Fouler de nouveau un lieu familier peut faire apparaître de la
+   nostalgie.
+   Fouler de nouveau un lieu familier peut faire apparaître de la
+   nostalgie.
+   1/2
+   © Adobe Stock, Rido
+   A lire aussi
+   Omar Da Fonseca (beIN SPORTS) : "Je ne sais pas si je serai consultant
+   pour la prochaine Coupe du monde 2026"
+   article
+   Omar Da Fonseca (beIN SPORTS) : "Je ne sais pas si je serai consultant
+   pour la prochaine Coupe du monde 2026"
+   article
+   "Beaucoup de lâcheté" de la part de Johnny Hallyday... Les propos très
+   surprenants de Laeticia !
+   diaporama
+   10 facteurs qui favorisent les aphtes
+
+   Alexandra Arquey, Jellyfish France
+
+   Regardez-vous souvent derrière vous ? Le fait de se raccrocher à des
+   émotions du passé amène à ressentir de la nostalgie. Fréquemment perçue
+   comme étant négative, cette émotion aurait-elle finalement des effets
+   positifs sur le mental ?
+
+   Qu'est-ce que la nostalgie ?
+
+   L'étymologie de ce mot définit à elle seule cet état d'âme si
+   particulier. Le terme nostalgie est formé à partir de deux mots grecs,
+   nóstos signifiant retour et álgos traduisible par douleur. C'est une
+   émotion généralement passagère, associée à des souvenirs heureux de
+   votre vie. De fait, elle se distingue de la mélancolie. Cette dernière
+   apparaît comme étant un sentiment plus présent et plus noir. La
+   mélancolie s'apparente davantage à de la tristesse et à une déprime.
+   Cet état s'avère souvent plus long et plus récurrent que la nostalgie.
+
+   Comment se caractérise la nostalgie ?
+
+   Être nostalgique n'est pas un état exceptionnel. Il se rencontre chez
+   tous les individus, adultes comme enfants. Cette émotion peut se
+   déclencher en visionnant des photos de votre enfance, en percevant un
+   parfum familier, en évoquant vos souvenirs avec une tierce personne, en
+   écoutant une chanson ou encore en goûtant un plat aux saveurs bien
+   définies dans votre esprit. La nostalgie se caractérise donc par un
+   sentiment de regret du passé, souvent joyeux, par un manque, par
+   l'éloignement d'un lieu, d'une personne, d'une période de votre vie.
+
+   Si la nostalgie fait appel à des regrets, ce n'est pas pour autant que
+   cette émotion demeure systématiquement négative, bien au contraire !
+
+   La nostalgie peut-elle être négative et positive ?
+
+   Si les souvenirs de vos années sur les bancs de l'école font apparaître
+   un sentiment de joie et de douceur ponctué par un "C'était bien !", il
+   y a de fortes chances pour que vous ressentiez de la nostalgie
+   positive. S'ils font apparaître une pensée du type "Ma vie était bien
+   plus belle à ce moment-là !", l'émotion que vous allez ressentir sera
+   davantage de la nostalgie négative. Elle ne se transformera cependant
+   pas nécessairement en mélancolie !
+
+   L'état émotionnel dans lequel vous vous trouvez au moment où vos
+   souvenirs apparaissent vont forcément conditionner la nature de la
+   nostalgie ressentie.
+
+   La nostalgie c'est quoi ? - #CulturePrimepar France Culture
+
+   La nostalgie peut-elle être bénéfique ?
+
+   De façon générale, la nostalgie ne génère pas de grande tristesse. Elle
+   peut avoir un effet rassurant, comme une bulle dans laquelle vous allez
+   vous plonger pour y trouver du réconfort et de la chaleur si vous vivez
+   un moment actuel un peu anxiogène.
+
+   La nostalgie peut également se partager. Évoquer des souvenirs communs
+   entre amis ou membres d'une même famille donnera l'impression
+   d'appartenir à une même tribu et renforcera le lien déjà présent. Cette
+   émotion permet de connecter le passé au présent en établissant une
+   douce continuité qui se savoure et non qui blesse ou rend triste. La
+   nostalgie peut aussi vous envoyer un message et vous faire prendre
+   conscience d'un besoin. Si vous pensez un peu trop souvent à vos
+   vacances prises il y a 6 mois, il est peut-être temps de récidiver...
+
+   Publicité
+
+Déco de Noël
+
+   En panne d'inspiration pour décorer votre sapin ? 10 idées féeriques à
+   copier
+
+   En panne d'inspiration pour décorer votre sapin ? 10 idées féeriques à
+   copier
+
+La recette du jour
+
+   Cailles aux canneberges
+
+   Cailles aux canneberges
+
+   Vos réactions doivent respecter nos CGU.
+
+Liens commerciaux
+
+   Publicité

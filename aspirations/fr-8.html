@@ -1,0 +1,864 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<script type="text/javascript">
+    window.gdprAppliesGlobally = true;
+    (function () {
+        function a(e) {
+            if (!window.frames[e]) {
+                if (document.body && document.body.firstChild) {
+                    var t = document.body;
+                    var n = document.createElement("iframe");
+                    n.style.display = "none";
+                    n.name = e;
+                    n.title = e;
+                    t.insertBefore(n, t.firstChild)
+                } else {
+                    setTimeout(function () {
+                        a(e)
+                    }, 5)
+                }
+            }
+        }
+
+        function e(n, r, o, c, s) {
+            function e(e, t, n, a) {
+                if (typeof n !== "function") {
+                    return
+                }
+                if (!window[r]) {
+                    window[r] = []
+                }
+                var i = false;
+                if (s) {
+                    i = s(e, t, n)
+                }
+                if (!i) {
+                    window[r].push({command: e, parameter: t, callback: n, version: a})
+                }
+            }
+
+            e.stub = true;
+
+            function t(a) {
+                if (!window[n] || window[n].stub !== true) {
+                    return
+                }
+                if (!a.data) {
+                    return
+                }
+                var i = typeof a.data === "string";
+                var e;
+                try {
+                    e = i ? JSON.parse(a.data) : a.data
+                } catch (t) {
+                    return
+                }
+                if (e[o]) {
+                    var r = e[o];
+                    window[n](r.command, r.parameter, function (e, t) {
+                        var n = {};
+                        n[c] = {returnValue: e, success: t, callId: r.callId};
+                        a.source.postMessage(i ? JSON.stringify(n) : n, "*")
+                    }, r.version)
+                }
+            }
+
+            if (typeof window[n] !== "function") {
+                window[n] = e;
+                if (window.addEventListener) {
+                    window.addEventListener("message", t, false)
+                } else {
+                    window.attachEvent("onmessage", t)
+                }
+            }
+        }
+
+        e("__tcfapi", "__tcfapiBuffer", "__tcfapiCall", "__tcfapiReturn");
+        a("__tcfapiLocator");
+        (function (e) {
+            var t = document.createElement("script");
+            t.id = "spcloader";
+            t.type = "text/javascript";
+            t.async = true;
+            t.src = "https://sdk.privacy-center.org/" + e + "/loader.js?target=" + document.location.hostname;
+            t.charset = "utf-8";
+            var n = document.getElementsByTagName("script")[0];
+            n.parentNode.insertBefore(t, n)
+        })("fedf8fb9-1b11-4492-ba29-e222ebd90a42")
+    })();
+</script>
+<script>
+    window.atSelfPromoImpression = function () {
+        console.error("atSelfPromoImpression is undefined");
+    }
+    window.atSelfPromoClick = function () {
+        console.error("atSelfPromoClick is undefined");
+    }
+    window.atClick = function () {
+        console.error("atClick is undefined");
+    }
+</script>
+<script>
+    function addToDataLayer(object) {
+        window.dataLayer = window.dataLayer || [];
+        window.dataLayer.push(object);
+    }
+
+    addToDataLayer(JSON.parse(atob("eyJlbnZfd29yayI6ICJwcm9kdWN0aW9uIiwgImVudl90ZW1wbGF0ZSI6ICJ6b29tIiwgImVudl9jaGFubmVsIjogImQiLCAiZW52X3NpdGUiOiAicHN5Y2hvdGhlcmFwaWUub29yZWthLmZyIiwgImVudl9jb3VudHJ5IjogImZyIiwgInBhZ2VfY2F0MSI6ICIiLCAidW5pdmVycyI6ICJzYW50ZSIsICJnZW9sb2NhbGlzYXRpb24iOiAiIiwgIm1ldGhvZF9nZW9sb2NhbGlzYXRpb24iOiAiIiwgInBhZ2VfbmFtZSI6ICIiLCAic2VhcmNoX3BhZ2VfbnVtYmVyIjogIiIsICJzZWFyY2hfa2V5d29yZHMiOiAiIiwgInh0X3BhZ2UiOiAiem9vbTo6dm9pcl96b29tOjpsYS1ub3N0YWxnaWUiLCAieHRuMSI6ICIiLCAieHRuMiI6ICIyIiwgInh0X2FjIjogIiIsICJ4dHNpdGUiOiA1NjQ1MjcsICJ4dF9tdXRsYyI6ICIiLCAieHRjdXN0b20iOiB7InR5cGVQYWdlIjogInpvb206OnZvaXJfem9vbTo6bGEtbm9zdGFsZ2llIiwgInR5cGVDb250ZW51IjogImFkdmljZSIsICJ0eXBlTW9iaWxlIjogbnVsbCwgImlkQ29udGVudSI6ICI2ODAyNzMiLCAibmljaGUiOiAicHN5Y2hvdGhlcmFwaWUiLCAidW5pdmVycyI6ICJzYW50ZSIsICJjYXRlZ29yaWUiOiAiU2FudFx1MDBlOSIsICJydWJyaXF1ZSI6ICJDb21wcmVuZHJlIGxlcyBcdTAwZTltb3Rpb25zIiwgIlJlZm9uZHVlIjogIm91aSIsICJkb3NzaWVyIjogIkNvbXByZW5kcmUgZXQgZ1x1MDBlOXJlciBzZXMgXHUwMGU5bW90aW9ucyJ9LCAieHRfZm9ybSI6ICIiLCAiY29uZl94aXRpU2VnbWVudElkIjogIiIsICJ1cmwiOiAiL2FzdHVjZS92b2lyLzY4MDI3My9sYS1ub3N0YWxnaWUiLCAibXZwX2Vudl90ZW1wbGF0ZSI6ICJ6b29tIiwgIm12cF9lbnZfc2l0ZSI6ICJwc3ljaG90aGVyYXBpZS5vb3Jla2EuZnIiLCAibXZwX3VuaXZlcnMiOiAic2FudGUiLCAibXZwX3NlYXJjaF9wYWdlX251bWJlciI6ICIiLCAibXZwX3NlYXJjaF9rZXl3b3JkcyI6ICIiLCAibXZwX3h0X3BhZ2UiOiAiem9vbTo6dm9pcl96b29tOjpsYS1ub3N0YWxnaWUiLCAibXZwX3h0bjIiOiAiMiIsICJtdnBfeHRfYWMiOiAiIiwgIm12cF94dHNpdGUiOiA1ODU5NTEsICJtdnBfeHRfbXV0bGMiOiAiIiwgIm12cF94dGN1c3RvbSI6IHsidHlwZVBhZ2UiOiAiem9vbTo6dm9pcl96b29tOjpsYS1ub3N0YWxnaWUiLCAidHlwZUNvbnRlbnUiOiAiYWR2aWNlIiwgInR5cGVNb2JpbGUiOiBudWxsLCAiaWRDb250ZW51IjogIjY4MDI3MyIsICJuaWNoZSI6ICJwc3ljaG90aGVyYXBpZSIsICJ1bml2ZXJzIjogInNhbnRlIiwgImNhdGVnb3JpZSI6ICJTYW50XHUwMGU5IiwgInJ1YnJpcXVlIjogIkNvbXByZW5kcmUgbGVzIFx1MDBlOW1vdGlvbnMiLCAiUmVmb25kdWUiOiAib3VpIiwgImRvc3NpZXIiOiAiQ29tcHJlbmRyZSBldCBnXHUwMGU5cmVyIHNlcyBcdTAwZTltb3Rpb25zIn0sICJtdnBfeHRfZm9ybSI6ICIiLCAibXZwX2NvbmZfeGl0aVNlZ21lbnRJZCI6ICIiLCAibXZwX3VybCI6ICIvYXN0dWNlL3ZvaXIvNjgwMjczL2xhLW5vc3RhbGdpZSJ9")));
+</script>
+
+<script>
+    (function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-54MM6T3');
+</script>
+
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0" />
+<meta name="description" class="meta-description" content="La nostalgie est un sentiment qui se traduit par le regret et l’attachement à ses souvenirs. Qu&#39;elle concerne des souvenirs de l’enfance, d&#39;une personne en particulier ou d&#39;un lieu, la nostalgie évoque des émotions heureuses associées à une douleur psycho" />
+<script>
+  var extend = function(out) {
+    out = out || {};
+    for (var i = 1; i < arguments.length; i++) {
+        if (!arguments[i])
+        continue;
+
+        for (var key in arguments[i]) {
+        if (arguments[i].hasOwnProperty(key))
+            out[key] = arguments[i][key];
+        }
+    }
+    return out;
+};
+  getCookie = function(name) {
+    var v = document.cookie.match('(^|;) ?' + name + '=([^;]*)(;|$)');
+    return v ? v[2] : null;
+};
+</script>
+<meta name="google-site-verification" content="modz6uCNixc1XMwvfrlPdQeLbccHxeu9auq26ynjbSA" />
+<meta property="og:site_name" content="Ooreka.fr" />
+<meta property="og:email" content="contact@ooreka.fr" />
+<meta property="fb:app_id" content="315262248492929" />
+<meta property="og:title" content="La nostalgie : caractéristiques, bienfaits, applications - Ooreka" />
+<meta property="og:description" class="meta-description" content="La nostalgie est un sentiment qui se traduit par le regret et l’attachement à ses souvenirs. Qu&#39;elle concerne des souvenirs de l’enfance, d&#39;une personne en particulier ou d&#39;un lieu, la nostalgie évoque des émotions heureuses associées à une douleur psycho" />
+<meta property="og:url" content="//psychotherapie.ooreka.fr/astuce/voir/680273/la-nostalgie" />
+<title>La nostalgie : caractéristiques, bienfaits, applications - Ooreka</title>
+<link rel="apple-touch-icon" sizes="180x180" href="https://assets.prod.ooreka-static.fr/b/static/favicons/apple-touch-icon.png">
+<link rel="icon" href="https://assets.prod.ooreka-static.fr/b/static/favicons/favicon.ico" />
+<link rel="manifest" href="https://assets.prod.ooreka-static.fr/b/static/favicons/site.webmanifest">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+<link rel="dns-prefetch" href="//media.ooreka.fr">
+<link rel="dns-prefetch" href="//www.ooreka.fr">
+<link rel="dns-prefetch" href="//assets.prod.ooreka-static.fr">
+<style type="text/css">
+  ﻿*{box-sizing:border-box}.clearfix::after,.w_full::after{content:'';display:table;clear:both}svg{fill:#4b4182}ul.bullet li::before,.bloc_lien_hp ul li::before,.bloc_push_step>article>div ul li::before{content:'\2022';color:#fa5a1e}section._site{background:#eceff1;background:linear-gradient(to bottom, #eceff1 0%, #fff 1000px)}section._site.no_habillage{padding-top:0;background:#fff;background:linear-gradient(to bottom, #fff 0%, #fff 1000px)}.main-content{margin:0 auto;max-width:80.4rem}.chapeau{padding:0 10rem}#_site_desktop_wallpaper{float:left;margin:0 auto;width:100%}header .sticky_bar,.hidden{display:none}.grid_5>*{margin-top:2.6rem;width:calc((100% - (5 - 1) * 2.6rem) / 5)}.pub_right{position:relative}@media screen and (max-width: 768px){.pub_right{display:none}}.txt-center{text-align:center}ul.bullet li::before{content:'•';color:#fa5a1e}.no_icon li{padding:0}.no_icon li::before{display:none}.chapeau{padding:0 10rem;text-align:center;font-family:"museo",Roboto,Arial,Helvetica,sans-serif;font-size:1.6rem;line-height:150%;transform:rotate(-0.0001deg)}@media screen and (max-width: 768px){.chapeau{padding:0}}.elemCenter{display:table !important;margin:3rem auto !important}.layer{display:none}.hide{display:none}@media (min-width: 768px){.t-hide{display:none !important}}@media (max-width: 768px){.m-hide{display:none !important}}.wallpaper-ad [id^=google_ads_iframe]{position:fixed;left:50%;transform:translate(-50%)}*{box-sizing:border-box}html,button,input,select,textarea,a,p,div,ul,section,article{color:#333}html{font-size:62.5%;font-size:calc(0.625em);font-size:calc(1rem * 0.625);background:#fff;color:#333}body{margin:0;padding:0;font-family:Roboto,Arial,Helvetica,sans-serif;font-size:1.5rem;line-height:2.4rem}section{float:left;clear:both;width:100%}section+section{margin-top:6rem}p{margin:0 0 1.5rem;padding:0;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}p:first-child{margin-top:0}a{cursor:pointer;text-decoration:none}figure{position:relative;margin:0}img{display:block;width:100%;height:auto;border:none}img[src*='logs']{display:none;width:1px;height:1px}._site{padding-top:4.8rem}._site>.w_full.headerMVP+.w_full.content_page,._site>.w_full.content_page,._site>.w_full:first-of-type{padding-top:4.8rem}._site>.w_full.headerMVP{padding-top:2.4rem}._site>.w_full:last-of-type{padding-bottom:4.8rem}._site>.w_full.content_page{padding-bottom:2.4rem}@media screen and (max-width: 768px){._site{overflow:hidden;padding-top:0;background:#fff}}.w_full{clear:both;margin:auto;padding:0 2.4rem;width:100%;max-width:100rem;background-color:#fff}.w_full>main:not(.grid),.w_full .bloc_titre,.w_full .bloc_sommaire{margin-right:auto;margin-left:auto;max-width:78.4rem}.w_full main.grid>article{flex:999 1 auto}@media (min-width: 768px){.w_full main.grid>article{width:60%;padding:0 2.4rem 0 0}}.w_full main.grid>*:last-child{flex:1 1 300px}.w_full main>article{padding:0 0 2.4em}.w_full+.w_full{padding-top:9.6rem}.w_full>*+*{margin-top:4.8rem}.w_full.margin_xl>*+*{margin-top:9.6rem}.content-body{margin:0 auto}footer{overflow:hidden}.headerMVP.multiple_folder .listing_tab>a,.headerMVP.multiple_folder .listing_tab>span{flex:1 0 14rem}.t_folder{z-index:12}._navFolder{z-index:12}.is-relative{position:relative}.wallpaper-ad{position:fixed;z-index:0;top:77px;margin:0 auto;width:100%;height:1000px;text-align:center;background-position:center top}header{position:relative;z-index:103;border-bottom:1px solid #dedede;background:#fff}.header_mvp_top{display:flex;flex-wrap:wrap;justify-content:center;margin:auto;padding:1rem;max-width:100rem}@media screen and (min-width: 768px){.header_mvp_top{justify-content:flex-end;padding:1rem 4rem}.header_mvp_top>*{flex:0 1 33.33%}}.header_mvp_top.justice{max-width:125rem}@media screen and (min-width: 768px){.header_mvp_top.justice{justify-content:space-between;padding:1rem 0}.header_mvp_top.justice>*{flex:none}}.logo{display:flex;align-items:center;justify-content:space-between;width:20%}@media screen and (max-width: 768px){.logo{width:55%}}@media screen and (min-width: 480px){.logo{justify-content:center}}.logo svg{margin-right:0;fill:#4b4182}.header_mvp .logo svg{margin-right:0.5rem}@media screen and (min-width: 768px){.header_mvp .logo svg{width:20rem}}.logo span{font-family:"museo",Roboto,Arial,Helvetica,sans-serif;font-size:2.2rem;font-weight:900;text-transform:uppercase;color:#4b4182}@media screen and (max-width: 480px){.logo span{font-size:1.5em}}.link_header{display:flex;align-items:center;justify-content:center;width:20%}@media screen and (max-width: 768px){.link_header{position:absolute;top:50%;right:1rem;display:inline-block;width:auto;transform:translateY(-50%);text-align:right}}@media screen and (min-width: 768px){.link_header .icon-user{display:none}}@media screen and (max-width: 768px){.link_header .account{display:none}}.link_header>a{padding:0 2rem;font-family:"museo",Roboto,Arial,Helvetica,sans-serif;font-size:1.4rem;text-transform:uppercase;color:#fa5a1e}.link_header>a+a{border-left:1px solid #ccc}.headerMVP{position:relative;min-height:184px;background-color:#f6f6f6 !important}.headerMVP.mvp_folder_header{min-height:120px}.headerMVP>p:first-of-type{text-transform:uppercase;font-family:Roboto,Arial,Helvetica,sans-serif;font-size:1.4rem;line-height:2rem}.headerMVP>p:first-of-type+p{margin-top:0.5rem;font-family:"museo",Roboto,Arial,Helvetica,sans-serif;font-size:2rem}.headerMVP>div{position:relative}.headerMVP>div .next,.headerMVP>div .previous{position:absolute;top:0;margin-top:0;z-index:15}.headerMVP>div .next span,.headerMVP>div .previous span{display:flex;display:-ms-flexbox;align-items:center;justify-content:center;width:3rem;height:5rem;background-color:#fff;cursor:pointer;transition:all .1s ease-in-out 0s;z-index:1}.headerMVP>div .next span.inactive,.headerMVP>div .previous span.inactive{opacity:.3;cursor:default}.headerMVP>div .next span.inactive:hover,.headerMVP>div .previous span.inactive:hover{background-color:#fff}.headerMVP>div .next span.inactive:hover::before,.headerMVP>div .previous span.inactive:hover::before{color:#fa5a1e}.headerMVP>div .next span::before,.headerMVP>div .previous span::before{font-size:2.5rem;color:#fa5a1e}.headerMVP>div .next span:hover,.headerMVP>div .previous span:hover{background-color:#fa5a1e}.headerMVP>div .next span:hover::before,.headerMVP>div .previous span:hover::before{color:#fff}.headerMVP>div .next{right:0}.headerMVP>div .next span{right:0}.headerMVP>div .previous{left:0}.headerMVP>div .previous span{left:0}.headerMVP>div .previous span::before{transform:rotate(-180deg)}@media (max-width: 480px), (max-width: 768px) and (orientation: landscape){.layer.visible{display:none !important}}.fil_ariane{padding:0 1.5rem}.fil_ariane .titre{position:relative;z-index:2;padding-bottom:10px;font-family:"museo",Roboto,Arial,Helvetica,sans-serif;font-size:2.2rem;font-weight:bold;text-transform:initial}.fil_ariane .titre a{color:#000}.nb_stepper{display:table;margin:0 auto 0.5rem auto;width:3.2rem;height:3.2rem;transition:all 0.1s ease-in-out 0s;text-align:center;color:#4b4182;border:3px solid #4b4182;border-radius:50%;font-family:"museo",Roboto,Arial,Helvetica,sans-serif;font-size:1.4rem;line-height:2.6rem;transform:rotate(-0.0001deg)}.nb_stepper.icon-home::before{vertical-align:-4px}@media (max-width: 480px), (max-width: 768px) and (orientation: landscape){.nb_stepper{position:absolute;top:50%;right:100%;margin:-1.6rem 1rem 0 0;background-color:#fff}}.stepper_show.headerMVP .listing_step{max-height:150em;opacity:1;border-bottom:1px solid #b3b3b3}.mvp_folder,.mvp_stepper{overflow:hidden;margin-top:0;height:10.5rem}.mvp_folder{height:6.7rem}.stepper_wrapper{overflow:hidden;position:absolute;width:100%;max-width:100%;height:20rem}.listing{position:relative}.listing::after{position:absolute;content:'';top:50%;right:-3rem;width:20px;height:0;box-shadow:0 0 140px 50px #f6f6f6;z-index:2}@media (min-width: 768px){.listing{display:flex;align-content:center;flex-wrap:nowrap;justify-content:space-between}}@media (max-width: 480px), (max-width: 768px) and (orientation: landscape){.listing{max-height:0;opacity:0}}.listing>*{position:relative;z-index:0;display:flex;align-items:center;justify-content:center;line-height:1.6rem;font-size:1.4rem;text-align:center}@media screen and (max-width: 480px){.listing>*{display:inline-block;width:100%}}.listing_step{display:block;margin-left:2.5rem;margin-right:2.5rem}@media (min-width: 768px){.listing_step{display:flex;align-content:center;flex-wrap:nowrap;justify-content:space-between}}@media (max-width: 768px){.listing_step>a{margin-left:9rem}}.listing_step>*{z-index:0;display:block;margin:0;padding-top:10px;height:90px;text-align:center;color:#4b4182}@media (min-width: 768px){.listing_step>*{flex:1 0 13rem;flex-wrap:nowrap;width:13rem}}@media (max-width: 480px), (max-width: 768px) and (orientation: landscape){.listing_step>*{padding-top:2.2rem;height:60px}}@media (min-width: 768px){.listing_step>*.focused{z-index:10;background:white}}.listing_step>* .libelle{display:block;margin:0 auto;width:87%}@media screen and (max-width: 480px){.listing_step>* .libelle{margin:0}}.listing_step>* .selected{font-weight:bold;text-decoration:none;color:#32c923}.listing_step>* .selected .libelle{color:#32c923}.listing_step>* .selected .nb_stepper{color:#fff;border:3px solid #32c923;background-color:#32c923}.listing_tab{flex-wrap:nowrap;justify-content:space-between}.element_fixed .listing_tab{justify-content:flex-start}.listing_tab>*{margin:0 !important;padding:2.1rem 1rem;flex:1 1 auto;width:16rem;line-height:1.6rem;font-size:1.4rem;text-align:center}@media screen and (max-width: 480px){.listing_tab>*{display:inline-block;width:100%}}.listing_tab .icon-home{margin-right:5px;width:2.5rem;height:2.5rem}.listing_tab .selected{font-weight:bold;color:#32c923;border-top:2px solid #32c923;background-color:#fff}.listing_tab .selected .icon-home{color:#32c923;border-color:#32c923}.next,.previous{position:absolute;top:-100%}.listing_step .selected{font-weight:bold;text-decoration:none;color:#32c923}.listing_step .selected .libelle{color:#32c923}.listing_step .selected .nb_stepper{color:#fff;border:3px solid #32c923;background-color:#32c923}@media (min-width: 768px){.listing_step>*::before,.listing_step>*::after{position:absolute;content:'';top:24px;left:0;width:calc(50% - 28px);height:4px;background:#32c923}.listing_step>*::after{right:0;left:auto;background:#32c923}.listing_step>*:first-child::before{display:none}.listing_step>*:last-child::after{display:none}.listing_step>*.selected ~ a::before,.listing_step>*.selected ~ a::after{background:#b3b3b3}.listing_step>*.selected::after{background:#b3b3b3}}.multiple_stepper .next span{box-shadow:0 0 140px 80px #f6f6f6}.multiple_stepper .previous span{box-shadow:0 0 60px 11px #f6f6f6}.stepper-mobile{display:none;border-bottom:1px solid #4b4182;background-color:#fff}.js-enabled .stepper-mobile{display:block}.stepper-mobile svg{display:none;margin-right:0.5rem;vertical-align:middle}.block-link{overflow:hidden;padding:0;max-height:0}@media screen and (max-width: 768px){.wallpaper-ad{z-index:-1;background-color:transparent}}.block-entete{display:flex;position:relative;padding:1.6rem 6.8rem 1rem 5rem !important;max-height:100em !important;box-shadow:0 0 8px 3px #eceff1;font-family:"museo",Roboto,Arial,Helvetica,sans-serif;font-size:1.8rem;line-height:100%;transform:rotate(-0.0001deg)}.block-entete a{display:flex;align-items:center;height:43px}.block-icon{position:absolute;top:50%;right:1rem;display:flex;align-items:center;flex-direction:column;width:5rem;height:5rem;cursor:pointer;transform:translateY(-50%);text-align:center}.block-icon i{margin:1.2rem 0}.block-icon span{display:block;margin-top:0.5rem;text-transform:uppercase;color:#4b4182;font-family:Roboto,Arial,Helvetica,sans-serif;font-size:1.2rem;line-height:100%}.icon-hamburger{width:3rem;height:45px;position:relative;margin:0 auto;transform:rotate(0deg);transition:.5s ease-in-out;cursor:pointer}.icon-hamburger span{display:block;position:absolute;height:3px;width:100%;background:#4b4182;opacity:1;left:0;transform:rotate(0deg);transition:.25s ease-in-out}.icon-hamburger span:nth-child(1){top:0px}.icon-hamburger span:nth-child(2){top:8px}.icon-hamburger span:nth-child(3){top:16px}.open .icon-hamburger span:nth-child(1){top:8px;transform:rotate(135deg)}.open .icon-hamburger span:nth-child(2){opacity:0;left:-3rem}.open .icon-hamburger span:nth-child(3){top:8px;transform:rotate(-135deg)}.bloc_rubrique>h2{margin-top:5rem}.titre_bloc_push{font-family:"museo",Roboto,Arial,Helvetica,sans-serif;font-size:2.6rem}.credit img{width:100%}@media (min-width: 768px){.credit.imggauche{float:left;margin:0 1rem 1rem 0}.credit.imgcentre{display:table;margin:2rem auto}.credit.imgdroite{float:right;margin:0 0 1rem 1rem}}.bloc_lien_hp .titre{margin-bottom:2.5rem}.bloc_lien_hp>p{font-family:Roboto,Arial,Helvetica,sans-serif;font-size:1.6rem;line-height:100%}.bloc_lien_hp ul{margin:3rem 0}.bloc_lien_hp ul li{font-family:"museo",Roboto,Arial,Helvetica,sans-serif;font-size:1.8rem;line-height:100%;transform:rotate(-0.0001deg)}.bloc_lien_hp ul li+li{margin-top:3rem}.bloc_lien_hp>a{font-weight:bold;font-family:Roboto,Arial,Helvetica,sans-serif;font-size:1.6rem;line-height:100%}.bloc_lien_hp{padding:3rem 0;border-top:1px solid #eceff1;border-bottom:1px solid #eceff1}.bloc_lien_hp .modifie{text-align:right;font-family:Roboto,Arial,Helvetica,sans-serif;font-size:1.3rem;line-height:100%}.bloc_lien_hp ul{margin:3rem 0 0 0 !important;padding:0;list-style-type:none}.bloc_lien_hp li{padding-left:1rem;font-family:"museo",Roboto,Arial,Helvetica,sans-serif;font-size:1.6rem}.bloc_lien_hp li:before{margin-right:0.5rem}.bloc_lien_hp li+li{margin-top:1rem}.bloc_lien_hp .titre{line-height:100%;font-family:'museo';font-size:2.1rem;font-weight:bold}.rubrique-liee ol li,.content_page ol li{list-style-type:none}.rubrique-liee ul,.content_page ul{margin:1.2rem 0 1.2rem;padding:0 0 0 1.2rem;list-style:none}.rubrique-liee ul li,.content_page ul li{line-height:1.9;position:relative;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.rubrique-liee ul li::before,.content_page ul li::before{position:inherit;top:0.3rem;left:0;padding-right:0.5rem;color:#fa5a1e;font-family:icomoon;font-size:2rem;line-height:initial;position:relative}.rubrique-liee ul li li::before,.content_page ul li li::before{top:3px;content:'-'}.rubrique-liee ul li span,.content_page ul li span{margin-left:-0.3rem}.rubrique-liee a:hover,.content_page a:hover{color:#fa5a1e;text-decoration:underline}.h2,.h3,.h4,.h5,.logo span,.subtitle,h1,h2,h3,h4,h5{font-family:"museo",Roboto,Arial,Helvetica,sans-serif;transform:rotate(-0.0001deg)}h1,h2,h3,h4,h5{margin-top:0}h1{font-size:4.2rem;margin:0 auto 2rem auto;line-height:100%;text-align:center;position:relative;padding:2rem 0;font-display:block}h1::before{content:"";width:8rem;height:.1rem;background-color:#fa5a1e;position:absolute;bottom:-10px;left:50%;margin-left:-4rem}.bloc_titre__h1--type-qr::before{display:none}.h2,h2{font-size:2.8rem;margin-bottom:1rem;font-weight:bold}.content-body h2{margin-top:5rem;margin-bottom:2rem}h2{color:#4b4182}h2 span{color:#4b4182}h2 a{color:#4b4182}.h3,h3{font-size:2.2rem;margin-bottom:1rem}.content-body h3{margin-top:3rem;margin-bottom:2rem}.h4,h4{font-size:1.8rem;margin-bottom:1rem}.h5,h5{font-size:1.6rem}*+h2{margin-top:5rem}*+h3,*+h4{margin-top:3rem}@media screen and (max-width: 768px){h1{font-size:3.2rem}h2{font-size:2.4rem}h3{font-size:2rem}h4{font-size:1.6rem}h5{font-size:1.4rem}}.bloc_titre .auteur{text-align:center;margin:3rem 0;font-family:Roboto,Arial,Helvetica,sans-serif;font-size:1.2rem;line-height:1.5}.bloc_titre .auteur a img,.bloc_titre .auteur a svg{display:inline-block;vertical-align:bottom;width:2rem;height:2rem;margin-right:.5rem}.bloc_titre .auteur a:hover{text-decoration:underline;color:#fa3c3c}.bloc_titre .auteur>span>span{margin:0 1rem}.card_summary{padding:2rem;width:100%;background-color:#f9f9f9;margin:3rem auto}.card_summary .title_h2{margin-bottom:3rem}.card_summary ul{padding:0}.card_summary li::before{content:""}.card_summary li{list-style:none;margin:0;background:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' version='1.1' height='20px' width='20px'><text x='0' y='21' fill='%23fa5a1e' font-size='20'>•</text></svg>") no-repeat left top;padding:3px 0px 3px 10px}.card_summary li span:hover,.card_summary a{color:#fa5a1e;cursor:pointer}@media only screen and (min-width: 768px){.card_summary{width:66.66667%;padding:3rem 5rem}.card_summary__link{margin-bottom:0.5rem}}.card_summary__link{font-size:1.6rem;margin-bottom:1.5rem}.card_summary__title{font-family:"museo";font-size:2.8rem;margin-top:5rem;margin-bottom:2rem;color:#4b4182;font-weight:700}.rubrique-liee{margin-top:4.8rem;padding:0 1.6rem 2.4rem;position:relative;background:white;max-width:630px}.col_8 .rubrique-liee{padding-right:0;padding-left:0}.rubrique-liee .block{margin-top:2.4rem}.rubrique-liee .head-content{margin:0 0 2.4rem}.rubrique-liee .head-content h2{margin:1.2rem 0 2.7rem}.rubrique-liee .head-content h2:hover{color:#fa5a1e;text-decoration:underline}.rubrique-liee .head-content .subtitle{margin:0 0 1.2rem;color:#4b4182}.rubrique-liee .head-content p:not(.subtitle){font-family:Roboto,Arial,Helvetica,sans-serif;font-size:1.8rem;line-height:100%;font-weight:bold;margin:2.4rem 0 1.2rem}.rubrique-liee .head-content ul{padding:0}.rubrique-liee .head-content ul li{padding:0;cursor:pointer}.rubrique-liee .head-content ul li::before{font-size:2rem}.rubrique-liee .inner-content{max-width:100%}.rubrique-liee .block{margin:2.4rem 0}.rubrique-liee .block h3{font-family:Roboto,Arial,Helvetica,sans-serif;font-size:1.8rem;line-height:100%;font-weight:bold;color:#fa5a1e;border-bottom:1px solid #fa5a1e;padding-bottom:1rem;margin-bottom:0;line-height:2.15}.rubrique-liee .block a{display:block;border-bottom:1px solid #eceff1;position:relative;padding:1rem 0;line-height:1.8;cursor:pointer}.rubrique-liee .block a:first-child{border-top:none}.rubrique-liee .block a:hover{color:#fa5a1e;text-decoration:underline}.rubrique-liee .block .show-more,.rubrique-liee .block .show-less{cursor:pointer;padding-top:1rem;padding-left:1.5rem;position:relative}.rubrique-liee .block .show-more:hover,.rubrique-liee .block .show-less:hover{text-decoration:underline}.rubrique-liee .block .show-more::before,.rubrique-liee .block .show-less::before{font-family:'icomoon';content:'\F105';transform:rotate(0.25turn);color:#fa5a1e;position:absolute;left:0}.rubrique-liee .block .show-less::before{transform:rotate(0.75turn)}.rubrique-liee .block .hidden{display:none}.rubrique-liee .block .icon-chevron,.rubrique-liee .block ul li,.rubrique-liee ul .block li,.rubrique-liee .block .content_page ul li,.content_page ul .rubrique-liee .block li{position:relative}.rubrique-liee .block .icon-chevron::before,.rubrique-liee .block ul li::before,.rubrique-liee ul .block li::before,.rubrique-liee .block .content_page ul li::before,.content_page ul .rubrique-liee .block li::before{position:absolute;top:50%;left:0;transform:translateY(-50%) rotate(90deg);color:#fa5a1e}.rubrique-liee .block .icon-chevron.closed::before,.rubrique-liee .block ul li.closed::before,.rubrique-liee ul .block li.closed::before,.rubrique-liee .block .content_page ul li.closed::before,.content_page ul .rubrique-liee .block li.closed::before{transform:translateY(-50%) rotate(90deg)}.rubrique-liee ul li span:hover,main article .rubrique-liee ul li span:hover{color:#fa5a1e;text-decoration:underline}.rubrique-liee ul li::before,main article .rubrique-liee ul li::before{content:'\F105';color:#fa5a1e}ul:first-child,ol:first-child{margin-top:0}ul[class*='grid'],ol[class*='grid']{padding-left:0}ul ul,ul ol,ol ul,ol ol{margin-top:.5rem}ol{counter-reset:puces}ol>li{counter-increment:puces;position:relative;padding-left:2rem}ol>li::before{position:absolute;left:0;top:.4rem;margin-right:.5rem;content:counter(puces) ".";font-family:Roboto,Arial,Helvetica,sans-serif;font-size:1.6rem;line-height:100%;color:#4b4182;font-weight:bold}.bloc_cat>div h2 span{font-family:Roboto,Arial,Helvetica,sans-serif;font-size:1.8rem;line-height:100%}.bloc_cat>div article{position:relative;cursor:pointer}.bloc_cat>div article h3{position:absolute;bottom:1.5rem;left:1.5rem;right:1.5rem;padding:1.5rem 3rem 1.5rem 1.5rem;margin:0;background-color:#fff}.bloc_cat>div article h3::before{content:"";position:absolute;top:50%;right:1.5rem;display:inline-block;width:.6rem;height:.6rem;background-color:#fa5a1e;box-shadow:0 -9px 0 0 #fa5a1e,0 9px 0 0 #fa5a1e;transform:translateY(-.3rem)}.bloc_cat>div article:hover h3 a{text-decoration:underline;color:#fa3c3c}.bloc_cat>div .flex_column{display:flex;display:-ms-flexbox;flex-direction:column;-ms-flex-direction:column;-webkit-box-orient:vertical;-webkit-box-direction:normal;justify-content:space-between}.bloc_cat>div.project_1 .fiche_entretien{margin-top:0}.bloc_cat>div.project_1 .fiche_entretien>div{height:100%}.bloc_cat>div .fiche_entretien{border:1px solid #cfd6db;margin-top:2.6rem}.bloc_cat>div .fiche_entretien ul{padding-left:0}.bloc_cat>div .fiche_entretien>div{padding:3rem 2rem}.bloc_cat>div .fiche_entretien>div>p{font-family:"museo",Roboto,Arial,Helvetica,sans-serif;font-size:1.8rem;line-height:100%;transform:rotate(-0.0001deg);margin-bottom:2rem}.bloc_cat>div .fiche_entretien>div a{display:block;color:#333}.bloc_cat>div .fiche_entretien>div a:hover{color:#fa5a1e}.bloc_cat>div .fiche_entretien>div+a{background-color:#eceff1;display:flex;align-items:center;justify-content:center;flex-direction:column;padding:1rem;text-align:center;color:#fa5a1e}.bloc_cat>div .fiche_entretien>div+a span{color:#fa5a1e;font-family:Roboto,Arial,Helvetica,sans-serif;font-size:1.8rem;line-height:100%;font-weight:bold}.bloc_cat>div .fiche_entretien>div+a:hover{background-color:#fa5a1e;color:#fff;text-decoration:none}.bloc_cat>div .fiche_entretien>div+a:hover span{color:#fff}.listing_entretien .page_liste>p{padding-bottom:.5rem;border-bottom:1px solid #eceff1}@media screen and (max-width: 768px){.bloc_cat>div.project_1 .fiche_entretien{margin-top:2.6rem}.bloc_cat>div .flex_column>*+*{margin-top:2.6rem}.bloc_cat>div .fiche_entretien [class^="col_"]+a{margin-top:0;flex-direction:row;-ms-flex-direction:row;-webkit-box-orient:horizontal;-webkit-box-direction:normal}.bloc_cat>div .fiche_entretien [class^="col_"]+a span{margin-right:.5rem}}
+
+  @font-face {
+    font-family: 'icomoon';
+    src: url("https://assets.prod.ooreka-static.fr/b/static/fonts/icomoon.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "museo";
+    font-weight: 500;
+    src: url("https://assets.prod.ooreka-static.fr/b/static/fonts/museo500.woff2") format("woff2");
+    font-display: fallback;
+  }
+</style>
+<noscript><link href="https://assets.prod.ooreka-static.fr/b/static/main.cc090808933588faf0b6.css" rel="stylesheet" type="text/css" media="screen"></noscript>
+<script>document.querySelector("html").classList.add("js-enabled")</script>
+<script type="text/javascript">
+    var g = g || {};
+    g = extend({}, g, {
+        algolia: {
+            applicationId: 'V94LDQHEPV',
+            apiKey: 'bc9a4ead56c1b70ce3c9f461f4e0c3dc'
+        },
+        content: {
+            type: 'advice',
+            slug: 'la-nostalgie',
+        },
+        url: '//psychotherapie.ooreka.fr/astuce/voir/680273/la-nostalgie',
+        domain: 'ooreka.fr',
+        controller: 'astuce',
+        action: '',
+        container: {
+            id: 755773
+        },
+        site: {
+            slug: 'psychotherapie',
+            config: JSON.parse('{"amazonId": "fd0b7baa-b9a6-4e3d-88cf-8dfbdaed849d", "annuaire": {"requestPJ": "psychotherapiecomprendrechoisirnew", "seoActivities": ["psychologues", "psychoth\u00e9rapeutes", "m\u00e9decins psychiatres", "psychanalystes", "psychoth\u00e9rapie (pratiques hors du cadre r\u00e9glement\u00e9)", "m\u00e9decins neuropsychiatres", "m\u00e9decins psychiatres enfants et adolescents"], "titleTag": "Psychologue, psychiatre, psychanalyste"}, "baseline": "Psychotherapie, mieux comprendre pour bien choisir", "dfp_category": "bien-etre", "googleAnalyticsId": "UA-18306159-32", "googleId": "modz6uCNixc1XMwvfrlPdQeLbccHxeu9auq26ynjbSA", "googleSearchId": "009837798009041735020:savrqwzogpy", "google_ad_client": "pub-6274639736184144", "hasForms": "false", "hasMedicaments": true, "headerTabQuestionNoPro": true, "noUGC": "false", "siteLabel": "psychotherapie", "siteName": "Psychotherapie", "siteTheme": "sante", "windowsLiveId": "", "xitiId": "564527", "xitiSegmentId": "", "xitiSubdomainId": "54", "xitiUnivers": "sante"}')
+        },
+        xitiOrigin: '',
+        config: {
+            SITES_XT_IMPRESSION_URL: '//at.pagesjaunes.fr/get.ad',
+            SITES_XT_SITE_ID_MVP: '585951',
+            SENTRY_DSN: 'None',
+            TRACKING_BP_URL: '//www.ooreka.fr/img/trkAT.gif',
+        },
+        env: '',
+        proAPIUrl: '//pro-api.prod.ooreka.fr',
+        trk: JSON.parse('{"containerDCId": null, "containerName": "Comprendre et g\u00e9rer ses \u00e9motions", "containerSlug": "comprendre_et_gerer_ses_emotions", "containerType": "dossier", "containerTypeName": "dossier_comprendre_et_gerer_ses_emotions", "contentDCId": null, "contentType": "advice", "pageType": "zoom", "siteAlternateSlug": "psychotherapie", "siteSlug": "psychotherapie"}'),
+        appState: {
+            ebookDownloadInformations: {},
+        },
+        userCookie: getCookie("py_user") ? JSON.parse(atob(getCookie("py_user"))) : undefined,
+        debug: false,
+    });
+
+    var authInfos = {
+        login: g.userCookie ? "1" : "2",
+        loginType: (g.userCookie && g.userCookie.facebookId) ? "2" : "1"
+    };
+
+    addToDataLayer({
+        env_width: window.innerWidth,
+        user_id: g.userCookie && g.userCookie.id,
+        user_gender: g.userCookie && g.userCookie.gender,
+        user_category: g.userCookie && g.userCookie.type,
+        
+        random: Math.floor(Math.random() * (Math.floor(1000000000) - Math.ceil(100000000))) + Math.ceil(100000000),
+        mvp_env_width: window.innerWidth,
+        mvp_user_id: g.userCookie && g.userCookie.id,
+        poool_page_type: 'premium'
+    });
+
+    xtcustom = extend({}, window.dataLayer[0].xtcustom, authInfos);
+    mvp_xtcustom = extend({}, window.dataLayer[0].mvp_xtcustom, authInfos);
+
+</script>
+<script type="application/ld+json">
+    {
+        "isAccessibleForFree": "False",
+        "hasPart": {
+            "@type": "WebPageElement",
+            "isAccessibleForFree": "False",
+            "cssSelector": ".content-poool"
+        }
+    }
+</script>
+<script src="//cdn.hubvisor.io/wrapper/01D6X4Y50DGHQY1A2QJ063SAF4/hubvisor.js" defer></script>
+<script>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+
+function fetchAds() {
+  var adSlots = {
+    desktopWallpaper: {
+      idDiv: "_ad_desktop_wallpaper",
+      position: "wallpaper",
+      slotSizes: [[1800, 1000], [728, 90], [970, 250], [1000, 90], [1, 1], [970, 90]]
+    },
+    multiFooter: {
+      idDiv: "_ad_multi_footer",
+      position: "desktop_footer",
+      slotSizes: ['fluid', [650, 400], [1, 1]]
+    },
+    mobileBanner: {
+      idDiv: "_ad_mobile_banner",
+      position: "mobile_banner",
+      slotSizes: [[300, 50], [320, 50], [420,72]]
+    },
+    mobileFooter: {
+      idDiv: "_ad_mobile_footer",
+      position: "interstitial",
+      slotSizes: [[300, 600], [300,250], [420,280], [1,1]]
+    },
+    mobileFooterProduits: {
+      idDiv: "_ad_mobile_footer_produits",
+      position: "mobile_footer_produits",
+      slotSizes: ['fluid',[300,250], [650, 100], [300,600], [1, 1]]
+    },
+    desktopRight: {
+      idDiv: "_ad_desktop_right",
+      position: "right_column",
+      slotSizes: [[300, 600], [300, 250], [160, 600], [120,600]]
+    },
+    desktopRight2: {
+      idDiv: "_ad_desktop_right2",
+      position: "right_column2",
+      slotSizes: [[300, 600], [300, 250], [160, 600], [120,600]]
+    },
+    multiContent: {
+      idDiv: "_ad_multi_content",
+      position: "desktop_content_",
+      slotSizes: ['fluid', [300, 250], [1, 1]]
+    },
+    mobileContent: {
+      idDiv: "_ad_mobile_content",
+      position: "mobile_content_",
+      slotSizes: ['fluid', [300, 250], [1, 1]]
+    }
+  }
+  let dfpCategory = "bien-etre";
+  let xtcustom = dataLayer[0].mvp_xtcustom;
+  let dfpUrl = `/360138111/${dfpCategory}/${xtcustom.niche}`;
+  let mobile = window.innerWidth < 500;
+  let desktop = window.innerWidth >= 500;
+  let multiContentAds = 0;
+  let mobileContentAds = 0;
+  let defineSlot = function(slot, adNumber) {
+    if (!adNumber) adNumber = "";
+    googletag.cmd.push(function() {
+      googletag
+          .defineSlot(dfpUrl, slot.slotSizes, slot.idDiv+adNumber)
+          .setForceSafeFrame(false)
+          .setTargeting('position', [slot.position+adNumber])
+          .setTargeting('isMvp', ['1'])
+          .setTargeting('url', dataLayer.mvp_url)
+          .setTargeting('xtcustom', xtcustom.typePage)
+          .setTargeting('idContenu', xtcustom.idContenu)
+          .setTargeting('adtest', [''])
+          .addService(googletag.pubads());
+    });
+  };
+  if (window.innerWidth >= 1000) {
+    // desktop "habillage"
+    defineSlot(adSlots.desktopWallpaper);
+  }
+  if (desktop) {
+    // desktop footer
+    defineSlot(adSlots.multiFooter);
+  }
+  if (mobile) {
+    // mobile banner
+    defineSlot(adSlots.mobileBanner);
+    // mobile footer
+    defineSlot(adSlots.mobileFooter);
+    // mobile footer_produits
+    defineSlot(adSlots.mobileFooterProduits);
+  }
+  
+    if (window.innerWidth >= 900) {
+      // desktop "grand angle"
+      defineSlot(adSlots.desktopRight);
+      // desktop "grand angle" after scroll
+      defineSlot(adSlots.desktopRight2);
+    }
+  
+  
+    
+      if (desktop) {
+        multiContentAds = 4;
+        // desktop in-content (comprendre, advice)
+        defineSlot(adSlots.multiContent, 1);
+      }
+    
+      if (desktop) {
+        multiContentAds = 4;
+        // desktop in-content (comprendre, advice)
+        defineSlot(adSlots.multiContent, 2);
+      }
+    
+      if (desktop) {
+        multiContentAds = 4;
+        // desktop in-content (comprendre, advice)
+        defineSlot(adSlots.multiContent, 3);
+      }
+    
+      if (desktop) {
+        multiContentAds = 4;
+        // desktop in-content (comprendre, advice)
+        defineSlot(adSlots.multiContent, 4);
+      }
+    
+    
+
+      if (mobile) {
+        mobileContentAds = 4;
+        // mobile in-content (comprendre, advice)
+        defineSlot(adSlots.mobileContent, 1);
+      }
+    
+
+      if (mobile) {
+        mobileContentAds = 4;
+        // mobile in-content (comprendre, advice)
+        defineSlot(adSlots.mobileContent, 2);
+      }
+    
+
+      if (mobile) {
+        mobileContentAds = 4;
+        // mobile in-content (comprendre, advice)
+        defineSlot(adSlots.mobileContent, 3);
+      }
+    
+
+      if (mobile) {
+        mobileContentAds = 4;
+        // mobile in-content (comprendre, advice)
+        defineSlot(adSlots.mobileContent, 4);
+      }
+    
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().disableInitialLoad();
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+    // Adds a 207px padding on top of main container if ad_desktop_wallpaper is rendered
+    googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+      if (event.slot != null && (event.slot.getSlotElementId() === "_ad_desktop_wallpaper")) {
+        var wallpaperIframe = document.querySelector("#_ad_desktop_wallpaper div iframe");
+        if (wallpaperIframe != null && wallpaperIframe.clientHeight > 1) {
+          document.querySelector("#_site_desktop_wallpaper").style.paddingTop = "207px";
+        }
+      }
+    });
+  });
+}
+
+function waitingAuthorizationForFetchingAds() {
+    window.didomiOnReady = window.didomiOnReady || [];
+    window.didomiOnReady.push(function (Didomi) {
+        let googleAdsTracking = Didomi.getUserConsentStatusForVendor("google");
+        if (googleAdsTracking || new URLSearchParams(window.location.search).get("bypass-privacy") != null) {
+            window.fetchAds();
+        } else {
+            setTimeout(() => {
+                window.waitingAuthorizationForFetchingAds();
+            }, 1000);
+        }
+    });
+}
+
+waitingAuthorizationForFetchingAds();
+
+</script>
+</head>
+<body class="clearfix">
+
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-54MM6T3" height="0" width="0"
+            style="display:none;visibility:hidden"></iframe>
+</noscript>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="56" viewBox="-1 0 368 100" style="position:absolute;bottom:100%;right:100%;">
+<g id="logo">
+<g id="hibou">
+<defs><path fill="#FAC800" d="M60.08 95.6a5 5 0 0 0-.962-2.168 3 3 0 0 0-3.168 0 5 5 0 0 0-.963 2.2c-.187.735-.09 1.493-.002 2.162a5.3 5.3 0 0 0 2.5 3.5 5.3 5.3 0 0 0 2.5-3.6c.154-.722.241-1.392.095-2.094z" id="c" /><path fill="#1D1D1B" d="M32 41a5.5 5.5 0 0 0 5.3-7.2 3 3 0 0 1-2.5 1.6 3 3 0 0 1-2.8-3c0-1.1.7-2.09 1.6-2.5a5.5 5.5 0 1 0-1.6 11v.1zm36 375a5.5 5.5 0 0 0-60 0" id="b" /><linearGradient y2="2.521" x2=".5" y1="1.821" x1=".5" id="a"><stop stop-color="#fa6414" offset="0" /><stop stop-color="#fa6117" offset=".04" /><stop stop-color="#fa4d2b" offset=".4" /><stop stop-color="#fa4038" offset=".7" /><stop stop-color="#fa3c3c" offset="1" /></linearGradient></defs><path fill="none" d="M-1-1h582v402H-1z" /><g><path stroke="null" fill="url(#a)" d="M86 35.157A142 145.55 0 0 0 77 0c-9 7.175-20 11.275-33 11.275A55 56.375 0 0 1 11 0a142 145.55 0 0 0-9 35.875l84-.718zM86.918 39.653c-.02-.202-.043-.402-.065-.603-.019-.167-.038-.33-.055-.495l-4.55.735c-.58 11.03-9.446 19.789-20.301 19.789a20.212 20.817 0 0 1-12.664-4.569c-.712 1.531-2.55 4.523-5.03 6.002-2.479-1.478-4.319-4.468-5.029-5.998a20.644 21.263 0 0 1-12.664 4.565c-10.855 0-19.719-8.76-20.3-19.789l-4.915-.735c-.042.367-.085.73-.12 1.013a142.545 146.816 0 0 0-.413 15.11c0 17.517 9.83 32.401 23.594 39.489 20.556 4.404 20.688 4.3 39.868.455 13.763-7.088 23.593-22.276 23.593-39.489v-.012c0-5.063 0-10.242-.983-15.188l.034-.28z" /><path fill="#FAC800" d="M43.94 49a20.8 20.8 0 0 1-5 6c.722 1.5 2.6 4.5 5 6 2.5-1.5 4.4-4.4 5-6a21 21 0 0 1-5.1-6h.1z" /><circle fill="#4b4182" r="21" cy="39" cx="26" /><circle fill="#FFF" r="15" cy="39" cx="25.833" /><circle fill="#4b4182" r="21.2" cy="39" cx="62" /><circle fill="#FFF" r="15" cy="39" cx="62" /><use xlink:href="#b" /><use x="36" xlink:href="#b" /><use x="-31.267" xlink:href="#c" /><use x="-26.333" xlink:href="#c" /><use x="-21.4" xlink:href="#c" /><use x="-4.667" xlink:href="#c" /><use x=".167" xlink:href="#c" /><use x="5" xlink:href="#c" /><path fill="#4b4182" d="M87 38.7l-4.6.73-.25-4.5 4.3-.7h1l.7 5-1 1c0 .8-.1-.7 0-1.1L87 38.7zM1 39l4.541.8L5.8 35l-4.3-.4-.8-.1L0 39l1 1.2c.036-.364.08-.7.1-1.1L1 39z" /></g>
+</g>
+<g id="ooreka">
+<title>Ooreka</title>
+<path class="txt" d="M256.642 27.078c-13.277 0-22.479 9.548-22.479 23.175 0 12.585 9.113 23.174 23.781 23.174 11.023 0 17.793-6.684 17.793-6.684l-4.6-7.638s-5.295 4.948-12.412 4.948c-6.682 0-12.412-4.08-13.279-11.892h30.553s.26-2.777.26-4.079c0-11.717-6.944-21.004-19.617-21.004zm-10.85 17.446c1.215-5.555 5.209-8.939 10.85-8.939 4.514 0 8.16 3.646 8.334 8.939h-19.184zM174.145 27.078c-7.819 0-14.681 3.32-19.041 8.776-4.36-5.457-11.221-8.776-19.041-8.776-13.27 0-23.886 9.634-23.886 23.175 0 13.627 10.616 23.174 23.886 23.174 7.82 0 14.68-3.29 19.041-8.739 4.36 5.449 11.221 8.739 19.041 8.739 13.271 0 23.886-9.547 23.886-23.174-.001-13.541-10.616-23.175-23.886-23.175zm-37.751 36.975c-7.118 0-13.106-5.556-13.106-13.8 0-8.159 5.988-13.801 13.106-13.801 7.204 0 13.192 5.643 13.192 13.801 0 8.245-5.988 13.8-13.192 13.8zm37.42 0c-7.204 0-13.193-5.556-13.193-13.8 0-8.159 5.989-13.801 13.193-13.801 7.117 0 13.106 5.643 13.106 13.801.001 8.245-5.988 13.8-13.106 13.8zM216.151 38.873h-.172s.172-1.122.172-2.761v-2.588c0-3.71-1.984-5.35-5.867-5.35h-10.008v8h3.451c1.207 0 1.898.604 1.898 1.898v34.343h10.871V54.749c0-2.588.346-5.004.949-7.161 1.984-6.558 7.334-9.607 11.992-9.607 1.555 0 2.676.172 2.676.172v-10.41s-1.035-.172-1.984-.172c-6.73-.001-11.993 5.003-13.978 11.302zM345.851 27.102c-8.426 0-14.771 3.929-15.871 4.616v9.569h8.605l.811-4.8c1.523-.579 4.426-.904 5.748-.904 5.824 0 8.859 4.185 8.859 7.396v2.934h-6.391c-14.953 0-20.566 6.298-20.566 13.848 0 5.641 3.545 13.59 19.023 13.59 8.455 0 13.785-1.467 18.619-2.847V45.696c0-9.836-3.949-18.594-18.837-18.594zm8.152 36.965c-1.984.518-5.117 1.036-7.705 1.036-6.299 0-8.219-2.501-8.219-6.15 0-2.715 2.205-6.312 12.041-6.312h3.883v11.426zM317.636 62.781l-5.875-10.879c-1.564-2.864-3.127-3.472-3.127-3.472v-.174s1.391-.694 3.299-3.471L323.13 28.12h-12.238l-9.027 13.974c-.955 1.389-2.777 1.649-4.166 1.649H294.4V15.795c0-4.079-1.822-5.034-5.9-5.034h-10.502v8.045h3.471c1.215 0 1.91.608 1.91 1.91v51.669H294.4V53.03h2.432c1.387 0 3.211.087 4.078 1.649l7.379 13.888c1.736 3.211 3.211 3.819 6.943 3.819h8.146V64.43h-2.098c-2.082 0-2.951-.347-3.644-1.649z" />
+</g>
+</g>
+</svg>
+<header class="clearfix">
+<div class="header_mvp">
+<div class="header_mvp_top psychotherapie">
+<a class="logo" oo-trk="header-retour-univers" href="//www.ooreka.fr/univers/sante">
+<svg lass="svg-logo-header" width="200" height="56" viewBox="-1 0 368 100">
+<use xlink:href="#logo" /></svg>
+<span>Santé</span>
+</a>
+<div class="link_header">
+<div style="display: none" class="t_compte-menu-close compte animated headerConnected" onclick="mvpCommon.showTooltips(this)">
+<span class="account">Mon compte</span>
+<span class="icon-user"></span>
+<div class="_tool tooltips right show_bottom fadeInUp" style="display:none;">
+<a class="t_board-menu-close" href="//www.ooreka.fr/tableauDeBord">Mon tableau de bord</a>
+<a class="t_deconnexion-menu-close" href="//psychotherapie.ooreka.fr/identificationMVP/logout">Déconnexion</a>
+</div>
+</div>
+<a class="headerNotConnected" oo-trk="header-connexion" href="//psychotherapie.ooreka.fr/identificationMVP/connexion">
+<span class="account">Connexion</span>
+<span class="icon-user"></span>
+</a>
+</div>
+</div>
+</div>
+</header>
+<div id="_popinContent" class="popin_content animated" style="display: none;">
+<input type="hidden" id="_redirPopin">
+<input type="hidden" id="_infoPassword">
+<input type="hidden" id="_fromResetPassword">
+<div class="fadeIn"></div>
+</div>
+<div id="_ad_desktop_wallpaper" class="wallpaper-ad">
+<script>
+			googletag.cmd.push(function() { googletag.display('_ad_desktop_wallpaper'); });
+		</script>
+</div>
+<section class="_site" id="_site_desktop_wallpaper">
+<div id="_headerMVP" class="w_full headerMVP m-hide mvp_folder_header">
+<div class="fil_ariane" id="_filAriane">
+<p class="titre"><a href="//psychotherapie.ooreka.fr/dossier/755773/comprendre-et-gerer-ses-emotions">Comprendre et gérer ses émotions</a>
+</div>
+<div class="mvp_folder menuXL">
+<div class="menuXL_content">
+<div class="stepper_wrapper menuXL_wrapper">
+<div id="_listFolder" class="listing listing_tab">
+<a class="" data-preview-id="step_" href="//psychotherapie.ooreka.fr/dossier/755773/comprendre-et-gerer-ses-emotions">
+<span class="icon-home"></span>
+Accueil
+</a>
+<a class="t_folder t_menu_xl selected" data-preview-id="step_755775" href="//psychotherapie.ooreka.fr/755773/rubrique/755775/comprendre-les-emotions">
+Comprendre les émotions
+</a>
+<a class="t_folder t_menu_xl" data-preview-id="step_755777" href="//psychotherapie.ooreka.fr/755773/rubrique/755777/maitriser-ses-emotions">
+Maîtriser ses émotions
+</a>
+</div>
+<button class="previous _navFolder hide">
+<span class="icon-chevron"></span>
+</button>
+<button class="next _navFolder hide">
+<span class="icon-chevron"></span>
+</button>
+</div>
+</div>
+<button class="previous _navFolder hide">
+<span class="icon-chevron"></span>
+</button>
+<button class="next _navFolder hide">
+<span class="icon-chevron"></span>
+</button>
+</div>
+</div>
+<nav class="stepper-mobile t-hide" data-items="8">
+<div class="block-entete">
+<svg height="43" role="img" viewBox="0 0 90 104"><use xlink:href="#hibou" /></svg>
+<a class='title' href="//psychotherapie.ooreka.fr/dossier/755773/comprendre-et-gerer-ses-emotions">Comprendre et gérer ses émotions</a>
+<span class="block-icon">
+<div class="icon-hamburger">
+<span></span>
+<span></span>
+<span></span>
+</div>
+<span>Menu</span>
+</span>
+</div>
+<div class="block-link">
+<div class="block-summary">
+<p class="title">Plan</p>
+<div>
+<p class="subtitle"><a href="//psychotherapie.ooreka.fr/dossier/755773/comprendre-et-gerer-ses-emotions">Accueil</a></p>
+<div class="block">
+<p class="subtitle active"><a href="//psychotherapie.ooreka.fr/755773/rubrique/755775/comprendre-les-emotions">Comprendre les émotions</a></p>
+</div>
+<div class="block">
+<p class="subtitle"><a href="//psychotherapie.ooreka.fr/755773/rubrique/755777/maitriser-ses-emotions">Maîtriser ses émotions</a></p>
+</div>
+</div>
+</div>
+</div>
+</nav>
+<div class="w_full content content-container content_page is-relative">
+<div class="bloc_titre">
+<h1 itemprop="name" class="title_h1">La nostalgie</h1>
+<meta itemprop="datePublished" content="" />
+<meta itemprop="headline" content="" />
+<meta itemprop="image" content="" />
+<div class="auteur">
+<svg width="15px" role="img" viewBox="0 0 100 104"><use xlink:href="#logo" /></svg>
+Rédigé par des auteurs spécialisés Ooreka
+</div>
+</div>
+<div class="card_summary">
+<p class="card_summary__title">Sommaire</p>
+<ul>
+<li class="card_summary__link" oo-trk="sommaire">
+<span>La nostalgie, qu'est-ce que c'est ?</span>
+</li>
+<li class="card_summary__link" oo-trk="sommaire">
+<span>Quelles sont les caractéristiques de la nostalgie ?</span>
+</li>
+<li class="card_summary__link" oo-trk="sommaire">
+<span>La nostalgie a-t-elle des bienfaits ?</span>
+</li>
+<li class="card_summary__link" oo-trk="sommaire">
+<span>Quelles sont les applications de la nostalgie ?</span>
+</li>
+</ul>
+</div>
+<div class="ui_divider"></div>
+<main class=" grid _fixedElementParent">
+<article class="col_8 ">
+<figure class="presentation_img_intro">
+<img class="middle" src="//media.ooreka.fr/public/image/Femme-mature-tristesse-main-13744143.jpg" title="La nostalgie" />
+</figure>
+<div class="content-body content-poool" data-poool="90" data-poool-mode="hide">
+<p>La <strong>nostalgie</strong> est un sentiment qui se traduit par le regret et l’attachement à ses souvenirs. Qu'elle concerne des souvenirs de l’enfance, d'une personne en particulier ou d'un lieu, la nostalgie évoque des émotions heureuses associées à une douleur psychologique. Dans certains cas, elle peut évoluer vers une <a href="//depression.ooreka.fr/comprendre/melancolie" oo-trk="navigation-contenu-lien-hypertext">mélancolie</a> ou une <a href="//depression.ooreka.fr/comprendre/maladie-depression" oo-trk="navigation-contenu-lien-hypertext">dépression</a>. On vous dit tout sur la nostalgie dans cet article. </p>
+<div class="ad_test1" id="_ad_multi_content1" style="display:none;"></div><div class="ad_test1" id="_ad_mobile_content1" style="display:none;"></div><h2>La nostalgie, qu'est-ce que c'est ?</h2><script type="text/javascript">googletag.cmd.push(function(){googletag.display('_ad_multi_content1');googletag.display('_ad_mobile_content1');});</script>
+<p><dfn>La nostalgie est un sentiment très particulier qui se caractérise par le regret de certaines personnes, de lieux ou de souvenirs associés à des émotions agréables et positives. </dfn>Ce mot, issu du grec « nostos » qui signifie le mal du pays, et de « algos », la souffrance, se réfère parfois à une mélancolie et une tristesse.</p>
+<p>Parfois synonyme de cafard, la nostalgie se traduit par la mémoire d’un passé, d’un vécu ayant disparu.</p>
+<aside class="bloc_notes grid">
+<div class="note">
+<span class="icon icon-info">
+</span><p><strong>Bon à savoir</strong> : la nostalgie est un sentiment douloureux, en lien avec la perte, mais aussi une sensation de plaisir de retrouver ses souvenirs heureux ; la personne ou le lieu associé au souvenir est souvent idéalisé par le nostalgique, qui embellit son passé et le regrette d’autant plus.</p> </div>
+</aside>
+<div class="ad_test1" id="_ad_multi_content2" style="display:none;"></div><div class="ad_test1" id="_ad_mobile_content2" style="display:none;"></div><h2>Quelles sont les caractéristiques de la nostalgie ?</h2><script type="text/javascript">googletag.cmd.push(function(){googletag.display('_ad_multi_content2');googletag.display('_ad_mobile_content2');});</script>
+<p>La nostalgie se caractérise par :</p><ul><li>un souvenir heureux, parfois déformé de façon positive ;</li>
+<li>un sentiment de regret du passé ;</li>
+<li>un manque, une perte, un besoin ;</li>
+<li>une distance physique ou temporelle avec le souvenir.</li>
+</ul><p>En général, la nostalgie se manifeste lors d’un rappel mental ou sensoriel vis-à-vis d’un souvenir, d’un lieu ou d’une personne. Dans certains cas, elle s’accompagne d’une tristesse liée à des choses passées, manquées ou échouées.</p>
+<aside class="bloc_notes grid">
+<div class="note">
+<span class="icon icon-info">
+</span><p><strong>Bon à savoir</strong> : la nostalgie apparaît la plupart du temps dans des situations ou par des gestes précis qui rappellent le souvenir heureux.</p> </div>
+</aside>
+<div class="ad_test1" id="_ad_multi_content3" style="display:none;"></div><div class="ad_test1" id="_ad_mobile_content3" style="display:none;"></div><h2>La nostalgie a-t-elle des bienfaits ?</h2><script type="text/javascript">googletag.cmd.push(function(){googletag.display('_ad_multi_content3');googletag.display('_ad_mobile_content3');});</script>
+<p>En général, la nostalgie n’est pas un sentiment intense qui engendre une forte tristesse. Elle présente donc de nombreux bienfaits et envoie un message à celui qui la ressent.</p>
+<p>Ce message peut être de plusieurs natures : </p><ul><li>indiquer un manque ou un besoin sur le plan affectif ;</li>
+<li>mettre à jour des souvenirs en lien avec son enfance où son pays ;</li>
+<li>indiquer un besoin de repos ou d’activité (en cas de nostalgie des vacances) ;</li>
+<li>exprimer le besoin de communiquer avec les autres, d'avoir des relations sociales.</li>
+</ul><aside class="bloc_notes grid">
+<div class="note">
+<span class="icon icon-info">
+</span><p><strong>Bon à savoir</strong> : la nostalgie est un sentiment très utile qui permet de prendre conscience d'un besoin : le passé, et surtout le souvenir heureux des événements, des  lieux et des personnes associés, rappellent au nostalgique des manques qui ont besoin d'être comblés.</p> </div>
+</aside>
+<div class="ad_test1" id="_ad_multi_content4" style="display:none;"></div><div class="ad_test1" id="_ad_mobile_content4" style="display:none;"></div><h2>Quelles sont les applications de la nostalgie ?</h2><script type="text/javascript">googletag.cmd.push(function(){googletag.display('_ad_multi_content4');googletag.display('_ad_mobile_content4');});</script>
+<p>La nostalgie a de nombreuses applications, à tout âge et à tout moment de la vie :</p><ul><li>chez les personnes âgées, il peut s’agir du regret du passé, du manque de ceux qui sont partis et de ce qui n'a pas été réalisé ou réussi ;</li>
+<li>à tout âge, il peut s’agir de la nostalgie de l’enfance ou de périodes de la vie plus heureuses ;</li>
+<li>pour certains, il peut s’agir de la nostalgie d'un pays, d’une ville ou d’une maison ;</li>
+<li>d’autres encore ont la nostalgie des vacances ou des voyages.</li>
+</ul><p>La nostalgie apparaît généralement à l'occasion d'un rappel sensoriel (visuel, auditif, olfactif ou même tactile ou gustatif) : regarder des photographies, revenir dans une ancienne maison, écouter une chanson ou déguster un plat.</p>
+<aside class="bloc_notes grid">
+<div class="note">
+<span class="icon icon-info">
+</span><p><strong>Bon à savoir</strong> : en psychiatrie et en psychologie, la nostalgie, et surtout la tristesse qui l’accompagne, si elle envahit le quotidien, peut évoluer vers une dépression ou une mélancolie. Dans ce cas, il s’agit d’une véritable souffrance psychologique et d’une maladie mentale qui nécessite une prise en charge spécialisée par un <a href="//psychotherapie.ooreka.fr/comprendre/psychologue" oo-trk="navigation-contenu-lien-hypertext">psychologue</a> et/ou un <a href="//psychotherapie.ooreka.fr/comprendre/psychiatre" oo-trk="navigation-contenu-lien-hypertext">psychiatre</a>.</p> </div>
+</aside>
+</div>
+<div class="_jsPubbottom">
+<div class="noprint ad_test1 tw-ml-5" id="_ad_multi_footer" style="display:none">
+<script>googletag.cmd.push(function() { googletag.display('_ad_multi_footer'); });</script>
+</div>
+<div class="noprint ad_test1" id="_ad_mobile_footer_produits" style="display:none">
+<script>googletag.cmd.push(function() { googletag.display('_ad_mobile_footer_produits'); });</script>
+</div>
+</div>
+<div class="BeOpinionWidget" style="margin-top:10px;"></div>
+<div class="rubrique-liee _boxRubricLinked" data-items="8">
+<div class="head-content">
+<p class="subtitle">Aussi dans la rubrique :</p>
+<a href="//psychotherapie.ooreka.fr/755773/rubrique/755775/comprendre-les-emotions" class="rubric_links_for_mobile" oo-trk="poursuite-lecture-ouvrir-rubrique">
+<h2>Comprendre les émotions</h2>
+</a>
+<p>Sommaire</p>
+<ul>
+<li class="rubric_links_for_mobile" oo-trk="poursuite-lecture-ancre-h2-rubrique">
+<span>Qu&#39;est-ce qu&#39;une émotion ?</span>
+</li>
+<li class="rubric_links_for_mobile" oo-trk="poursuite-lecture-ancre-h2-rubrique">
+<span>Reconnaître les émotions négatives</span>
+</li>
+<li class="rubric_links_for_mobile" oo-trk="poursuite-lecture-ancre-h2-rubrique">
+<span>Reconnaître les émotions positives</span>
+ </li>
+</ul>
+</div>
+<div class="inner-content">
+<div class="block">
+<h3 id="title_1">Qu&#39;est-ce qu&#39;une émotion ?</h3>
+<a href="//psychotherapie.ooreka.fr/astuce/voir/748985/les-emotions" data-type="pushed" id="link_1" class="rubric_links_for_mobile" oo-trk="poursuite-lecture-lien">Les émotions, de quoi s&#39;agit-il ?</a>
+</div>
+<div class="block">
+<h3 id="title_2">Reconnaître les émotions négatives</h3>
+<a href="//psychotherapie.ooreka.fr/astuce/voir/680273/la-nostalgie" data-type="pushed" id="link_1" class="rubric_links_for_mobile" oo-trk="poursuite-lecture-lien">Nostalgie</a>
+<a href="//psychotherapie.ooreka.fr/astuce/voir/748987/la-colere" data-type="pushed" id="link_2" class="rubric_links_for_mobile" oo-trk="poursuite-lecture-lien">Colère</a>
+<a href="//psychotherapie.ooreka.fr/astuce/voir/748989/la-susceptibilite" data-type="pushed" id="link_3" class="rubric_links_for_mobile" oo-trk="poursuite-lecture-lien">Susceptibilité</a>
+<a href="//psychotherapie.ooreka.fr/astuce/voir/653915/desespoir" data-type="pushed" id="link_4" class="rubric_links_for_mobile" oo-trk="poursuite-lecture-lien">Désespoir</a>
+<a href="//psychotherapie.ooreka.fr/astuce/voir/640109/rancoeur" data-type="pushed" id="link_5" class="rubric_links_for_mobile" oo-trk="poursuite-lecture-lien">Rancœur</a>
+<a href="//psychotherapie.ooreka.fr/astuce/voir/680287/l-indecision" data-type="pushed" id="link_6" class="rubric_links_for_mobile" oo-trk="poursuite-lecture-lien">Indécision</a>
+<a href="//psychotherapie.ooreka.fr/astuce/voir/653917/pleurer" data-type="pushed" id="link_7" class="rubric_links_for_mobile" oo-trk="poursuite-lecture-lien">Pleurs</a>
+<a href="//psychotherapie.ooreka.fr/astuce/voir/751781/la-demotivation" data-type="pushed" id="link_8" class="rubric_links_for_mobile" oo-trk="poursuite-lecture-lien">Démotivation</a>
+<a href="//psychotherapie.ooreka.fr/astuce/voir/653941/tristesse" data-type="pushed" id="link_9" class="rubric_links_for_mobile" oo-trk="poursuite-lecture-lien">Tristesse</a>
+<a href="//psychotherapie.ooreka.fr/astuce/voir/628099/vengeance" data-type="pushed" id="link_10" class="rubric_links_for_mobile" oo-trk="poursuite-lecture-lien">Vengeance</a>
+<a href="//psychotherapie.ooreka.fr/astuce/voir/673289/la-pudeur" data-type="pushed" id="link_11" class="rubric_links_for_mobile" oo-trk="poursuite-lecture-lien">Pudeur</a>
+<a href="//psychotherapie.ooreka.fr/astuce/voir/654025/haine" data-type="pushed" id="link_12" class="rubric_links_for_mobile" oo-trk="poursuite-lecture-lien">Haine</a>
+</div>
+<div class="block">
+<h3 id="title_3">Reconnaître les émotions positives</h3>
+
+<a href="//psychotherapie.ooreka.fr/astuce/voir/643993/plaisir" data-type="pushed" id="link_1" class="rubric_links_for_mobile" oo-trk="poursuite-lecture-lien">Plaisir</a>
+<a href="//psychotherapie.ooreka.fr/astuce/voir/675319/gentillesse" data-type="pushed" id="link_2" class="rubric_links_for_mobile" oo-trk="poursuite-lecture-lien">Gentillesse</a>
+<a href="//psychotherapie.ooreka.fr/astuce/voir/647677/gratitude" data-type="pushed" id="link_3" class="rubric_links_for_mobile" oo-trk="poursuite-lecture-lien">Gratitude</a>
+<a href="//psychotherapie.ooreka.fr/astuce/voir/680285/l-intimite" data-type="pushed" id="link_4" class="rubric_links_for_mobile" oo-trk="poursuite-lecture-lien">Intimité</a>
+<a href="//psychotherapie.ooreka.fr/astuce/voir/753545/empathie" data-type="pushed" id="link_5" class="rubric_links_for_mobile" oo-trk="poursuite-lecture-lien">Empathie</a>
+<a href="//psychotherapie.ooreka.fr/astuce/voir/653955/complicite" data-type="pushed" id="link_6" class="rubric_links_for_mobile" oo-trk="poursuite-lecture-lien">Complicité</a>
+<a href="//psychotherapie.ooreka.fr/astuce/voir/619433/euphorie" data-type="pushed" id="link_7" class="rubric_links_for_mobile" oo-trk="poursuite-lecture-lien">Euphorie</a>
+<a href="//psychotherapie.ooreka.fr/astuce/voir/675291/serenite" data-type="pushed" id="link_8" class="rubric_links_for_mobile" oo-trk="poursuite-lecture-lien">Sérénité</a>
+</div>
+</div>
+</div>
+<div class="edito_boxPJ">
+<h2 id="_h2Pro">Ces pros peuvent vous aider</h2>
+</div>
+<ins id="boxpro-bottom"></ins>
+<div class="boxPAPL is-relative">
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6274639736184144" data-ad-slot="7773830707" data-ad-format="autorelaxed"></ins>
+</div>
+</article>
+<div class="pub_right">
+<div data-iab-tag="sidebar" class="_jsPubright _elementToFixe" id="_ad_desktop_right">
+<script>
+    googletag.cmd.push(function() { googletag.display('_ad_desktop_right'); });
+  </script>
+</div>
+</div>
+</main>
+<div id="poool-widget"></div>
+</article>
+</div>
+</section>
+
+<style type="text/css">
+    .social-icon {
+        border-radius: 50%;
+        border: 1px solid white;
+        width: 3rem;
+        height: 3rem;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        transition: color .5s ease-in-out
+    }
+
+    .social-icon:hover {
+        background-color: white;
+        color: #4b4182 !important;
+    }
+
+    .social-links {
+        text-align: center;
+        margin-bottom: -1.5rem;
+    }
+</style>
+<footer class="is-relative">
+<div class="w_full">
+<h2>Ooreka, c'est aussi :</h2>
+<div class="grid_5 univers">
+<a oo-trk="bloc-univers?universe-slug=maison" href="//www.ooreka.fr/univers/maison">
+<svg width="36" height="37" role="img" viewBox="-3 0 90 104"><use xlink:href="#hibou" /></svg>
+Maison
+</a>
+<a oo-trk="bloc-univers?universe-slug=carriere" href="//www.ooreka.fr/univers/carriere">
+<svg width="36" height="37" role="img" viewBox="-3 0 90 104"><use xlink:href="#hibou" /></svg>
+Carrière
+</a>
+
+<a oo-trk="bloc-univers?universe-slug=droits" href="//www.ooreka.fr/univers/droits">
+<svg width="36" height="37" role="img" viewBox="-3 0 90 104"><use xlink:href="#hibou" /></svg>
+Droits
+</a>
+<a oo-trk="bloc-univers?universe-slug=famille" href="//www.ooreka.fr/univers/famille">
+<svg width="36" height="37" role="img" viewBox="-3 0 90 104"><use xlink:href="#hibou" /></svg>
+Famille
+</a>
+<a oo-trk="bloc-univers?universe-slug=entreprise" href="//www.ooreka.fr/univers/entreprise">
+<svg width="36" height="37" role="img" viewBox="-3 0 90 104"><use xlink:href="#hibou" /></svg>
+Entreprise
+</a>
+<a oo-trk="bloc-univers?universe-slug=argent" href="//www.ooreka.fr/univers/argent">
+<svg width="36" height="37" role="img" viewBox="-3 0 90 104"><use xlink:href="#hibou" /></svg>
+Argent
+</a>
+<a oo-trk="bloc-univers?universe-slug=vehicule" href="//www.ooreka.fr/univers/vehicule">
+<svg width="36" height="37" role="img" viewBox="-3 0 90 104"><use xlink:href="#hibou" /></svg>
+Véhicule
+</a>
+</div>
+<div class="grid social-links">
+<p>Retrouvez-nous sur
+<a oo-trk="facebook" href="https://www.facebook.com/ooreka.fr" class="icon-facebook social-icon"></a>
+</p>
+</div>
+<div class="link_footer">
+<a onclick="document.location.href='//www.ooreka.fr/legal/mentions_legales'">Mentions légales</a>|
+<a onclick="document.location.href='//www.ooreka.fr/legal/presentation'">Qui sommes-nous ?</a>|
+<a onclick="document.location.href='//www.ooreka.fr/legal/travailler-ensemble'">Travailler ensemble</a>|
+<a onclick="document.location.href='//www.ooreka.fr/legal/presse'">Presse</a>|
+<a onclick="document.location.href='//www.ooreka.fr/legal/publicite-partenariat'">Publicité</a>|
+<br>
+<a onclick="document.location.href='//www.ooreka.fr/legal/cgu'">CGU</a>|
+<a onclick="document.location.href='//www.ooreka.fr/legal/vie-privee'">Vie privée</a>|
+<a href="javascript:Didomi.preferences.show()">Infos cookies</a>|
+<a onclick="document.location.href='//www.ooreka.fr/legal/charte_moderation'">Modération</a>|
+<a onclick="document.location.href='//www.ooreka.fr/legal/leads'">Recevoir des contacts qualifiés</a>|
+<a onclick="document.location.href='//www.ooreka.fr/contact'">Contact</a>|
+<br>
+<a href="/astuce/liste">Astuces</a>|
+<a href="/comprendre/liste">Guides pratiques</a>|
+<a href="/tips/liste">Tips</a>|
+<a href="/fiche/liste">Fiches pratiques</a>|
+<a href="/ebibliotheque/liste">Contenus téléchargeables</a>|
+<a href="/qr/liste">Questions Réponses</a>
+</div>
+<a href="//www.ooreka.fr/" class="logo_footer">
+<svg class="svg-logo-header" width="230" height="64" viewBox="-2 0 368 100"><g><use xlink:href="#logo" /></g></svg>
+</a>
+<div class="promesse">
+Ooreka accompagne vos projets du quotidien
+</div>
+<div id="_ad_mobile_banner">
+<script>googletag.cmd.push(function() { googletag.display('_ad_mobile_banner'); });</script>
+</div>
+<div id="_ad_mobile_footer">
+<script>googletag.cmd.push(function() { googletag.display('_ad_mobile_footer'); });</script>
+</div>
+</div>
+</footer>
+<div class="_lienDroitJs lien_droit_js" style="display:none;">
+<a class="_newOnglet" target='_blank'>Ouvrir le lien dans un nouvel onglet</a>
+<a class="_newWindow">Ouvrir le lien dans une nouvelle fenêtre</a>
+</div>
+<script>
+    if (matchMedia) {
+        const mq = window.matchMedia("(max-width: 480px), (max-width: 768px) and (orientation: landscape)");
+        mq.addListener(WidthChange), WidthChange(mq)
+    }
+
+    function WidthChange(e) {
+        e.matches ? (document.querySelector("body").classList.add("mobile"), document.querySelector("body").classList.remove("desktop")) : (document.querySelector("body").classList.add("desktop"), document.querySelector("body").classList.remove("mobile"))
+    }
+</script>
+<script defer src="https://assets.prod.ooreka-static.fr/b/static/main.ab6cee86efdb0a76526a.js" type="text/javascript"></script>
+<script type="text/javascript">
+    function loadPJHOnUserConsent() {
+        window.didomiOnReady = window.didomiOnReady || [];
+        window.didomiOnReady.push(function (Didomi) {
+            let consentGeolocTracking = Didomi.getUserConsentStatusForVendor("c:pagesjaun-rf8qEhgT");
+            if (consentGeolocTracking) {
+                scriptPJH = document.createElement("script");
+                scriptPJH.charset = "UTF-8";
+                scriptPJH.defer = true;
+                scriptPJH.src = "https://assets.prod.ooreka-static.fr/b/static/js/vendor/trk/pjh.min.js";
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] || document.getElementsByTagName('script')[0].parentNode).insertBefore(scriptPJH, null);
+                var urlAladin = "https://www.pagesjaunes.fr/stat/";
+            } else {
+                setTimeout(() => {
+                    loadPJHOnUserConsent()
+                }, 1000);
+            }
+        });
+    }
+
+    loadPJHOnUserConsent();
+</script>
+<script>
+    var cssLink = document.createElement('link');
+    cssLink.rel = 'stylesheet';
+    cssLink.href = "https://assets.prod.ooreka-static.fr/b/static/main.cc090808933588faf0b6.css";
+    cssLink.type = 'text/css';
+    var godefer = document.getElementsByTagName('link')[0];
+    godefer.parentNode.insertBefore(cssLink, godefer);
+</script>
+</body>
+</html>

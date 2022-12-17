@@ -126,7 +126,7 @@ Categorias
    happy with it.OkPrivacy policy
 </text>
 </page> §
-<page="saudade_pt-12">
+<page="saudade_pt-11">
 <text>
    #RSS do Dicio Busca no Dicionário de Português - Dicio
 
@@ -265,7 +265,7 @@ Veja também:
    dicionário da web.
 </text>
 </page> §
-<page="saudade_pt-13">
+<page="saudade_pt-12">
 <text>
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-NJZCVTB
 
@@ -380,7 +380,7 @@ saudade
        Como referenciar [seta_down.svg]
        Porto Editora – saudade no Dicionário infopédia de Português para
        Estrangeiros [em linha]. Porto: Porto Editora. [consult. 2022-12-17
-       11:35:47]. Disponível em
+       15:03:58]. Disponível em
        https://www.infopedia.pt/dicionarios/portugues-estrangeiros/saudade
        sinónimos
        melancolia, nostalgia
@@ -494,7 +494,7 @@ saudade
        Como referenciar [seta_down.svg]
        Porto Editora – saudade no Dicionário infopédia de Português para
        Estrangeiros [em linha]. Porto: Porto Editora. [consult. 2022-12-17
-       11:35:47]. Disponível em
+       15:03:58]. Disponível em
        https://www.infopedia.pt/dicionarios/portugues-estrangeiros/saudade
        Campanha Solidária de Natal
        Natal WOOK
@@ -563,7 +563,7 @@ saudade
        [seta_up_branca.svg]
 </text>
 </page> §
-<page="saudade_pt-14">
+<page="saudade_pt-13">
 <text>
    #Filipe Miguel » Feed Filipe Miguel » Feed de Comentários Feed de
    Comentários de Filipe Miguel » Definição de Saudade alternate alternate
@@ -782,7 +782,7 @@ Search
    %d bloggers like this:
 </text>
 </page> §
-<page="saudade_pt-15">
+<page="saudade_pt-14">
 <text>
    #Feed de comentários de Centro Nacional de Cultura » “Filosofia da
    Saudade” de Afonso Botelho e António Braz Teixeira Portugal acolhe
@@ -1156,7 +1156,7 @@ Newsletter
      * Contactos
 </text>
 </page> §
-<page="saudade_pt-16">
+<page="saudade_pt-15">
 <text>
    Home Agenda Património Notícias Roteiros Publicações Blogue Jogos
    Promotores
@@ -1294,24 +1294,25 @@ Centro Nacional de Cultura
 
    Agenda
    ____________________
-   [image16711076734458.jpg]
-   Concertos
+   [image16675835711552.jpg]
+   Teatro e Dança
 
-Minho Center recebe Concerto de Natal da saxofonista Ana Faria
+Dom Quixote De La Mancha a partir de Miguel de Cervantes
 
-   Centro Comercial Minho Center 17 Dez a18 Dez 2022
-   [image16702391205298.jpeg]
-   Mercados e Feiras
+   Teatro Estúdio Ildefonso Valério 17 Dez a18 Dez 2022
+   [image1670237670941.jpg]
+   Exposições
 
-Sortido Rico - Bazar de Natal no Ar.Co Xabregas
+"Efervescências"
 
-   Ar.Co - Antigo Mercado de Xabregas 17 Dez 2022  |  14h30
-   [image16686791702199.jpg]
-   Infantil
+   Artspace João Carvalho 17 Dez a26 Fev 2023
+   [image16708400597112.jpg]
+   Literatura
 
-Um Natal com muitos sabores | À mesa com os romanos
+Apresentação do livro "Lobos Sedentos da Respiração dos Dias" de Ana Gil
+Campos
 
-   Museu de Lisboa - Teatro Romano 17 Dez 2022  |  15h00
+   Biblioteca Lúcio Craveiro da Silva 17 Dez 2022  |  16h00
    Ver mais eventos
 
    Património
@@ -1345,7 +1346,7 @@ Ganhe convites para a antestreia de ROCK DOG 3 - AO RITMO DA MÚSICA
    Lisboa. Findo o passatempo, anunciamos aqui os nomes dos vencedores!
 
    Visitas
-   73,601,807
+   73,605,388
 
    [footer_logo1.png] [footer_logo2.png] O papel é um produto renovável e
    reciclável. Todos os papéis provenientes de florestas com gestão
@@ -1359,7 +1360,7 @@ Ganhe convites para a antestreia de ROCK DOG 3 - AO RITMO DA MÚSICA
    Política de Privacidade Newsletter Contactos
 </text>
 </page> §
-<page="saudade_pt-17">
+<page="saudade_pt-16">
 <text>
    Jesuítas em Portugal
 
@@ -1612,7 +1613,7 @@ fora de si naquilo que ama e deseja.
    (6) Ibid., 266.
 
    Imagem: Sasha Freemind (Unsplash)
-   Post Views: 373
+   Post Views: 385
    (BUTTON) Continuar a ler
 
 Últimas
@@ -1678,7 +1679,7 @@ Para um Diálogo Indispensável ao encontro da Paz
    Companhia dos Filósofos - 2022 © Todos os direitos reservados
 </text>
 </page> §
-<page="saudade_pt-18">
+<page="saudade_pt-17">
 <text>
     #alternate
 
@@ -1686,7 +1687,7 @@ Para um Diálogo Indispensável ao encontro da Paz
    +15° C
    Actualizado
    sábado, 17 diciembre 2022
-   11:49
+   15:48
    h
      *
      *
@@ -1882,191 +1883,99 @@ A ausencia como esencia da saudade
    lor=4D7FC2
 </text>
 </page> §
+<page="saudade_pt-18">
+<text>
+   #RSS
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-NRT77RV
+
+   Significados Significados
+   [ ]
+
+   Início História Ciência Sociedade Religião Arte Filosofia Geografia
+   Tecnologia
+
+   O que você quer saber hoje? ____________________ (BUTTON)
+
+    1. Geral
+
+Significado de Saudade
+
+O que é Saudade:
+
+   Saudade é um sentimento causado pela distância ou ausência de algo ou
+   alguém. Tem origem no latim, com o significado de solidão.
+
+   É uma palavra que não tem tradução literal em muitas línguas. Saudade é
+   uma das palavras mais utilizadas nas poesias de amor, nas músicas
+   românticas da língua portuguesa. Saudade significa a memória de algo
+   que aconteceu e intensa vontade de reviver certos momentos.
+
+   Saudade, segundo a lenda surgiu no período dos descobrimentos e definia
+   a solidão que os portugueses vindos para o Brasil tinham da sua terra e
+   dos seus familiares. Eram atacados por uma melancolia por se sentirem
+   tão só e distantes dos seus.
+
+   O termo saudade gerou muitos derivados, como saudosismo, e aquele que
+   sente saudades de algo ou alguma coisa, é o saudosista. O termo saudoso
+   é muito utilizado quando nos referimos a alguém que veio a falecer, e
+   que nos traz grandes lembranças.
+
+   Podemos sentir saudades, de um amigo que partiu, de uma comida que há
+   muito não saboreamos, de uma cidade que conhecemos e que gostaríamos de
+   voltar, de um período muito feliz de nossas vidas, saudades dos filhos
+   quando crianças, saudades dos pais que já partiram, saudade da casa
+   onde nascemos vivemos por muito tempo etc.
+
+   Existe uma expressão que diz "matar a saudade." Ela significa que no
+   momento em que o indivíduo vê o objeto do seu sofrimento, torna-se
+   alegre e feliz, portanto está matando aquela saudade.
+   (BUTTON) Compartilhar
+   (BUTTON) Enviar
+   (BUTTON)
+   (BUTTON)
+   Outros conteúdos que podem interessar
+     * Emoji 😉
+     * 38 figuras de linguagem (com exemplos)
+     * Exemplos de Figuras de linguagem
+     * 8 sinais para identificar uma pessoa ciumenta
+     * Vou-me embora pra Pasárgada (com análise e significado do poema)
+     * Exemplos de contos
+     * Tabela Verdade
+     * Significado de Gratidão
+     * Os 7 pecados capitais
+     * Significado de Tirar o cavalinho da chuva
+
+   Veja Também
+   5 sentimentos que podem ser confundidos com amor
+   5 sentimentos que podem ser confundidos com amor
+   Vou-me embora pra Pasárgada (com análise e significado do poema)
+   Vou-me embora pra Pasárgada (com análise e significado do poema)
+   Diferença entre conserto e concerto
+   Diferença entre conserto e concerto
+   12 exemplos de metáforas e seus significados
+   12 exemplos de metáforas e seus significados
+   Mais Populares
+   Maçonaria
+   Ideologia de gênero
+   48 qualidades de uma pessoa
+   Halloween
+   Comunismo
+   Cores e seus significados
+   Socialismo
+   Democracia
+   Intervenção militar
+   Estoicismo
+
+   Significados: descubra e entenda diversos temas do conhecimento humano.
+   [ ]
+
+   Populares Recentes Política de Privacidade Categorias Sobre RSS Contato
+   Encontrou um Erro?
+   © 2011 - 20227Graus
+</text>
+</page> §
 <page="saudade_pt-19">
-<text>
-   #RSS
-
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-NRT77RV
-
-   Significados Significados
-   [ ]
-
-   Início História Ciência Sociedade Religião Arte Filosofia Geografia
-   Tecnologia
-
-   O que você quer saber hoje? ____________________ (BUTTON)
-
-    1. Geral
-
-Significado de Saudade
-
-O que é Saudade:
-
-   Saudade é um sentimento causado pela distância ou ausência de algo ou
-   alguém. Tem origem no latim, com o significado de solidão.
-
-   É uma palavra que não tem tradução literal em muitas línguas. Saudade é
-   uma das palavras mais utilizadas nas poesias de amor, nas músicas
-   românticas da língua portuguesa. Saudade significa a memória de algo
-   que aconteceu e intensa vontade de reviver certos momentos.
-
-   Saudade, segundo a lenda surgiu no período dos descobrimentos e definia
-   a solidão que os portugueses vindos para o Brasil tinham da sua terra e
-   dos seus familiares. Eram atacados por uma melancolia por se sentirem
-   tão só e distantes dos seus.
-
-   O termo saudade gerou muitos derivados, como saudosismo, e aquele que
-   sente saudades de algo ou alguma coisa, é o saudosista. O termo saudoso
-   é muito utilizado quando nos referimos a alguém que veio a falecer, e
-   que nos traz grandes lembranças.
-
-   Podemos sentir saudades, de um amigo que partiu, de uma comida que há
-   muito não saboreamos, de uma cidade que conhecemos e que gostaríamos de
-   voltar, de um período muito feliz de nossas vidas, saudades dos filhos
-   quando crianças, saudades dos pais que já partiram, saudade da casa
-   onde nascemos vivemos por muito tempo etc.
-
-   Existe uma expressão que diz "matar a saudade." Ela significa que no
-   momento em que o indivíduo vê o objeto do seu sofrimento, torna-se
-   alegre e feliz, portanto está matando aquela saudade.
-   (BUTTON) Compartilhar
-   (BUTTON) Enviar
-   (BUTTON)
-   (BUTTON)
-   Outros conteúdos que podem interessar
-     * Emoji 😉
-     * 38 figuras de linguagem (com exemplos)
-     * Exemplos de Figuras de linguagem
-     * 8 sinais para identificar uma pessoa ciumenta
-     * Vou-me embora pra Pasárgada (com análise e significado do poema)
-     * Exemplos de contos
-     * Tabela Verdade
-     * Significado de Gratidão
-     * Os 7 pecados capitais
-     * Significado de Tirar o cavalinho da chuva
-
-   Veja Também
-   5 sentimentos que podem ser confundidos com amor
-   5 sentimentos que podem ser confundidos com amor
-   Vou-me embora pra Pasárgada (com análise e significado do poema)
-   Vou-me embora pra Pasárgada (com análise e significado do poema)
-   Diferença entre conserto e concerto
-   Diferença entre conserto e concerto
-   12 exemplos de metáforas e seus significados
-   12 exemplos de metáforas e seus significados
-   Mais Populares
-   Maçonaria
-   Ideologia de gênero
-   48 qualidades de uma pessoa
-   Halloween
-   Comunismo
-   Cores e seus significados
-   Socialismo
-   Democracia
-   Intervenção militar
-   Estoicismo
-
-   Significados: descubra e entenda diversos temas do conhecimento humano.
-   [ ]
-
-   Populares Recentes Política de Privacidade Categorias Sobre RSS Contato
-   Encontrou um Erro?
-   © 2011 - 20227Graus
-</text>
-</page> §
-<page="saudade_pt-1">
-<text>
-   #RSS
-
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-NRT77RV
-
-   Significados Significados
-   [ ]
-
-   Início História Ciência Sociedade Religião Arte Filosofia Geografia
-   Tecnologia
-
-   O que você quer saber hoje? ____________________ (BUTTON)
-
-    1. Geral
-
-Significado de Saudade
-
-O que é Saudade:
-
-   Saudade é um sentimento causado pela distância ou ausência de algo ou
-   alguém. Tem origem no latim, com o significado de solidão.
-
-   É uma palavra que não tem tradução literal em muitas línguas. Saudade é
-   uma das palavras mais utilizadas nas poesias de amor, nas músicas
-   românticas da língua portuguesa. Saudade significa a memória de algo
-   que aconteceu e intensa vontade de reviver certos momentos.
-
-   Saudade, segundo a lenda surgiu no período dos descobrimentos e definia
-   a solidão que os portugueses vindos para o Brasil tinham da sua terra e
-   dos seus familiares. Eram atacados por uma melancolia por se sentirem
-   tão só e distantes dos seus.
-
-   O termo saudade gerou muitos derivados, como saudosismo, e aquele que
-   sente saudades de algo ou alguma coisa, é o saudosista. O termo saudoso
-   é muito utilizado quando nos referimos a alguém que veio a falecer, e
-   que nos traz grandes lembranças.
-
-   Podemos sentir saudades, de um amigo que partiu, de uma comida que há
-   muito não saboreamos, de uma cidade que conhecemos e que gostaríamos de
-   voltar, de um período muito feliz de nossas vidas, saudades dos filhos
-   quando crianças, saudades dos pais que já partiram, saudade da casa
-   onde nascemos vivemos por muito tempo etc.
-
-   Existe uma expressão que diz "matar a saudade." Ela significa que no
-   momento em que o indivíduo vê o objeto do seu sofrimento, torna-se
-   alegre e feliz, portanto está matando aquela saudade.
-   (BUTTON) Compartilhar
-   (BUTTON) Enviar
-   (BUTTON)
-   (BUTTON)
-   Outros conteúdos que podem interessar
-     * Emoji 😉
-     * 38 figuras de linguagem (com exemplos)
-     * Exemplos de Figuras de linguagem
-     * 8 sinais para identificar uma pessoa ciumenta
-     * Vou-me embora pra Pasárgada (com análise e significado do poema)
-     * Exemplos de contos
-     * Tabela Verdade
-     * Significado de Gratidão
-     * Os 7 pecados capitais
-     * Significado de Tirar o cavalinho da chuva
-
-   Veja Também
-   5 sentimentos que podem ser confundidos com amor
-   5 sentimentos que podem ser confundidos com amor
-   Vou-me embora pra Pasárgada (com análise e significado do poema)
-   Vou-me embora pra Pasárgada (com análise e significado do poema)
-   Diferença entre conserto e concerto
-   Diferença entre conserto e concerto
-   12 exemplos de metáforas e seus significados
-   12 exemplos de metáforas e seus significados
-   Mais Populares
-   Maçonaria
-   Ideologia de gênero
-   48 qualidades de uma pessoa
-   Halloween
-   Comunismo
-   Cores e seus significados
-   Socialismo
-   Democracia
-   Intervenção militar
-   Estoicismo
-
-   Significados: descubra e entenda diversos temas do conhecimento humano.
-   [ ]
-
-   Populares Recentes Política de Privacidade Categorias Sobre RSS Contato
-   Encontrou um Erro?
-   © 2011 - 20227Graus
-</text>
-</page> §
-<page="saudade_pt-20">
 <text>
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-PCVWPV
 
@@ -2204,6 +2113,25 @@ Produtos recomendados
 
 Conteúdos Relacionados
 
+   Gingerol: para que serve? Saiba mais sobre esse anti-inflamatório
+   natural
+
+Gingerol: para que serve? Saiba mais sobre esse anti-inflamatório natural
+Gingerol: para que serve? Saiba mais sobre esse anti-inflamatório natural
+
+   O que são alimentos vegetais? Saiba tudo sobre esse importante grupo
+   alimentar
+
+O que são alimentos vegetais? Saiba tudo sobre esse importante grupo
+alimentar O que são alimentos vegetais? Saiba tudo sobre esse importante
+grupo alimentar
+
+   O que é carragenina? Vale a pena consumi-la? Saiba tudo sobre esse
+   aditivo
+
+O que é carragenina? Vale a pena consumi-la? Saiba tudo sobre esse aditivo O
+que é carragenina? Vale a pena consumi-la? Saiba tudo sobre esse aditivo
+
    O que é antocianina? Saiba tudo sobre esse corante natural presente em
    alimentos
 
@@ -2246,23 +2174,6 @@ espirulina? Saiba mais sobre esse 'alimento do futuro'
 Benefícios do ingá: saiba mais sobre esse fruto que aumenta a imunidade do
 corpo Benefícios do ingá: saiba mais sobre esse fruto que aumenta a imunidade
 do corpo
-
-   O que é terapia ocupacional? Saiba quando recorrer a esse tipo de
-   tratamento
-
-O que é terapia ocupacional? Saiba quando recorrer a esse tipo de tratamento
-O que é terapia ocupacional? Saiba quando recorrer a esse tipo de tratamento
-
-   Você conhece a caponata? Saiba como e por que preparar esse prato
-   italiano
-
-Você conhece a caponata? Saiba como e por que preparar esse prato italiano
-Você conhece a caponata? Saiba como e por que preparar esse prato italiano
-
-   Dieta macrobiótica: O que é? Saiba mais sobre esse tipo de alimentação
-
-Dieta macrobiótica: O que é? Saiba mais sobre esse tipo de alimentação Dieta
-macrobiótica: O que é? Saiba mais sobre esse tipo de alimentação
 
    Saiba tudo sobre
    imagem do ingrediente Tomate
@@ -2444,7 +2355,99 @@ que comer antes de ir para academia no verão? 5 opções leves e frescas
    Webedia
 </text>
 </page> §
-<page="saudade_pt-21">
+<page="saudade_pt-1">
+<text>
+   #RSS
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-NRT77RV
+
+   Significados Significados
+   [ ]
+
+   Início História Ciência Sociedade Religião Arte Filosofia Geografia
+   Tecnologia
+
+   O que você quer saber hoje? ____________________ (BUTTON)
+
+    1. Geral
+
+Significado de Saudade
+
+O que é Saudade:
+
+   Saudade é um sentimento causado pela distância ou ausência de algo ou
+   alguém. Tem origem no latim, com o significado de solidão.
+
+   É uma palavra que não tem tradução literal em muitas línguas. Saudade é
+   uma das palavras mais utilizadas nas poesias de amor, nas músicas
+   românticas da língua portuguesa. Saudade significa a memória de algo
+   que aconteceu e intensa vontade de reviver certos momentos.
+
+   Saudade, segundo a lenda surgiu no período dos descobrimentos e definia
+   a solidão que os portugueses vindos para o Brasil tinham da sua terra e
+   dos seus familiares. Eram atacados por uma melancolia por se sentirem
+   tão só e distantes dos seus.
+
+   O termo saudade gerou muitos derivados, como saudosismo, e aquele que
+   sente saudades de algo ou alguma coisa, é o saudosista. O termo saudoso
+   é muito utilizado quando nos referimos a alguém que veio a falecer, e
+   que nos traz grandes lembranças.
+
+   Podemos sentir saudades, de um amigo que partiu, de uma comida que há
+   muito não saboreamos, de uma cidade que conhecemos e que gostaríamos de
+   voltar, de um período muito feliz de nossas vidas, saudades dos filhos
+   quando crianças, saudades dos pais que já partiram, saudade da casa
+   onde nascemos vivemos por muito tempo etc.
+
+   Existe uma expressão que diz "matar a saudade." Ela significa que no
+   momento em que o indivíduo vê o objeto do seu sofrimento, torna-se
+   alegre e feliz, portanto está matando aquela saudade.
+   (BUTTON) Compartilhar
+   (BUTTON) Enviar
+   (BUTTON)
+   (BUTTON)
+   Outros conteúdos que podem interessar
+     * Emoji 😉
+     * 38 figuras de linguagem (com exemplos)
+     * Exemplos de Figuras de linguagem
+     * 8 sinais para identificar uma pessoa ciumenta
+     * Vou-me embora pra Pasárgada (com análise e significado do poema)
+     * Exemplos de contos
+     * Tabela Verdade
+     * Significado de Gratidão
+     * Os 7 pecados capitais
+     * Significado de Tirar o cavalinho da chuva
+
+   Veja Também
+   5 sentimentos que podem ser confundidos com amor
+   5 sentimentos que podem ser confundidos com amor
+   Vou-me embora pra Pasárgada (com análise e significado do poema)
+   Vou-me embora pra Pasárgada (com análise e significado do poema)
+   Diferença entre conserto e concerto
+   Diferença entre conserto e concerto
+   12 exemplos de metáforas e seus significados
+   12 exemplos de metáforas e seus significados
+   Mais Populares
+   Maçonaria
+   Ideologia de gênero
+   48 qualidades de uma pessoa
+   Halloween
+   Comunismo
+   Cores e seus significados
+   Socialismo
+   Democracia
+   Intervenção militar
+   Estoicismo
+
+   Significados: descubra e entenda diversos temas do conhecimento humano.
+   [ ]
+
+   Populares Recentes Política de Privacidade Categorias Sobre RSS Contato
+   Encontrou um Erro?
+   © 2011 - 20227Graus
+</text>
+</page> §
+<page="saudade_pt-20">
 <text>
     #Feed para Definição.net » Feed de comentários para Definição.net »
    Feed de Definição.net » Story alternate alternate alternate
@@ -2735,7 +2738,7 @@ Categories
    Definicao.net é um site criado pela QC Network.
 </text>
 </page> §
-<page="saudade_pt-22">
+<page="saudade_pt-21">
 <text>
    #Feed para Academia Ilusófona » Feed de comentários para Academia
    Ilusófona » Academia Ilusófona » do iCal Feed Feed de comentários para
@@ -3001,7 +3004,7 @@ eficiente com um professor de línguas experiente.
    (BUTTON) (BUTTON)
 </text>
 </page> §
-<page="saudade_pt-23">
+<page="saudade_pt-22">
 <text>
    [tr?id=3533381020098642&amp;ev=PageView&amp;noscript=1]
 
@@ -3222,7 +3225,7 @@ Comentários
    (BUTTON) Ok, entendi Quero Saber Mais
 </text>
 </page> §
-<page="saudade_pt-24">
+<page="saudade_pt-23">
 <text>
    #Feed para Psicologia MSN - Tudo sobre Psicologia » Feed de comentários
    para Psicologia MSN - Tudo sobre Psicologia » Feed de comentários para
@@ -3502,7 +3505,7 @@ Loja de Cursos e Ebooks
    06/145929)
 </text>
 </page> §
-<page="saudade_pt-25">
+<page="saudade_pt-24">
 <text>
    #Feed para Psicanálise Clínica » Feed de comentários para Psicanálise
    Clínica » Feed de comentários para Psicanálise Clínica » Frases de
@@ -3631,7 +3634,7 @@ Flaubert)
    tornam cada vez menos nítidas com o passar do tempo. No entanto, isso
    não diz nada sobre a saudade, que não se apega à materialidade da vida.
    Ela transcende os corpos.
-   Leia Também:  Sonhar com raposa: o que significa?
+   Leia Também:  O que é Método Psicanalítico?
 
 Frases de distância e saudade
 
@@ -3841,7 +3844,7 @@ Sobre os Artigos
    curso-psicanalise-clinica-online-inscreva-se
 </text>
 </page> §
-<page="saudade_pt-26">
+<page="saudade_pt-25">
 <text>
    #Feed para LêAqui » Feed de comentários para LêAqui » Feed de
    comentários para LêAqui » A saudade, numa bela descrição de São
@@ -4312,12 +4315,12 @@ Mais vistos
    Umbral: quem vai e como sair dessa sombria região espiritual
    A Carta de Paulo sobre o Amor
    Os animais quando morrem demoram para reencarnar?
-   Uma prece de Emmanuel para o dia de Natal
-   Porque nascem crianças com deficiências, segundo o espiritismo
    A mensagem de Natal de Joanna de Ângelis
+   Uma prece de Emmanuel para o dia de Natal
    Autismo e suas causas, de acordo com o espiritismo
-   Como é a vida dos animais no plano espiritual
+   Porque nascem crianças com deficiências, segundo o espiritismo
    Como saber se tem maus espíritos em sua casa
+   7 passos para a felicidade chegar até você
    As 7 dicas de Gasparetto para você atrair boas energias
 
 Siga-nos nas redes sociais
@@ -4350,7 +4353,7 @@ Antes de sair leia também
 
 Siga-nos nas redes sociais
 
-     * 10.381.559 Seguidores
+     * 10.381.611 Seguidores
 
    Política de Privacidade | Política de Cookies | Termos de Uso
    © Copyright 2022, All Rights Reserved
@@ -4398,7 +4401,7 @@ olhar a caixa de spam.
    %d blogueiros gostam disto:
 </text>
 </page> §
-<page="saudade_pt-27">
+<page="saudade_pt-26">
 <text>
    #Feed para Academia Ilusófona » Feed de comentários para Academia
    Ilusófona » Academia Ilusófona » do iCal Feed Feed de comentários para
@@ -4664,7 +4667,7 @@ eficiente com um professor de línguas experiente.
    (BUTTON) (BUTTON)
 </text>
 </page> §
-<page="saudade_pt-28">
+<page="saudade_pt-27">
 <text>
    [tr?id=3533381020098642&amp;ev=PageView&amp;noscript=1]
 
@@ -4885,7 +4888,7 @@ Comentários
    (BUTTON) Ok, entendi Quero Saber Mais
 </text>
 </page> §
-<page="saudade_pt-29">
+<page="saudade_pt-28">
 <text>
    #The Morning Pill
 
@@ -4920,20 +4923,6 @@ disso, o que é saudades pra você?
    676.jpeg]
    The Morning Pill
    Aug 22
-   24
-   2
-   (BUTTON)
-   Share this post
-   O que é a saudade? - TMP 22/08
-   themorningpill.substack.com
-   (BUTTON)
-   Copy link
-   (BUTTON)
-   Twitter
-   (BUTTON)
-   Facebook
-   (BUTTON)
-   Email
    A pior saudade é daquilo que não vivemos
 
 Saudades.
@@ -5048,298 +5037,7 @@ Our use of cookies
    JavaScript or unblock scripts
 </text>
 </page> §
-<page="saudade_pt-2">
-<text>
-    #Feed para Definição.net » Feed de comentários para Definição.net »
-   Feed de Definição.net » Story alternate alternate alternate
-
-   Definição.net
-
-     * Início
-     * Língua Portuguesa
-     * Religião
-     * Medicina
-     * Filosofia
-     * Animais
-     * Notícias
-     *
-          + Pesquisar___________ (BUTTON)
-
-   Definição.net
-
-     * Início
-     * Língua Portuguesa
-     * Religião
-     * Medicina
-     * Filosofia
-     * Animais
-     * Notícias
-     *
-          + Pesquisar___________ (BUTTON)
-
-   [INS: :INS]
-
-   Geral
-
-Saudade: significado, definição, conceitos e curiosidades
-
-   maio 13, 2019
-   by yasmin
-   6 min read
-   novembro 5, 2020
-
-   Você já deve ter dito a palavra saudade a alguém. Provavelmente quis
-   expressar um sentimento que envolvia muita afetividade. Entretanto,
-   essa palavra não é muito bem esclarecida. Aqui te mostraremos seus
-   significados, algumas curiosidades e como você deve utiliza-la.
-
-Significados da palavra
-
-   A saudade é uma palavra derivada do latim, de solitas. No latim ela
-   dizia respeito à solidão. No português foi adquirindo outros
-   significados.
-   [INS: :INS]
-
-   Clique aqui e entre no nosso grupo do WHATSAPP de Promoções e Cupons de
-   Desconto
-
-   Hoje a usamos para nos referirmos a um sentimento que envolve
-   afetividade. Normalmente se alguém vai embora dizemos que teremos
-   saudades. Ou se faz muito tempo que não vemos a pessoa também usamos o
-   termo.
-
-   Veja aqui alguns exemplos de aplicação em frases:
-     * Estou com saudades da torta que minha mãe faz;
-     * Você deixará saudades;
-     * Volte logo. Não quero morrer de saudades.
-
-   Observe que nesses três exemplos envolvem um sentimento ao mesmo tempo
-   de dor e de alegria. No primeiro refere-se a uma recordação positiva.
-   Mas também a uma dor não poder comer naquele momento a torta.
-   [INS: :INS]
-
-   Clique aqui e entre no nosso grupo do WHATSAPP de Promoções e Cupons de
-   Desconto
-
-   Veja também:
-     * Significado de cleptomaníaco
-     * Significado de Gummy Bear
-
-   O segundo e terceiro exemplos referem-se a alguém querido que está indo
-   embora. Por mais que a pessoa ame esse outro, ficará sem ele. E isso
-   levará a um sentimento de tristeza.
-
-   Assim, a saudade é um misto de alegria e ao mesmo tempo de tristeza.
-   [INS: :INS]
-
-   Clique aqui e entre no nosso grupo do WHATSAPP de Promoções e Cupons de
-   Desconto
-
-   Entre os seus sinônimos podemos identificar as seguintes palavras:
-     * Lembrança;
-     * Mágoa.
-
-   E entre seus antônimos as expressões:
-     * Desapego;
-     * Presença.
-
-   Entretanto, mesmo os sinônimos e antônimos são difíceis de serem
-   identificados para tal palavra.
-
-   Saudade
-
-Um substantivo abstrato
-
-   A palavra saudade é considerada um substantivo feminino e abstrato.
-   [INS: :INS]
-
-   Clique aqui e entre no nosso grupo do WHATSAPP de Promoções e Cupons de
-   Desconto
-
-   Os estudiosos da gramática da língua portuguesa afirmam que um
-   substantivo abstrato se refere aquilo que não podemos pegar. Assim, os
-   sentimentos seriam abstratos. Só podemos sentir saudades. Não podemos
-   encostar nela.
-
-   Em oposição a esse tipo de substantivo estão os de tipo concreto. Estes
-   devem se referir a palavras que nomeiam objetos. Pois esses podemos
-   pegar. Podemos encostar neles.
-
-   O medo também seria um exemplo de substantivo abstrato. Assim como a
-   saudade é um sentimento, não é um objeto como um copo no qual podemos
-   encostar fisicamente. É algo abstrato e que nomeamos.
-
-Outras definições de saudade
-
-   O sentimento não é a única definição desta palavra.
-   [INS: :INS]
-
-   Mas ela também é usada na botânica. Faz referência a uma planta
-   conhecida também como suspiro. Seu nome científico é Scabiosa
-   atropurpurea, uma linda flor que possui várias cores. A mais comum é
-   roxa, mas também podemos encontrar em tons de rosa, bordô e branco.
-
-   Na botânica, o termo saudade também pode designar um conjunto de
-   plantas que sejam coloridas. Não somente esta espécie, mas outras
-   formas também.
-
-   Por isso, caso esteja lendo algum texto sobre flores, tenha atenção
-   para não se confundir.
-
-“Matar a saudade”
-
-   Quando dizemos a alguém que queremos “matar a saudade”, não estamos
-   falando no ato de tirar a vida.
-
-   Mas é uma metáfora. Significa que finalmente alguém que está com
-   saudade verá uma pessoa ou fará algo que não terá mais saudade. Por
-   exemplo:
-     * Chegou o feriado! Irei na casa da minha mãe e vou matar a saudade
-       de comer uma deliciosa torta.
-     * Chego amanhã, não vejo a hora de matarmos a saudade.
-
-   Nos dois casos não haverá qualquer derramamento de sangue. Mas será o
-   término de um sentimento. Será o fim de uma longa espera. E que se
-   converterá em uma imensa alegria a essas pessoas.
-
-   Assim, quando escutar alguém usando tal expressão, não se assuste. Mas
-   ela manifesta o tamanho do sentimento de alguém.
-
-   Pense em seus sentimentos. Tem vontade de matar alguma saudade?
-
-Onde mais existe a palavra saudade?
-
-   O termo saudade pode ser localizado em vários países.
-
-   Em uma tradução literal podemos identificar no inglês como miss you.
-   Entretanto, se passamos para as palavras no português ficaria algo como
-   te procuro.
-
-   Procurar alguém pode ser entendido como um sentimento semelhante. Mas
-   ainda assim não é a saudade como usada por aqui.
-
-   Em japonês pode se usar a palavra koishi. Entretanto também não é
-   igual. Expressa um sentimento de falta e que só pode ser usado com
-   algumas pessoas. Não é como no português que temos saudade de
-   lembranças e objetos.
-
-   A palavra também existe em espanhol com soledad.
-
-   Mas a expressão está mais próxima de um retorno a casa. Uma vontade de
-   ir para casa.
-
-   Saudade
-
-Curiosidades
-
-   Ao contrário do que costumamos a escutar, a palavra saudade não é
-   exclusiva do português. Entretanto, somente em português que ela possui
-   esse significado. Ela diz respeito a uma falta, a uma ausência de algo
-   ou alguém que amamos.
-
-   No Brasil ainda é uma palavra mais forte do que no português de
-   Portugal e de Angola.
-
-   Por ser um termo tão importante, no Brasil comemora-se o dia da
-   Saudade. Todos os anos, em 30 de janeiro os brasileiros recordam esse
-   sentimento.
-
-   Nesse dia você pode mandar uma boa mensagem a um amigo que está longe.
-   Ou também recordar daqueles que já morreram. Tente sempre fazer desse
-   sentimento algo positivo. Para que a tristeza não vença e se torne
-   melancolia.
-
-   A palavra também é considerada como uma das mais difíceis em se
-   traduzir. Ela possui uma especificidade que não existe em qualquer
-   idioma
-
-Conclusões
-
-   A saudade não é um sentimento ruim. É algo que todos provavelmente
-   iremos sentir. Basta estar vivo e ter alguém que ame para que isso
-   aconteça.
-
-   Não deixe de expressá-la às pessoas que você ama e que estão longe.
-   Você pode até mesmo sentir falta de alguma experiência, de uma comida,
-   de uma recordação. Isso é normal. E também é saudável para sermos
-   pessoas melhores.
-
-   Se você quer acabar com ela, telefone para a pessoa. Caso seja
-   impossível. Tente fazer alguma atividade que diminuirá seu sentimento.
-
-   Algumas de nossas melhores lembranças não voltarão. Mas podemos fazer
-   algumas atividades que diminuirão a sensação de tristeza. Tentar ficar
-   somente com as recordações boas é uma saída. A saudade nem sempre
-   precisa ser ruim.
-
-   Mas pode ser a construção de boas lembranças que te sempre trarão
-   alegria quando você se lembrar.
-
-   Não tenha medo de ter saudade. Isso é normal e revela que é uma pessoa
-   de sentimentos.
-   [INS: :INS]
-   Cartão de Crédito com até 10 mil de limite
-   Credicard ZERO Platinum: Clique aqui e solicite seu cartão Credicard
-   com até 10 mil reais de Limite. Além de anuidade Grátis, Cashback e
-   outros benefícios.
-     *
-     *
-     *
-     *
-
-About the author
-
-yasmin
-
-   Ver todos os posts
-
-Leia também
-
-   meritocracia
-
-   Educação • Geral • Língua Portuguesa
-
-Meritocracia: o que é? ela existe? Descubra aqui!
-
-   Fobia
-
-   Língua Portuguesa • Geral • Medicina
-
-Fobia é o nome dado ao medo irracional de alguma coisa...
-
-   Pesquisar___________ (BUTTON)
-
-Categories
-
-     * Animais11
-     * Arte9
-     * Ciência20
-     * Educação30
-     * Expressões em árabe6
-     * Expressões em Espanhol1
-     * Expressões em francês4
-     * Expressões em inglês114
-     * Expressões em latim6
-     * Filosofia14
-     * Finanças2
-     * Geral300
-     * História16
-     * Língua Portuguesa305
-     * Medicina37
-     * Meio Ambiente8
-     * Mitologia Grega9
-     * Natureza6
-     * Notícias2
-     * Política9
-     * Religião58
-     * Siglas34
-     * Tecnologia81
-     * Uncategorized9
-
-   Definicao.net é um site criado pela QC Network.
-</text>
-</page> §
-<page="saudade_pt-30">
+<page="saudade_pt-29">
 <text>
    #RSS feed do Mundo das Mensagens
 
@@ -6253,7 +5951,298 @@ MENSAGENS
    Política de Privacidade Termos de Uso Quem Somos Fale Conosco RSS
 </text>
 </page> §
-<page="saudade_pt-31">
+<page="saudade_pt-2">
+<text>
+    #Feed para Definição.net » Feed de comentários para Definição.net »
+   Feed de Definição.net » Story alternate alternate alternate
+
+   Definição.net
+
+     * Início
+     * Língua Portuguesa
+     * Religião
+     * Medicina
+     * Filosofia
+     * Animais
+     * Notícias
+     *
+          + Pesquisar___________ (BUTTON)
+
+   Definição.net
+
+     * Início
+     * Língua Portuguesa
+     * Religião
+     * Medicina
+     * Filosofia
+     * Animais
+     * Notícias
+     *
+          + Pesquisar___________ (BUTTON)
+
+   [INS: :INS]
+
+   Geral
+
+Saudade: significado, definição, conceitos e curiosidades
+
+   maio 13, 2019
+   by yasmin
+   6 min read
+   novembro 5, 2020
+
+   Você já deve ter dito a palavra saudade a alguém. Provavelmente quis
+   expressar um sentimento que envolvia muita afetividade. Entretanto,
+   essa palavra não é muito bem esclarecida. Aqui te mostraremos seus
+   significados, algumas curiosidades e como você deve utiliza-la.
+
+Significados da palavra
+
+   A saudade é uma palavra derivada do latim, de solitas. No latim ela
+   dizia respeito à solidão. No português foi adquirindo outros
+   significados.
+   [INS: :INS]
+
+   Clique aqui e entre no nosso grupo do WHATSAPP de Promoções e Cupons de
+   Desconto
+
+   Hoje a usamos para nos referirmos a um sentimento que envolve
+   afetividade. Normalmente se alguém vai embora dizemos que teremos
+   saudades. Ou se faz muito tempo que não vemos a pessoa também usamos o
+   termo.
+
+   Veja aqui alguns exemplos de aplicação em frases:
+     * Estou com saudades da torta que minha mãe faz;
+     * Você deixará saudades;
+     * Volte logo. Não quero morrer de saudades.
+
+   Observe que nesses três exemplos envolvem um sentimento ao mesmo tempo
+   de dor e de alegria. No primeiro refere-se a uma recordação positiva.
+   Mas também a uma dor não poder comer naquele momento a torta.
+   [INS: :INS]
+
+   Clique aqui e entre no nosso grupo do WHATSAPP de Promoções e Cupons de
+   Desconto
+
+   Veja também:
+     * Significado de cleptomaníaco
+     * Significado de Gummy Bear
+
+   O segundo e terceiro exemplos referem-se a alguém querido que está indo
+   embora. Por mais que a pessoa ame esse outro, ficará sem ele. E isso
+   levará a um sentimento de tristeza.
+
+   Assim, a saudade é um misto de alegria e ao mesmo tempo de tristeza.
+   [INS: :INS]
+
+   Clique aqui e entre no nosso grupo do WHATSAPP de Promoções e Cupons de
+   Desconto
+
+   Entre os seus sinônimos podemos identificar as seguintes palavras:
+     * Lembrança;
+     * Mágoa.
+
+   E entre seus antônimos as expressões:
+     * Desapego;
+     * Presença.
+
+   Entretanto, mesmo os sinônimos e antônimos são difíceis de serem
+   identificados para tal palavra.
+
+   Saudade
+
+Um substantivo abstrato
+
+   A palavra saudade é considerada um substantivo feminino e abstrato.
+   [INS: :INS]
+
+   Clique aqui e entre no nosso grupo do WHATSAPP de Promoções e Cupons de
+   Desconto
+
+   Os estudiosos da gramática da língua portuguesa afirmam que um
+   substantivo abstrato se refere aquilo que não podemos pegar. Assim, os
+   sentimentos seriam abstratos. Só podemos sentir saudades. Não podemos
+   encostar nela.
+
+   Em oposição a esse tipo de substantivo estão os de tipo concreto. Estes
+   devem se referir a palavras que nomeiam objetos. Pois esses podemos
+   pegar. Podemos encostar neles.
+
+   O medo também seria um exemplo de substantivo abstrato. Assim como a
+   saudade é um sentimento, não é um objeto como um copo no qual podemos
+   encostar fisicamente. É algo abstrato e que nomeamos.
+
+Outras definições de saudade
+
+   O sentimento não é a única definição desta palavra.
+   [INS: :INS]
+
+   Mas ela também é usada na botânica. Faz referência a uma planta
+   conhecida também como suspiro. Seu nome científico é Scabiosa
+   atropurpurea, uma linda flor que possui várias cores. A mais comum é
+   roxa, mas também podemos encontrar em tons de rosa, bordô e branco.
+
+   Na botânica, o termo saudade também pode designar um conjunto de
+   plantas que sejam coloridas. Não somente esta espécie, mas outras
+   formas também.
+
+   Por isso, caso esteja lendo algum texto sobre flores, tenha atenção
+   para não se confundir.
+
+“Matar a saudade”
+
+   Quando dizemos a alguém que queremos “matar a saudade”, não estamos
+   falando no ato de tirar a vida.
+
+   Mas é uma metáfora. Significa que finalmente alguém que está com
+   saudade verá uma pessoa ou fará algo que não terá mais saudade. Por
+   exemplo:
+     * Chegou o feriado! Irei na casa da minha mãe e vou matar a saudade
+       de comer uma deliciosa torta.
+     * Chego amanhã, não vejo a hora de matarmos a saudade.
+
+   Nos dois casos não haverá qualquer derramamento de sangue. Mas será o
+   término de um sentimento. Será o fim de uma longa espera. E que se
+   converterá em uma imensa alegria a essas pessoas.
+
+   Assim, quando escutar alguém usando tal expressão, não se assuste. Mas
+   ela manifesta o tamanho do sentimento de alguém.
+
+   Pense em seus sentimentos. Tem vontade de matar alguma saudade?
+
+Onde mais existe a palavra saudade?
+
+   O termo saudade pode ser localizado em vários países.
+
+   Em uma tradução literal podemos identificar no inglês como miss you.
+   Entretanto, se passamos para as palavras no português ficaria algo como
+   te procuro.
+
+   Procurar alguém pode ser entendido como um sentimento semelhante. Mas
+   ainda assim não é a saudade como usada por aqui.
+
+   Em japonês pode se usar a palavra koishi. Entretanto também não é
+   igual. Expressa um sentimento de falta e que só pode ser usado com
+   algumas pessoas. Não é como no português que temos saudade de
+   lembranças e objetos.
+
+   A palavra também existe em espanhol com soledad.
+
+   Mas a expressão está mais próxima de um retorno a casa. Uma vontade de
+   ir para casa.
+
+   Saudade
+
+Curiosidades
+
+   Ao contrário do que costumamos a escutar, a palavra saudade não é
+   exclusiva do português. Entretanto, somente em português que ela possui
+   esse significado. Ela diz respeito a uma falta, a uma ausência de algo
+   ou alguém que amamos.
+
+   No Brasil ainda é uma palavra mais forte do que no português de
+   Portugal e de Angola.
+
+   Por ser um termo tão importante, no Brasil comemora-se o dia da
+   Saudade. Todos os anos, em 30 de janeiro os brasileiros recordam esse
+   sentimento.
+
+   Nesse dia você pode mandar uma boa mensagem a um amigo que está longe.
+   Ou também recordar daqueles que já morreram. Tente sempre fazer desse
+   sentimento algo positivo. Para que a tristeza não vença e se torne
+   melancolia.
+
+   A palavra também é considerada como uma das mais difíceis em se
+   traduzir. Ela possui uma especificidade que não existe em qualquer
+   idioma
+
+Conclusões
+
+   A saudade não é um sentimento ruim. É algo que todos provavelmente
+   iremos sentir. Basta estar vivo e ter alguém que ame para que isso
+   aconteça.
+
+   Não deixe de expressá-la às pessoas que você ama e que estão longe.
+   Você pode até mesmo sentir falta de alguma experiência, de uma comida,
+   de uma recordação. Isso é normal. E também é saudável para sermos
+   pessoas melhores.
+
+   Se você quer acabar com ela, telefone para a pessoa. Caso seja
+   impossível. Tente fazer alguma atividade que diminuirá seu sentimento.
+
+   Algumas de nossas melhores lembranças não voltarão. Mas podemos fazer
+   algumas atividades que diminuirão a sensação de tristeza. Tentar ficar
+   somente com as recordações boas é uma saída. A saudade nem sempre
+   precisa ser ruim.
+
+   Mas pode ser a construção de boas lembranças que te sempre trarão
+   alegria quando você se lembrar.
+
+   Não tenha medo de ter saudade. Isso é normal e revela que é uma pessoa
+   de sentimentos.
+   [INS: :INS]
+   Cartão de Crédito com até 10 mil de limite
+   Credicard ZERO Platinum: Clique aqui e solicite seu cartão Credicard
+   com até 10 mil reais de Limite. Além de anuidade Grátis, Cashback e
+   outros benefícios.
+     *
+     *
+     *
+     *
+
+About the author
+
+yasmin
+
+   Ver todos os posts
+
+Leia também
+
+   meritocracia
+
+   Educação • Geral • Língua Portuguesa
+
+Meritocracia: o que é? ela existe? Descubra aqui!
+
+   Fobia
+
+   Língua Portuguesa • Geral • Medicina
+
+Fobia é o nome dado ao medo irracional de alguma coisa...
+
+   Pesquisar___________ (BUTTON)
+
+Categories
+
+     * Animais11
+     * Arte9
+     * Ciência20
+     * Educação30
+     * Expressões em árabe6
+     * Expressões em Espanhol1
+     * Expressões em francês4
+     * Expressões em inglês114
+     * Expressões em latim6
+     * Filosofia14
+     * Finanças2
+     * Geral300
+     * História16
+     * Língua Portuguesa305
+     * Medicina37
+     * Meio Ambiente8
+     * Mitologia Grega9
+     * Natureza6
+     * Notícias2
+     * Política9
+     * Religião58
+     * Siglas34
+     * Tecnologia81
+     * Uncategorized9
+
+   Definicao.net é um site criado pela QC Network.
+</text>
+</page> §
+<page="saudade_pt-30">
 <text>
    #alternate alternate alternate
 
@@ -7041,7 +7030,7 @@ Gostou dessas frases? Compartilhe!
      *
 </text>
 </page> §
-<page="saudade_pt-32">
+<page="saudade_pt-31">
 <text>
    Conceitos
    Geral Ciência Cultura Sociedade Tec.
@@ -7149,7 +7138,7 @@ Especiais na categoría
    LTDA, São Paulo, Brasil - Informação de Privacidade - Sobre - Contato
 </text>
 </page> §
-<page="saudade_pt-33">
+<page="saudade_pt-32">
 <text>
    #Feed para Recanto do Poeta » Feed de comentários para Recanto do Poeta
    » Feed de comentários para Recanto do Poeta » O que é saudade? Veja
@@ -7870,7 +7859,7 @@ Visão geral de Privacidade
    0
 </text>
 </page> §
-<page="saudade_pt-34">
+<page="saudade_pt-33">
 <text>
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-KRW48LP
 
@@ -8090,7 +8079,7 @@ Destaques
    Contato / Anuncie
 </text>
 </page> §
-<page="saudade_pt-35">
+<page="saudade_pt-34">
 <text>
      * Artigos
      * Tendências
@@ -8300,29 +8289,30 @@ Quais são os tipos de sentimentos?
    Artigo seguinte →
    Com quantos meses os dentes nascem?
    Questões semelhantes
-     * 39Quem matou o Muzan?
-     * 27Qual é o tipo de piscina mais barato?
-     * 41Quem foi o melhor Ronaldo ou Romário?
-     * 31Qual é o limite do espaço?
-     * 25Como podemos ajudar as pessoas nessa pandemia?
-     * 43O que quer dizer expedir publicação nota?
-     * 21Qual é a soma de todos os números naturais de 1 a 100?
-     * 31Quanto ganha um veterinário RT?
-     * 26Como tirar manchas muito difíceis?
-     * 17Como saber se já recebi o dinheiro do processo?
+     * 31O que tira tinta acrilex da roupa?
+     * 25Como usar tonalizante da Salon Line?
+     * 25O que engorda mais cerveja ou tira gosto?
+     * 15O que é a classe operária?
+     * 32Pode usar bicarbonato nas axilas?
+     * 32Quem não recebeu PIS em 2021 vai receber em 2022?
+     * 23O que é uma imagem real em um espelho?
+     * 25O que defende os direitos humanos?
+     * 23Quais os riscos de não se alongar corretamente?
+     * 20Qual o novo papel do professor?
 
    PUB
    Perguntas populares
-     * 45O que é metodologia transdisciplinar?
-     * 16Qual o valor da taxa de disponibilidade Cemig?
-     * 41Qual cogumelo mais saudável?
-     * 43O que acontece se tomar vários Torsilax?
-     * 24O que é farmacêutico comunitário?
-     * 30Quem pode ser secretário escolar?
-     * 40Qual Xiaomi tem a melhor câmera?
-     * 40O que é ser uma pessoa afetiva?
-     * 34O que acontece se desativar o Samsung Cloud?
-     * 31Como se estabelecem relações sociais e técnicas de produção?
+     * 32O que é chuva ácida e quais são suas consequências?
+     * 34Quando usar equipo Bureta?
+     * 18Quantos dias tenho que trabalhar no aviso prévio?
+     * 19Quantos o Spotify paga?
+     * 24Como é a distribuição do medicamento após ele ter penetrado na
+       corrente sanguínea?
+     * 23Como calcular OG e FG cerveja?
+     * 25Quais carnes tem menos fósforo?
+     * 43Quando acabou os campos de concentração?
+     * 42Como responder mensagem de carinho?
+     * 42Quando nasceu Paulo Guedes?
 
    Copyright 2020 TodasAsRespostas.pt
      *
@@ -8335,7 +8325,7 @@ Quais são os tipos de sentimentos?
      * Privacidade e Cookies
 </text>
 </page> §
-<page="saudade_pt-37">
+<page="saudade_pt-35">
 <text>
    #alternate alternate alternate
 
@@ -8629,7 +8619,7 @@ Subscrever
    (BUTTON) ×
 </text>
 </page> §
-<page="saudade_pt-38">
+<page="saudade_pt-36">
 <text>
      * Artigos
      * Tendências
@@ -8839,30 +8829,31 @@ Quais são os tipos de sentimentos?
    Artigo seguinte →
    Com quantos meses os dentes nascem?
    Questões semelhantes
-     * 38Como mandar sms por o instragamj?
-     * 42O que pode substituir a palavra alegação?
-     * 44Quem é Erasmo da Fazenda?
-     * 15Qual o signo de Fernanda Lima e Rodrigo Hilbert?
-     * 37Quanto o Mercado Livre paga por entrega?
-     * 26Como fazer o ácido hialurônico durar mais?
-     * 28O que representa a serpente no contexto bíblico?
-     * 20Qual a finalidade da adição de bicarbonato de sódio na elaboração
-       do doce de leite por algumas indústrias?
-     * 35Quais os benefícios da robótica para nossas vidas?
-     * 21Qual o melhor lugar para se morar no interior de São Paulo?
+     * 23O que é banalidade?
+     * 30Quais as vantagens do Uber diamante?
+     * 25Quantas linhas tem que ter um texto dissertativo?
+     * 25Qual foi o ator que mais fez novela na Globo?
+     * 44Qual a diferença entre Itaú SAC e Itaú Mix?
+     * 40Qual é a maior estátua católica do mundo?
+     * 44O que é extrato de DI?
+     * 39Tem fiança para sequestro?
+     * 34O que é uma declaração simplificada?
+     * 18O que devo fazer para inventar alguma coisa?
 
    PUB
    Perguntas populares
-     * 33Quanto tempo dura colchão?
-     * 16O que é um contrato de comodato?
-     * 29Quanto gasta um secador de cabelo?
-     * 23Tem como arrumar o controle do PS4?
-     * 33É verdade que quando dormimos o espírito sai do corpo?
-     * 16Como chama o vinho com várias uvas?
-     * 18O que é um fato verídico?
-     * 37Qual a banana que tem menos calorias?
-     * 23Quando termina novela Pega Pega 2021?
-     * 21Qual o interesse dos imperialistas em abolir a escravidão?
+     * 23O que é vistoriado?
+     * 44O que é a data de emissão?
+     * 20Qual o nome da planta mais resistente do mundo?
+     * 27Qual é o patrono da Hermione de Harry Potter?
+     * 17Como prevenir o reumatismo?
+     * 38Que imita a fala humana?
+     * 15Qual o principal fator que justifica a presença de grandes áreas
+       desérticas na Austrália?
+     * 29É normal sair água da panela de pressão?
+     * 38Quais são as principais classes dos antibióticos citando
+       exemplos?
+     * 29Qual o comércio que mais cresce?
 
    Copyright 2020 TodasAsRespostas.pt
      *
@@ -8875,7 +8866,7 @@ Quais são os tipos de sentimentos?
      * Privacidade e Cookies
 </text>
 </page> §
-<page="saudade_pt-39">
+<page="saudade_pt-37">
 <text>
    #Feed de comentários para Vida Simples » Saudade não precisa doer
    alternate alternate alternate
@@ -9428,6 +9419,634 @@ Contato
 falecom@vidasimples.co
 </text>
 </page> §
+<page="saudade_pt-38">
+<text>
+   #Feed para Eu Sem Fronteiras » Feed de comentários para Eu Sem
+   Fronteiras » Feed de Eu Sem Fronteiras » Story alternate alternate
+   alternate
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-P66D4FH
+
+     * Newsletter gratuita
+
+     * Instagram
+     * Facebook
+     * Twitter
+     * Youtube
+     * Pinterest
+
+   Eu Sem Fronteiras
+
+     * Autoconhecimento
+     * Energia em Equilíbrio
+     * Nutrição
+     * Saúde Integral
+     * Espiritualidade
+     * Mais
+          + Significados dos sonhos
+          + Horas iguais
+          + Convivendo
+          + Blog do Editor
+          + Biblioteca
+     *
+          + ____________________
+
+   Autoconhecimento • Psicologia
+
+O que a psicologia diz sobre a saudade?
+
+   7 min de leitura
+   1 ano atrás
+   Pedras amarelas com letras que representam a palavra saudade.
+   ciaobucarest / 123rf
+   [eu-sem-fronteiras-logo-150x150.jpg]
+   Escrito por Eu Sem Fronteiras
+
+   Saudade… palavra que só existe no nosso idioma. Não há tradução para o
+   termo. Em outros idiomas, há várias expressões correspondentes, mas,
+   fazendo o caminho de volta (das outras línguas para a nossa), essas
+   expressões ganharão outras traduções, criando um sem-fim de
+   significados, mas que não chegam exatamente à palavra “saudade” em si.
+
+   Isso quer dizer, então, que não existe saudade em outros países?
+   Obviamente há, o problema é apenas lexical, mas o sentimento… Ah! O
+   sentimento não só existe, como mexe, e muito, com o nosso coração. Às
+   vezes, a saudade dói tanto que dá até pra achar que é o único
+   sentimento palpável.
+
+   No entanto não só sentimos saudade que dói. Ela pode ser uma sensação
+   gostosa, aquela nostalgia que nos remete a tempos em que fomos felizes
+   e que guardamos em nossos corações com alegria e realização.
+
+Mas, afinal, o que é a saudade?
+
+   Um homem idoso olhando um porta-retrato. Um homem idoso olhando um
+   porta-retrato. Kindel Media / Pexels / Eu Sem Fronteiras
+
+   A despeito das comparações idiomáticas, podemos definir a saudade como
+   um sentimento evocatório causado pela lembrança de uma experiência boa
+   ou pela ausência de pessoas queridas ou coisas que prezamos.
+
+   É uma definição de dicionário, é claro. Para cada um que a sente, a
+   definição tem um sabor particular. E isso também tem a ver com a forma
+   como enxergamos a vida. Ainda que a saudade esteja associada àquela
+   nostalgia boa de um passado agradável, nossa relação com o “sentir”
+   pode ser positiva ou negativa.
+
+Com a palavra, a psicologia
+
+   A ciência também se incumbiu de estudar a saudade, sobretudo as causas
+   e os efeitos dela em nosso organismo. Claramente os resultados não são
+   precisos, pois estamos falando de emoções, um terreno complexo para a
+   compreensão objetiva.
+
+   Em suma, estudos científicos concluíram que a falta que as pessoas nos
+   fazem traz sintomas similares aos da abstinência de drogas. Porque as
+   pessoas “viciam”, graças a algumas substâncias químicas –
+   neurotransmissores e hormônios – que provocam sensações e auxiliam na
+   formação de laços afetivos.
+
+   Quando estamos perto das pessoas que amamos ou de quem gostamos, os
+   níveis dessas substâncias tendem a se elevar. Com o tempo, o
+   processamento delas passa a ser realizado com mais rapidez pelo nosso
+   corpo, o que faz com que desejemos mais e mais dessas sensações. Quando
+   retiramos repentinamente essas pessoas de nosso convívio, o nosso corpo
+   sente os efeitos – de uma forma mais atenuada, porém ainda assim
+   incômoda.
+
+   Mas essa sensação é imediatamente posterior ao momento dessa separação.
+   Com o tempo, o nosso corpo vai se regulando e as substâncias vão se
+   equilibrando. E o tempo é o mesmo fator que nos ajuda a construir as
+   memórias de tudo que vivemos.
+
+Mas tem o lado positivo
+
+   Apesar de a ausência da pessoa e dos momentos vividos ser algo que, em
+   primeiro momento, nos causa um turbilhão de emoções e desequilíbrios, à
+   medida que vamos nos recuperando, a saudade funciona como um mecanismo
+   de defesa, conciliando nosso vínculo com o passado, o momento presente
+   e o futuro.
+   Uma mão segurando um cartão com a frase "wish you were here". Uma mão
+   segurando um cartão com a frase "wish you were here". Vie Studio /
+   Pexels / Eu Sem Fronteiras
+
+   Para a psicanálise, a saudade é um sentimento positivo, capaz de
+   estimular a memória e a sensibilidade. No campo da psicologia, há
+   vários estudos abordando as questões afirmativas desse sentimento, como
+   o reforço da nossa percepção de conexão com os outros.
+
+   Um estudo em psicologia, conduzido pela Universidade de Southampton
+   (Reino Unido), afirma que a saudade funciona como uma resposta
+   imunológica psicológica. Em parte, ela ajuda a promover a
+   autocontinuidade, aumentando nosso senso de pertencimento.
+
+A saudade como um elo
+
+   A saudade é uma forma de nos mantermos conectados a experiências que
+   nos fizeram bem. Mais do que isso, ela nos ajuda a construir um elo com
+   o passado. Aquela pessoa especial que passou por nossas vidas, aquele
+   lugar lindo que visitamos ou mesmo um prato saboroso que provamos, uma
+   canção que mexeu com nosso coração… é sempre bom relembrar essas
+   vivências.
+
+   No entanto esse sentimento deixa de ser saudável ou renovador quando
+   nos apegamos demais a ele, ficando presos no que já passou e não
+   querendo seguir adiante, apenas deixando o passado onde ele precisa
+   ficar.
+
+   Dessa forma, a saudade passa a se tornar algo prejudicial à nossa saúde
+   emocional e física. Entre os distúrbios mais comuns que podem advir
+   desse “excesso” de saudade, podemos citar a angústia, a tristeza, a
+   apatia, a solidão (tanto a sensação quanto o desejo de estar só),
+   podendo até haver relação com depressão e ansiedade.
+
+E como lidar com a saudade que dói?
+
+   A saudade é algo que nos mantém vivos e conectados com o legado de
+   nossa existência. É por meio dela que revivemos nossos antepassados,
+   que celebramos aquilo que somos e as heranças emocionais que recebemos.
+
+   Mesmo a saudade que dói é uma forma de nos manter “guardados” no
+   acolhimento das experiências que nos foram boas. Mas, como explicado
+   acima, não é saudável se apegar de uma forma negativa ao que passou.
+   Um homem negro deitado de bruços numa cama olhando um porta-retrato.
+   Ele parece estar frustrado. Um homem negro deitado de bruços numa cama
+   olhando um porta-retrato. Ele parece estar frustrado. RODNAE
+   Productions / Pexels
+
+   E então, como lidar com essa saudade dolorida? Em primeiro lugar,
+   precisamos focar o presente – aquela máxima de viver o agora, pois ele
+   é a nossa única realidade. Deixar o passado no passado, como uma boa
+   recordação, é o caminho.
+
+   Devemos aceitar a realidade em que nos encontramos – o passado não
+   volta, algumas pessoas também não. Não precisamos esquecer, apenas
+   devemos guardar e seguir em frente. O que vivemos deve servir de força
+   para nos impulsionar para frente, não para nos estagnar.
+
+Mas se a saudade apertar, aqui vão algumas dicas:
+
+     * Não retenha as emoções: pode colocar pra fora, chorando ou se
+       expressando da forma que lhe fizer bem.
+     * Permita-se ficar triste: a ausência existe, ela deixa um vácuo e
+       não há nada de errado em sentir isso e reconhecer seu sentimento.
+     * Expresse seus sentimentos: seja conversando com alguém, seja
+       colocando no papel o que você sente. Isso é bom para elaborar e
+       organizar os sentimentos.
+     * Pense sempre no que foi bom: atenha-se aos bons momentos, a tudo
+       que foi vivido, não apenas à falta que algo faz ou ao momento da
+       partida de alguém.
+     * Distraia-se: sim! É uma boa saída. Ocupar a mente e mudar o foco é
+       uma forma de aliviar o peso de uma lembrança que esteja te
+       angustiando. Investir em coisas novas também ajuda a ocupar a
+       mente.
+     * Medite: a meditação é excelente para uma série de questões na nossa
+       vida. Ela ajuda a resolver quase todos os problemas que mexem com
+       nossas emoções.
+     * Reviva o que for possível: se você sente saudade de um lugar que
+       visitou, um prato que saboreou… por que não fazer isso de novo?
+       Revisite esse local, prepare o cardápio. Vale a pena se sentir bem!
+     * Busque ajuda: se, ainda assim, a coisa ficar muito pesada para
+       você, procure a ajuda profissional de um psicólogo ou terapeuta.
+
+   Você também pode gostar
+     * Alerte-se sobre os malefícios em negar os próprios sentimentos
+     * Meditação: conheça seus inúmeros benefícios e renove o seu ser
+     * Entenda o poder da nostalgia e de seus efeitos em nossas vidas
+
+   A saudade, na dose certa, ajuda a aquecer nossos corações, aproxima-nos
+   de coisas e pessoas que nos são caras, causa sensação de bem-estar e
+   nos conecta aos outros e a nós mesmos. Permita-se sentir saudade, mas
+   saiba que você ainda tem muita vida pela frente e muitos momentos para
+   construir e que criarão novas lembranças.
+   (BUTTON) COMENTÁRIOS
+
+   convivendo equilíbrio psicologia reflexão saudade sentimentos
+       WhatsAppFacebookTwitter
+
+Você também pode gostar
+
+   Autoconhecimento
+
+Estou me tornando repetitivo. O que fazer?
+
+   Autoconhecimento • Coaching
+
+O caminho dourado de Oz – Parte 3
+
+   Dois carros batidos e homens preocupados. Dois carros batidos e homens
+   preocupados.
+
+   Significado dos sonhos • Sonhar com acidente
+
+Sonhar com acidente de carro
+
+   universo universo
+
+   Autoconhecimento • Energia em Equilíbrio
+
+Um testemunho de cura individual
+
+   Autoconhecimento • Comportamento • Convivendo • Educação • Educação dos
+   filhos
+
+Como a educação na infância muda o adulto
+
+   Homem medita sobre pedra. Ao fundo, há o mar, montanhas e o cenário é
+   de pôr do sol. Homem medita sobre pedra. Ao fundo, há o mar, montanhas
+   e o cenário é de pôr do sol.
+
+   Autoconhecimento • Meditação
+
+Reflexão versus Meditação
+
+Sobre o autor
+
+   [svg%3E] [eu-sem-fronteiras-logo-150x150.jpg]
+
+Eu Sem Fronteiras
+
+   O Eu Sem Fronteiras conta com uma equipe de jornalistas e profissionais
+   de comunicação empenhados em trazer sempre informações atualizadas.
+   Aqui você não encontrará textos copiados de outros sites. Nossa
+   proposta é a de propagar o bem sempre, respeitando os direitos alheios.
+
+   "O que a gente não quer para nós, não desejamos aos outros"
+
+   Sejam Bem-vindos!
+
+   Torne-se também um colunista. Envie um e-mail para
+   colunistas@eusemfronteiras.com.br
+   Veja todos os artigos
+
+Gostou? Leia também
+
+     * Eu prometo!
+     * Uma mulher realizando respiração consciente. Uma mulher realizando
+       respiração consciente.
+       A IMPORTÂNCIA DA RESPIRAÇÃO CONSCIENTE.
+     * evolução evolução
+       O caminho da evolução
+
+Eventos
+
+     * Sua missão aqui é você! PERSEVERANÇA SIM, TEIMOSIA NÃO!!!
+       15/12/2022 a 03/01/2023
+     * RETIRO DE VERÃO COM ISHA
+       06/01/2023 a 24/02/2023
+     * PESSOA ECOLÓGICA - MULTIRÃO DE RECICLÁGEM
+       07/01/2023
+     * Ver todos os eventos
+
+Você também pode gostar
+
+     * Imagem de uma pessoa com um manto vermelho em cima de uma colina e
+       uma paisagem de céu, árvores e casas Imagem de uma pessoa com um
+       manto vermelho em cima de uma colina e uma paisagem de céu, árvores
+       e casas
+       Sobre imPERMAnência
+     * Imagem de uma mão estendida com uma luz em cima e o céu ilustrados.
+       Imagem de uma mão estendida com uma luz em cima e o céu ilustrados.
+       As nossas jornadas evolutivas
+     * Imagem de uma ampulheta com a areia caindo lentamente em um fundo
+       preto acinzentado Imagem de uma ampulheta com a areia caindo
+       lentamente em um fundo preto acinzentado
+       Suas atividades e prazos não precisam acabar no final do ano
+     * Imagem da metade de uma árvore florescendo e a outra metade seca
+       Imagem da metade de uma árvore florescendo e a outra metade seca
+       A vida escoa pelas mãos
+
+Assuntos mais buscados
+
+     * 11:11 Significado
+     * Vital Frosi
+     * Arcano Pessoal
+     * Acordar as 3 da Manhã
+     * Oração do Arcanjo
+     * Oração Quantica
+     * Espiritualidade
+     * O que é Memento Mori
+     * Mestres Ascencionados
+     * Significado dos Sonhos
+     * Sonhar que Está Matando Cobra
+     * Sonhar com Cobra
+     * Sonhar com Avião Caindo
+     * Sonhar com assalto
+     * Sonhar com Tsunami
+     * Sonhar com Morte
+     * Arcanjo Gabriel
+     * Mentor Espiritual
+
+E-books gratuitos
+
+     * Problemas, e agora?
+     * 9 passos para perdoar (a si mesmo e aos outros) e ser livre
+     * Os primeiros 1.000 dias – Conscientização e base para a vida
+
+Siga-nos nas redes sociais
+
+     * instagram
+     * pinterest
+     * facebook
+     * twitter
+     * youtube
+
+Conheça-nos
+
+     * Assine nossa newsletter gratuita
+     * Quem Somos
+     * Equipe Eu Sem Fronteiras
+     * Política de privacidade
+     * Termos de Uso
+     * Parceiros
+     * Google News
+
+Colunistas
+
+     * Nossos colunistas
+     * Seja um colunista
+     * Área do colunista (restrita)
+
+   2022 © 9 Giga
+   Site Parceiro do UOL VivaBem
+     * Fale conosco
+     * |
+     * Anuncie
+</text>
+</page> §
+<page="saudade_pt-39">
+<text>
+   #Feed de comentários de DM » Saudade e saudosismo alternate alternate
+
+   [svg%3E] [botao_close_search.png]
+
+   ____________________ ____________________
+
+   Entrar
+   Esqueceu a sua password?
+
+   Ainda não é assinante do Diário do Minho?
+   Assine aqui.
+
+   Capa de 17 Dezembro 2022
+
+   PUB
+
+   Diário do Minho — Jornal diário de informação regional e de inspiração
+   cristã.
+     __________________________________________________________________
+
+   (BUTTON)
+   Toggle navigation
+   [svg%3E] [botao_close_preto.png]
+   Assinantes Assinan. Assinantes
+   EMail ____________________
+   image image
+   image image
+   image image
+   [lupa.png]-Submit
+   ____________________ Submit
+   ____________________ Submit
+     * Braga
+     * Região
+     * Desporto
+     * Religião
+     * Nacional
+     * Internacional
+     * Reportagem
+
+   ____________________ Submit
+   ____________________ Submit
+   [BUTTON Input] (not implemented)_____
+     __________________________________________________________________
+
+   [svg%3E] [seta_azul.png] Opinião
+   [svg%3E] [caneta_opiniao.png]
+
+   Espaço do Diário do Minho
+   [svg%3E] [opiniao_aspas2.png]
+
+Saudade e saudosismo
+
+   30 Dez 2021
+   Carlos Aguiar Gomes
+     __________________________________________________________________
+
+   Saudade… sentimento que a língua portuguesa criou e mantém e que não é
+   de fácil tradução para qualquer outra língua numa só palavra.
+
+   Saudade é mais do que nostalgia ou sentimento de uma perda de alguém ou
+   de alguma vivência.
+
+   Saudade é viagem do coração que começa no aqui e agora e nos encaminha
+   para o passado e nos torna presentes pessoas, terras, alimentos ou
+   canções. Temos, quase todos, saudades da nossa Mãe que já partiu ou do
+   Pai que também já não temos entre nós fisicamente. Temos saudades de um
+   determinado alimento confeccionado por alguém, temos saudades das
+   brincadeiras da infância ou temos saudades de um estilo de vida… Temos
+   saudades de tantas e tantas pessoas, acontecimentos ou coisas! E, no
+   meu pobre entender, que não sou filósofo, ter saudades é saudável. A
+   saudade alimenta-nos a memória do passado que nos foi tornando no que
+   somos hoje e do muito que hoje vivemos, iremos ter saudades amanhã.
+
+   A saudade não é paralisante. Não nos bloqueia. Não impede que
+   progridamos no caminho que no agora se vai abrindo para o futuro.
+
+   Ter saudades é humanizante e só os humanos têm saudades.
+
+   Quantas vezes, cada um de nós, que não esteja amnésico, diz que tem
+   saudades de tantos e tantos episódios da sua vida, de pessoas com quem
+   se cruzou, de estilos de vida como viveu… Ter saudades não é doença.
+   Ter saudades é vida, é sinal vital. Ter saudades é bom do bom que
+   passou e não volta. Ter saudades alimenta-nos, como carburante de um
+   motor que a vida é. Alguém poderá viver sem saudades? Creio que não!
+
+   …E o saudosismo? Bem, aí já tudo é diferente. É uma ideologia que
+   alguns professam de quererem ficar imobilizados no passado e vivendo na
+   lamentação de quem esquece que o “ tempo foge!” e não volta atrás.
+
+   Mas saudosismo pode, e neste tempo, é insulto com que determinados “
+   iluminados” atacam quem não pensa como eles que ilusoriamente querem
+   esquecer o passado, como tempo perverso e onde e de onde nada vem de
+   bom. É insulto para paralisar e amedrontar ou calar quem tem saudades,
+   mas não vive (nem pode viver) no passado mas que recorda com nostalgia
+   o bom que o passado tem ou de que mais gostava. Creio que ninguém terá
+   saudades do mal, dos maus momentos, do horrível e destroçador. Quem tem
+   saudades não é um doente nem sofre de uma patologia que precisa de
+   cuidar e tratar. Só tem saudades quem vive.
+
+   Quantas vezes, eu já ouvi muitas vezes, muitas pessoas que insultam
+   quem não pensa como eles relativamente a vivências que caducaram ou
+   foram modificadas e de que guardam uma boa recordação sem que tal
+   acarrete mal ao mundo e que gostariam de ver reviver! Quantas! Quantos
+   “corações” cheios de misericórdia(?) insultam sistematicamente todos os
+   que não pensam como eles, os “detentores” da verdade, da sua verdade e
+   mundividência!
+
+   “São uns saudosistas!”, é chavão insultuoso muito usado por quem
+   deveria ter “ tento na língua”! Não é maneira de chamar velho a quem
+   não segue os “diktat” que enxameiam as suas cabeças? E eu conheço
+   tantos jovens que não têm saudades , pois a sua idade não lhes permitiu
+   viver aquilo de que gostam e apreciam e que, de todo, não os remete
+   para esse passado não vivido. Gostam, apreciam e defendem paradigmas
+   nunca por eles vividos e que, um dia, viram e vivenciaram, o bastante
+   para os fascinar! Mas esses jovens, imagine-se a estupidez de mentes
+   “abertas” são insultados como “ saudosistas”. Sei o que estou a
+   escrever e do que estou a escrever. E este insulto parte muito
+   frequentemente de quem não tem o direito de impor o seu gosto tantas
+   vezes discutível. Quando estou a escrever este texto, estou a pensar em
+   casos concretos recentes.
+
+   Poderia e deveria ser mais explicito. Também queria sê-lo. Poderia dar
+   inúmeros exemplos do uso do insulto “saudosista”. Mas não gosto de ser
+   apodado (e tenho-o sido) de saudosista, insulto que me incomoda muito
+   pois, se tenho saudades ( e tenho muitas) não sou um velho doente que
+   lamenta viver no hoje doente e “gasoso” e que me inquieta
+   profundamente. Sim, tenho saudades. Muitas. Sinto-me ofendido de ser
+   insultado de saudosista e tenho dificuldade em perdoar este insulto que
+   está cheio de veneno e é proferido por bocas que pensam ser melífluas.
+   E sinto este insulto proferido contra outras pessoas como profundamente
+   agressivo e falho de argumentos por parte de quem não quer ver e
+   compreender o caos em que se vive. O chavão “saudosista” é senha para
+   nos calarmos com medo, não duvide caro leitor. Tenha saudades! Diga que
+   as tem e não tenha medo. Viva no hoje com saudades. Faz-lhe bem.
+     __________________________________________________________________
+     __________________________________________________________________
+
+Mais de Carlos Aguiar Gomes
+
+   O caos em que nos mergulharam
+   Carlos Aguiar Gomes - 23 Jun 2022
+
+   «Dêem-me quatro anos para ensinar às crianças e o grão que semeei
+   jamais se desenraizará» ou «Dai-me uma só geração de jovens e
+   transformarei o mundo» (Lenine-1917) No dia 8 deste mês de Junho de
+   2022, às 17 horas, já 1218 cientistas de diversas áreas do saber de
+   várias Universidades alemãs, já tinham assinado um […]
+   A minha “Sinfonia do Adeus” vai adiantada!
+   Carlos Aguiar Gomes - 16 Jun 2022
+
+   Todos sabemos que o grande compositor austríaco, Joseph Haydn, em 1772,
+   quando estava ao serviço do Príncipe de Eszterházy, compôs uma
+   belíssima sinfonia de vigoroso protesto, a célebre “Sinfonia do Adeus”.
+   O Príncipe Nicolau Eszterházy, homem de uma grande riqueza, possuía
+   vários palácios quer na Áustria quer na Hungria, e passava temporadas
+   ora num local […]
+   Cardeal Zen: um perseguido face a silêncios incompreensíveis
+   Carlos Aguiar Gomes - 9 Jun 2022
+
+   Não foi notícia e deveria tê-lo sido. Em todo o mundo livre. Não
+   compreendo, deve ser problema meu, a fortíssima tibieza do Vaticano
+   contra a perseguição ao Cardeal Zen. Antigo Bispo de Hong-Kong, tem-se
+   destacado pela defesa da democracia e liberdade naquele território que,
+   teoricamente, goza de liberdade como “zona especial” da China, tal como
+   […]
+   [INS: :INS]
+     __________________________________________________________________
+
+   (BUTTON) Mostrar mais
+
+PUB
+
+   Newsletter
+
+   Não perca o melhor do Minho!
+
+   __________
+
+   Submeter
+     __________________________________________________________________
+
+   Notícias mais lidas
+     __________________________________________________________________
+
+   1
+   Parlamento Europeu vota relatório sobre futuro das zonas rurais
+     __________________________________________________________________
+
+   2
+   Municípios querem ver verbas do PRR alocadas ao desenvolvimento
+   sustentável
+     __________________________________________________________________
+
+   3
+   Presépio de Priscos é inaugurado a 11 de dezembro
+     __________________________________________________________________
+
+   4
+   Menino de 11 anos morre após cair de segundo andar em Braga
+     __________________________________________________________________
+
+   5
+   Braga derrotada por Évora na corrida a Capital Europeia da Cultura
+
+   image image
+   image image image image image image image image image image
+   image image
+     __________________________________________________________________
+
+     * Ficha Técnica
+     * Estatuto Editorial
+     * Assinaturas
+     * Publicidade
+     * Gráfica
+
+Contactos Gerais
+
+   Empresa do Diário do Minho, Lda.
+   Rua de Sta. Margarida, 4 A
+   4710-036 Braga
+   T +351 253 609 460
+   F +351 253 609 465
+   E comercial@diariodominho.pt
+
+Redação
+
+   T 253 609 467
+   F 253 609 469
+   E redacao@diariodominho.pt
+
+Dep Comercial
+
+   T 253 609 462
+   E comercial@diariodominho.pt
+
+Publicidade
+
+   T 253 609 463
+   E comercial@diariodominho.pt
+   (BUTTON)
+
+Mais contactos
+
+Redação
+
+   T 253 609 467
+   F 253 609 469
+   E redacao@diariodominho.pt
+
+Dep Comercial
+
+   T 253 609 462
+   E comercial@diariodominho.pt
+
+Publicidade
+
+   T 253 609 463
+   E comercial@diariodominho.pt
+   DM DM
+     __________________________________________________________________
+
+   Empresa do Diário do Minho, Lda.
+   © 1919-2022, Todos os direitos reservados
+   Política de Privacidade
+   Termos de Utilização
+   [svg%3E] [paleta.png] [svg%3E] [logo-pkt.png]
+   DM DM
+
+   Scroll Up
+</text>
+</page> §
 <page="saudade_pt-3">
 <text>
    #alternate Editar Wikipédia (pt)
@@ -9813,634 +10432,6 @@ Referências
 </page> §
 <page="saudade_pt-40">
 <text>
-   #Feed para Eu Sem Fronteiras » Feed de comentários para Eu Sem
-   Fronteiras » Feed de Eu Sem Fronteiras » Story alternate alternate
-   alternate
-
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-P66D4FH
-
-     * Newsletter gratuita
-
-     * Instagram
-     * Facebook
-     * Twitter
-     * Youtube
-     * Pinterest
-
-   Eu Sem Fronteiras
-
-     * Autoconhecimento
-     * Energia em Equilíbrio
-     * Nutrição
-     * Saúde Integral
-     * Espiritualidade
-     * Mais
-          + Significados dos sonhos
-          + Horas iguais
-          + Convivendo
-          + Blog do Editor
-          + Biblioteca
-     *
-          + ____________________
-
-   Autoconhecimento • Psicologia
-
-O que a psicologia diz sobre a saudade?
-
-   7 min de leitura
-   1 ano atrás
-   Pedras amarelas com letras que representam a palavra saudade.
-   ciaobucarest / 123rf
-   [eu-sem-fronteiras-logo-150x150.jpg]
-   Escrito por Eu Sem Fronteiras
-
-   Saudade… palavra que só existe no nosso idioma. Não há tradução para o
-   termo. Em outros idiomas, há várias expressões correspondentes, mas,
-   fazendo o caminho de volta (das outras línguas para a nossa), essas
-   expressões ganharão outras traduções, criando um sem-fim de
-   significados, mas que não chegam exatamente à palavra “saudade” em si.
-
-   Isso quer dizer, então, que não existe saudade em outros países?
-   Obviamente há, o problema é apenas lexical, mas o sentimento… Ah! O
-   sentimento não só existe, como mexe, e muito, com o nosso coração. Às
-   vezes, a saudade dói tanto que dá até pra achar que é o único
-   sentimento palpável.
-
-   No entanto não só sentimos saudade que dói. Ela pode ser uma sensação
-   gostosa, aquela nostalgia que nos remete a tempos em que fomos felizes
-   e que guardamos em nossos corações com alegria e realização.
-
-Mas, afinal, o que é a saudade?
-
-   Um homem idoso olhando um porta-retrato. Um homem idoso olhando um
-   porta-retrato. Kindel Media / Pexels / Eu Sem Fronteiras
-
-   A despeito das comparações idiomáticas, podemos definir a saudade como
-   um sentimento evocatório causado pela lembrança de uma experiência boa
-   ou pela ausência de pessoas queridas ou coisas que prezamos.
-
-   É uma definição de dicionário, é claro. Para cada um que a sente, a
-   definição tem um sabor particular. E isso também tem a ver com a forma
-   como enxergamos a vida. Ainda que a saudade esteja associada àquela
-   nostalgia boa de um passado agradável, nossa relação com o “sentir”
-   pode ser positiva ou negativa.
-
-Com a palavra, a psicologia
-
-   A ciência também se incumbiu de estudar a saudade, sobretudo as causas
-   e os efeitos dela em nosso organismo. Claramente os resultados não são
-   precisos, pois estamos falando de emoções, um terreno complexo para a
-   compreensão objetiva.
-
-   Em suma, estudos científicos concluíram que a falta que as pessoas nos
-   fazem traz sintomas similares aos da abstinência de drogas. Porque as
-   pessoas “viciam”, graças a algumas substâncias químicas –
-   neurotransmissores e hormônios – que provocam sensações e auxiliam na
-   formação de laços afetivos.
-
-   Quando estamos perto das pessoas que amamos ou de quem gostamos, os
-   níveis dessas substâncias tendem a se elevar. Com o tempo, o
-   processamento delas passa a ser realizado com mais rapidez pelo nosso
-   corpo, o que faz com que desejemos mais e mais dessas sensações. Quando
-   retiramos repentinamente essas pessoas de nosso convívio, o nosso corpo
-   sente os efeitos – de uma forma mais atenuada, porém ainda assim
-   incômoda.
-
-   Mas essa sensação é imediatamente posterior ao momento dessa separação.
-   Com o tempo, o nosso corpo vai se regulando e as substâncias vão se
-   equilibrando. E o tempo é o mesmo fator que nos ajuda a construir as
-   memórias de tudo que vivemos.
-
-Mas tem o lado positivo
-
-   Apesar de a ausência da pessoa e dos momentos vividos ser algo que, em
-   primeiro momento, nos causa um turbilhão de emoções e desequilíbrios, à
-   medida que vamos nos recuperando, a saudade funciona como um mecanismo
-   de defesa, conciliando nosso vínculo com o passado, o momento presente
-   e o futuro.
-   Uma mão segurando um cartão com a frase "wish you were here". Uma mão
-   segurando um cartão com a frase "wish you were here". Vie Studio /
-   Pexels / Eu Sem Fronteiras
-
-   Para a psicanálise, a saudade é um sentimento positivo, capaz de
-   estimular a memória e a sensibilidade. No campo da psicologia, há
-   vários estudos abordando as questões afirmativas desse sentimento, como
-   o reforço da nossa percepção de conexão com os outros.
-
-   Um estudo em psicologia, conduzido pela Universidade de Southampton
-   (Reino Unido), afirma que a saudade funciona como uma resposta
-   imunológica psicológica. Em parte, ela ajuda a promover a
-   autocontinuidade, aumentando nosso senso de pertencimento.
-
-A saudade como um elo
-
-   A saudade é uma forma de nos mantermos conectados a experiências que
-   nos fizeram bem. Mais do que isso, ela nos ajuda a construir um elo com
-   o passado. Aquela pessoa especial que passou por nossas vidas, aquele
-   lugar lindo que visitamos ou mesmo um prato saboroso que provamos, uma
-   canção que mexeu com nosso coração… é sempre bom relembrar essas
-   vivências.
-
-   No entanto esse sentimento deixa de ser saudável ou renovador quando
-   nos apegamos demais a ele, ficando presos no que já passou e não
-   querendo seguir adiante, apenas deixando o passado onde ele precisa
-   ficar.
-
-   Dessa forma, a saudade passa a se tornar algo prejudicial à nossa saúde
-   emocional e física. Entre os distúrbios mais comuns que podem advir
-   desse “excesso” de saudade, podemos citar a angústia, a tristeza, a
-   apatia, a solidão (tanto a sensação quanto o desejo de estar só),
-   podendo até haver relação com depressão e ansiedade.
-
-E como lidar com a saudade que dói?
-
-   A saudade é algo que nos mantém vivos e conectados com o legado de
-   nossa existência. É por meio dela que revivemos nossos antepassados,
-   que celebramos aquilo que somos e as heranças emocionais que recebemos.
-
-   Mesmo a saudade que dói é uma forma de nos manter “guardados” no
-   acolhimento das experiências que nos foram boas. Mas, como explicado
-   acima, não é saudável se apegar de uma forma negativa ao que passou.
-   Um homem negro deitado de bruços numa cama olhando um porta-retrato.
-   Ele parece estar frustrado. Um homem negro deitado de bruços numa cama
-   olhando um porta-retrato. Ele parece estar frustrado. RODNAE
-   Productions / Pexels
-
-   E então, como lidar com essa saudade dolorida? Em primeiro lugar,
-   precisamos focar o presente – aquela máxima de viver o agora, pois ele
-   é a nossa única realidade. Deixar o passado no passado, como uma boa
-   recordação, é o caminho.
-
-   Devemos aceitar a realidade em que nos encontramos – o passado não
-   volta, algumas pessoas também não. Não precisamos esquecer, apenas
-   devemos guardar e seguir em frente. O que vivemos deve servir de força
-   para nos impulsionar para frente, não para nos estagnar.
-
-Mas se a saudade apertar, aqui vão algumas dicas:
-
-     * Não retenha as emoções: pode colocar pra fora, chorando ou se
-       expressando da forma que lhe fizer bem.
-     * Permita-se ficar triste: a ausência existe, ela deixa um vácuo e
-       não há nada de errado em sentir isso e reconhecer seu sentimento.
-     * Expresse seus sentimentos: seja conversando com alguém, seja
-       colocando no papel o que você sente. Isso é bom para elaborar e
-       organizar os sentimentos.
-     * Pense sempre no que foi bom: atenha-se aos bons momentos, a tudo
-       que foi vivido, não apenas à falta que algo faz ou ao momento da
-       partida de alguém.
-     * Distraia-se: sim! É uma boa saída. Ocupar a mente e mudar o foco é
-       uma forma de aliviar o peso de uma lembrança que esteja te
-       angustiando. Investir em coisas novas também ajuda a ocupar a
-       mente.
-     * Medite: a meditação é excelente para uma série de questões na nossa
-       vida. Ela ajuda a resolver quase todos os problemas que mexem com
-       nossas emoções.
-     * Reviva o que for possível: se você sente saudade de um lugar que
-       visitou, um prato que saboreou… por que não fazer isso de novo?
-       Revisite esse local, prepare o cardápio. Vale a pena se sentir bem!
-     * Busque ajuda: se, ainda assim, a coisa ficar muito pesada para
-       você, procure a ajuda profissional de um psicólogo ou terapeuta.
-
-   Você também pode gostar
-     * Alerte-se sobre os malefícios em negar os próprios sentimentos
-     * Meditação: conheça seus inúmeros benefícios e renove o seu ser
-     * Entenda o poder da nostalgia e de seus efeitos em nossas vidas
-
-   A saudade, na dose certa, ajuda a aquecer nossos corações, aproxima-nos
-   de coisas e pessoas que nos são caras, causa sensação de bem-estar e
-   nos conecta aos outros e a nós mesmos. Permita-se sentir saudade, mas
-   saiba que você ainda tem muita vida pela frente e muitos momentos para
-   construir e que criarão novas lembranças.
-   (BUTTON) COMENTÁRIOS
-
-   convivendo equilíbrio psicologia reflexão saudade sentimentos
-       WhatsAppFacebookTwitter
-
-Você também pode gostar
-
-   Autoconhecimento
-
-Mate seus medos
-
-   Autoconhecimento
-
-Empatia, uma virtude que todos precisam ter
-
-   Amigos reunidos em um parque Amigos reunidos em um parque
-
-   Autoconhecimento
-
-Por que não devemos acreditar em ditados populares?
-
-   Mão humana segurando uma bússola na estrada. Mão humana segurando uma
-   bússola na estrada.
-
-   Autoconhecimento • Convivendo
-
-Perdendo o alicerce para encontrar o caminho
-
-   Autoconhecimento • Coaching
-
-O caminho dourado de Oz – Parte 3
-
-   Homem de olhos fechados e orando Homem de olhos fechados e orando
-
-   Autoconhecimento • Espiritualidade
-
-Somos Todos Criadores!
-
-Sobre o autor
-
-   [svg%3E] [eu-sem-fronteiras-logo-150x150.jpg]
-
-Eu Sem Fronteiras
-
-   O Eu Sem Fronteiras conta com uma equipe de jornalistas e profissionais
-   de comunicação empenhados em trazer sempre informações atualizadas.
-   Aqui você não encontrará textos copiados de outros sites. Nossa
-   proposta é a de propagar o bem sempre, respeitando os direitos alheios.
-
-   "O que a gente não quer para nós, não desejamos aos outros"
-
-   Sejam Bem-vindos!
-
-   Torne-se também um colunista. Envie um e-mail para
-   colunistas@eusemfronteiras.com.br
-   Veja todos os artigos
-
-Gostou? Leia também
-
-     * Livro fechado em cima de uma cadeira com rosas em cima. Livro
-       fechado em cima de uma cadeira com rosas em cima.
-       Poesia como forma de exaltar os sentimentos
-     * Mulher negra sorrindo olhando o horizonte. Mulher negra sorrindo
-       olhando o horizonte.
-       A linha do tempo de sua vida
-     * Mãos de um ferreiro manipulando ferro derretido. Mãos de um
-       ferreiro manipulando ferro derretido.
-       Em casa de ferreiro o espeto é de pau
-
-Eventos
-
-     * Sua missão aqui é você! PERSEVERANÇA SIM, TEIMOSIA NÃO!!!
-       15/12/2022 a 03/01/2023
-     * RETIRO DE VERÃO COM ISHA
-       06/01/2023 a 24/02/2023
-     * PESSOA ECOLÓGICA - MULTIRÃO DE RECICLÁGEM
-       07/01/2023
-     * Ver todos os eventos
-
-Você também pode gostar
-
-     * Imagem de uma pessoa com um manto vermelho em cima de uma colina e
-       uma paisagem de céu, árvores e casas Imagem de uma pessoa com um
-       manto vermelho em cima de uma colina e uma paisagem de céu, árvores
-       e casas
-       Sobre imPERMAnência
-     * Imagem de uma mão estendida com uma luz em cima e o céu ilustrados.
-       Imagem de uma mão estendida com uma luz em cima e o céu ilustrados.
-       As nossas jornadas evolutivas
-     * Imagem de uma ampulheta com a areia caindo lentamente em um fundo
-       preto acinzentado Imagem de uma ampulheta com a areia caindo
-       lentamente em um fundo preto acinzentado
-       Suas atividades e prazos não precisam acabar no final do ano
-     * Imagem da metade de uma árvore florescendo e a outra metade seca
-       Imagem da metade de uma árvore florescendo e a outra metade seca
-       A vida escoa pelas mãos
-
-Assuntos mais buscados
-
-     * 11:11 Significado
-     * Vital Frosi
-     * Arcano Pessoal
-     * Acordar as 3 da Manhã
-     * Oração do Arcanjo
-     * Oração Quantica
-     * Espiritualidade
-     * O que é Memento Mori
-     * Mestres Ascencionados
-     * Significado dos Sonhos
-     * Sonhar que Está Matando Cobra
-     * Sonhar com Cobra
-     * Sonhar com Avião Caindo
-     * Sonhar com assalto
-     * Sonhar com Tsunami
-     * Sonhar com Morte
-     * Arcanjo Gabriel
-     * Mentor Espiritual
-
-E-books gratuitos
-
-     * Problemas, e agora?
-     * 9 passos para perdoar (a si mesmo e aos outros) e ser livre
-     * Os primeiros 1.000 dias – Conscientização e base para a vida
-
-Siga-nos nas redes sociais
-
-     * instagram
-     * pinterest
-     * facebook
-     * twitter
-     * youtube
-
-Conheça-nos
-
-     * Assine nossa newsletter gratuita
-     * Quem Somos
-     * Equipe Eu Sem Fronteiras
-     * Política de privacidade
-     * Termos de Uso
-     * Parceiros
-     * Google News
-
-Colunistas
-
-     * Nossos colunistas
-     * Seja um colunista
-     * Área do colunista (restrita)
-
-   2022 © 9 Giga
-   Site Parceiro do UOL VivaBem
-     * Fale conosco
-     * |
-     * Anuncie
-</text>
-</page> §
-<page="saudade_pt-41">
-<text>
-   #Feed de comentários de DM » Saudade e saudosismo alternate alternate
-
-   [svg%3E] [botao_close_search.png]
-
-   ____________________ ____________________
-
-   Entrar
-   Esqueceu a sua password?
-
-   Ainda não é assinante do Diário do Minho?
-   Assine aqui.
-
-   Capa de 17 Dezembro 2022
-
-   PUB
-
-   Diário do Minho — Jornal diário de informação regional e de inspiração
-   cristã.
-     __________________________________________________________________
-
-   (BUTTON)
-   Toggle navigation
-   [svg%3E] [botao_close_preto.png]
-   Assinantes Assinan. Assinantes
-   EMail ____________________
-   image image
-   image image
-   image image
-   [lupa.png]-Submit
-   ____________________ Submit
-   ____________________ Submit
-     * Braga
-     * Região
-     * Desporto
-     * Religião
-     * Nacional
-     * Internacional
-     * Reportagem
-
-   ____________________ Submit
-   ____________________ Submit
-   [BUTTON Input] (not implemented)_____
-     __________________________________________________________________
-
-   [svg%3E] [seta_azul.png] Opinião
-   [svg%3E] [caneta_opiniao.png]
-
-   Espaço do Diário do Minho
-   [svg%3E] [opiniao_aspas2.png]
-
-Saudade e saudosismo
-
-   30 Dez 2021
-   Carlos Aguiar Gomes
-     __________________________________________________________________
-
-   Saudade… sentimento que a língua portuguesa criou e mantém e que não é
-   de fácil tradução para qualquer outra língua numa só palavra.
-
-   Saudade é mais do que nostalgia ou sentimento de uma perda de alguém ou
-   de alguma vivência.
-
-   Saudade é viagem do coração que começa no aqui e agora e nos encaminha
-   para o passado e nos torna presentes pessoas, terras, alimentos ou
-   canções. Temos, quase todos, saudades da nossa Mãe que já partiu ou do
-   Pai que também já não temos entre nós fisicamente. Temos saudades de um
-   determinado alimento confeccionado por alguém, temos saudades das
-   brincadeiras da infância ou temos saudades de um estilo de vida… Temos
-   saudades de tantas e tantas pessoas, acontecimentos ou coisas! E, no
-   meu pobre entender, que não sou filósofo, ter saudades é saudável. A
-   saudade alimenta-nos a memória do passado que nos foi tornando no que
-   somos hoje e do muito que hoje vivemos, iremos ter saudades amanhã.
-
-   A saudade não é paralisante. Não nos bloqueia. Não impede que
-   progridamos no caminho que no agora se vai abrindo para o futuro.
-
-   Ter saudades é humanizante e só os humanos têm saudades.
-
-   Quantas vezes, cada um de nós, que não esteja amnésico, diz que tem
-   saudades de tantos e tantos episódios da sua vida, de pessoas com quem
-   se cruzou, de estilos de vida como viveu… Ter saudades não é doença.
-   Ter saudades é vida, é sinal vital. Ter saudades é bom do bom que
-   passou e não volta. Ter saudades alimenta-nos, como carburante de um
-   motor que a vida é. Alguém poderá viver sem saudades? Creio que não!
-
-   …E o saudosismo? Bem, aí já tudo é diferente. É uma ideologia que
-   alguns professam de quererem ficar imobilizados no passado e vivendo na
-   lamentação de quem esquece que o “ tempo foge!” e não volta atrás.
-
-   Mas saudosismo pode, e neste tempo, é insulto com que determinados “
-   iluminados” atacam quem não pensa como eles que ilusoriamente querem
-   esquecer o passado, como tempo perverso e onde e de onde nada vem de
-   bom. É insulto para paralisar e amedrontar ou calar quem tem saudades,
-   mas não vive (nem pode viver) no passado mas que recorda com nostalgia
-   o bom que o passado tem ou de que mais gostava. Creio que ninguém terá
-   saudades do mal, dos maus momentos, do horrível e destroçador. Quem tem
-   saudades não é um doente nem sofre de uma patologia que precisa de
-   cuidar e tratar. Só tem saudades quem vive.
-
-   Quantas vezes, eu já ouvi muitas vezes, muitas pessoas que insultam
-   quem não pensa como eles relativamente a vivências que caducaram ou
-   foram modificadas e de que guardam uma boa recordação sem que tal
-   acarrete mal ao mundo e que gostariam de ver reviver! Quantas! Quantos
-   “corações” cheios de misericórdia(?) insultam sistematicamente todos os
-   que não pensam como eles, os “detentores” da verdade, da sua verdade e
-   mundividência!
-
-   “São uns saudosistas!”, é chavão insultuoso muito usado por quem
-   deveria ter “ tento na língua”! Não é maneira de chamar velho a quem
-   não segue os “diktat” que enxameiam as suas cabeças? E eu conheço
-   tantos jovens que não têm saudades , pois a sua idade não lhes permitiu
-   viver aquilo de que gostam e apreciam e que, de todo, não os remete
-   para esse passado não vivido. Gostam, apreciam e defendem paradigmas
-   nunca por eles vividos e que, um dia, viram e vivenciaram, o bastante
-   para os fascinar! Mas esses jovens, imagine-se a estupidez de mentes
-   “abertas” são insultados como “ saudosistas”. Sei o que estou a
-   escrever e do que estou a escrever. E este insulto parte muito
-   frequentemente de quem não tem o direito de impor o seu gosto tantas
-   vezes discutível. Quando estou a escrever este texto, estou a pensar em
-   casos concretos recentes.
-
-   Poderia e deveria ser mais explicito. Também queria sê-lo. Poderia dar
-   inúmeros exemplos do uso do insulto “saudosista”. Mas não gosto de ser
-   apodado (e tenho-o sido) de saudosista, insulto que me incomoda muito
-   pois, se tenho saudades ( e tenho muitas) não sou um velho doente que
-   lamenta viver no hoje doente e “gasoso” e que me inquieta
-   profundamente. Sim, tenho saudades. Muitas. Sinto-me ofendido de ser
-   insultado de saudosista e tenho dificuldade em perdoar este insulto que
-   está cheio de veneno e é proferido por bocas que pensam ser melífluas.
-   E sinto este insulto proferido contra outras pessoas como profundamente
-   agressivo e falho de argumentos por parte de quem não quer ver e
-   compreender o caos em que se vive. O chavão “saudosista” é senha para
-   nos calarmos com medo, não duvide caro leitor. Tenha saudades! Diga que
-   as tem e não tenha medo. Viva no hoje com saudades. Faz-lhe bem.
-     __________________________________________________________________
-     __________________________________________________________________
-
-Mais de Carlos Aguiar Gomes
-
-   O caos em que nos mergulharam
-   Carlos Aguiar Gomes - 23 Jun 2022
-
-   «Dêem-me quatro anos para ensinar às crianças e o grão que semeei
-   jamais se desenraizará» ou «Dai-me uma só geração de jovens e
-   transformarei o mundo» (Lenine-1917) No dia 8 deste mês de Junho de
-   2022, às 17 horas, já 1218 cientistas de diversas áreas do saber de
-   várias Universidades alemãs, já tinham assinado um […]
-   A minha “Sinfonia do Adeus” vai adiantada!
-   Carlos Aguiar Gomes - 16 Jun 2022
-
-   Todos sabemos que o grande compositor austríaco, Joseph Haydn, em 1772,
-   quando estava ao serviço do Príncipe de Eszterházy, compôs uma
-   belíssima sinfonia de vigoroso protesto, a célebre “Sinfonia do Adeus”.
-   O Príncipe Nicolau Eszterházy, homem de uma grande riqueza, possuía
-   vários palácios quer na Áustria quer na Hungria, e passava temporadas
-   ora num local […]
-   Cardeal Zen: um perseguido face a silêncios incompreensíveis
-   Carlos Aguiar Gomes - 9 Jun 2022
-
-   Não foi notícia e deveria tê-lo sido. Em todo o mundo livre. Não
-   compreendo, deve ser problema meu, a fortíssima tibieza do Vaticano
-   contra a perseguição ao Cardeal Zen. Antigo Bispo de Hong-Kong, tem-se
-   destacado pela defesa da democracia e liberdade naquele território que,
-   teoricamente, goza de liberdade como “zona especial” da China, tal como
-   […]
-   [INS: :INS]
-     __________________________________________________________________
-
-   (BUTTON) Mostrar mais
-
-PUB
-
-   Newsletter
-
-   Não perca o melhor do Minho!
-
-   __________
-
-   Submeter
-     __________________________________________________________________
-
-   Notícias mais lidas
-     __________________________________________________________________
-
-   1
-   Parlamento Europeu vota relatório sobre futuro das zonas rurais
-     __________________________________________________________________
-
-   2
-   Municípios querem ver verbas do PRR alocadas ao desenvolvimento
-   sustentável
-     __________________________________________________________________
-
-   3
-   Presépio de Priscos é inaugurado a 11 de dezembro
-     __________________________________________________________________
-
-   4
-   Menino de 11 anos morre após cair de segundo andar em Braga
-     __________________________________________________________________
-
-   5
-   Braga derrotada por Évora na corrida a Capital Europeia da Cultura
-
-   image image
-   image image image image image image image image image image
-   image image
-     __________________________________________________________________
-
-     * Ficha Técnica
-     * Estatuto Editorial
-     * Assinaturas
-     * Publicidade
-     * Gráfica
-
-Contactos Gerais
-
-   Empresa do Diário do Minho, Lda.
-   Rua de Sta. Margarida, 4 A
-   4710-036 Braga
-   T +351 253 609 460
-   F +351 253 609 465
-   E comercial@diariodominho.pt
-
-Redação
-
-   T 253 609 467
-   F 253 609 469
-   E redacao@diariodominho.pt
-
-Dep Comercial
-
-   T 253 609 462
-   E comercial@diariodominho.pt
-
-Publicidade
-
-   T 253 609 463
-   E comercial@diariodominho.pt
-   (BUTTON)
-
-Mais contactos
-
-Redação
-
-   T 253 609 467
-   F 253 609 469
-   E redacao@diariodominho.pt
-
-Dep Comercial
-
-   T 253 609 462
-   E comercial@diariodominho.pt
-
-Publicidade
-
-   T 253 609 463
-   E comercial@diariodominho.pt
-   DM DM
-     __________________________________________________________________
-
-   Empresa do Diário do Minho, Lda.
-   © 1919-2022, Todos os direitos reservados
-   Política de Privacidade
-   Termos de Utilização
-   [svg%3E] [paleta.png] [svg%3E] [logo-pkt.png]
-   DM DM
-
-   Scroll Up
-</text>
-</page> §
-<page="saudade_pt-42">
-<text>
 
    Ciberdúvidas - O portal de dúvidas da língua Portuguesa
      * Início
@@ -10786,7 +10777,7 @@ Publicidade
    Subscrever notificações Fechar
 </text>
 </page> §
-<page="saudade_pt-43">
+<page="saudade_pt-41">
 <text>
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TC48J25
 
@@ -11020,7 +11011,7 @@ Sentir saudade ou lembrar?
      * Política de cookies
 </text>
 </page> §
-<page="saudade_pt-44">
+<page="saudade_pt-42">
 <text>
    REFRESH(420 sec):
    https://www.diariodepernambuco.com.br/noticia/opiniao/2020/01/saudade.h
@@ -11243,6 +11234,18 @@ Sentir saudade ou lembrar?
    Idoso encontrado morto dentro de casa com mensagem ameaadora 15/12/2022
    às 16:01
    LTIMAS
+   Chef se estressa ao gravar receita e internet elege: Melhor vdeo de
+   2022 (Foto: reproduo/redes sociais) Chef se estressa ao gravar receita
+   e internet elege: 'Melhor vdeo de 2022' 17/12/2022 s 11h54
+   Foras Armadas: novos comandantes vo pedir a Lula que tolere
+   acampamentos (Foto: Mauricio Lima/AFP) Foras Armadas: novos comandantes
+   vo pedir a Lula que tolere acampamentos 17/12/2022 s 11h35
+   Auxlio Brasil: beneficirios de NIS final 9 podem movimentar recursos
+   (Foto: Marcello Casal Jr/Agncia Brasil) Auxlio Brasil: beneficirios de
+   NIS final 9 podem movimentar recursos 17/12/2022 s 09h50
+   Flvio Dino assegura proteo ao pblico na posse de Lula (Foto: Evaristo
+   Sa/ AFP) Flvio Dino assegura proteo ao pblico na posse de Lula
+   17/12/2022 s 08h49
    Pelo menos 37 mortos na ndia por intoxicao por lcool adulterado (Foto:
    Raveendran/AFP) Pelo menos 37 mortos na ndia por intoxicao por lcool
    adulterado 17/12/2022 s 08h34
@@ -11261,18 +11264,6 @@ Sentir saudade ou lembrar?
    Recife ganha novo trecho do Cais da Aurora com programao de Natal
    (Divulgao) Recife ganha novo trecho do Cais da Aurora com programao de
    Natal 16/12/2022 s 20h58
-   Tesouro pede menos gastos para conter alta da dvida pblica (Foto:
-   Marcello Casal Jr/Agncia Brasil) Tesouro pede menos gastos para conter
-   alta da dvida pblica 16/12/2022 s 20h57
-   Grfica diz que Bolsonaro no declarou gasto ao TSE e pede impugnao de
-   contas (Foto: EVARISTO SA / AFP) Grfica diz que Bolsonaro no declarou
-   gasto ao TSE e pede impugnao de contas 16/12/2022 s 20h31
-   Menino de 2 anos parcialmente engolido por hipoptamo em Uganda (Foto:
-   Tambako the Jaguar) Menino de 2 anos parcialmente engolido por
-   hipoptamo em Uganda 16/12/2022 s 20h10
-   Unio desbloqueia verbas para universidades e institutos federais (Foto:
-   Marcelo Ferreira/CB/D.A Press) Unio desbloqueia verbas para
-   universidades e institutos federais 16/12/2022 s 20h00
 
 DIARIO DE PERNAMBUCO
 
@@ -11345,7 +11336,7 @@ Twitter DP
    Grupo DP
 </text>
 </page> §
-<page="saudade_pt-46">
+<page="saudade_pt-43">
 <text>
    1Library PT
    1Library PT
@@ -11736,12 +11727,12 @@ O que é o OpenVPN
    Copyright 1Library PT © . 2022
 </text>
 </page> §
-<page="saudade_pt-47">
+<page="saudade_pt-44">
 <text>
-[ ] [ ] RTP Toggle Menu aspirations concordances contextes dumps-text image.png index.html itrameur Journal de bord du groupe.md Liens programmes README.md tableau_saudade_pt tableaux URLs Notícias aspirations concordances contextes dumps-text image.png index.html itrameur Journal de bord du groupe.md Liens programmes README.md tableau_saudade_pt tableaux URLs Desporto aspirations concordances contextes dumps-text image.png index.html itrameur Journal de bord du groupe.md Liens programmes README.md tableau_saudade_pt tableaux URLs Televisão + RTP1 o A Praça da Alegria o Telejornal o The Voice Portugal o Cá por Casa o A Nossa Tarde o Linha da Frente o Primeira Pessoa o O Preço Certo o Portugal em Direto o Outras Histórias o É Ou Não É? - O Grande Debate o A Prova dos Factos o Cuba Libre o Pôr do Sol o Depois, Vai-se a Ver e Nada o Eu Faço Tudo Por Amor o Missão: 100% Português Ver programação RTP1 + RTP2 o Visita Guiada o Sociedade Civil o Cinemax o Zig Zag o Nada Será Como Dante o Scroll Ver programação RTP2 + RTP3 o Grande Entrevista o Fronteiras XXI o 360º Ver programação RTP3 + o RTP MemóriaVer programação de todos os canais o RTP África o RTP Internacional o RTP Açores o RTP Madeira aspirations concordances contextes dumps-text image.png index.html itrameur Journal de bord du groupe.md Liens programmes README.md tableau_saudade_pt tableaux URLs Rádio + Antena1 o Portugalex o Cinemax o Viva a Música o David Ferreira a contar Amália o O Amor é o Entrevista Antena 1 / Jornal de Negócios - Uma Conversa Capital o Serviço Público - Bloco de Notas Ver programação Antena1 + Antena2 o Jazz a 2 o A Ronda da Noite o Raízes o Quinta Essência o A propósito da música o Argonauta o Fuga da Arte o Música Aeterna o O Tempo e a Música o Caleidoscópio o A propósito da música o Geografia dos sons o Café Plaza o Palavras de bolso o Música portuguesa a gostar dela própria o Volta ao Mundo em Cem Livros o Reportagem Antena 2 o Filosofia na Rua Ver programação Antena2 + Antena3 o No Ar o Domínio Público o Prova Oral o Portugália o Manhãs da 3 o Podcasts Antena 3 o Especiais Antena 3 o Indiegiente o Alta Tensão o Aleixo FM o A3.30 o Antena3Docs o Eléctrico Ver programação Antena3 + o RDP ÁfricaVer toda a programação de rádio o RDP Açores o RDP Internacional o RDP Madeira Antena1 o RDP Madeira Antena3 o Antena1 Fado o Antena1 Lusitânia o Antena 1 Memória o Antena1 Vida o Antena 2 Jazz In o Antena2 Ópera o Rádio Zig Zag aspirations concordances contextes dumps-text image.png index.html itrameur Journal de bord du groupe.md Liens programmes README.md tableau_saudade_pt tableaux URLs RTPPlay aspirations concordances contextes dumps-text image.png index.html itrameur Journal de bord du groupe.md Liens programmes README.md tableau_saudade_pt tableaux URLs ZigZag aspirations concordances contextes dumps-text image.png index.html itrameur Journal de bord du groupe.md Liens programmes README.md tableau_saudade_pt tableaux URLs Arquivos aspirations concordances contextes dumps-text image.png index.html itrameur Journal de bord du groupe.md Liens programmes README.md tableau_saudade_pt tableaux URLs + Toggle ____________________ Found %s Results IFRAME: //pt-gmtdmp.mookie1.com/t/v2?tagid=V2_123618&amp;isNoScript&amp;src.rand=[times tamp]&amp;src.id=RTPGlobal Programas tv Literatura Aqui aspirations concordances contextes dumps-text image.png index.html itrameur Journal de bord du groupe.md Liens programmes README.md tableau_saudade_pt tableaux URLs Sobre o programa aspirations concordances contextes dumps-text image.png index.html itrameur Journal de bord du groupe.md Liens programmes README.md tableau_saudade_pt tableaux URLs Episódios aspirations concordances contextes dumps-text image.png index.html itrameur Journal de bord du groupe.md Liens programmes README.md tableau_saudade_pt tableaux URLs Rever no RTP Play aspirations concordances contextes dumps-text image.png index.html itrameur Journal de bord du groupe.md Liens programmes README.md tableau_saudade_pt tableaux URLs aspirations concordances contextes dumps-text image.png index.html itrameur Journal de bord du groupe.md Liens programmes README.md tableau_saudade_pt tableaux URLs aspirations concordances contextes dumps-text image.png index.html itrameur Journal de bord du groupe.md Liens programmes README.md tableau_saudade_pt tableaux URLs A Saudade é o tema desta semana no Literatura Aqui Géneros aspirations concordances contextes dumps-text image.png index.html itrameur Journal de bord du groupe.md Liens programmes README.md tableau_saudade_pt tableaux URLs Magazines Informação Adicional aspirations concordances contextes dumps-text image.png index.html itrameur Journal de bord du groupe.md Liens programmes README.md tableau_saudade_pt tableaux URLs aspirations concordances contextes dumps-text image.png index.html itrameur Journal de bord du groupe.md Liens programmes README.md tableau_saudade_pt tableaux URLs aspirations concordances contextes dumps-text image.png index.html itrameur Journal de bord du groupe.md Liens programmes README.md tableau_saudade_pt tableaux URLs A Saudade é o tema desta semana no Literatura Aqui Episódio 10 de 16 Duração: 30 min Sentimento "apenas" português, dizem. Há mais de cinco séculos que se procura uma definição exata da palavra. O olhar dos poetas sobre a ideia de saudade foi reunida, em livro, por Urbano Tavares Rodrigues. A partir desta antologia, Pedro Lamares e Filipa Leal guiam-nos através de uma escolha de poemas e prosa de autores como Camilo Castelo- Branco, Bocage ou Almeida Garret. Não se pode compreender o presente sem olhar o passado, por isso, (re)visitamos os textos de Gil Vicente à luz do seu e do nosso tempo. Para o futuro fica também o legado de um homem que a partir dos livros, criou uma das maiores coleções de arte em Portugal: Manuel de Brito. Rever últimos episódios no RTP Play aspirations concordances contextes dumps-text image.png index.html itrameur Journal de bord du groupe.md Liens programmes README.md tableau_saudade_pt tableaux URLs Esta semana, falamos do medo na Literatura Aqui Esta semana, falamos do medo na Literatura Aqui Vídeo Esta semana, falamos do medo na Literatura Aqui Ep. 16 27 Dez 2016 aspirations concordances contextes dumps-text image.png index.html itrameur Journal de bord du groupe.md Liens programmes README.md tableau_saudade_pt tableaux URLs Esta semana, sentimos as cidades na Literatura Aqui Esta semana, sentimos as cidades na Literatura Aqui Vídeo Esta semana, sentimos as cidades na Literatura Aqui Ep. 15 20 Dez 2016 aspirations concordances contextes dumps-text image.png index.html itrameur Journal de bord du groupe.md Liens programmes README.md tableau_saudade_pt tableaux URLs Neste programa há (mais) História na Literatura Aqui Neste programa há (mais) História na Literatura Aqui Vídeo Neste programa há (mais) História na Literatura Aqui Ep. 14 13 Dez 2016 aspirations concordances contextes dumps-text image.png index.html itrameur Journal de bord du groupe.md Liens programmes README.md tableau_saudade_pt tableaux URLs Esta semana, o Literatura Aqui quer ver o mundo com sarcasmo Esta semana, o Literatura Aqui quer ver o mundo com sarcasmo Vídeo Esta semana, o Literatura Aqui quer ver o mundo com sarcasmo Ep. 13 06 Dez 2016 aspirations concordances contextes dumps-text image.png index.html itrameur Journal de bord du groupe.md Liens programmes README.md tableau_saudade_pt tableaux URLs Cesário Verde e o Sentimento (dum) Ocidental na Literatura Aqui Cesário Verde e o Sentimento (dum) Ocidental na Literatura Aqui Vídeo Cesário Verde e o Sentimento (dum) Ocidental na Literatura Aqui Ep. 12 29 Nov 2016 aspirations concordances contextes dumps-text image.png index.html itrameur Journal de bord du groupe.md Liens programmes README.md tableau_saudade_pt tableaux URLs Revistas Literárias e a poesia de António José Forte no Literatura Aqui Revistas Literárias e a poesia de António José Forte no Literatura Aqui Vídeo Revistas Literárias e a poesia de António José Forte no Literatura Aqui Ep. 11 22 Nov 2016 aspirations concordances contextes dumps-text image.png index.html itrameur Journal de bord du groupe.md Liens programmes README.md tableau_saudade_pt tableaux URLs A Saudade é o tema desta semana no Literatura Aqui A Saudade é o tema desta semana no Literatura Aqui Vídeo A Saudade é o tema desta semana no Literatura Aqui Ep. 10 15 Nov 2016 aspirations concordances contextes dumps-text image.png index.html itrameur Journal de bord du groupe.md Liens programmes README.md tableau_saudade_pt tableaux URLs A fotografia e outras artes visuais na Literatura Aqui A fotografia e outras artes visuais na Literatura Aqui Vídeo A fotografia e outras artes visuais na Literatura Aqui Ep. 9 08 Nov 2016 Ficha Técnica Título Original Literatura Aqui Produção Até ao Fim do Mundo Ano 2016 Duração 30 minutos Série II RTP RTP aspirations concordances contextes dumps-text image.png index.html itrameur Journal de bord du groupe.md Liens programmes README.md tableau_saudade_pt tableaux URLs Facebook aspirations concordances contextes dumps-text image.png index.html itrameur Journal de bord du groupe.md Liens programmes README.md tableau_saudade_pt tableaux URLs Twitter aspirations concordances contextes dumps-text image.png index.html itrameur Journal de bord du groupe.md Liens programmes README.md tableau_saudade_pt tableaux URLs Instagram aspirations concordances contextes dumps-text image.png index.html itrameur Journal de bord du groupe.md Liens programmes README.md tableau_saudade_pt tableaux URLs Youtube aspirations concordances contextes dumps-text image.png index.html itrameur Journal de bord du groupe.md Liens programmes README.md tableau_saudade_pt tableaux URLs flickr aspirations concordances contextes dumps-text image.png index.html itrameur Journal de bord du groupe.md Liens programmes README.md tableau_saudade_pt tableaux URLs + NOTÍCIAS + DESPORTO + TELEVISÃO + RÁDIO + RTP ARQUIVOS + RTP Ensina aspirations concordances contextes dumps-text image.png index.html itrameur Journal de bord du groupe.md Liens programmes README.md tableau_saudade_pt tableaux URLs + RTP PLAY o EM DIRETO o REVER PROGRAMAS + CONCURSOS o Perguntas frequentes o Contactos aspirations concordances contextes dumps-text image.png index.html itrameur Journal de bord du groupe.md Liens programmes README.md tableau_saudade_pt tableaux URLs + CONTACTOS + Provedora do Telespectador + Provedora do Ouvinte + ACESSIBILIDADES + Satélites aspirations concordances contextes dumps-text image.png index.html itrameur Journal de bord du groupe.md Liens programmes README.md tableau_saudade_pt tableaux URLs + A EMPRESA + CONSELHO GERAL INDEPENDENTE + CONSELHO DE OPINIÃO + CONTRATO DE CONCESSÃO DO SERVIÇO PÚBLICO DE RÁDIO E TELEVISÃO + PROPOSTA DO GOVERNO DE REVISÃO DO CCSP + RGPD o Gestão das definições de Cookies Política de Privacidade | Política de Cookies | Termos e Condições | Publicidade © RTP, Rádio e Televisão de Portugal 2022
+[ ] [ ] RTP Toggle Menu aspirations concordances contextes dumps-text image-fr.png image.png index.html itrameur Journal de bord du groupe.md Liens mot-vide-fr.txt programmes README.md tableaux URLs Notícias aspirations concordances contextes dumps-text image-fr.png image.png index.html itrameur Journal de bord du groupe.md Liens mot-vide-fr.txt programmes README.md tableaux URLs Desporto aspirations concordances contextes dumps-text image-fr.png image.png index.html itrameur Journal de bord du groupe.md Liens mot-vide-fr.txt programmes README.md tableaux URLs Televisão + RTP1 o A Praça da Alegria o Telejornal o The Voice Portugal o Cá por Casa o A Nossa Tarde o Linha da Frente o Primeira Pessoa o O Preço Certo o Portugal em Direto o Outras Histórias o É Ou Não É? - O Grande Debate o A Prova dos Factos o Cuba Libre o Pôr do Sol o Depois, Vai-se a Ver e Nada o Eu Faço Tudo Por Amor o Missão: 100% Português Ver programação RTP1 + RTP2 o Visita Guiada o Sociedade Civil o Cinemax o Zig Zag o Nada Será Como Dante o Scroll Ver programação RTP2 + RTP3 o Grande Entrevista o Fronteiras XXI o 360º Ver programação RTP3 + o RTP MemóriaVer programação de todos os canais o RTP África o RTP Internacional o RTP Açores o RTP Madeira aspirations concordances contextes dumps-text image-fr.png image.png index.html itrameur Journal de bord du groupe.md Liens mot-vide-fr.txt programmes README.md tableaux URLs Rádio + Antena1 o Portugalex o Cinemax o Viva a Música o David Ferreira a contar Amália o O Amor é o Entrevista Antena 1 / Jornal de Negócios - Uma Conversa Capital o Serviço Público - Bloco de Notas Ver programação Antena1 + Antena2 o Jazz a 2 o A Ronda da Noite o Raízes o Quinta Essência o A propósito da música o Argonauta o Fuga da Arte o Música Aeterna o O Tempo e a Música o Caleidoscópio o A propósito da música o Geografia dos sons o Café Plaza o Palavras de bolso o Música portuguesa a gostar dela própria o Volta ao Mundo em Cem Livros o Reportagem Antena 2 o Filosofia na Rua Ver programação Antena2 + Antena3 o No Ar o Domínio Público o Prova Oral o Portugália o Manhãs da 3 o Podcasts Antena 3 o Especiais Antena 3 o Indiegiente o Alta Tensão o Aleixo FM o A3.30 o Antena3Docs o Eléctrico Ver programação Antena3 + o RDP ÁfricaVer toda a programação de rádio o RDP Açores o RDP Internacional o RDP Madeira Antena1 o RDP Madeira Antena3 o Antena1 Fado o Antena1 Lusitânia o Antena 1 Memória o Antena1 Vida o Antena 2 Jazz In o Antena2 Ópera o Rádio Zig Zag aspirations concordances contextes dumps-text image-fr.png image.png index.html itrameur Journal de bord du groupe.md Liens mot-vide-fr.txt programmes README.md tableaux URLs RTPPlay aspirations concordances contextes dumps-text image-fr.png image.png index.html itrameur Journal de bord du groupe.md Liens mot-vide-fr.txt programmes README.md tableaux URLs ZigZag aspirations concordances contextes dumps-text image-fr.png image.png index.html itrameur Journal de bord du groupe.md Liens mot-vide-fr.txt programmes README.md tableaux URLs Arquivos aspirations concordances contextes dumps-text image-fr.png image.png index.html itrameur Journal de bord du groupe.md Liens mot-vide-fr.txt programmes README.md tableaux URLs + Toggle ____________________ Found %s Results IFRAME: //pt-gmtdmp.mookie1.com/t/v2?tagid=V2_123618&amp;isNoScript&amp;src.rand=[times tamp]&amp;src.id=RTPGlobal Programas tv Literatura Aqui aspirations concordances contextes dumps-text image-fr.png image.png index.html itrameur Journal de bord du groupe.md Liens mot-vide-fr.txt programmes README.md tableaux URLs Sobre o programa aspirations concordances contextes dumps-text image-fr.png image.png index.html itrameur Journal de bord du groupe.md Liens mot-vide-fr.txt programmes README.md tableaux URLs Episódios aspirations concordances contextes dumps-text image-fr.png image.png index.html itrameur Journal de bord du groupe.md Liens mot-vide-fr.txt programmes README.md tableaux URLs Rever no RTP Play aspirations concordances contextes dumps-text image-fr.png image.png index.html itrameur Journal de bord du groupe.md Liens mot-vide-fr.txt programmes README.md tableaux URLs aspirations concordances contextes dumps-text image-fr.png image.png index.html itrameur Journal de bord du groupe.md Liens mot-vide-fr.txt programmes README.md tableaux URLs aspirations concordances contextes dumps-text image-fr.png image.png index.html itrameur Journal de bord du groupe.md Liens mot-vide-fr.txt programmes README.md tableaux URLs A Saudade é o tema desta semana no Literatura Aqui Géneros aspirations concordances contextes dumps-text image-fr.png image.png index.html itrameur Journal de bord du groupe.md Liens mot-vide-fr.txt programmes README.md tableaux URLs Magazines Informação Adicional aspirations concordances contextes dumps-text image-fr.png image.png index.html itrameur Journal de bord du groupe.md Liens mot-vide-fr.txt programmes README.md tableaux URLs aspirations concordances contextes dumps-text image-fr.png image.png index.html itrameur Journal de bord du groupe.md Liens mot-vide-fr.txt programmes README.md tableaux URLs aspirations concordances contextes dumps-text image-fr.png image.png index.html itrameur Journal de bord du groupe.md Liens mot-vide-fr.txt programmes README.md tableaux URLs A Saudade é o tema desta semana no Literatura Aqui Episódio 10 de 16 Duração: 30 min Sentimento "apenas" português, dizem. Há mais de cinco séculos que se procura uma definição exata da palavra. O olhar dos poetas sobre a ideia de saudade foi reunida, em livro, por Urbano Tavares Rodrigues. A partir desta antologia, Pedro Lamares e Filipa Leal guiam-nos através de uma escolha de poemas e prosa de autores como Camilo Castelo- Branco, Bocage ou Almeida Garret. Não se pode compreender o presente sem olhar o passado, por isso, (re)visitamos os textos de Gil Vicente à luz do seu e do nosso tempo. Para o futuro fica também o legado de um homem que a partir dos livros, criou uma das maiores coleções de arte em Portugal: Manuel de Brito. Rever últimos episódios no RTP Play aspirations concordances contextes dumps-text image-fr.png image.png index.html itrameur Journal de bord du groupe.md Liens mot-vide-fr.txt programmes README.md tableaux URLs Esta semana, falamos do medo na Literatura Aqui Esta semana, falamos do medo na Literatura Aqui Vídeo Esta semana, falamos do medo na Literatura Aqui Ep. 16 27 Dez 2016 aspirations concordances contextes dumps-text image-fr.png image.png index.html itrameur Journal de bord du groupe.md Liens mot-vide-fr.txt programmes README.md tableaux URLs Esta semana, sentimos as cidades na Literatura Aqui Esta semana, sentimos as cidades na Literatura Aqui Vídeo Esta semana, sentimos as cidades na Literatura Aqui Ep. 15 20 Dez 2016 aspirations concordances contextes dumps-text image-fr.png image.png index.html itrameur Journal de bord du groupe.md Liens mot-vide-fr.txt programmes README.md tableaux URLs Neste programa há (mais) História na Literatura Aqui Neste programa há (mais) História na Literatura Aqui Vídeo Neste programa há (mais) História na Literatura Aqui Ep. 14 13 Dez 2016 aspirations concordances contextes dumps-text image-fr.png image.png index.html itrameur Journal de bord du groupe.md Liens mot-vide-fr.txt programmes README.md tableaux URLs Esta semana, o Literatura Aqui quer ver o mundo com sarcasmo Esta semana, o Literatura Aqui quer ver o mundo com sarcasmo Vídeo Esta semana, o Literatura Aqui quer ver o mundo com sarcasmo Ep. 13 06 Dez 2016 aspirations concordances contextes dumps-text image-fr.png image.png index.html itrameur Journal de bord du groupe.md Liens mot-vide-fr.txt programmes README.md tableaux URLs Cesário Verde e o Sentimento (dum) Ocidental na Literatura Aqui Cesário Verde e o Sentimento (dum) Ocidental na Literatura Aqui Vídeo Cesário Verde e o Sentimento (dum) Ocidental na Literatura Aqui Ep. 12 29 Nov 2016 aspirations concordances contextes dumps-text image-fr.png image.png index.html itrameur Journal de bord du groupe.md Liens mot-vide-fr.txt programmes README.md tableaux URLs Revistas Literárias e a poesia de António José Forte no Literatura Aqui Revistas Literárias e a poesia de António José Forte no Literatura Aqui Vídeo Revistas Literárias e a poesia de António José Forte no Literatura Aqui Ep. 11 22 Nov 2016 aspirations concordances contextes dumps-text image-fr.png image.png index.html itrameur Journal de bord du groupe.md Liens mot-vide-fr.txt programmes README.md tableaux URLs A Saudade é o tema desta semana no Literatura Aqui A Saudade é o tema desta semana no Literatura Aqui Vídeo A Saudade é o tema desta semana no Literatura Aqui Ep. 10 15 Nov 2016 aspirations concordances contextes dumps-text image-fr.png image.png index.html itrameur Journal de bord du groupe.md Liens mot-vide-fr.txt programmes README.md tableaux URLs A fotografia e outras artes visuais na Literatura Aqui A fotografia e outras artes visuais na Literatura Aqui Vídeo A fotografia e outras artes visuais na Literatura Aqui Ep. 9 08 Nov 2016 Ficha Técnica Título Original Literatura Aqui Produção Até ao Fim do Mundo Ano 2016 Duração 30 minutos Série II RTP RTP aspirations concordances contextes dumps-text image-fr.png image.png index.html itrameur Journal de bord du groupe.md Liens mot-vide-fr.txt programmes README.md tableaux URLs Facebook aspirations concordances contextes dumps-text image-fr.png image.png index.html itrameur Journal de bord du groupe.md Liens mot-vide-fr.txt programmes README.md tableaux URLs Twitter aspirations concordances contextes dumps-text image-fr.png image.png index.html itrameur Journal de bord du groupe.md Liens mot-vide-fr.txt programmes README.md tableaux URLs Instagram aspirations concordances contextes dumps-text image-fr.png image.png index.html itrameur Journal de bord du groupe.md Liens mot-vide-fr.txt programmes README.md tableaux URLs Youtube aspirations concordances contextes dumps-text image-fr.png image.png index.html itrameur Journal de bord du groupe.md Liens mot-vide-fr.txt programmes README.md tableaux URLs flickr aspirations concordances contextes dumps-text image-fr.png image.png index.html itrameur Journal de bord du groupe.md Liens mot-vide-fr.txt programmes README.md tableaux URLs + NOTÍCIAS + DESPORTO + TELEVISÃO + RÁDIO + RTP ARQUIVOS + RTP Ensina aspirations concordances contextes dumps-text image-fr.png image.png index.html itrameur Journal de bord du groupe.md Liens mot-vide-fr.txt programmes README.md tableaux URLs + RTP PLAY o EM DIRETO o REVER PROGRAMAS + CONCURSOS o Perguntas frequentes o Contactos aspirations concordances contextes dumps-text image-fr.png image.png index.html itrameur Journal de bord du groupe.md Liens mot-vide-fr.txt programmes README.md tableaux URLs + CONTACTOS + Provedora do Telespectador + Provedora do Ouvinte + ACESSIBILIDADES + Satélites aspirations concordances contextes dumps-text image-fr.png image.png index.html itrameur Journal de bord du groupe.md Liens mot-vide-fr.txt programmes README.md tableaux URLs + A EMPRESA + CONSELHO GERAL INDEPENDENTE + CONSELHO DE OPINIÃO + CONTRATO DE CONCESSÃO DO SERVIÇO PÚBLICO DE RÁDIO E TELEVISÃO + PROPOSTA DO GOVERNO DE REVISÃO DO CCSP + RGPD o Gestão das definições de Cookies Política de Privacidade | Política de Cookies | Termos e Condições | Publicidade © RTP, Rádio e Televisão de Portugal 2022
 </text>
 </page> §
-<page="saudade_pt-48">
+<page="saudade_pt-45">
 <text>
     #Feed para Escola Educação » Feed de comentários para Escola Educação
    » alternate alternate alternate
@@ -11813,9 +11804,9 @@ Como expressar saudades ao falar outra língua?!
    língua portuguesa? Confira o artigo na íntegra e descubra!
    Veja mais
 
-   Você sabe quais são os aplicativos que mais usam os seus dados?
+   É cliente Nubank? Você ainda pode ganhar R$ 400 no bolão! Saiba como
 
-   Teste visual: veja como resolver algumas dúvidas existenciais com essa…
+   Frente fria vinda do Sul muda previsão do tempo de todo o país no fim…
    [INS: :INS]
 
    Leia mais: Quando e como terminar uma amizade da maneira certa
@@ -11860,19 +11851,21 @@ Como expressar saudade em outras línguas?
 
    você pode gostar também
 
-   Você sabe quais são os aplicativos que mais usam os seus dados?
+   É cliente Nubank? Você ainda pode ganhar R$ 400 no bolão! Saiba como
 
-   Teste visual: veja como resolver algumas dúvidas existenciais com essa
-   imagem
+   Frente fria vinda do Sul muda previsão do tempo de todo o país no fim
+   de semana
 
-   Algumas bactérias fazem ESTE truque para evitar ação de antibióticos
+   Qual a tradição de Natal favorita das celebridades? Contamos aqui
 
-   Quem tem 57 anos já pode se aposentar? Saiba o que diz nova regra
+   Prefeitura disponibiliza crédito para compra de uniforme e material
+   escolar
 
-   Estes são os 10 países com a pior alimentação do mundo
+   Bela Adormecida: doença rara faz jovem dormir 20 horas seguidas por
+   dias
 
-   Camisa 10 do Japão bate recorde inusitado e entra para Guiness Book;
-   Spoiler: não tem…
+   Afinal, quanto custa tirar a CNH no Brasil? Veja os valores atualizados
+   de 2023
 
    Comentários estão fechados.
 
@@ -11894,6 +11887,1104 @@ Como expressar saudade em outras línguas?
    [p?c1=2&amp;c2=14194541&amp;cv=2.0&amp;cj=1]
 
    ____________________ 
+</text>
+</page> §
+<page="saudade_pt-46">
+<text>
+   #Papeis da Academia » Feed Papeis da Academia » Feed de comentarios
+   alternate alternate alternate
+
+   logo
+   logo
+     * Benvida da directiva
+     * O ano no que todo mudou, tamén para o audiovisual
+          + O audiovisual na pandemia: adaptación, temores e retos de
+            futuro
+          + Mamen Quintas, produtora
+          + Paula Cons, directora
+          + Lidia Fraga, guionista
+          + Xúlio Abonjo, actor
+          + Alicia Dapena, técnica de vestiario
+          + Milo Baños, distribuidor e exhibidor
+          + Ángel Sánchez, director de festival
+          + Manuel Precedo, cineclubista
+          + O impulso dos novos formatos e modelos de distribución
+     * O que vai vir en 2021
+          + Estreas en salas e festivais: seguindo adiante entre a
+            incertidume
+          + Estreas de televisión: a ficción galega continúa a
+            internacionalizarse
+          + Outras estreas: innovación e variedade fóra da ficción
+          + Proxectos de ficción: os vindeiros pasos de nomes consolidados
+          + Proxectos de series: os ‘thrillers’ e os ‘biopics’ dominan
+          + Proxectos de documental: miradas arredor do social
+          + Outros proxectos: divulgación, investigación, cooperación
+          + Incentivos ao sector audiovisual: ata agora e de aquí en
+            adiante
+     * Papeis anteriores
+
+
+
+   Co patrocinio de:
+
+
+
+Mellor Ensaio Escrito Audiovisual Internacional – II Premios María Luz
+Morales de Ensaio Audiovisual
+
+Autor: Fernando Redondo Neira
+
+     II Premios #MaríaLuzMorales | Falamos con… Fernando Redondo (Ames,
+     1971) que gañou o premio ao mellor Ensaio Escrito Audiovisual
+     Internacional con 'Latexos de Saudade no Cinema'. No traballo propón
+     unha análise de senllos filmes moi diferentes entre si, 'Dublineses'
+     (John Huston, 1987) e 'A cidade das estrelas. La La Land' (Damien
+     Chazelle, 2016), pero que comparten unha mesma expresión
+     cinematográfica da saudade. ➡ Podedes ler a peza aquí:
+     https://bit.ly/2MzbtaX[📽 Chiripa]
+     Posted by Academia Galega do Audiovisual on Monday, August 27, 2018
+     __________________________________________________________________
+
+Latexos de saudade no cinema﻿
+
+   Un filme musical de Hollywood de 2016, de amplo recoñecemento público,
+   A cidade das estrelas. La La Land.  (Damien Chazelle) remata cunha
+   secuencia na que se pón en imaxes a renuncia, a resignación e unha
+   fonda melancolía. Case trinta anos antes, John Huston dirixía,
+   cumpridos xa os 82, nunha cadeira de rodas e axudándose cunha mascariña
+   de osíxeno, Dublineses (The Deads, 1987), que remataba co relato dun
+   amor de xuventude, perdido no tempo, confinado para sempre na morte e
+   que reclamaba do interlocutor de tal relato reflexións, tamén, de
+   morte, acompañado todo dunha lúcida consciencia do tempo que pasa. De
+   que nos están a falar ambas as dúas secuencias? É quizais a saudade o
+   que une os finais de senllos relatos fílmicos que rematan con esta
+   última invocación a un sentimento de perda, de ausencia, de baleiro?
+
+   Para sabermos de que falamos cando falamos de saudade, cómpre ir case
+   de maneira obrigada ao que deixou escrito Ramón Piñeiro: “Un eco de
+   algo, sentimento sen obxecto, o puro decorrer espontáneo do sentimento
+   ceibe de toda relación co pensamento e a vontade” (1). O cerco
+   conceptual, tratando de acoutar ata onde chega o despregue semántico da
+   saudade, vai parar finalmente aquí: “É o sentimento de soidade
+   ontolóxica do home, a voz da intimidade humana” (2). Ao seu carón van
+   comparecendo sentimentos afíns, como os da morriña, a melancolía, a
+   añoranza ou a soidade. A nota máis constante da saudade será, ao cabo,
+   a relacionada co amor e coa ausencia. Será, daquela, a saudade a
+   conciencia doorosa dunha vida que se desexou vivir? Dúas películas tan
+   distintas entre si como as mencionadas tratan disto, e disto vai a
+   maneira de pechar ambos os dous relatos.
+
+   Se seguimos o fío do pensamento do que vai tirando Piñeiro, atopamos
+   nalgún tramo a figura de Teixeira de Pascoaes, E de aquí xorde
+   necesariamente o alento poético que desprende o sentimento da saudade,
+   da que interesa suliñar o que el chama “índole musical do Ser”, e que
+   tan certeiramente ven exposto na obra de Rosalía de Castro, ben
+   coñecida polo pensador portugués. Polos vieiros da poesía e da música é
+   posible, xa que logo, ir alén do que a percepción primeira do real nos
+   dá a saber. Cabería dicir algo semellante do cinema, para xunguilo así
+   a esa cadea na que se xuntan a saudade, a poesía, a música e o
+   coñecemento? Non o menciona Pascoaes, mais atendamos ao seguinte: “O
+   son é luz ouvida, como a luz é son visível; (…) E há apenas luz e son,
+   inteligência e coraçao, (…) A música é o encanto do homem, porque sendo
+   ela no remoto de todas as cousas, aspiramos a ouvi-la de perto, como
+   definiçao dos nossos sentimentos e do sentir universal, da própria
+   vida. A nosa intimidade e a das cousas são a mesma intimidade” (3). O
+   son (incluído, por suposto, o musical) e a luz como metáforas do acceso
+   ao coñecemento e, en consecuencia, como alusión a unha forma posible de
+   experimentar a transcendencia. Pascoaes sinala que interromper ese
+   tránsito sería como ingresar nun presente duradoiro. Engade que o
+   presente do vivir é ficticio e que o home, no canto de ser presente, é
+   un ausente no pasado e no futuro (4).
+
+   Cando Gretta Conroy escoita en Dublineses “The Lass of Aughrim”, a
+   canción arrecada para si todo o protagonismo e estende sobre a
+   secuencia que aquí comeza a emoción que desprende, e que vai ligar
+   tempos e lugares distintos, vai reabrir feridas da alma e convocar
+   emocións que permanecían durmidas. En La La Land, cando Mia senta co
+   seu marido no club de jazz e descobre quen é o pianista, desprégase
+   toda unha realidade alternativa, unha vivencia imaxinada na que
+   comprobamos, en efecto, que a música faise cargo da variabilidade das
+   emocións, como tamén vai levantar toda unha arquitectura temporal nova
+   coa que reconstruír a cadea de acontecementos.
+
+Xentes de Dublín e de Los Ángeles
+
+   Rematada a cea de Epifanía na casa das irmás Morkan, Gretta quédase
+   paralizada, concentrada na canción que está a escoitar mentres o marido
+   a observa dende abaixo. Encadrada nun plano amplo e nun ennobrecedor
+   contrapicado, permanece absorta, con expresión que denota un estado de
+   ausencia do momento presente, coa arrebatada atención de quen está a
+   experimentar unha intensa emoción. Así o ratifica o cambio no xesto ao
+   rematar a canción, que, nun primeiro plano ben revelador, sinala a
+   volta á realidade, sexa de onde queira que retornara, se do mundo da
+   ensoñación ou da lembranza. De volta ao hotel, na noite, nunha viaxe en
+   carro de cabalos por Dublín, os planos xerais cos que se vai trazando
+   este itinerario alternan cos do interior do coche, onde case unicamente
+   fala Gabriel, consciente de que a súa muller segue no abismo ao que a
+   levou aquela canción. Xa na habitación onde se hospedan, el fai o
+   intento último por traela de volta ao momento presente ou, cando menos,
+   por saber da razón do seu ensimesmamento, que se debe, tal como Gretta
+   recoñece, a unha evocación do pasado: a canción aquela, “The lass of
+   Aughrim” cantábaa un rapaz, Michael Furey, do que estivo namorada na
+   súa mocidade, e que foi despedila, estando gravemente enfermo, a
+   véspera de marchar ela estudar á cidade. Pouco despois ía chegarlle a
+   noticia da súa morte. Feita a confesión, esgotada pola intensidade
+   emocional do recordo, acouga durmida. De seguido, Gabriel, achégase á
+   fiestra para ver Dublín baixo a neve mentres reflexiona sobre a
+   natureza verdadeira dunha paixón que el asegura non ter experimentado
+   nunca, sobre os mortos que, como Michael Furey, seguen nos recordos dos
+   vivos, e os mortos do futuro, como a súa tía, que, segundo intúe,
+   pronto se irán, véndose el mesmo no velorio.
+
+   As  panorámicas coas que acompañar unha viaxe nunha noite de inverno,
+   os planos medios e curtos dunha parella que se emociona e que recorda,
+   que escoita e que reflexiona, levan o devir cara un emotivo discurso
+   que, non consumíndose nun puro sentir, fai posible tamén un xeito de
+   razoar que pón en cuestión todo o relato que o filme viña
+   desenvolvendo, o dunha reunión festeira na que se asiste a unha
+   cortesía formal que non rexeita mesmo posicionamentos políticos e
+   relixiosos, que, tratándose da Irlanda daqueles anos, seguro que daban
+   pé a acendidas discusións. Todo vai quedar sepultado, como os mortos
+   sobre cuxas tumbas non deixa de nevar aquela noite, pola fonda emoción
+   final espertada por unha inocente melodía. Igualmente, Rosalía de
+   Castro acode á música como mecanismo activador da memoria.
+
+   A poeta de Padrón ten feito abondosas referencias ao son das campás,
+   que espertan o, no seu caso, reiterado e fondo sentimento de soidade.
+   As da igrexa de Bastavales son, por suposto, as que primeiro
+   recordamos, mais tamén mencionará, por exemplo, ás da catedral
+   compostelá:  “no espaço silencioso/ soando malencónicas/ as túas
+   badaladas/ non sei qué despertares me recordan” (5). Na película de
+   Huston, boa parte da materia narrativa sobre a que discorre esta
+   reunión xira arredor da música e os músicos, profesoras e alumnas de
+   piano, tenores e cantantes afeccionadas; mais tamén unha declamación,
+   que, co debido ritmo e entoación, busca conmover aos invitados. Quen
+   mais impresionada se mostre será, precisamente, Gretta, adiantando aquí
+   ese xesto de turbada ausencia que logo retomará e que o seu marido vai
+   advertir, interrogándose en silencio que pode significar. Cando unha
+   das irmás Morkan recorde con sentida emoción a voz clara e cálida dun
+   tenor a quen ninguén escoitou e case ninguén coñece, de novo Gretta vai
+   adoptar a mesma actitude de melancolía e ausencia, que só abandonará
+   cando a avisen de que o pudding está listo para servir. Ambas as dúas
+   mulleres van permanecer coa mirada perdida, cara o seu ser máis íntimo,
+   na evocación de imaxes e sons mentais que para unha son os daquela voz
+   que non pode esquecer e, para a outra, a do rapaz morto aos dezaseis
+   anos.
+
+   A canción da despedida, “The lass of Aughrim” chama polo ben perdido,
+   maniféstase co xesto de emoción arrebatada, de recordo que devén en dor
+   pero non remata nel. Tamén alude á intensidade dunha experiencia
+   arriquecedora, a un sentimento verdadeiro que no seu agromar nos fala
+   dunha vida plena. Pois, como ben sinala Gabriel, mais vale isto que
+   pasar pola vida co ánimo e o espírito adurmiñados. O que o filme nos
+   presenta pódese pór en relación co rexistro poético que nos deixou
+   Rosalía no poema construído sobre a idea do “cravado cravado no
+   corazón”,  que cando o arrincou “soupén só que non sei que me faltaba/
+   en donde o cravo faltou/ e seica… seica tiven soidades”. Este mesmo
+   cravo da saudade vaino empregar Antonio Machado naquel poema que comeza
+   co “Yo voy soñando caminos/de la tarde (…)”, onde a tarde ven cargada
+   con esa significación tan característica do solpor como punto final de
+   algo, quizais do percurso dunha existencia que non permite a volta
+   atrás nin a recuperación dunha felicidade que xa non vai retornar. Pois
+   ben, nese solpor da vida é cando asoma o cravo que o mesmo magoa se o
+   tes que se o arrincaches, pero que sempre é, primeiramente, metáfora do
+   latexar da vida: “En el corazón tenía/la espina de una pasión/ logré
+   arrancármelo un día/ya no siento el corazón” (6).
+
+   Aquel espazo da ausencia, que nunca ocupou cravo algún, é o que sente
+   sobre si o personaxe de Gabriel, quen descobre de súpeto que nunca
+   experimentou un sentimento semellante ao da súa dona: o que Gretta tivo
+   e perdeu, o que el nunca desfrutou e que agora bota en falta. A voz
+   interior do seu pensamento mentres contempla, absorto agora el, a neve
+   a través da fiestra, vainos informando do baleiro que no seu caso non
+   remite á perda, senón a carencia. O contraplano deste mirar reflexivo
+   correspóndese, como cabe esperar, coas rúas de Dublín na noite, mais,
+   de volta dun mirar seu ao ceo, o que se mostran son paisaxes nevadas de
+   Irlanda, cemiterios, ríos desbordados, árbores espidas no inverno, como
+   tamén nos fan observar o baile na festa á que asistiu e o velorio que
+   aínda non tivo lugar da tía anciá. Todas elas son imaxes mentais,
+   pasaxes da imaxinación e o pensamento que xorden da emoción que acaba
+   de nacer nel. E as ruínas que entrevemos nunha escuridade interrompida
+   polas folerpas da neve anuncian a sombra que seremos, e na que xa andan
+   os que, a contrario que Gretta, non levan consigo a pegada dun
+   sentimento vivo, por moito que veña motivado pola lembranza dos mortos.
+   A xeito dun contraplano certamente arriscado e, dende logo, metafórico,
+   as reflexións de Gabriel parecen responder as preguntas coas que
+   Rosalía de Castro remata o poema que comeza cun melancólico (e despois
+   machadiano) “Era ó caer da tarde” (a tarde, outra vez): “¿Quen se
+   lembra dos mortos,/si inda non poden recordarse os vivos?” (7).
+
+   Emerxe aquí a saudade por un amor que non puido ser e que se traslada
+   ao espectador a través do relato de Gretta, prescindindo dun posible
+   flashback co que ben se puido pór en imaxes e que, ao cabo, se queda na
+   pura oralidade, mais evocando a potente imaxe de Michael Furey
+   tremendo, enfermo baixo a choiva na noite, compoñendo así na mente de
+   cada quen esa poderosa iconografía romántica de quen se deixa morrer
+   por amor. Velaí outra ausencia, destavolta  a da imaxes que se nos
+   agocha aínda que xorde na mente de cada espectador, ao contrario da
+   reflexión de Gabriel, a quen escoitamos ao tempo que vemos o froito do
+   seu pensamento. Aínda que non o sabía ata este momento, tamén el
+   acubilla na súa alma unha forma posible de saudade, a de non ter vivido
+   nin experimentado nin sentido esa ferida que xa acompaña para sempre á
+   súa compañeira, por moito que se mantivera adurmiñada á espera de que
+   unha simple canción a espertara de novo.
+
+   Gabriel acaba descubríndose a si mesmo como preso desta saudade que a
+   súa muller lle pón diante dos ollos, se é permitida tal redundancia,
+   pois vaise manifestar a través dunha serie de visións que achegan a
+   visualidade que lle faltara ao relato de Gretta. E xa que a percepción
+   participa de todo proceso de coñecemento ou de revelación, pois é isto
+   exactamente ao que asistimos, a unha revelación, vale a pena salientar
+   un fragmento do monólogo de Gabriel: “Canto tempo levas pechada no
+   corazón a imaxe dos ollos do teu amante cando che dixo que non desexaba
+   vivir?”. Santos Zunzunegui xunguiu esta secuencia a outras moitas que o
+   cine, ao longo da súa historia, ten dedicado a darlle forma á
+   melancolía, se por tal entendemos un sentimento de tristura que pode ir
+   gradualmente da levidade do decaemento anímico á aflición fonda, e que,
+   ademais, non se esgota neste deixarse derrotar por unha pena estéril e
+   fatal. Pola contra, tamén conduce cara un pensamento lúcido e
+   distanciado co que asentar dita melancolía en certo razoamento lóxico
+   que axude a recoñecela, a asumila e comprendela. Así acontece no caso
+   de Gabriel: triste e melancólico, efectivamente, máis tamén reflexivo,
+   mantendo esa distancia do observador que, na planificación fílmica,
+   nolo mostra observando a noite dende a ventá da habitación, unindo o
+   que ve (a neve sobre Dublín), ao que sente (a falta dunha vivencia
+   amorosa que el non experimentou) e ao que pensa (a transitoriedade de
+   todo o humano, esa sombra que el será tamén). A melancolía é, por
+   tanto, sentimento, mais acompañado dun decatarse das cousas, capaz de
+   abranguer rexións amplas e diversas do existir, como ben o soubo
+   explicar Zunzunegui ao fío deste soliloquio final: “En la mente de
+   Gabriel, pasado, presente y futuro se funden de la misma manera que lo
+   hacen espacios contiguos con otros muy lejanos. Toda la extensión del
+   mundo es movilizada por la conciencia melancólica de Conroy (…)” (8).
+
+   Teixeira de Pascoaes aseguraba que a Saudade era Atlántica, non
+   Mediterránea, pensando, sen dúbida, na tradición cultural greco-latina
+   da que buscaba diferenciarse, mais tamén afirmaba a súa universalidade,
+   polo que haberá que aceptar que este sentimento cómpre situalo,
+   asimesmo, á beira do Pacífico, polo Océano que está a carón da
+   California onde transcorre a acción de A cidade das estrelas. La La
+   Land. Un mesmo pouso melancólico, entre a tristura e a reflexión, deixa
+   aboiando no ar o desenlace deste filme, como acontecía en Dublineses.
+   Porén, a diferencia do título de Huston, o de Chazelle si pón en imaxes
+   o que naquel era só relato oral: a saudade dunha vida que non puido
+   ser. En todo o demais, hai semellanzas ben evidentes. De primeiras, a
+   música como dinamizadora de emocións que, para o caso, deveñen en
+   imaxes. Recreación de sentimentos que, no desenvolverse das notas, van
+   saíndo á superficie para dar entrada á melancolía e a tristura, como
+   tamén a unha lúcida e asumida resignación. O relato imaxinado do que
+   nunca aconteceu vaise despregando sobre o fluxo no que discorre o tema
+   musical tocado ao piano.
+
+   A secuencia de clausura adopta a forma dun número musical, onde a
+   melodía e os bailes transitan, sen aparente contradición, entre a
+   triste realidade dun amor frustrado e a leda fantasía dunha vida plena
+   de felicidade. Ou dito á maneira de Rosalía de Castro: que da dor tamén
+   se deriva o pracer. Atopamos isto no libro En las orillas del Sar, no
+   poema que empeza con “Ya duermen en su tumba las pasiones” e que logo
+   continúa cos versos que seguen: “Yo sólo sé que es un placer que duele,
+   / Que es un dolor que atormentando halaga / Llama que de la vida se
+   alimenta / Mas sin la cual la vida se apagara” (9). Sitúamonos  moi
+   preto do que os filósofos deron en chamar o sentimento do sublime, algo
+   tamén moi propio da expresión romántica do sentir humano. Eugenio Trías
+   explíca así: “El sentimiento de lo sublime se alumbra, pues, en plena
+   ambigüedad y ambivalencia entre dolor y placer” (10). De seguido, Trías
+   alude á distancia coa que observar o obxeto da dor, a mesma da
+   expresión poética como tamén da rememoración de feitos do pasado,
+   incluso sendo inventados coma neste caso. A ambivalencia da que nos
+   fala é a que podemos atribuírlle a unha melodía tocada ao piano que o
+   mesmo nos apena que nos alegra, aínda que esta ledicia se corresponda
+   cunha vivencia do pasado da que xa non desfrutamos. Disto só pode
+   derivarse a melancolía, estado de tristura que se fai acompañar dunha
+   compoñente de reflexión (que, á súa vez, tamén precisa dunha certa
+   distancia emocional) e que, ao cabo, ven a parar á saudade, esa sorte
+   de felicidade perdida que aínda alenta no interior de quen a sente.
+
+   A protagonista, Mia, acode a un club de jazz acompañada do seu marido.
+   Unha vez dentro descobre que á fronte da banda que ocupa o escenario
+   está Sebastian, o seu antigo amor. O cruce de miradas que se dedican
+   lévana a ela ao limite das bágoas mentres el se queda paralizado co
+   micrófono na man, ata que reacciona cun “Benvidos s Seb’s”, senta
+   diante do piano e aínda agardará uns segundos, absorto no teclado,
+   antes de acometer as primeiras notas. A cámara vaise acercando primeiro
+   a un e logo ao outro, baixan as luces e quedan rodeados da plena
+   escuridade, a propia dun cine onde vai comezar unha película, que será
+   a dunha vida desexada mais non vivida, co engadido das outras
+   películas, as do cinema familiar que constrúen a memoria, que inventan
+   vivencias que nunca serán verdadeiras, onde vemos aquilo que non pasou,
+   a casa que non compartiron, os éxitos respectivos que non celebraron
+   xuntos, o fillo que non tiveron… Todo, froito da imaxinación de Mia,
+   que se traslada a este relato visual no que se encadea un feixe de
+   recordos inventados, memoria falseada e doorosamente sentida, expresión
+   fílmica dunha radical subxectividade que ela non vai compartir con
+   ninguén máis que co privilexiado espectador.
+   A ledicia imaxinada transcorre de a cabalo das notas máis alegres deste
+   tema último tocado ao piano por Sebastian. E transcorre, asemade, na
+   alegría dun número musical coreografado con entusiasmo por un corpo de
+   baile no que destacan as cores altamente saturadas do vestiario,
+   movéndose por escenarios igualmente ateigados de brillo e luminosidade.
+   Xa que nos vimos movendo no terreo do romanticismo literario, e no dos
+   sentimentos de melancolía e saudade, tristura e pesar fondo e lúcido do
+   propio existir, neste segmento de La La Land, o que se pón en imaxes é,
+   certamente, un romanticismo bastante estereotipado, aquel que deriva
+   dun deixarse levar por un intenso sentimento de entrega ao ser amado. É
+   este un romanticismo que busca alentar as emocións do espectador co
+   recurso, sempre eficaz, de situar á parella protagonista nunha tarde
+   (de novo a tarde) de outono paseando a carón do Sena ou vivindo a súa
+   felicidade –de película nunca mellor dito- sobre un escenario no que
+   destacan, ao fondo, a torre Eiffel, o Arco de Triunfo ou o Sacré
+   Coeur.
+
+   Asistimos aquí, ademais, a unha deconstrución dos feitos realmente
+   acontecidos, como o bico que Seb lle dá a Mia nada máis ser despedido
+   do club no que ela o vira por primeira vez. As cousas ben puideron
+   suceder destoutra maneira, tal e como se verifica nesta posta en escena
+   do sempre fráxil devir dos destinos humanos, tan graficamente expostos
+   no xirar do coche para coller unha estrada alternativa. Logo, esta
+   secuencia última complétase cun moi significativo segmento construído
+   con supostos filmes familiares, xurdidos tamén do que Mia se imaxina
+   mentres escoita, no momento presente do que en verdade está
+   acontecendo, ese tema musical tocado ao piano. A xestión visual da
+   memoria faise aquí botando man do recurso ao antigo súper 8 do cine
+   familiar, sendo neste caso, máis ben, unha memoria inventada,
+   imaxinada, desexada e que conduce, á súa vez, a unha melancólica
+   saudade.
+
+   Desta particular modalidade fílmica, o cinema familiar, pode asegurarse
+   que non só posúe a capacidade de representar o tempo, senón que tamén o
+   contén, ou cando menos produce unha intensa sensación de estármonos a
+   percorrer a liña que comunica o pasado co presente. Como álbum familiar
+   fílmico, este segmento da secuencia final de La La Land cumpre a
+   función que lle asignamos a toda colección de imaxes do ámbito
+   doméstico: preservar a memoria, revivir os momentos de felicidade. Se
+   ben o pensamos, a memoria inventada pola fantasía de Mia e activada
+   polo tema musical que está escoitando, non se diferencia moito da
+   memoria verdadeira, que é tamén unha construción á que contribúe
+   decisivamente a súa materialización nas imaxes. Para Paul Ricoeur é
+   neste ámbito da memoria onde cómpre situar a nosa conciencia do pasado,
+   entendida como continuidade temporal da persoa, e dende onde podemos
+   dirixirnos cara ese pasado co obxecto de recordalo cunha intensidade
+   maior (11). Esta é a maneira na que actúan precisamente as películas
+   familiares. Por iso a conciencia imaxinante de Mia precisa tamén delas,
+   pois permítenlle construírse esta materialización visual dunha
+   experiencia inexistente, esta distancia reflexiva da que se provee
+   tamén a saudade, que non se limita a un estéril sentimento de
+   señardade. Sentada naquel club de jazz, a protagonista está asistindo á
+   película da súa vida, a que ela mesma conforma na súa imaxinación
+   reemplazando o realmente vivido polo desexado.
+
+   Malia que as películas familiares deberían limitarse aos feitos
+   constatados dos que semellan ser garantes, tampouco se escapan desa
+   compoñente de ensoño e fantasía. Roger Odin sinala que tamén poden
+   presentarse como un desquite fronte ao esquecemento, pois na recreación
+   do acontecido tendemos a introducir na diéxese todo aquilo que nos
+   gustaría ter vivido (12). Para o caso de La La Land, o desquite hai que
+   entendelo como fórmula para combater a nostalxia do que non nos foi
+   dado experimentar.
+   Esta secuencia final ábrese e péchase coa linguaxe muda das miradas, a
+   de cando se descobren o un ao outro no local e a de cando ela se vai e
+   se despiden, de novo en silencio, con outro emparellamento da visión,
+   indo do plano ao contraplano que lle corresponde. Como arrebatada
+   expresión de emocións que volven, de sentimentos que non morreron
+   aínda, o relato que presenta a secuencia enmarcada neste dobre cruce de
+   miradas remite a parámetros propios dunha estética romántica. Falamos,
+   por exemplo, do que antes chamamos radical subxectividade, unha mirada
+   interior capaz de xerar imaxes inventadas do pasado; unha expresión da
+   intimidade que podemos ir buscar á pintura romántica. Para Rafael
+   Argullol, esta arte xurde desa mirada interior, principio ordenador que
+   moldea a realidade e que concibe a paisaxe, sobre todo, como estados da
+   subxectividade (13). A isto responde o que Mia imaxina ou falsamente
+   rememora, como tamén a paisaxe que ve Gabriel en Dublineses a través da
+   fiestra, que nos fai ver ou que nos fai crer que ve: o resultado deste
+   mesmo estado de subxectividade ou de mirada interior. Dous filmes con
+   senllos finais que dotan dunha visualidade sonora, a que lle achega a
+   potencia evocadora da música, para mergullarse no máis íntimo do Ser.
+     __________________________________________________________________
+
+Notas
+
+    1. Ramón Piñeiro (2001). Filosofía da Saudade. A Coruña: La Voz de
+       Galicia/Galaxia. P. 36.
+    2. Ibídem. P. 42.
+    3. Teixeira de Pascoaes (1988), A saudade e o saudosismo(dispersos e
+       opúsculos). Lisboa: Assirio &amp; Alvim. P. 236.
+    4.  Ibídem. P. 244.
+    5.  Rosalía de Castro (1992). Follas Novas. Santiago de Compostela:
+       Librería Galí. P. 53.
+    6.  Antonio Machado (1988). Poesías completas. Madrid: Espasa Calpe.
+       P. 85. Este poema fai parte do libro Soledades, que se editou na
+       súa configuración definitiva en 1907 co título de Soledades.
+       Galerías. Otros poemas. O conto de James Joyce, “Os mortos” está
+       incluído no volume Dublineses, que viu a luz en 1906, ano no que
+       vai nacer John Huston, quen filmou, con adaptación do seu fillo
+       Tony, o relato joyceano no ano no que ía morrer, en 1987.
+    7.  Op. Cit. P. 60.
+    8.  Santos Zunzunegui (2017). Bajo el signo de la melancolía. Cine,
+       desencanto y aflicción. Madrid: Cátedra. P 170.
+    9.  Rosalía de Castro (1985). En las orillas del Sar. Madrid: CEGAL.
+       P. 43.
+   10.  Eugenio Trías (2006). Lo bello y lo siniestro. Barcelona: Planeta.
+       P. 37.
+   11.  Paul Ricoeur (1998). La lectura del tiempo pasado. Memoria y
+       olvido. Madrid: UAM/Arrecife. P. 16
+   12.  Roger Odin (2010). “El cine doméstico en la institución familiar”,
+       en Efrén Cuevas (Edt.). La casa abierta. El cine doméstico y sus
+       reciclajes contemporáneos. Madrid: DocumentaMadrid / Ocho y Medio.
+       P. 47.
+   13.  Rafael Argullol (2006). La atracción del abismo. Un itinerario por
+       el paisaje romántico. Barcelona: Acantilado. P. 68.
+
+Unha produción da
+
+   Coordinación e edición web: María Yáñez
+   Textos: María Villamarín, Cibrán Tenreiro
+   Retratos: Tamara de la Fuente  (Foto da cabeceira: Jaime Olmedo /
+   Movistar+)
+   Dirección AGA: Miguel Mariño
+   Xerente e Administración AGA: Marisela Lens
+   Comunicación AGA: Miriam Rodríguez Debasa, Saúl Rivas González
+
+
+
+   Co patrocinio de:
+</text>
+</page> §
+<page="saudade_pt-47">
+<text>
+   #OBarrete » Feed OBarrete » Feed de comentários Feed de comentários de
+   OBarrete » A saudade do cinema alternate alternate alternate
+
+Menu
+
+     * Cinema
+          + Acção
+          + Animação
+          + Biografia
+          + Crime
+          + Comédia
+          + Desporto
+          + Drama
+          + Documentário
+          + Fantasia
+          + Guerra
+          + Histórico
+          + Horror
+          + Mistério
+          + Musical
+          + Romance
+          + Sci-Fi
+          + Thriller
+          + Western
+     * Música
+          + Ambiental
+               o Space Music
+          + Avant-garde
+          + Blues
+          + Banda Sonora
+          + Bossa Nova
+          + Clássica
+          + Eletrónica
+          + Folk
+          + Heavy Metal
+               o Black Metal
+               o Thrash Metal
+          + Indie
+          + Jazz
+               o Jazz Fusion
+          + Minimalista
+          + R&amp;B
+          + Rock
+               o Glam Rock
+               o Rock Psicadélico
+               o Rock Progressivo
+          + Pop
+          + Post-Punk
+          + Soul
+     * Literatura
+          + Contos
+          + Escritores
+          + Livros
+          + Poesia
+     * Artes
+     * Séries
+     * Filosofia
+          + Filósofos
+     * Listas
+          + Top 5
+          + Top 10
+          + Top 20
+     * Trabalhos
+     * Opinião
+          + Críticas
+          + Crónicas
+     * Gaming
+     * Festivais
+          + Porto/Post/Doc 2020
+     * Entrevistas
+     * Podcast
+
+OBarrete
+
+Porque A Arte Somos Nós
+
+   OBarrete
+
+A saudade do cinema
+
+   Tiago Ferreira
+
+   no comments
+
+   5 de Novembro de 2020
+
+   O encontro que se faz com o grande ecrã é de uma saudade e nostalgia
+   pura, imediata, mítica e até, dentro da espontaneidade, uma experiência
+   absurda. Porque o contacto que se estabelece é de tal forma pessoal que
+   o que vemos na tela não passa de uma forma como a nossa realidade se
+   revê na ficção. A partir daí, as sensações possíveis são quase uma
+   pré-catarse, na qual o filme nos convida a ir caminhando e entrando no
+   universo intelectual e emocional que ele propõe.
+
+   Tudo isto é necessário para nos pôr a pensar sobre aquilo que somos,
+   mas acima de tudo relativamente ao que gostaríamos de ser. Em período
+   de pandemia, esse equilíbrio necessário entre a azáfama do dia-a-dia e
+   da descentralização do que está à nossa volta ganha um novo sentido e
+   uma nova necessidade.
+
+   A saudade é um tema que pode vir antes, durante e depois de ver um
+   filme. A saudade por vezes é o que nos leva a revisitar certas obras, a
+   descobri-las melhor, a magicar significados encobertos,
+   intencionalmente escondidos para elevar. Durante há toda uma
+   musicalidade que a história pede, de imersão na narrativa, que passamos
+   a sentir o que as personagens sentem, passando a ser, mesmo que
+   ficcionalmente, mais do que aquilo que elas são, aquilo que elas
+   representam.
+
+   Saudade após a visualização da película, numa perspetiva mais acertada
+   enquanto nostalgia, é quando a obra é tão forte e diferente que fica
+   difícil permanecer indiferente ao que foi experienciado. Isto tudo é um
+   puzzle em que a nossa mente entra, imergindo numa dinâmica que toma
+   conta de nós e nos guia. Há quem diga que estes processos podem ser
+   simultâneos e até que as suas experiências estão, de certa forma,
+   formalmente ligadas.
+   “La montaña sagrada”, Alejandro Jodorowsky (1973)
+
+   Mas a verdadeira magia por detrás disto vem com a simplicidade que
+   transporta, no sentido em que somos levados a aceitar: 1.º a nossa
+   própria individualidade e o vazio que ela significa e 2.º a nossa
+   humildade, a humanidade que nos permite abrir os olhos para um novo
+   mundo, fugir de nós próprios e sentir compaixão por aquilo que,
+   outrora, fomos.
+
+   Aqui a memória tem, portanto, um papel significativo e, claro, é o
+   mecanismo necessário e suficiente para revisitar e moldar sentimentos e
+   emoções. Por isso, podemos dizer até que o cinema tem na saudade o auge
+   da sua essência, porque se pudéssemos dividir a experiência em três
+   atos, a palavra tão bela e portuguesa como é “saudade” teria na sua
+   índole o mote da sétima arte como manifestação à parte, como motivo
+   para nos orgulharmos de sentirmos vazios infinitos em nós e em ser isso
+   que nos transporta para grandes e genuínos feitos.
+
+   Amar o cinema é amarmo-nos, recordando o tema de outras reflexões, e
+   recordando a necessidade que temos de encontrar significado noutras
+   passagens, em tempos em que até podíamos não ter bem noção de nós
+   próprios nem do brilhantismo que uma “mera” história pode ter. A
+   estrutura de uma história cria significado e por vezes a necessidade de
+   a ouvir vezes sem conta está, não no que ela representa, mas no que ela
+   faz sentir (conforto).
+
+   O verdadeiro conforto da saudade está em mantermo-nos ligados e abertos
+   a um novo mundo de significação e de aventura. Para lá chegar, é
+   preciso ser humilde e olhar para o passado com os olhos de quem se
+   orgulha ter vivido um filme.
+
+   Porque a saudade não ocupa lugar… a menos que não a ficcionemos.
+
+   Vale a pena pensar nisto.
+
+     “É necessário sair da ilha para ver a ilha, não nos vemos se não
+     saímos de nós”
+     José Saramago
+
+   Tiago Ferreira
+
+   Imagem da capa alusiva ao filme “Call Me By Your Name” (2017)
+
+   Se queres que OBarrete continue ao mais alto nível e evolua para algo
+   ainda maior, é a tua vez de poder participar com o pouco que seja.
+   Clica aqui e junta-te à família!
+
+Partilha:
+
+     * Tweet
+     *
+     *
+     * WhatsApp
+     * More
+     *
+
+     *
+
+       IFRAME:
+       https://www.reddit.com/static/button/button1.html?newwindow=true&amp;wi
+       dth=120&amp;url=https%3A%2F%2Fobarrete.com%2F2020%2F11%2F05%2Fa-saudade
+       -do-cinema%2F&amp;title=A%20saudade%20do%20cinema
+
+     * Share on Tumblr
+     *
+     * [pinit_fg_en_rect_gray_20.png?w=1280]
+       [pinit_fg_en_rect_gray_20.png?w=1280]
+     *
+     *
+     *
+
+Like this:
+
+   Like Loading...
+
+   Categories: Opinião, Crónicas•Tags: Cinema, José Saramago•
+
+Leave a Reply Cancel reply
+
+   IFRAME: jetpack_remote_comment
+
+   Este site utiliza o Akismet para reduzir spam. Fica a saber como são
+   processados os dados dos comentários.
+
+   ← Podcast: “#20 – Borat Subsequent Moviefilm”
+   “Casei com um comunista”: Outra obra-prima de Roth →
+
+Apoia OBarrete
+
+   Become a Patron!
+
+Translate
+
+Pesquisar
+
+   Pesquisar por: ____________________ Pesquisar
+
+Mais Vistos
+
+     * "Monamour": Muita sensualidade, pouca matéria
+       "Monamour": Muita sensualidade, pouca matéria
+     * "A Casa Assombrada e Outros Contos": Fragmentos da vida
+       "A Casa Assombrada e Outros Contos": Fragmentos da vida
+     * "August: Osage County": Uma comédia da vida real
+       "August: Osage County": Uma comédia da vida real
+     * "O Retrato de Dorian Gray": uma reflexão metafórica dos limites da
+       humanidade
+       "O Retrato de Dorian Gray": uma reflexão metafórica dos limites da
+       humanidade
+     * Top 10: Melhores baladas de Rock da década de 1980
+       Top 10: Melhores baladas de Rock da década de 1980
+     * Top 10: Guitarristas, ou a magia de um solo
+       Top 10: Guitarristas, ou a magia de um solo
+     * "Mudam-se os tempos, mudam-se as vontades", de Luís de Camões
+       "Mudam-se os tempos, mudam-se as vontades", de Luís de Camões
+     * "Cartas Inglesas": A Deliciosa Arte de Ser do Contra
+       "Cartas Inglesas": A Deliciosa Arte de Ser do Contra
+
+Facebook
+
+     Facebook
+
+Parceiros
+
+Sobre
+
+   OBarrete é uma página que pretende divulgar conteúdo e informação
+   relacionados com a Arte.
+
+   Sabe mais aqui.
+
+Fala connosco
+
+   Tens alguma dúvida, ou gostavas de entrar em contacto connosco? Podes
+   fazê-lo aqui.
+     * Facebook
+     * Instagram
+
+Seguir
+
+   Endereço de email ____________________
+
+   (BUTTON) Subscrever
+
+Categorias
+
+   Categorias[Seleccionar categoria_______]
+
+Arquivo
+
+   Arquivo [Seleccionar mêss]
+
+Política de Privacidade &amp; Cookies
+
+   Privacy Policy
+   Cookie Policy
+
+     * Bernardo Freire
+          + “Triangle of Sadness”: A palma escatológica de Östlund
+     * Diogo Passos
+          + Verde: A cor favorita de Lygia Fagundes Telles
+     * Jorge Gameiro
+          + Willem Dafoe: O omnipresente
+     * Lorena Moreira
+          + “O Alquimista”: Maktub – está escrito
+     * Luís Ferreira
+          + Jogo: “Telling Lies” – De mentira em mentira se descobre a
+            verdade
+     * Marcelo Pereira Rodrigues
+          + “A Imaginação”: O tratado do ‘imaginar’
+     * Maria Moura Baptista
+          + Alexandre Desplat: O compositor que recria filmes
+     * Pedro Maia
+          + Poema: “Cidade”
+     * J. de Selby
+          + “A Grande Comichão”, TOTA: Não viram Moisés a fazer greve
+     * Tiago Ferreira
+          + “The Outfit”: A elegância dos recomeços
+
+
+   Loading Comments...
+
+   Write a Comment...
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+   Email (Required) ____________________
+
+   Name (Required) ____________________
+
+   Website ____________________
+
+   Post Comment
+
+   IFRAME: likes-master
+
+   %d bloggers like this:
+</text>
+</page> §
+<page="saudade_pt-48">
+<text>
+   #OBarrete » Feed OBarrete » Feed de comentários Feed de comentários de
+   OBarrete » A saudade do cinema alternate alternate alternate
+
+Menu
+
+     * Cinema
+          + Acção
+          + Animação
+          + Biografia
+          + Crime
+          + Comédia
+          + Desporto
+          + Drama
+          + Documentário
+          + Fantasia
+          + Guerra
+          + Histórico
+          + Horror
+          + Mistério
+          + Musical
+          + Romance
+          + Sci-Fi
+          + Thriller
+          + Western
+     * Música
+          + Ambiental
+               o Space Music
+          + Avant-garde
+          + Blues
+          + Banda Sonora
+          + Bossa Nova
+          + Clássica
+          + Eletrónica
+          + Folk
+          + Heavy Metal
+               o Black Metal
+               o Thrash Metal
+          + Indie
+          + Jazz
+               o Jazz Fusion
+          + Minimalista
+          + R&amp;B
+          + Rock
+               o Glam Rock
+               o Rock Psicadélico
+               o Rock Progressivo
+          + Pop
+          + Post-Punk
+          + Soul
+     * Literatura
+          + Contos
+          + Escritores
+          + Livros
+          + Poesia
+     * Artes
+     * Séries
+     * Filosofia
+          + Filósofos
+     * Listas
+          + Top 5
+          + Top 10
+          + Top 20
+     * Trabalhos
+     * Opinião
+          + Críticas
+          + Crónicas
+     * Gaming
+     * Festivais
+          + Porto/Post/Doc 2020
+     * Entrevistas
+     * Podcast
+
+OBarrete
+
+Porque A Arte Somos Nós
+
+   OBarrete
+
+A saudade do cinema
+
+   Tiago Ferreira
+
+   no comments
+
+   5 de Novembro de 2020
+
+   O encontro que se faz com o grande ecrã é de uma saudade e nostalgia
+   pura, imediata, mítica e até, dentro da espontaneidade, uma experiência
+   absurda. Porque o contacto que se estabelece é de tal forma pessoal que
+   o que vemos na tela não passa de uma forma como a nossa realidade se
+   revê na ficção. A partir daí, as sensações possíveis são quase uma
+   pré-catarse, na qual o filme nos convida a ir caminhando e entrando no
+   universo intelectual e emocional que ele propõe.
+
+   Tudo isto é necessário para nos pôr a pensar sobre aquilo que somos,
+   mas acima de tudo relativamente ao que gostaríamos de ser. Em período
+   de pandemia, esse equilíbrio necessário entre a azáfama do dia-a-dia e
+   da descentralização do que está à nossa volta ganha um novo sentido e
+   uma nova necessidade.
+
+   A saudade é um tema que pode vir antes, durante e depois de ver um
+   filme. A saudade por vezes é o que nos leva a revisitar certas obras, a
+   descobri-las melhor, a magicar significados encobertos,
+   intencionalmente escondidos para elevar. Durante há toda uma
+   musicalidade que a história pede, de imersão na narrativa, que passamos
+   a sentir o que as personagens sentem, passando a ser, mesmo que
+   ficcionalmente, mais do que aquilo que elas são, aquilo que elas
+   representam.
+
+   Saudade após a visualização da película, numa perspetiva mais acertada
+   enquanto nostalgia, é quando a obra é tão forte e diferente que fica
+   difícil permanecer indiferente ao que foi experienciado. Isto tudo é um
+   puzzle em que a nossa mente entra, imergindo numa dinâmica que toma
+   conta de nós e nos guia. Há quem diga que estes processos podem ser
+   simultâneos e até que as suas experiências estão, de certa forma,
+   formalmente ligadas.
+   “La montaña sagrada”, Alejandro Jodorowsky (1973)
+
+   Mas a verdadeira magia por detrás disto vem com a simplicidade que
+   transporta, no sentido em que somos levados a aceitar: 1.º a nossa
+   própria individualidade e o vazio que ela significa e 2.º a nossa
+   humildade, a humanidade que nos permite abrir os olhos para um novo
+   mundo, fugir de nós próprios e sentir compaixão por aquilo que,
+   outrora, fomos.
+
+   Aqui a memória tem, portanto, um papel significativo e, claro, é o
+   mecanismo necessário e suficiente para revisitar e moldar sentimentos e
+   emoções. Por isso, podemos dizer até que o cinema tem na saudade o auge
+   da sua essência, porque se pudéssemos dividir a experiência em três
+   atos, a palavra tão bela e portuguesa como é “saudade” teria na sua
+   índole o mote da sétima arte como manifestação à parte, como motivo
+   para nos orgulharmos de sentirmos vazios infinitos em nós e em ser isso
+   que nos transporta para grandes e genuínos feitos.
+
+   Amar o cinema é amarmo-nos, recordando o tema de outras reflexões, e
+   recordando a necessidade que temos de encontrar significado noutras
+   passagens, em tempos em que até podíamos não ter bem noção de nós
+   próprios nem do brilhantismo que uma “mera” história pode ter. A
+   estrutura de uma história cria significado e por vezes a necessidade de
+   a ouvir vezes sem conta está, não no que ela representa, mas no que ela
+   faz sentir (conforto).
+
+   O verdadeiro conforto da saudade está em mantermo-nos ligados e abertos
+   a um novo mundo de significação e de aventura. Para lá chegar, é
+   preciso ser humilde e olhar para o passado com os olhos de quem se
+   orgulha ter vivido um filme.
+
+   Porque a saudade não ocupa lugar… a menos que não a ficcionemos.
+
+   Vale a pena pensar nisto.
+
+     “É necessário sair da ilha para ver a ilha, não nos vemos se não
+     saímos de nós”
+     José Saramago
+
+   Tiago Ferreira
+
+   Imagem da capa alusiva ao filme “Call Me By Your Name” (2017)
+
+   Se queres que OBarrete continue ao mais alto nível e evolua para algo
+   ainda maior, é a tua vez de poder participar com o pouco que seja.
+   Clica aqui e junta-te à família!
+
+Partilha:
+
+     * Tweet
+     *
+     *
+     * WhatsApp
+     * More
+     *
+
+     *
+
+       IFRAME:
+       https://www.reddit.com/static/button/button1.html?newwindow=true&amp;wi
+       dth=120&amp;url=https%3A%2F%2Fobarrete.com%2F2020%2F11%2F05%2Fa-saudade
+       -do-cinema%2F&amp;title=A%20saudade%20do%20cinema
+
+     * Share on Tumblr
+     *
+     * [pinit_fg_en_rect_gray_20.png?w=1280]
+       [pinit_fg_en_rect_gray_20.png?w=1280]
+     *
+     *
+     *
+
+Like this:
+
+   Like Loading...
+
+   Categories: Opinião, Crónicas•Tags: Cinema, José Saramago•
+
+Leave a Reply Cancel reply
+
+   IFRAME: jetpack_remote_comment
+
+   Este site utiliza o Akismet para reduzir spam. Fica a saber como são
+   processados os dados dos comentários.
+
+   ← Podcast: “#20 – Borat Subsequent Moviefilm”
+   “Casei com um comunista”: Outra obra-prima de Roth →
+
+Apoia OBarrete
+
+   Become a Patron!
+
+Translate
+
+Pesquisar
+
+   Pesquisar por: ____________________ Pesquisar
+
+Mais Vistos
+
+     * "Monamour": Muita sensualidade, pouca matéria
+       "Monamour": Muita sensualidade, pouca matéria
+     * "A Casa Assombrada e Outros Contos": Fragmentos da vida
+       "A Casa Assombrada e Outros Contos": Fragmentos da vida
+     * "August: Osage County": Uma comédia da vida real
+       "August: Osage County": Uma comédia da vida real
+     * "O Retrato de Dorian Gray": uma reflexão metafórica dos limites da
+       humanidade
+       "O Retrato de Dorian Gray": uma reflexão metafórica dos limites da
+       humanidade
+     * Top 10: Melhores baladas de Rock da década de 1980
+       Top 10: Melhores baladas de Rock da década de 1980
+     * Top 10: Guitarristas, ou a magia de um solo
+       Top 10: Guitarristas, ou a magia de um solo
+     * "Mudam-se os tempos, mudam-se as vontades", de Luís de Camões
+       "Mudam-se os tempos, mudam-se as vontades", de Luís de Camões
+     * "Cartas Inglesas": A Deliciosa Arte de Ser do Contra
+       "Cartas Inglesas": A Deliciosa Arte de Ser do Contra
+
+Facebook
+
+     Facebook
+
+Parceiros
+
+Sobre
+
+   OBarrete é uma página que pretende divulgar conteúdo e informação
+   relacionados com a Arte.
+
+   Sabe mais aqui.
+
+Fala connosco
+
+   Tens alguma dúvida, ou gostavas de entrar em contacto connosco? Podes
+   fazê-lo aqui.
+     * Facebook
+     * Instagram
+
+Seguir
+
+   Endereço de email ____________________
+
+   (BUTTON) Subscrever
+
+Categorias
+
+   Categorias[Seleccionar categoria_______]
+
+Arquivo
+
+   Arquivo [Seleccionar mêss]
+
+Política de Privacidade &amp; Cookies
+
+   Privacy Policy
+   Cookie Policy
+
+     * Bernardo Freire
+          + “Triangle of Sadness”: A palma escatológica de Östlund
+     * Diogo Passos
+          + Verde: A cor favorita de Lygia Fagundes Telles
+     * Jorge Gameiro
+          + Willem Dafoe: O omnipresente
+     * Lorena Moreira
+          + “O Alquimista”: Maktub – está escrito
+     * Luís Ferreira
+          + Jogo: “Telling Lies” – De mentira em mentira se descobre a
+            verdade
+     * Marcelo Pereira Rodrigues
+          + “A Imaginação”: O tratado do ‘imaginar’
+     * Maria Moura Baptista
+          + Alexandre Desplat: O compositor que recria filmes
+     * Pedro Maia
+          + Poema: “Cidade”
+     * J. de Selby
+          + “A Grande Comichão”, TOTA: Não viram Moisés a fazer greve
+     * Tiago Ferreira
+          + “The Outfit”: A elegância dos recomeços
+
+
+   Loading Comments...
+
+   Write a Comment...
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+   Email (Required) ____________________
+
+   Name (Required) ____________________
+
+   Website ____________________
+
+   Post Comment
+
+   IFRAME: likes-master
+
+   %d bloggers like this:
 </text>
 </page> §
 <page="saudade_pt-49">
@@ -13038,8 +14129,11 @@ Especiais na categoría
    Tendências
    Exemplos
 
-   Aos olhos da saudade como o mundo é pequeno.
-   Charles Baudelaire
+   É a mensageira da saudade, é o relicário da prece, é a cristalização da
+   mágoa. É imortal, porque deriva da alma. É a água que não seca, a
+   lágrima, água do coração - salgada porque vem de um oceano sem praias,
+   que é o desespero, estrela porque demanda o céu.
+   Coelho Neto
 
 Significado de "saudade" no dicionário português
 
@@ -13187,17 +14281,12 @@ PALAVRAS RELACIONADAS COM «SAUDADE»
 
    saudade tumblr musica frases fernando pessoa poema texto saudade
    palavras mais presentes poesia amor língua portuguesa também música
-   popular descreve mistura sentimentos perda falta distância palavra
-   latim solitas solitatis saudades quando coração aperta coletânea sobre
-   fragmentos falam exprimem esse sentimento ausência belas jorge mateus
-   vagalume para ouvir letra legenda dias vão passando lembro nossos
-   momentos beijo mensagens mundo lindas pensador pensamentos textos
-   poemas idiota lucas lucco clipe coisas não passar batido esquecido
-   assim pois talvez espécie lembrança nostálgica carinhosa especial está
-   ausente acompanhado desejo revê relembre marcaram vida kboing calendarr
-   anualmente neste são recordadas pessoas partiram tempos bloco notícias
-   agenda história entre outros conteúdos relacionados tradicional
-   carnavalesco recife wikcionário origem dicionário livre navegação
+   popular descreve mistura sentimentos perda falta saudades quando
+   coração aperta coletânea sobre fragmentos falam exprimem esse
+   sentimento ausência belas jorge mateus vagalume para ouvir letra
+   legenda dias vão passando lembro nossos momentos beijo mensagens mundo
+   lindas pensador pensamentos textos poemas idiota lucas lucco clipe
+   coisas não passar batido esquecido assim pois talvez espécie
 
 Tradutor on-line com a tradução de saudade em 25 línguas
 
@@ -14417,26 +15506,26 @@ Quando podemos sentir saudade?
        tristeza para chorar”
 
    Teachs.ru
-   Os 50 perfis essenciais do Twitter para estudantes de psicologia
 
-Os 50 perfis essenciais do Twitter para estudantes de psicologia
+A ciência diz que dinheiro é uma droga e não traz felicidade
 
-   A Internet entrou na nossa vida para ficar, é uma realidade. A rede de
-   redes não só revolucionou ...
+   Gostamos de pensar que controlamos o dinheiro porque parece fácil de
+   controlar, mas na realidade ...
+
+   Consulte Mais informação
+   Falar em público e superar o medo do palco, em 8 etapas
+
+Falar em público e superar o medo do palco, em 8 etapas
+
+   Muitas pessoas têm sérias dificuldades para falar em público, porque
+   sentem medo do palco ao fala...
 
    Consulte Mais informação
 
-Lágrimas positivas: o que são e por que chorar pode ser uma coisa boa
+Os 6 diferentes tipos de emoções que podemos sentir
 
-   Geralmente associamos o choro a eventos negativos e sentimentos de
-   tristeza ou melancolia, mas ne...
-
-   Consulte Mais informação
-
-Condicionamento de evitação: o que é e características
-
-   O condicionamento é uma das formas mais básicas de aprendizagem que
-   existem, tanto em humanos qua...
+   A inteligência emocional está na moda e é um dos tópicos que mais
+   surgem e repetimos nas diferent...
 
    Consulte Mais informação
 

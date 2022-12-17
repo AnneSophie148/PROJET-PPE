@@ -38,7 +38,7 @@ Em outras línguas
    Como a maioria das palavras latinas vieram pelo caso Acusativo,
 </text>
 </page> §
-<page="saudade_pt-12">
+<page="saudade_pt-11">
 <text>
    ____________________ (BUTTON)
 
@@ -112,7 +112,7 @@ Veja também:
      * saudante
 </text>
 </page> §
-<page="saudade_pt-13">
+<page="saudade_pt-12">
 <text>
        [ico_favoritos.svg]
 
@@ -130,7 +130,7 @@ saudade
        Como referenciar [seta_down.svg]
        Porto Editora – saudade no Dicionário infopédia de Português para
        Estrangeiros [em linha]. Porto: Porto Editora. [consult. 2022-12-17
-       11:35:47]. Disponível em
+       15:03:58]. Disponível em
        https://www.infopedia.pt/dicionarios/portugues-estrangeiros/saudade
        sinónimos
        melancolia, nostalgia
@@ -148,13 +148,13 @@ saudade
        Como referenciar [seta_down.svg]
        Porto Editora – saudade no Dicionário infopédia de Português para
        Estrangeiros [em linha]. Porto: Porto Editora. [consult. 2022-12-17
-       11:35:47]. Disponível em
+       15:03:58]. Disponível em
        https://www.infopedia.pt/dicionarios/portugues-estrangeiros/saudade
        Campanha Solidária de Natal
        Natal WOOK
 </text>
 </page> §
-<page="saudade_pt-14">
+<page="saudade_pt-13">
 <text>
    #Filipe Miguel » Feed Filipe Miguel » Feed de Comentários Feed de
    Comentários de Filipe Miguel » Definição de Saudade alternate alternate
@@ -205,7 +205,7 @@ Definição de Saudade
     1.
 </text>
 </page> §
-<page="saudade_pt-15">
+<page="saudade_pt-14">
 <text>
    #Feed de comentários de Centro Nacional de Cultura » “Filosofia da
    Saudade” de Afonso Botelho e António Braz Teixeira Portugal acolhe
@@ -285,7 +285,7 @@ Definição de Saudade
    pensador invoca, quando a “ontologia aberta do Existencialismo pode
 </text>
 </page> §
-<page="saudade_pt-16">
+<page="saudade_pt-15">
 <text>
 A Vida dos Livros
 
@@ -360,7 +360,7 @@ A Vida dos Livros
    pensador invoca, quando a “ontologia aberta do Existencialismo pode
 </text>
 </page> §
-<page="saudade_pt-17">
+<page="saudade_pt-16">
 <text>
    Indo ao que interessa
 
@@ -455,7 +455,7 @@ fora de si naquilo que ama e deseja.
    (4) Ibid., 275.
 </text>
 </page> §
-<page="saudade_pt-18">
+<page="saudade_pt-17">
 <text>
      * Carrera Pedestre
 
@@ -484,85 +484,46 @@ A ausencia como esencia da saudade
    Para min non é outro que a “ausencia”. A AUSENCIA impregna todo o ser
 </text>
 </page> §
+<page="saudade_pt-18">
+<text>
+    1. Geral
+
+Significado de Saudade
+
+O que é Saudade:
+
+   Saudade é um sentimento causado pela distância ou ausência de algo ou
+   alguém. Tem origem no latim, com o significado de solidão.
+
+   É uma palavra que não tem tradução literal em muitas línguas. Saudade é
+   uma das palavras mais utilizadas nas poesias de amor, nas músicas
+   românticas da língua portuguesa. Saudade significa a memória de algo
+   que aconteceu e intensa vontade de reviver certos momentos.
+
+   Saudade, segundo a lenda surgiu no período dos descobrimentos e definia
+   a solidão que os portugueses vindos para o Brasil tinham da sua terra e
+   dos seus familiares. Eram atacados por uma melancolia por se sentirem
+   tão só e distantes dos seus.
+
+   O termo saudade gerou muitos derivados, como saudosismo, e aquele que
+   sente saudades de algo ou alguma coisa, é o saudosista. O termo saudoso
+   é muito utilizado quando nos referimos a alguém que veio a falecer, e
+   que nos traz grandes lembranças.
+
+   Podemos sentir saudades, de um amigo que partiu, de uma comida que há
+   muito não saboreamos, de uma cidade que conhecemos e que gostaríamos de
+   voltar, de um período muito feliz de nossas vidas, saudades dos filhos
+   quando crianças, saudades dos pais que já partiram, saudade da casa
+   onde nascemos vivemos por muito tempo etc.
+
+   Existe uma expressão que diz "matar a saudade." Ela significa que no
+   momento em que o indivíduo vê o objeto do seu sofrimento, torna-se
+   alegre e feliz, portanto está matando aquela saudade.
+   (BUTTON) Compartilhar
+   (BUTTON) Enviar
+</text>
+</page> §
 <page="saudade_pt-19">
-<text>
-    1. Geral
-
-Significado de Saudade
-
-O que é Saudade:
-
-   Saudade é um sentimento causado pela distância ou ausência de algo ou
-   alguém. Tem origem no latim, com o significado de solidão.
-
-   É uma palavra que não tem tradução literal em muitas línguas. Saudade é
-   uma das palavras mais utilizadas nas poesias de amor, nas músicas
-   românticas da língua portuguesa. Saudade significa a memória de algo
-   que aconteceu e intensa vontade de reviver certos momentos.
-
-   Saudade, segundo a lenda surgiu no período dos descobrimentos e definia
-   a solidão que os portugueses vindos para o Brasil tinham da sua terra e
-   dos seus familiares. Eram atacados por uma melancolia por se sentirem
-   tão só e distantes dos seus.
-
-   O termo saudade gerou muitos derivados, como saudosismo, e aquele que
-   sente saudades de algo ou alguma coisa, é o saudosista. O termo saudoso
-   é muito utilizado quando nos referimos a alguém que veio a falecer, e
-   que nos traz grandes lembranças.
-
-   Podemos sentir saudades, de um amigo que partiu, de uma comida que há
-   muito não saboreamos, de uma cidade que conhecemos e que gostaríamos de
-   voltar, de um período muito feliz de nossas vidas, saudades dos filhos
-   quando crianças, saudades dos pais que já partiram, saudade da casa
-   onde nascemos vivemos por muito tempo etc.
-
-   Existe uma expressão que diz "matar a saudade." Ela significa que no
-   momento em que o indivíduo vê o objeto do seu sofrimento, torna-se
-   alegre e feliz, portanto está matando aquela saudade.
-   (BUTTON) Compartilhar
-   (BUTTON) Enviar
-</text>
-</page> §
-<page="saudade_pt-1">
-<text>
-    1. Geral
-
-Significado de Saudade
-
-O que é Saudade:
-
-   Saudade é um sentimento causado pela distância ou ausência de algo ou
-   alguém. Tem origem no latim, com o significado de solidão.
-
-   É uma palavra que não tem tradução literal em muitas línguas. Saudade é
-   uma das palavras mais utilizadas nas poesias de amor, nas músicas
-   românticas da língua portuguesa. Saudade significa a memória de algo
-   que aconteceu e intensa vontade de reviver certos momentos.
-
-   Saudade, segundo a lenda surgiu no período dos descobrimentos e definia
-   a solidão que os portugueses vindos para o Brasil tinham da sua terra e
-   dos seus familiares. Eram atacados por uma melancolia por se sentirem
-   tão só e distantes dos seus.
-
-   O termo saudade gerou muitos derivados, como saudosismo, e aquele que
-   sente saudades de algo ou alguma coisa, é o saudosista. O termo saudoso
-   é muito utilizado quando nos referimos a alguém que veio a falecer, e
-   que nos traz grandes lembranças.
-
-   Podemos sentir saudades, de um amigo que partiu, de uma comida que há
-   muito não saboreamos, de uma cidade que conhecemos e que gostaríamos de
-   voltar, de um período muito feliz de nossas vidas, saudades dos filhos
-   quando crianças, saudades dos pais que já partiram, saudade da casa
-   onde nascemos vivemos por muito tempo etc.
-
-   Existe uma expressão que diz "matar a saudade." Ela significa que no
-   momento em que o indivíduo vê o objeto do seu sofrimento, torna-se
-   alegre e feliz, portanto está matando aquela saudade.
-   (BUTTON) Compartilhar
-   (BUTTON) Enviar
-</text>
-</page> §
-<page="saudade_pt-20">
 <text>
        ____________________ (BUTTON)
 
@@ -665,7 +626,46 @@ Saudade poética: Um caminho lúdico para transformar esse sentimento
    rima, como um gole de sentimento."
 </text>
 </page> §
-<page="saudade_pt-21">
+<page="saudade_pt-1">
+<text>
+    1. Geral
+
+Significado de Saudade
+
+O que é Saudade:
+
+   Saudade é um sentimento causado pela distância ou ausência de algo ou
+   alguém. Tem origem no latim, com o significado de solidão.
+
+   É uma palavra que não tem tradução literal em muitas línguas. Saudade é
+   uma das palavras mais utilizadas nas poesias de amor, nas músicas
+   românticas da língua portuguesa. Saudade significa a memória de algo
+   que aconteceu e intensa vontade de reviver certos momentos.
+
+   Saudade, segundo a lenda surgiu no período dos descobrimentos e definia
+   a solidão que os portugueses vindos para o Brasil tinham da sua terra e
+   dos seus familiares. Eram atacados por uma melancolia por se sentirem
+   tão só e distantes dos seus.
+
+   O termo saudade gerou muitos derivados, como saudosismo, e aquele que
+   sente saudades de algo ou alguma coisa, é o saudosista. O termo saudoso
+   é muito utilizado quando nos referimos a alguém que veio a falecer, e
+   que nos traz grandes lembranças.
+
+   Podemos sentir saudades, de um amigo que partiu, de uma comida que há
+   muito não saboreamos, de uma cidade que conhecemos e que gostaríamos de
+   voltar, de um período muito feliz de nossas vidas, saudades dos filhos
+   quando crianças, saudades dos pais que já partiram, saudade da casa
+   onde nascemos vivemos por muito tempo etc.
+
+   Existe uma expressão que diz "matar a saudade." Ela significa que no
+   momento em que o indivíduo vê o objeto do seu sofrimento, torna-se
+   alegre e feliz, portanto está matando aquela saudade.
+   (BUTTON) Compartilhar
+   (BUTTON) Enviar
+</text>
+</page> §
+<page="saudade_pt-20">
 <text>
    Geral
 
@@ -805,7 +805,7 @@ Conclusões
    [INS: :INS]
 </text>
 </page> §
-<page="saudade_pt-22">
+<page="saudade_pt-21">
 <text>
    #Feed para Academia Ilusófona » Feed de comentários para Academia
    Ilusófona » Academia Ilusófona » do iCal Feed Feed de comentários para
@@ -892,7 +892,7 @@ Expressões com a palavra “saudade”
    Mas isso vai ficar para outro texto.
 </text>
 </page> §
-<page="saudade_pt-23">
+<page="saudade_pt-22">
 <text>
    Para Inspirar
 
@@ -944,7 +944,7 @@ Quais são os efeitos da saudade no nosso cérebro?
    conduzam a uma evolução pessoal maior e mais bonita. É preciso conhecer
 </text>
 </page> §
-<page="saudade_pt-24">
+<page="saudade_pt-23">
 <text>
    #Feed para Psicologia MSN - Tudo sobre Psicologia » Feed de comentários
    para Psicologia MSN - Tudo sobre Psicologia » Feed de comentários para
@@ -1020,7 +1020,7 @@ Nos ajude a divulgar! Compartilhe:
        explicar”, é mais para sentir, não pode ser analisado de forma
 </text>
 </page> §
-<page="saudade_pt-25">
+<page="saudade_pt-24">
 <text>
    #Feed para Psicanálise Clínica » Feed de comentários para Psicanálise
    Clínica » Feed de comentários para Psicanálise Clínica » Frases de
@@ -1116,7 +1116,7 @@ Flaubert)
    tornam cada vez menos nítidas com o passar do tempo. No entanto, isso
    não diz nada sobre a saudade, que não se apega à materialidade da vida.
    Ela transcende os corpos.
-   Leia Também:  Sonhar com raposa: o que significa?
+   Leia Também:  O que é Método Psicanalítico?
 
 Frases de distância e saudade
 
@@ -1216,7 +1216,7 @@ Considerações finais sobre as frases de saudade
     1.
 </text>
 </page> §
-<page="saudade_pt-26">
+<page="saudade_pt-25">
 <text>
    #Feed para LêAqui » Feed de comentários para LêAqui » Feed de
    comentários para LêAqui » A saudade, numa bela descrição de São
@@ -1319,7 +1319,7 @@ A saudade pura interliga no amor toda a criação de Deus.
    Anterior Procrastinação é falta de tempo ou fugir de emoções?
 </text>
 </page> §
-<page="saudade_pt-27">
+<page="saudade_pt-26">
 <text>
    #Feed para Academia Ilusófona » Feed de comentários para Academia
    Ilusófona » Academia Ilusófona » do iCal Feed Feed de comentários para
@@ -1406,7 +1406,7 @@ Expressões com a palavra “saudade”
    Mas isso vai ficar para outro texto.
 </text>
 </page> §
-<page="saudade_pt-28">
+<page="saudade_pt-27">
 <text>
    Para Inspirar
 
@@ -1458,7 +1458,7 @@ Quais são os efeitos da saudade no nosso cérebro?
    conduzam a uma evolução pessoal maior e mais bonita. É preciso conhecer
 </text>
 </page> §
-<page="saudade_pt-29">
+<page="saudade_pt-28">
 <text>
    (BUTTON)
    Share this post
@@ -1475,14 +1475,8 @@ disso, o que é saudades pra você?
 
    [https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazon
 --
-   (BUTTON)
-   Share this post
-   O que é a saudade? - TMP 22/08
-   themorningpill.substack.com
-   (BUTTON)
---
-   (BUTTON)
-   Email
+   The Morning Pill
+   Aug 22
    A pior saudade é daquilo que não vivemos
 
 Saudades.
@@ -1528,147 +1522,7 @@ Saudades.
    (BUTTON)
 </text>
 </page> §
-<page="saudade_pt-2">
-<text>
-   Geral
-
-Saudade: significado, definição, conceitos e curiosidades
-
-   maio 13, 2019
---
-   novembro 5, 2020
-
-   Você já deve ter dito a palavra saudade a alguém. Provavelmente quis
-   expressar um sentimento que envolvia muita afetividade. Entretanto,
-   essa palavra não é muito bem esclarecida. Aqui te mostraremos seus
---
-Significados da palavra
-
-   A saudade é uma palavra derivada do latim, de solitas. No latim ela
-   dizia respeito à solidão. No português foi adquirindo outros
-   significados.
---
-   Hoje a usamos para nos referirmos a um sentimento que envolve
-   afetividade. Normalmente se alguém vai embora dizemos que teremos
-   saudades. Ou se faz muito tempo que não vemos a pessoa também usamos o
-   termo.
-
-   Veja aqui alguns exemplos de aplicação em frases:
-     * Estou com saudades da torta que minha mãe faz;
-     * Você deixará saudades;
-     * Volte logo. Não quero morrer de saudades.
-
-   Observe que nesses três exemplos envolvem um sentimento ao mesmo tempo
---
-   levará a um sentimento de tristeza.
-
-   Assim, a saudade é um misto de alegria e ao mesmo tempo de tristeza.
-   [INS: :INS]
-
---
-   identificados para tal palavra.
-
-   Saudade
-
-Um substantivo abstrato
-
-   A palavra saudade é considerada um substantivo feminino e abstrato.
-   [INS: :INS]
-
---
-   Os estudiosos da gramática da língua portuguesa afirmam que um
-   substantivo abstrato se refere aquilo que não podemos pegar. Assim, os
-   sentimentos seriam abstratos. Só podemos sentir saudades. Não podemos
-   encostar nela.
-
---
-
-   O medo também seria um exemplo de substantivo abstrato. Assim como a
-   saudade é um sentimento, não é um objeto como um copo no qual podemos
-   encostar fisicamente. É algo abstrato e que nomeamos.
-
-Outras definições de saudade
-
-   O sentimento não é a única definição desta palavra.
---
-   roxa, mas também podemos encontrar em tons de rosa, bordô e branco.
-
-   Na botânica, o termo saudade também pode designar um conjunto de
-   plantas que sejam coloridas. Não somente esta espécie, mas outras
-   formas também.
---
-   para não se confundir.
-
-“Matar a saudade”
-
-   Quando dizemos a alguém que queremos “matar a saudade”, não estamos
-   falando no ato de tirar a vida.
-
-   Mas é uma metáfora. Significa que finalmente alguém que está com
-   saudade verá uma pessoa ou fará algo que não terá mais saudade. Por
-   exemplo:
-     * Chegou o feriado! Irei na casa da minha mãe e vou matar a saudade
-       de comer uma deliciosa torta.
-     * Chego amanhã, não vejo a hora de matarmos a saudade.
-
-   Nos dois casos não haverá qualquer derramamento de sangue. Mas será o
---
-   ela manifesta o tamanho do sentimento de alguém.
-
-   Pense em seus sentimentos. Tem vontade de matar alguma saudade?
-
-Onde mais existe a palavra saudade?
-
-   O termo saudade pode ser localizado em vários países.
-
-   Em uma tradução literal podemos identificar no inglês como miss you.
---
-
-   Procurar alguém pode ser entendido como um sentimento semelhante. Mas
-   ainda assim não é a saudade como usada por aqui.
-
-   Em japonês pode se usar a palavra koishi. Entretanto também não é
-   igual. Expressa um sentimento de falta e que só pode ser usado com
-   algumas pessoas. Não é como no português que temos saudade de
-   lembranças e objetos.
-
---
-   ir para casa.
-
-   Saudade
-
-Curiosidades
-
-   Ao contrário do que costumamos a escutar, a palavra saudade não é
-   exclusiva do português. Entretanto, somente em português que ela possui
-   esse significado. Ela diz respeito a uma falta, a uma ausência de algo
---
-
-   Por ser um termo tão importante, no Brasil comemora-se o dia da
-   Saudade. Todos os anos, em 30 de janeiro os brasileiros recordam esse
-   sentimento.
-
---
-Conclusões
-
-   A saudade não é um sentimento ruim. É algo que todos provavelmente
-   iremos sentir. Basta estar vivo e ter alguém que ame para que isso
-   aconteça.
---
-   Algumas de nossas melhores lembranças não voltarão. Mas podemos fazer
-   algumas atividades que diminuirão a sensação de tristeza. Tentar ficar
-   somente com as recordações boas é uma saída. A saudade nem sempre
-   precisa ser ruim.
-
---
-   alegria quando você se lembrar.
-
-   Não tenha medo de ter saudade. Isso é normal e revela que é uma pessoa
-   de sentimentos.
-   [INS: :INS]
-</text>
-</page> §
-<page="saudade_pt-30">
+<page="saudade_pt-29">
 <text>
 
    Agradecimento Amor Amizade Aniversário Namorado Otimismo Reflexão
@@ -2068,7 +1922,147 @@ Relacionadas
      * Mensagens para Namoro
 </text>
 </page> §
-<page="saudade_pt-31">
+<page="saudade_pt-2">
+<text>
+   Geral
+
+Saudade: significado, definição, conceitos e curiosidades
+
+   maio 13, 2019
+--
+   novembro 5, 2020
+
+   Você já deve ter dito a palavra saudade a alguém. Provavelmente quis
+   expressar um sentimento que envolvia muita afetividade. Entretanto,
+   essa palavra não é muito bem esclarecida. Aqui te mostraremos seus
+--
+Significados da palavra
+
+   A saudade é uma palavra derivada do latim, de solitas. No latim ela
+   dizia respeito à solidão. No português foi adquirindo outros
+   significados.
+--
+   Hoje a usamos para nos referirmos a um sentimento que envolve
+   afetividade. Normalmente se alguém vai embora dizemos que teremos
+   saudades. Ou se faz muito tempo que não vemos a pessoa também usamos o
+   termo.
+
+   Veja aqui alguns exemplos de aplicação em frases:
+     * Estou com saudades da torta que minha mãe faz;
+     * Você deixará saudades;
+     * Volte logo. Não quero morrer de saudades.
+
+   Observe que nesses três exemplos envolvem um sentimento ao mesmo tempo
+--
+   levará a um sentimento de tristeza.
+
+   Assim, a saudade é um misto de alegria e ao mesmo tempo de tristeza.
+   [INS: :INS]
+
+--
+   identificados para tal palavra.
+
+   Saudade
+
+Um substantivo abstrato
+
+   A palavra saudade é considerada um substantivo feminino e abstrato.
+   [INS: :INS]
+
+--
+   Os estudiosos da gramática da língua portuguesa afirmam que um
+   substantivo abstrato se refere aquilo que não podemos pegar. Assim, os
+   sentimentos seriam abstratos. Só podemos sentir saudades. Não podemos
+   encostar nela.
+
+--
+
+   O medo também seria um exemplo de substantivo abstrato. Assim como a
+   saudade é um sentimento, não é um objeto como um copo no qual podemos
+   encostar fisicamente. É algo abstrato e que nomeamos.
+
+Outras definições de saudade
+
+   O sentimento não é a única definição desta palavra.
+--
+   roxa, mas também podemos encontrar em tons de rosa, bordô e branco.
+
+   Na botânica, o termo saudade também pode designar um conjunto de
+   plantas que sejam coloridas. Não somente esta espécie, mas outras
+   formas também.
+--
+   para não se confundir.
+
+“Matar a saudade”
+
+   Quando dizemos a alguém que queremos “matar a saudade”, não estamos
+   falando no ato de tirar a vida.
+
+   Mas é uma metáfora. Significa que finalmente alguém que está com
+   saudade verá uma pessoa ou fará algo que não terá mais saudade. Por
+   exemplo:
+     * Chegou o feriado! Irei na casa da minha mãe e vou matar a saudade
+       de comer uma deliciosa torta.
+     * Chego amanhã, não vejo a hora de matarmos a saudade.
+
+   Nos dois casos não haverá qualquer derramamento de sangue. Mas será o
+--
+   ela manifesta o tamanho do sentimento de alguém.
+
+   Pense em seus sentimentos. Tem vontade de matar alguma saudade?
+
+Onde mais existe a palavra saudade?
+
+   O termo saudade pode ser localizado em vários países.
+
+   Em uma tradução literal podemos identificar no inglês como miss you.
+--
+
+   Procurar alguém pode ser entendido como um sentimento semelhante. Mas
+   ainda assim não é a saudade como usada por aqui.
+
+   Em japonês pode se usar a palavra koishi. Entretanto também não é
+   igual. Expressa um sentimento de falta e que só pode ser usado com
+   algumas pessoas. Não é como no português que temos saudade de
+   lembranças e objetos.
+
+--
+   ir para casa.
+
+   Saudade
+
+Curiosidades
+
+   Ao contrário do que costumamos a escutar, a palavra saudade não é
+   exclusiva do português. Entretanto, somente em português que ela possui
+   esse significado. Ela diz respeito a uma falta, a uma ausência de algo
+--
+
+   Por ser um termo tão importante, no Brasil comemora-se o dia da
+   Saudade. Todos os anos, em 30 de janeiro os brasileiros recordam esse
+   sentimento.
+
+--
+Conclusões
+
+   A saudade não é um sentimento ruim. É algo que todos provavelmente
+   iremos sentir. Basta estar vivo e ter alguém que ame para que isso
+   aconteça.
+--
+   Algumas de nossas melhores lembranças não voltarão. Mas podemos fazer
+   algumas atividades que diminuirão a sensação de tristeza. Tentar ficar
+   somente com as recordações boas é uma saída. A saudade nem sempre
+   precisa ser ruim.
+
+--
+   alegria quando você se lembrar.
+
+   Não tenha medo de ter saudade. Isso é normal e revela que é uma pessoa
+   de sentimentos.
+   [INS: :INS]
+</text>
+</page> §
+<page="saudade_pt-30">
 <text>
    (BUTTON)
 
@@ -2676,7 +2670,7 @@ Frases de saudade para status
 Gostou dessas frases? Compartilhe!
 </text>
 </page> §
-<page="saudade_pt-32">
+<page="saudade_pt-31">
 <text>
    A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 
@@ -2733,7 +2727,7 @@ Um sentimento intraduzível para outros idiomas
 Relacionados
 </text>
 </page> §
-<page="saudade_pt-33">
+<page="saudade_pt-32">
 <text>
    #Feed para Recanto do Poeta » Feed de comentários para Recanto do Poeta
    » Feed de comentários para Recanto do Poeta » O que é saudade? Veja
@@ -2822,7 +2816,7 @@ Saudade poética: Um caminho lúdico para transformar esse sentimento
    rima, como um gole de sentimento.”
 </text>
 </page> §
-<page="saudade_pt-34">
+<page="saudade_pt-33">
 <text>
      Poemas e poesias de amor
 
@@ -2847,7 +2841,207 @@ Pablo Neruda
      O maior dos sofrimentos é nunca ter sofrido.
 </text>
 </page> §
+<page="saudade_pt-34">
+<text>
+   ____________________
+
+O que e saudade?
+
+   Perguntado por: Erica Patrícia de Fernandes  |  Última atualização: 4.
+--
+   Pontuação: 4.7/5 (15 avaliações)
+
+   Saudade é uma das palavras mais presentes na poesia de amor da língua
+   portuguesa e também na música popular. "Saudade" descreve a mistura dos
+   sentimentos de perda, falta, distância e amor.
+
+Como explicar o que é saudade?
+
+   Saudade é um sentimento causado pela distância ou ausência de algo ou
+   alguém. Tem origem no latim, com o significado de solidão. ... O termo
+   saudade gerou muitos derivados, como saudosismo, e aquele que sente
+   saudades de algo ou alguma coisa, é o saudosista.
+
+Como descrever uma saudade?
+
+   Saudade é um sentimento muito mais forte do que simplesmente sentir
+   falta de alguém. É uma nostalgia profunda, com um carinho gigante. É o
+   sentimento de querer que alguém esteja perto, é um olhar para o passado
+   com amor. É difícil descrever a saudade, mas é tão fácil senti-la.
+
+Quais são os sintomas da saudade?
+
+   13 sinais de que você está com sintomas de saudade
+    1. Você se pega pensando na pessoa várias vezes ao dia. ...
+    2. Parece que tudo te lembra aquela pessoa. ...
+--
+    4. Às vezes é tão forte que chega a doer fisicamente o coração.
+
+Porque a gente sente saudade?
+
+   De acordo com a psicóloga e psicoterapeuta Olga Inês Tessari, saudade é
+   um sentimento que faz parte da natureza humana, que se manifesta em
+   algum momento da vida e está relacionada a pessoas, fatos ou situações
+   vivenciadas no passado. ... A saudade pode ter um significado positivo
+   ou negativo.
+
+o que é saudade?
+
+   IFRAME: https://www.youtube.com/embed/YQJCytWVpyM?feature=oembed
+--
+   44 questões relacionadas encontradas
+
+O que fazer quando você está com saudade de alguém?
+
+   Especialistas dão dicas de como transformar a saudade em algo que pode
+   fazer bem
+    1. 'Tento lembrar deles sempre com alegria' Rosângela Lopes. ...
+--
+    5. Manter a vida normal. ...
+    6. Não se isolar. ...
+    7. Conversar sobre a saudade. ...
+    8. Evitar vícios.
+
+Quando sentir saudades de alguém que amamos?
+
+   A distância faz a gente sentir saudade de quem amamos, mas o tempo e a
+   coragem nos fazem seguir em frente em nossa vida. Dê valor as coisas
+   enquanto as possui. Pois sentir saudade não é motivo suficiente para
+   tê-las de volta. Ando tão cansada de tudo isso, de lembrar como era bom
+   antigamente e sentir saudades.
+
+É possível uma pessoa ficar doente de saudade?
+
+   — Muita gente usa mal o termo saudade, para definir uma lamentação do
+   que não se tem. Quem fica nessa tristeza e apatia pode adoecer
+   fisicamente, porque o organismo começa a sofrer devido à ausência de
+   espírito e vitalidade no corpo.
+
+É possível passar mal de saudade?
+
+   Saudade pode provocar sintomas parecidos aos da crise de abstinência,
+   indica estudo. RIO - Ficar longe da pessoa amada pode provocar
+   sensações semelhantes a da abstinência de drogas.
+--
+   excessivamente carinhosa, pare agora!
+
+Quais tipos de saudade?
+
+   As quatro formas de saudade: presente, nostálgica, magoada e insana.
+
+O que significa saudade amor?
+
+   A saudade é um paradoxo: ao mesmo tempo em que aperta o nosso coração,
+   preenche ele de amor. ... Ao sentir saudade revivemos automaticamente
+   momentos, sensações e sentimentos. Através dela, acessamos todo um
+   passado já vivido e também um futuro que ficou por viver.
+--
+   saudosista.
+
+O que tem de bom na saudade?
+
+   Pesquisadores apontam que a saudade traz conforto e significado para as
+   nossas vidas. Da mesma forma, esse sentimento nostálgico reforça a
+   impressão de que estamos conectados com pessoas, confirmando nossa
+--
+
+   Conheça agora os 7 sinais mais frequentes que um homem dá quando está
+   com saudades.
+    1. Ele te manda mensagem nas redes sociais e no WhatsApp sempre. ...
+    2. Ligações sem motivos. ...
+--
+    6. Ele fala de você para os amigos.
+
+O que a saudade pode causar doenças?
+
+   O sentimento de solidão, que é quando a pessoa está ou se sente só,
+--
+   de sentimento, faça um curso de Psicanálise.
+
+Qual a diferença de sentir saudade e sentir falta?
+
+   Sentir falta é diferente de sentir saudade. A saudade bate, agonia,
+   estremece. ... A saudade é a certeza que a pessoa vai voltar. A falta,
+   é o querer ter de volta, mas saber que não vai ter.
+
+O que significa sentir saudades de uma pessoa?
+
+   É um sentimento de agonia em que, mesmo que a presença ainda esteja
+--
+   criação de mitos.
+
+Qual a diferença entre nostalgia saudade e saudosismo?
+
+   A nostalgia não se resume somente na saudade das pessoas, mas também na
+   saudade dos lugares que um dia moramos, frequentamos e dos bons
+   momentos que foram passados ao lado de pessoas que sentimos falta. ...
+   O saudosista é aquele que quer viver do passado, enquanto o nostálgico,
+--
+   Sentimentalismo ou saudosismo:
+   No romantismo exaltam-se os sentidos e tudo o que é provocado pelo
+   impulso. Certos sentimentos como a saudade (saudosismo), a tristeza, a
+   nostalgia e a desilusão são constantes na obra romântica. Segundo
+   Massaud Moisés no livro “A Literatura Portuguesa”: “…
+</text>
+</page> §
 <page="saudade_pt-35">
+<text>
+     * Guias Secretos
+
+Poemas sobre a saudade, este sentimento tão português
+
+   Não há palavra ou sentimento tão português quanto a saudade.
+
+   Carolina Bessa Carolina Bessa Carolina Bessa • Abril 9, 2020
+--
+   social.
+
+   Nunca a saudade foi tão apertada. Nem sempre podemos estar com a nossa
+   família ou com os nossos amigos e, por vezes, até somos obrigados a
+   ficar em casa.
+
+   A saudade não se explica, sente-se. E hoje, todos os portugueses a
+   sentem da mesma maneira e com a mesma intensidade.
+
+   Este é também um tema recorrente na literatura portuguesa, seja prosa
+   ou poesia. Hoje, por ser Dia Internacional da Poesia, partilhamos
+   alguns poemas sobre a saudade.
+
+   A saudade é um sentimento único e tão bonito. O facto de sentirmos
+   saudade significa que vivemos. E que temos algo bom à nossa espera
+   quando tudo isto passar.
+
+--
+   Que pouco se doíam de seu dano.
+
+   Pois com tamanha mágoa e saudade,
+   (Dizia) quis deixar-me a que eu adoro,
+   Por testemunhas tomo céu e estrelas.
+--
+   Pois assim me levais a causa delas.
+
+Saudade, Mia Couto
+
+   Magoa-me a saudade
+   do sobressalto dos corpos
+   ferindo-se de ternura
+--
+   caindo aos nossos pés
+
+   Magoa-me a saudade
+   do tempo em que te habitava
+   como o sal ocupa o mar
+--
+   Por entre tanta sombra igual a mim!
+
+Tenho Uma Saudade Tão braba, Vitorino Nemésio
+
+   Tenho uma saudade tão braba
+   Da ilha onde já não moro,
+   Que em velho só bebo a baba
+</text>
+</page> §
+<page="saudade_pt-36">
 <text>
    ____________________
 
@@ -2991,206 +3185,6 @@ Qual a diferença entre nostalgia saudade e saudosismo?
 </text>
 </page> §
 <page="saudade_pt-37">
-<text>
-     * Guias Secretos
-
-Poemas sobre a saudade, este sentimento tão português
-
-   Não há palavra ou sentimento tão português quanto a saudade.
-
-   Carolina Bessa Carolina Bessa Carolina Bessa • Abril 9, 2020
---
-   social.
-
-   Nunca a saudade foi tão apertada. Nem sempre podemos estar com a nossa
-   família ou com os nossos amigos e, por vezes, até somos obrigados a
-   ficar em casa.
-
-   A saudade não se explica, sente-se. E hoje, todos os portugueses a
-   sentem da mesma maneira e com a mesma intensidade.
-
-   Este é também um tema recorrente na literatura portuguesa, seja prosa
-   ou poesia. Hoje, por ser Dia Internacional da Poesia, partilhamos
-   alguns poemas sobre a saudade.
-
-   A saudade é um sentimento único e tão bonito. O facto de sentirmos
-   saudade significa que vivemos. E que temos algo bom à nossa espera
-   quando tudo isto passar.
-
---
-   Que pouco se doíam de seu dano.
-
-   Pois com tamanha mágoa e saudade,
-   (Dizia) quis deixar-me a que eu adoro,
-   Por testemunhas tomo céu e estrelas.
---
-   Pois assim me levais a causa delas.
-
-Saudade, Mia Couto
-
-   Magoa-me a saudade
-   do sobressalto dos corpos
-   ferindo-se de ternura
---
-   caindo aos nossos pés
-
-   Magoa-me a saudade
-   do tempo em que te habitava
-   como o sal ocupa o mar
---
-   Por entre tanta sombra igual a mim!
-
-Tenho Uma Saudade Tão braba, Vitorino Nemésio
-
-   Tenho uma saudade tão braba
-   Da ilha onde já não moro,
-   Que em velho só bebo a baba
-</text>
-</page> §
-<page="saudade_pt-38">
-<text>
-   ____________________
-
-O que e saudade?
-
-   Perguntado por: Erica Patrícia de Fernandes  |  Última atualização: 4.
---
-   Pontuação: 4.7/5 (15 avaliações)
-
-   Saudade é uma das palavras mais presentes na poesia de amor da língua
-   portuguesa e também na música popular. "Saudade" descreve a mistura dos
-   sentimentos de perda, falta, distância e amor.
-
-Como explicar o que é saudade?
-
-   Saudade é um sentimento causado pela distância ou ausência de algo ou
-   alguém. Tem origem no latim, com o significado de solidão. ... O termo
-   saudade gerou muitos derivados, como saudosismo, e aquele que sente
-   saudades de algo ou alguma coisa, é o saudosista.
-
-Como descrever uma saudade?
-
-   Saudade é um sentimento muito mais forte do que simplesmente sentir
-   falta de alguém. É uma nostalgia profunda, com um carinho gigante. É o
-   sentimento de querer que alguém esteja perto, é um olhar para o passado
-   com amor. É difícil descrever a saudade, mas é tão fácil senti-la.
-
-Quais são os sintomas da saudade?
-
-   13 sinais de que você está com sintomas de saudade
-    1. Você se pega pensando na pessoa várias vezes ao dia. ...
-    2. Parece que tudo te lembra aquela pessoa. ...
---
-    4. Às vezes é tão forte que chega a doer fisicamente o coração.
-
-Porque a gente sente saudade?
-
-   De acordo com a psicóloga e psicoterapeuta Olga Inês Tessari, saudade é
-   um sentimento que faz parte da natureza humana, que se manifesta em
-   algum momento da vida e está relacionada a pessoas, fatos ou situações
-   vivenciadas no passado. ... A saudade pode ter um significado positivo
-   ou negativo.
-
-o que é saudade?
-
-   IFRAME: https://www.youtube.com/embed/YQJCytWVpyM?feature=oembed
---
-   44 questões relacionadas encontradas
-
-O que fazer quando você está com saudade de alguém?
-
-   Especialistas dão dicas de como transformar a saudade em algo que pode
-   fazer bem
-    1. 'Tento lembrar deles sempre com alegria' Rosângela Lopes. ...
---
-    5. Manter a vida normal. ...
-    6. Não se isolar. ...
-    7. Conversar sobre a saudade. ...
-    8. Evitar vícios.
-
-Quando sentir saudades de alguém que amamos?
-
-   A distância faz a gente sentir saudade de quem amamos, mas o tempo e a
-   coragem nos fazem seguir em frente em nossa vida. Dê valor as coisas
-   enquanto as possui. Pois sentir saudade não é motivo suficiente para
-   tê-las de volta. Ando tão cansada de tudo isso, de lembrar como era bom
-   antigamente e sentir saudades.
-
-É possível uma pessoa ficar doente de saudade?
-
-   — Muita gente usa mal o termo saudade, para definir uma lamentação do
-   que não se tem. Quem fica nessa tristeza e apatia pode adoecer
-   fisicamente, porque o organismo começa a sofrer devido à ausência de
-   espírito e vitalidade no corpo.
-
-É possível passar mal de saudade?
-
-   Saudade pode provocar sintomas parecidos aos da crise de abstinência,
-   indica estudo. RIO - Ficar longe da pessoa amada pode provocar
-   sensações semelhantes a da abstinência de drogas.
---
-   excessivamente carinhosa, pare agora!
-
-Quais tipos de saudade?
-
-   As quatro formas de saudade: presente, nostálgica, magoada e insana.
-
-O que significa saudade amor?
-
-   A saudade é um paradoxo: ao mesmo tempo em que aperta o nosso coração,
-   preenche ele de amor. ... Ao sentir saudade revivemos automaticamente
-   momentos, sensações e sentimentos. Através dela, acessamos todo um
-   passado já vivido e também um futuro que ficou por viver.
---
-   saudosista.
-
-O que tem de bom na saudade?
-
-   Pesquisadores apontam que a saudade traz conforto e significado para as
-   nossas vidas. Da mesma forma, esse sentimento nostálgico reforça a
-   impressão de que estamos conectados com pessoas, confirmando nossa
---
-
-   Conheça agora os 7 sinais mais frequentes que um homem dá quando está
-   com saudades.
-    1. Ele te manda mensagem nas redes sociais e no WhatsApp sempre. ...
-    2. Ligações sem motivos. ...
---
-    6. Ele fala de você para os amigos.
-
-O que a saudade pode causar doenças?
-
-   O sentimento de solidão, que é quando a pessoa está ou se sente só,
---
-   de sentimento, faça um curso de Psicanálise.
-
-Qual a diferença de sentir saudade e sentir falta?
-
-   Sentir falta é diferente de sentir saudade. A saudade bate, agonia,
-   estremece. ... A saudade é a certeza que a pessoa vai voltar. A falta,
-   é o querer ter de volta, mas saber que não vai ter.
-
-O que significa sentir saudades de uma pessoa?
-
-   É um sentimento de agonia em que, mesmo que a presença ainda esteja
---
-   criação de mitos.
-
-Qual a diferença entre nostalgia saudade e saudosismo?
-
-   A nostalgia não se resume somente na saudade das pessoas, mas também na
-   saudade dos lugares que um dia moramos, frequentamos e dos bons
-   momentos que foram passados ao lado de pessoas que sentimos falta. ...
-   O saudosista é aquele que quer viver do passado, enquanto o nostálgico,
---
-   Sentimentalismo ou saudosismo:
-   No romantismo exaltam-se os sentidos e tudo o que é provocado pelo
-   impulso. Certos sentimentos como a saudade (saudosismo), a tristeza, a
-   nostalgia e a desilusão são constantes na obra romântica. Segundo
-   Massaud Moisés no livro “A Literatura Portuguesa”: “…
-</text>
-</page> §
-<page="saudade_pt-39">
 <text>
    #Feed de comentários para Vida Simples » Saudade não precisa doer
    alternate alternate alternate
@@ -3351,6 +3345,207 @@ O presente de viver o presente
        corpo? Ela é diferente de saudade? O que te faz sentir isso? A Vida
        Simples te explica e convida […]
      * viajar comeer
+</text>
+</page> §
+<page="saudade_pt-38">
+<text>
+   Autoconhecimento • Psicologia
+
+O que a psicologia diz sobre a saudade?
+
+   7 min de leitura
+   1 ano atrás
+   Pedras amarelas com letras que representam a palavra saudade.
+   ciaobucarest / 123rf
+   [eu-sem-fronteiras-logo-150x150.jpg]
+   Escrito por Eu Sem Fronteiras
+
+   Saudade… palavra que só existe no nosso idioma. Não há tradução para o
+   termo. Em outros idiomas, há várias expressões correspondentes, mas,
+   fazendo o caminho de volta (das outras línguas para a nossa), essas
+   expressões ganharão outras traduções, criando um sem-fim de
+   significados, mas que não chegam exatamente à palavra “saudade” em si.
+
+   Isso quer dizer, então, que não existe saudade em outros países?
+   Obviamente há, o problema é apenas lexical, mas o sentimento… Ah! O
+   sentimento não só existe, como mexe, e muito, com o nosso coração. Às
+   vezes, a saudade dói tanto que dá até pra achar que é o único
+   sentimento palpável.
+
+   No entanto não só sentimos saudade que dói. Ela pode ser uma sensação
+   gostosa, aquela nostalgia que nos remete a tempos em que fomos felizes
+   e que guardamos em nossos corações com alegria e realização.
+
+Mas, afinal, o que é a saudade?
+
+   Um homem idoso olhando um porta-retrato. Um homem idoso olhando um
+   porta-retrato. Kindel Media / Pexels / Eu Sem Fronteiras
+
+   A despeito das comparações idiomáticas, podemos definir a saudade como
+   um sentimento evocatório causado pela lembrança de uma experiência boa
+   ou pela ausência de pessoas queridas ou coisas que prezamos.
+--
+   É uma definição de dicionário, é claro. Para cada um que a sente, a
+   definição tem um sabor particular. E isso também tem a ver com a forma
+   como enxergamos a vida. Ainda que a saudade esteja associada àquela
+   nostalgia boa de um passado agradável, nossa relação com o “sentir”
+   pode ser positiva ou negativa.
+--
+Com a palavra, a psicologia
+
+   A ciência também se incumbiu de estudar a saudade, sobretudo as causas
+   e os efeitos dela em nosso organismo. Claramente os resultados não são
+   precisos, pois estamos falando de emoções, um terreno complexo para a
+--
+   Apesar de a ausência da pessoa e dos momentos vividos ser algo que, em
+   primeiro momento, nos causa um turbilhão de emoções e desequilíbrios, à
+   medida que vamos nos recuperando, a saudade funciona como um mecanismo
+   de defesa, conciliando nosso vínculo com o passado, o momento presente
+   e o futuro.
+--
+   Pexels / Eu Sem Fronteiras
+
+   Para a psicanálise, a saudade é um sentimento positivo, capaz de
+   estimular a memória e a sensibilidade. No campo da psicologia, há
+   vários estudos abordando as questões afirmativas desse sentimento, como
+--
+
+   Um estudo em psicologia, conduzido pela Universidade de Southampton
+   (Reino Unido), afirma que a saudade funciona como uma resposta
+   imunológica psicológica. Em parte, ela ajuda a promover a
+   autocontinuidade, aumentando nosso senso de pertencimento.
+
+A saudade como um elo
+
+   A saudade é uma forma de nos mantermos conectados a experiências que
+   nos fizeram bem. Mais do que isso, ela nos ajuda a construir um elo com
+   o passado. Aquela pessoa especial que passou por nossas vidas, aquele
+--
+   ficar.
+
+   Dessa forma, a saudade passa a se tornar algo prejudicial à nossa saúde
+   emocional e física. Entre os distúrbios mais comuns que podem advir
+   desse “excesso” de saudade, podemos citar a angústia, a tristeza, a
+   apatia, a solidão (tanto a sensação quanto o desejo de estar só),
+   podendo até haver relação com depressão e ansiedade.
+
+E como lidar com a saudade que dói?
+
+   A saudade é algo que nos mantém vivos e conectados com o legado de
+   nossa existência. É por meio dela que revivemos nossos antepassados,
+   que celebramos aquilo que somos e as heranças emocionais que recebemos.
+
+   Mesmo a saudade que dói é uma forma de nos manter “guardados” no
+   acolhimento das experiências que nos foram boas. Mas, como explicado
+   acima, não é saudável se apegar de uma forma negativa ao que passou.
+--
+   Productions / Pexels
+
+   E então, como lidar com essa saudade dolorida? Em primeiro lugar,
+   precisamos focar o presente – aquela máxima de viver o agora, pois ele
+   é a nossa única realidade. Deixar o passado no passado, como uma boa
+--
+   para nos impulsionar para frente, não para nos estagnar.
+
+Mas se a saudade apertar, aqui vão algumas dicas:
+
+     * Não retenha as emoções: pode colocar pra fora, chorando ou se
+--
+       vida. Ela ajuda a resolver quase todos os problemas que mexem com
+       nossas emoções.
+     * Reviva o que for possível: se você sente saudade de um lugar que
+       visitou, um prato que saboreou… por que não fazer isso de novo?
+       Revisite esse local, prepare o cardápio. Vale a pena se sentir bem!
+--
+     * Entenda o poder da nostalgia e de seus efeitos em nossas vidas
+
+   A saudade, na dose certa, ajuda a aquecer nossos corações, aproxima-nos
+   de coisas e pessoas que nos são caras, causa sensação de bem-estar e
+   nos conecta aos outros e a nós mesmos. Permita-se sentir saudade, mas
+   saiba que você ainda tem muita vida pela frente e muitos momentos para
+   construir e que criarão novas lembranças.
+   (BUTTON) COMENTÁRIOS
+
+   convivendo equilíbrio psicologia reflexão saudade sentimentos
+       WhatsAppFacebookTwitter
+</text>
+</page> §
+<page="saudade_pt-39">
+<text>
+   #Feed de comentários de DM » Saudade e saudosismo alternate alternate
+
+   [svg%3E] [botao_close_search.png]
+--
+   [svg%3E] [opiniao_aspas2.png]
+
+Saudade e saudosismo
+
+   30 Dez 2021
+--
+     __________________________________________________________________
+
+   Saudade… sentimento que a língua portuguesa criou e mantém e que não é
+   de fácil tradução para qualquer outra língua numa só palavra.
+
+   Saudade é mais do que nostalgia ou sentimento de uma perda de alguém ou
+   de alguma vivência.
+
+   Saudade é viagem do coração que começa no aqui e agora e nos encaminha
+   para o passado e nos torna presentes pessoas, terras, alimentos ou
+   canções. Temos, quase todos, saudades da nossa Mãe que já partiu ou do
+   Pai que também já não temos entre nós fisicamente. Temos saudades de um
+   determinado alimento confeccionado por alguém, temos saudades das
+   brincadeiras da infância ou temos saudades de um estilo de vida… Temos
+   saudades de tantas e tantas pessoas, acontecimentos ou coisas! E, no
+   meu pobre entender, que não sou filósofo, ter saudades é saudável. A
+   saudade alimenta-nos a memória do passado que nos foi tornando no que
+   somos hoje e do muito que hoje vivemos, iremos ter saudades amanhã.
+
+   A saudade não é paralisante. Não nos bloqueia. Não impede que
+   progridamos no caminho que no agora se vai abrindo para o futuro.
+
+   Ter saudades é humanizante e só os humanos têm saudades.
+
+   Quantas vezes, cada um de nós, que não esteja amnésico, diz que tem
+   saudades de tantos e tantos episódios da sua vida, de pessoas com quem
+   se cruzou, de estilos de vida como viveu… Ter saudades não é doença.
+   Ter saudades é vida, é sinal vital. Ter saudades é bom do bom que
+   passou e não volta. Ter saudades alimenta-nos, como carburante de um
+   motor que a vida é. Alguém poderá viver sem saudades? Creio que não!
+
+   …E o saudosismo? Bem, aí já tudo é diferente. É uma ideologia que
+--
+   iluminados” atacam quem não pensa como eles que ilusoriamente querem
+   esquecer o passado, como tempo perverso e onde e de onde nada vem de
+   bom. É insulto para paralisar e amedrontar ou calar quem tem saudades,
+   mas não vive (nem pode viver) no passado mas que recorda com nostalgia
+   o bom que o passado tem ou de que mais gostava. Creio que ninguém terá
+   saudades do mal, dos maus momentos, do horrível e destroçador. Quem tem
+   saudades não é um doente nem sofre de uma patologia que precisa de
+   cuidar e tratar. Só tem saudades quem vive.
+
+   Quantas vezes, eu já ouvi muitas vezes, muitas pessoas que insultam
+--
+   deveria ter “ tento na língua”! Não é maneira de chamar velho a quem
+   não segue os “diktat” que enxameiam as suas cabeças? E eu conheço
+   tantos jovens que não têm saudades , pois a sua idade não lhes permitiu
+   viver aquilo de que gostam e apreciam e que, de todo, não os remete
+   para esse passado não vivido. Gostam, apreciam e defendem paradigmas
+--
+   inúmeros exemplos do uso do insulto “saudosista”. Mas não gosto de ser
+   apodado (e tenho-o sido) de saudosista, insulto que me incomoda muito
+   pois, se tenho saudades ( e tenho muitas) não sou um velho doente que
+   lamenta viver no hoje doente e “gasoso” e que me inquieta
+   profundamente. Sim, tenho saudades. Muitas. Sinto-me ofendido de ser
+   insultado de saudosista e tenho dificuldade em perdoar este insulto que
+   está cheio de veneno e é proferido por bocas que pensam ser melífluas.
+--
+   agressivo e falho de argumentos por parte de quem não quer ver e
+   compreender o caos em que se vive. O chavão “saudosista” é senha para
+   nos calarmos com medo, não duvide caro leitor. Tenha saudades! Diga que
+   as tem e não tenha medo. Viva no hoje com saudades. Faz-lhe bem.
+     __________________________________________________________________
+     __________________________________________________________________
 </text>
 </page> §
 <page="saudade_pt-3">
@@ -3535,207 +3730,6 @@ Referências
 </page> §
 <page="saudade_pt-40">
 <text>
-   Autoconhecimento • Psicologia
-
-O que a psicologia diz sobre a saudade?
-
-   7 min de leitura
-   1 ano atrás
-   Pedras amarelas com letras que representam a palavra saudade.
-   ciaobucarest / 123rf
-   [eu-sem-fronteiras-logo-150x150.jpg]
-   Escrito por Eu Sem Fronteiras
-
-   Saudade… palavra que só existe no nosso idioma. Não há tradução para o
-   termo. Em outros idiomas, há várias expressões correspondentes, mas,
-   fazendo o caminho de volta (das outras línguas para a nossa), essas
-   expressões ganharão outras traduções, criando um sem-fim de
-   significados, mas que não chegam exatamente à palavra “saudade” em si.
-
-   Isso quer dizer, então, que não existe saudade em outros países?
-   Obviamente há, o problema é apenas lexical, mas o sentimento… Ah! O
-   sentimento não só existe, como mexe, e muito, com o nosso coração. Às
-   vezes, a saudade dói tanto que dá até pra achar que é o único
-   sentimento palpável.
-
-   No entanto não só sentimos saudade que dói. Ela pode ser uma sensação
-   gostosa, aquela nostalgia que nos remete a tempos em que fomos felizes
-   e que guardamos em nossos corações com alegria e realização.
-
-Mas, afinal, o que é a saudade?
-
-   Um homem idoso olhando um porta-retrato. Um homem idoso olhando um
-   porta-retrato. Kindel Media / Pexels / Eu Sem Fronteiras
-
-   A despeito das comparações idiomáticas, podemos definir a saudade como
-   um sentimento evocatório causado pela lembrança de uma experiência boa
-   ou pela ausência de pessoas queridas ou coisas que prezamos.
---
-   É uma definição de dicionário, é claro. Para cada um que a sente, a
-   definição tem um sabor particular. E isso também tem a ver com a forma
-   como enxergamos a vida. Ainda que a saudade esteja associada àquela
-   nostalgia boa de um passado agradável, nossa relação com o “sentir”
-   pode ser positiva ou negativa.
---
-Com a palavra, a psicologia
-
-   A ciência também se incumbiu de estudar a saudade, sobretudo as causas
-   e os efeitos dela em nosso organismo. Claramente os resultados não são
-   precisos, pois estamos falando de emoções, um terreno complexo para a
---
-   Apesar de a ausência da pessoa e dos momentos vividos ser algo que, em
-   primeiro momento, nos causa um turbilhão de emoções e desequilíbrios, à
-   medida que vamos nos recuperando, a saudade funciona como um mecanismo
-   de defesa, conciliando nosso vínculo com o passado, o momento presente
-   e o futuro.
---
-   Pexels / Eu Sem Fronteiras
-
-   Para a psicanálise, a saudade é um sentimento positivo, capaz de
-   estimular a memória e a sensibilidade. No campo da psicologia, há
-   vários estudos abordando as questões afirmativas desse sentimento, como
---
-
-   Um estudo em psicologia, conduzido pela Universidade de Southampton
-   (Reino Unido), afirma que a saudade funciona como uma resposta
-   imunológica psicológica. Em parte, ela ajuda a promover a
-   autocontinuidade, aumentando nosso senso de pertencimento.
-
-A saudade como um elo
-
-   A saudade é uma forma de nos mantermos conectados a experiências que
-   nos fizeram bem. Mais do que isso, ela nos ajuda a construir um elo com
-   o passado. Aquela pessoa especial que passou por nossas vidas, aquele
---
-   ficar.
-
-   Dessa forma, a saudade passa a se tornar algo prejudicial à nossa saúde
-   emocional e física. Entre os distúrbios mais comuns que podem advir
-   desse “excesso” de saudade, podemos citar a angústia, a tristeza, a
-   apatia, a solidão (tanto a sensação quanto o desejo de estar só),
-   podendo até haver relação com depressão e ansiedade.
-
-E como lidar com a saudade que dói?
-
-   A saudade é algo que nos mantém vivos e conectados com o legado de
-   nossa existência. É por meio dela que revivemos nossos antepassados,
-   que celebramos aquilo que somos e as heranças emocionais que recebemos.
-
-   Mesmo a saudade que dói é uma forma de nos manter “guardados” no
-   acolhimento das experiências que nos foram boas. Mas, como explicado
-   acima, não é saudável se apegar de uma forma negativa ao que passou.
---
-   Productions / Pexels
-
-   E então, como lidar com essa saudade dolorida? Em primeiro lugar,
-   precisamos focar o presente – aquela máxima de viver o agora, pois ele
-   é a nossa única realidade. Deixar o passado no passado, como uma boa
---
-   para nos impulsionar para frente, não para nos estagnar.
-
-Mas se a saudade apertar, aqui vão algumas dicas:
-
-     * Não retenha as emoções: pode colocar pra fora, chorando ou se
---
-       vida. Ela ajuda a resolver quase todos os problemas que mexem com
-       nossas emoções.
-     * Reviva o que for possível: se você sente saudade de um lugar que
-       visitou, um prato que saboreou… por que não fazer isso de novo?
-       Revisite esse local, prepare o cardápio. Vale a pena se sentir bem!
---
-     * Entenda o poder da nostalgia e de seus efeitos em nossas vidas
-
-   A saudade, na dose certa, ajuda a aquecer nossos corações, aproxima-nos
-   de coisas e pessoas que nos são caras, causa sensação de bem-estar e
-   nos conecta aos outros e a nós mesmos. Permita-se sentir saudade, mas
-   saiba que você ainda tem muita vida pela frente e muitos momentos para
-   construir e que criarão novas lembranças.
-   (BUTTON) COMENTÁRIOS
-
-   convivendo equilíbrio psicologia reflexão saudade sentimentos
-       WhatsAppFacebookTwitter
-</text>
-</page> §
-<page="saudade_pt-41">
-<text>
-   #Feed de comentários de DM » Saudade e saudosismo alternate alternate
-
-   [svg%3E] [botao_close_search.png]
---
-   [svg%3E] [opiniao_aspas2.png]
-
-Saudade e saudosismo
-
-   30 Dez 2021
---
-     __________________________________________________________________
-
-   Saudade… sentimento que a língua portuguesa criou e mantém e que não é
-   de fácil tradução para qualquer outra língua numa só palavra.
-
-   Saudade é mais do que nostalgia ou sentimento de uma perda de alguém ou
-   de alguma vivência.
-
-   Saudade é viagem do coração que começa no aqui e agora e nos encaminha
-   para o passado e nos torna presentes pessoas, terras, alimentos ou
-   canções. Temos, quase todos, saudades da nossa Mãe que já partiu ou do
-   Pai que também já não temos entre nós fisicamente. Temos saudades de um
-   determinado alimento confeccionado por alguém, temos saudades das
-   brincadeiras da infância ou temos saudades de um estilo de vida… Temos
-   saudades de tantas e tantas pessoas, acontecimentos ou coisas! E, no
-   meu pobre entender, que não sou filósofo, ter saudades é saudável. A
-   saudade alimenta-nos a memória do passado que nos foi tornando no que
-   somos hoje e do muito que hoje vivemos, iremos ter saudades amanhã.
-
-   A saudade não é paralisante. Não nos bloqueia. Não impede que
-   progridamos no caminho que no agora se vai abrindo para o futuro.
-
-   Ter saudades é humanizante e só os humanos têm saudades.
-
-   Quantas vezes, cada um de nós, que não esteja amnésico, diz que tem
-   saudades de tantos e tantos episódios da sua vida, de pessoas com quem
-   se cruzou, de estilos de vida como viveu… Ter saudades não é doença.
-   Ter saudades é vida, é sinal vital. Ter saudades é bom do bom que
-   passou e não volta. Ter saudades alimenta-nos, como carburante de um
-   motor que a vida é. Alguém poderá viver sem saudades? Creio que não!
-
-   …E o saudosismo? Bem, aí já tudo é diferente. É uma ideologia que
---
-   iluminados” atacam quem não pensa como eles que ilusoriamente querem
-   esquecer o passado, como tempo perverso e onde e de onde nada vem de
-   bom. É insulto para paralisar e amedrontar ou calar quem tem saudades,
-   mas não vive (nem pode viver) no passado mas que recorda com nostalgia
-   o bom que o passado tem ou de que mais gostava. Creio que ninguém terá
-   saudades do mal, dos maus momentos, do horrível e destroçador. Quem tem
-   saudades não é um doente nem sofre de uma patologia que precisa de
-   cuidar e tratar. Só tem saudades quem vive.
-
-   Quantas vezes, eu já ouvi muitas vezes, muitas pessoas que insultam
---
-   deveria ter “ tento na língua”! Não é maneira de chamar velho a quem
-   não segue os “diktat” que enxameiam as suas cabeças? E eu conheço
-   tantos jovens que não têm saudades , pois a sua idade não lhes permitiu
-   viver aquilo de que gostam e apreciam e que, de todo, não os remete
-   para esse passado não vivido. Gostam, apreciam e defendem paradigmas
---
-   inúmeros exemplos do uso do insulto “saudosista”. Mas não gosto de ser
-   apodado (e tenho-o sido) de saudosista, insulto que me incomoda muito
-   pois, se tenho saudades ( e tenho muitas) não sou um velho doente que
-   lamenta viver no hoje doente e “gasoso” e que me inquieta
-   profundamente. Sim, tenho saudades. Muitas. Sinto-me ofendido de ser
-   insultado de saudosista e tenho dificuldade em perdoar este insulto que
-   está cheio de veneno e é proferido por bocas que pensam ser melífluas.
---
-   agressivo e falho de argumentos por parte de quem não quer ver e
-   compreender o caos em que se vive. O chavão “saudosista” é senha para
-   nos calarmos com medo, não duvide caro leitor. Tenha saudades! Diga que
-   as tem e não tenha medo. Viva no hoje com saudades. Faz-lhe bem.
-     __________________________________________________________________
-     __________________________________________________________________
-</text>
-</page> §
-<page="saudade_pt-42">
-<text>
 
    Início Português na 1.ª pessoa O nosso idioma Artigo
    Algumas curiosidades da palavra saudade
@@ -3827,7 +3821,7 @@ Saudade e saudosismo
        Consultório - 1998-12-24
 </text>
 </page> §
-<page="saudade_pt-43">
+<page="saudade_pt-41">
 <text>
     2. Bem-estar
 
@@ -3904,7 +3898,7 @@ Sentir saudade ou lembrar?
    pensamentos. Por exemplo, não fazer coisas que possam trazer à mente o
 </text>
 </page> §
-<page="saudade_pt-44">
+<page="saudade_pt-42">
 <text>
    REFRESH(420 sec):
    https://www.diariodepernambuco.com.br/noticia/opiniao/2020/01/saudade.h
@@ -3986,7 +3980,7 @@ Sentir saudade ou lembrar?
    MAIS NOTCIAS DO CANAL
 </text>
 </page> §
-<page="saudade_pt-46">
+<page="saudade_pt-43">
 <text>
    [ ]
 
@@ -4190,7 +4184,7 @@ III- A Expressão do Amor e da Saudade na Lírica de Camões
      * Camões
 </text>
 </page> §
-<page="saudade_pt-47">
+<page="saudade_pt-44">
 <text>
      *
 
@@ -4204,7 +4198,7 @@ III- A Expressão do Amor e da Saudade na Lírica de Camões
 --
 </text>
 </page> §
-<page="saudade_pt-48">
+<page="saudade_pt-45">
 <text>
    CuriosidadesCulturaNotícias
 
@@ -4264,6 +4258,241 @@ Como expressar saudade em outras línguas?
    [INS: :INS]
    LínguaLíngua PortuguesaSaudadeTradução
    Compartilhar
+</text>
+</page> §
+<page="saudade_pt-46">
+<text>
+     II Premios #MaríaLuzMorales | Falamos con… Fernando Redondo (Ames,
+     1971) que gañou o premio ao mellor Ensaio Escrito Audiovisual
+     Internacional con 'Latexos de Saudade no Cinema'. No traballo propón
+     unha análise de senllos filmes moi diferentes entre si, 'Dublineses'
+     (John Huston, 1987) e 'A cidade das estrelas. La La Land' (Damien
+     Chazelle, 2016), pero que comparten unha mesma expresión
+     cinematográfica da saudade. ➡ Podedes ler a peza aquí:
+     https://bit.ly/2MzbtaX[📽 Chiripa]
+     Posted by Academia Galega do Audiovisual on Monday, August 27, 2018
+     __________________________________________________________________
+
+Latexos de saudade no cinema﻿
+
+   Un filme musical de Hollywood de 2016, de amplo recoñecemento público,
+--
+   que reclamaba do interlocutor de tal relato reflexións, tamén, de
+   morte, acompañado todo dunha lúcida consciencia do tempo que pasa. De
+   que nos están a falar ambas as dúas secuencias? É quizais a saudade o
+   que une os finais de senllos relatos fílmicos que rematan con esta
+   última invocación a un sentimento de perda, de ausencia, de baleiro?
+
+   Para sabermos de que falamos cando falamos de saudade, cómpre ir case
+   de maneira obrigada ao que deixou escrito Ramón Piñeiro: “Un eco de
+   algo, sentimento sen obxecto, o puro decorrer espontáneo do sentimento
+   ceibe de toda relación co pensamento e a vontade” (1). O cerco
+   conceptual, tratando de acoutar ata onde chega o despregue semántico da
+   saudade, vai parar finalmente aquí: “É o sentimento de soidade
+   ontolóxica do home, a voz da intimidade humana” (2). Ao seu carón van
+   comparecendo sentimentos afíns, como os da morriña, a melancolía, a
+   añoranza ou a soidade. A nota máis constante da saudade será, ao cabo,
+   a relacionada co amor e coa ausencia. Será, daquela, a saudade a
+   conciencia doorosa dunha vida que se desexou vivir? Dúas películas tan
+   distintas entre si como as mencionadas tratan disto, e disto vai a
+--
+   Se seguimos o fío do pensamento do que vai tirando Piñeiro, atopamos
+   nalgún tramo a figura de Teixeira de Pascoaes, E de aquí xorde
+   necesariamente o alento poético que desprende o sentimento da saudade,
+   da que interesa suliñar o que el chama “índole musical do Ser”, e que
+   tan certeiramente ven exposto na obra de Rosalía de Castro, ben
+--
+   posible, xa que logo, ir alén do que a percepción primeira do real nos
+   dá a saber. Cabería dicir algo semellante do cinema, para xunguilo así
+   a esa cadea na que se xuntan a saudade, a poesía, a música e o
+   coñecemento? Non o menciona Pascoaes, mais atendamos ao seguinte: “O
+   son é luz ouvida, como a luz é son visível; (…) E há apenas luz e son,
+--
+   corazón”,  que cando o arrincou “soupén só que non sei que me faltaba/
+   en donde o cravo faltou/ e seica… seica tiven soidades”. Este mesmo
+   cravo da saudade vaino empregar Antonio Machado naquel poema que comeza
+   co “Yo voy soñando caminos/de la tarde (…)”, onde a tarde ven cargada
+   con esa significación tan característica do solpor como punto final de
+--
+   lembra dos mortos,/si inda non poden recordarse os vivos?” (7).
+
+   Emerxe aquí a saudade por un amor que non puido ser e que se traslada
+   ao espectador a través do relato de Gretta, prescindindo dun posible
+   flashback co que ben se puido pór en imaxes e que, ao cabo, se queda na
+--
+   reflexión de Gabriel, a quen escoitamos ao tempo que vemos o froito do
+   seu pensamento. Aínda que non o sabía ata este momento, tamén el
+   acubilla na súa alma unha forma posible de saudade, a de non ter vivido
+   nin experimentado nin sentido esa ferida que xa acompaña para sempre á
+   súa compañeira, por moito que se mantivera adurmiñada á espera de que
+   unha simple canción a espertara de novo.
+
+   Gabriel acaba descubríndose a si mesmo como preso desta saudade que a
+   súa muller lle pón diante dos ollos, se é permitida tal redundancia,
+   pois vaise manifestar a través dunha serie de visións que achegan a
+--
+   mundo es movilizada por la conciencia melancólica de Conroy (…)” (8).
+
+   Teixeira de Pascoaes aseguraba que a Saudade era Atlántica, non
+   Mediterránea, pensando, sen dúbida, na tradición cultural greco-latina
+   da que buscaba diferenciarse, mais tamén afirmaba a súa universalidade,
+--
+   aboiando no ar o desenlace deste filme, como acontecía en Dublineses.
+   Porén, a diferencia do título de Huston, o de Chazelle si pón en imaxes
+   o que naquel era só relato oral: a saudade dunha vida que non puido
+   ser. En todo o demais, hai semellanzas ben evidentes. De primeiras, a
+   música como dinamizadora de emocións que, para o caso, deveñen en
+--
+   derivarse a melancolía, estado de tristura que se fai acompañar dunha
+   compoñente de reflexión (que, á súa vez, tamén precisa dunha certa
+   distancia emocional) e que, ao cabo, ven a parar á saudade, esa sorte
+   de felicidade perdida que aínda alenta no interior de quen a sente.
+
+--
+   movéndose por escenarios igualmente ateigados de brillo e luminosidade.
+   Xa que nos vimos movendo no terreo do romanticismo literario, e no dos
+   sentimentos de melancolía e saudade, tristura e pesar fondo e lúcido do
+   propio existir, neste segmento de La La Land, o que se pón en imaxes é,
+   certamente, un romanticismo bastante estereotipado, aquel que deriva
+--
+   familiar, sendo neste caso, máis ben, unha memoria inventada,
+   imaxinada, desexada e que conduce, á súa vez, a unha melancólica
+   saudade.
+
+   Desta particular modalidade fílmica, o cinema familiar, pode asegurarse
+--
+   pois permítenlle construírse esta materialización visual dunha
+   experiencia inexistente, esta distancia reflexiva da que se provee
+   tamén a saudade, que non se limita a un estéril sentimento de
+   señardade. Sentada naquel club de jazz, a protagonista está asistindo á
+   película da súa vida, a que ela mesma conforma na súa imaxinación
+--
+Notas
+
+    1. Ramón Piñeiro (2001). Filosofía da Saudade. A Coruña: La Voz de
+       Galicia/Galaxia. P. 36.
+    2. Ibídem. P. 42.
+    3. Teixeira de Pascoaes (1988), A saudade e o saudosismo(dispersos e
+       opúsculos). Lisboa: Assirio &amp; Alvim. P. 236.
+    4.  Ibídem. P. 244.
+</text>
+</page> §
+<page="saudade_pt-47">
+<text>
+   #OBarrete » Feed OBarrete » Feed de comentários Feed de comentários de
+   OBarrete » A saudade do cinema alternate alternate alternate
+
+Menu
+--
+   OBarrete
+
+A saudade do cinema
+
+   Tiago Ferreira
+--
+   5 de Novembro de 2020
+
+   O encontro que se faz com o grande ecrã é de uma saudade e nostalgia
+   pura, imediata, mítica e até, dentro da espontaneidade, uma experiência
+   absurda. Porque o contacto que se estabelece é de tal forma pessoal que
+--
+   uma nova necessidade.
+
+   A saudade é um tema que pode vir antes, durante e depois de ver um
+   filme. A saudade por vezes é o que nos leva a revisitar certas obras, a
+   descobri-las melhor, a magicar significados encobertos,
+   intencionalmente escondidos para elevar. Durante há toda uma
+--
+   representam.
+
+   Saudade após a visualização da película, numa perspetiva mais acertada
+   enquanto nostalgia, é quando a obra é tão forte e diferente que fica
+   difícil permanecer indiferente ao que foi experienciado. Isto tudo é um
+--
+   Aqui a memória tem, portanto, um papel significativo e, claro, é o
+   mecanismo necessário e suficiente para revisitar e moldar sentimentos e
+   emoções. Por isso, podemos dizer até que o cinema tem na saudade o auge
+   da sua essência, porque se pudéssemos dividir a experiência em três
+   atos, a palavra tão bela e portuguesa como é “saudade” teria na sua
+   índole o mote da sétima arte como manifestação à parte, como motivo
+   para nos orgulharmos de sentirmos vazios infinitos em nós e em ser isso
+--
+   faz sentir (conforto).
+
+   O verdadeiro conforto da saudade está em mantermo-nos ligados e abertos
+   a um novo mundo de significação e de aventura. Para lá chegar, é
+   preciso ser humilde e olhar para o passado com os olhos de quem se
+   orgulha ter vivido um filme.
+
+   Porque a saudade não ocupa lugar… a menos que não a ficcionemos.
+
+   Vale a pena pensar nisto.
+--
+       IFRAME:
+       https://www.reddit.com/static/button/button1.html?newwindow=true&amp;wi
+       dth=120&amp;url=https%3A%2F%2Fobarrete.com%2F2020%2F11%2F05%2Fa-saudade
+       -do-cinema%2F&amp;title=A%20saudade%20do%20cinema
+
+     * Share on Tumblr
+</text>
+</page> §
+<page="saudade_pt-48">
+<text>
+   #OBarrete » Feed OBarrete » Feed de comentários Feed de comentários de
+   OBarrete » A saudade do cinema alternate alternate alternate
+
+Menu
+--
+   OBarrete
+
+A saudade do cinema
+
+   Tiago Ferreira
+--
+   5 de Novembro de 2020
+
+   O encontro que se faz com o grande ecrã é de uma saudade e nostalgia
+   pura, imediata, mítica e até, dentro da espontaneidade, uma experiência
+   absurda. Porque o contacto que se estabelece é de tal forma pessoal que
+--
+   uma nova necessidade.
+
+   A saudade é um tema que pode vir antes, durante e depois de ver um
+   filme. A saudade por vezes é o que nos leva a revisitar certas obras, a
+   descobri-las melhor, a magicar significados encobertos,
+   intencionalmente escondidos para elevar. Durante há toda uma
+--
+   representam.
+
+   Saudade após a visualização da película, numa perspetiva mais acertada
+   enquanto nostalgia, é quando a obra é tão forte e diferente que fica
+   difícil permanecer indiferente ao que foi experienciado. Isto tudo é um
+--
+   Aqui a memória tem, portanto, um papel significativo e, claro, é o
+   mecanismo necessário e suficiente para revisitar e moldar sentimentos e
+   emoções. Por isso, podemos dizer até que o cinema tem na saudade o auge
+   da sua essência, porque se pudéssemos dividir a experiência em três
+   atos, a palavra tão bela e portuguesa como é “saudade” teria na sua
+   índole o mote da sétima arte como manifestação à parte, como motivo
+   para nos orgulharmos de sentirmos vazios infinitos em nós e em ser isso
+--
+   faz sentir (conforto).
+
+   O verdadeiro conforto da saudade está em mantermo-nos ligados e abertos
+   a um novo mundo de significação e de aventura. Para lá chegar, é
+   preciso ser humilde e olhar para o passado com os olhos de quem se
+   orgulha ter vivido um filme.
+
+   Porque a saudade não ocupa lugar… a menos que não a ficcionemos.
+
+   Vale a pena pensar nisto.
+--
+       IFRAME:
+       https://www.reddit.com/static/button/button1.html?newwindow=true&amp;wi
+       dth=120&amp;url=https%3A%2F%2Fobarrete.com%2F2020%2F11%2F05%2Fa-saudade
+       -do-cinema%2F&amp;title=A%20saudade%20do%20cinema
+
+     * Share on Tumblr
 </text>
 </page> §
 <page="saudade_pt-49">
@@ -4669,8 +4898,11 @@ Relacionados
 --
    Exemplos
 
-   Aos olhos da saudade como o mundo é pequeno.
-   Charles Baudelaire
+   É a mensageira da saudade, é o relicário da prece, é a cristalização da
+   mágoa. É imortal, porque deriva da alma. É a água que não seca, a
+   lágrima, água do coração - salgada porque vem de um oceano sem praias,
+--
+   Coelho Neto
 
 Significado de "saudade" no dicionário português
 
@@ -4707,12 +4939,11 @@ PALAVRAS RELACIONADAS COM «SAUDADE»
 
    saudade tumblr musica frases fernando pessoa poema texto saudade
    palavras mais presentes poesia amor língua portuguesa também música
-   popular descreve mistura sentimentos perda falta distância palavra
-   latim solitas solitatis saudades quando coração aperta coletânea sobre
-   fragmentos falam exprimem esse sentimento ausência belas jorge mateus
-   vagalume para ouvir letra legenda dias vão passando lembro nossos
+   popular descreve mistura sentimentos perda falta saudades quando
+   coração aperta coletânea sobre fragmentos falam exprimem esse
+   sentimento ausência belas jorge mateus vagalume para ouvir letra
 --
-   carnavalesco recife wikcionário origem dicionário livre navegação
+   coisas não passar batido esquecido assim pois talvez espécie
 
 Tradutor on-line com a tradução de saudade em 25 línguas
 

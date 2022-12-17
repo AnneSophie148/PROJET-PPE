@@ -1,111 +1,6 @@
 <lang="eng">
 <page="eng-10">
 <text>
-   Old school
-
-The power of nostalgia: What science tells us about longing for the past
-
-   “Nostalgia is a resource that people use to move forward.”
-   campers in 1930
-
---
-   swimming, water balloon fights, and drinking orange soda. The feeling
-   isn’t just one of happy recollection: It’s carried by a strong current
-   of wistful longing for a time in the past. It’s nostalgia.
-
-   Nostalgia is powerful: It gets political leaders elected, it’s at the
-   core of billions of dollars of advertising, and was once considered a
-   medical disease. But what is nostalgia and what makes it so powerful?
-   What’s happening in our brains when we’re feeling it and how does it
-   influence our lives?
-
-   Researchers are finding that nostalgia can be an enormously beneficial,
-   and potentially life-saving emotion. Clay Routledge, a psychological
-   scientist, has spent much of his career studying what gives our lives
-   meaning and has found that nostalgia plays an important role.
-
-   “Nostalgia is one of the self-regulatory tools we use to remind
-   ourselves that we matter,” he tells Inverse.
-
-What is nostalgia?
-
-   “The simplest definition of nostalgia is people’s reflection on their
-   cherished memories,” Routledge explains. “That varies from person to
-   person, obviously, but there are some commonalities.”
---
-   a decade ago.
-
-What nostalgia does to the brain
-
-   A 2016 study used fMRI imaging to monitor participants’ brain activity
-   when they were exposed to nostalgia-inducing stimuli. When nostalgia
-   was triggered, participants’ brains showed activity in two powerful
-   neural networks: the areas of the brain associated with memory and the
---
-
-   The more those systems “worked cooperatively,” the researchers found,
-   the more nostalgia people felt.
-   camping car
-   “Nostalgia is one of the self-regulatory tools we use to remind
-   ourselves that we matter.”Shutterstock
-
-   A very specific kind of memory is being activated during nostalgia,
-   Routledge says. “Most of the time when you’re nostalgic, it’s
-   autobiographical; you’re accessing what we call ‘self-relevant
---
-   recollection of the smell is important for survival.
-
-Is nostalgia a positive or negative emotion?
-
-   In the earliest days of nostalgia study, Routledge says, “it was seen
-   as simply as homesickness.”
-
-   This is where nostalgia gets its name: the word was coined by a Swiss
-   medical student, Johannes Hofer, in his 1688 dissertation. In
-   describing the anxieties of soldiers fighting away from home, he
---
-   But watch someone find an old-school Gameboy or the opening credits of
-   their favorite childhood TV show, and you’ll likely find them smiling.
-   While homesickness is pure ache, nostalgia is a unique mix of ache and
-   pleasure.
-
---
-   positivity.”
-
-   That positivity is what can make nostalgia such a useful emotion.
-
-Nostalgia as motivation and meaning
-
-   Routledge and his nostalgia-studying colleagues have found that
-   nostalgia is actually used to help self-regulate stress signals in the
-   brain. Routledge speculates likely what those soldiers were doing when
-   Hofer observed them and coined the term.
---
-   stress.”
-
-   His own research supports this theory. “We’ve seen that nostalgia seems
-   to bring online these motivational, or self-regulatory processes in the
-   brain that help us down-regulate or mitigate psychological threats,”
---
-   Boardwalk in 1944.Getty/Nextrecord Archives
-
-   Research suggests the social aspect of nostalgia motivates us to engage
-   in “prosocial” behavior. Nostalgia makes us realize the importance of
-   relationships and, in turn, motivates us to connect with friends and
-   pursue romantic relationships.
---
-   It’s also strongly associated with optimism and resiliency.
-
-   “Nostalgia is a resource that people use to move forward,” Routledge
-   says.
-
-   We saw all of these aspects of nostalgia play out during the pandemic.
-   You probably found yourself watching old movies, or listening to old
-   music. When we were in lockdown, we all felt nostalgic for the “before
-</text>
-</page> §
-<page="eng-11">
-<text>
    kids remember RCA Records via YouTube
 
    Anyone who lived through the 1990s shares a fond nostalgia for all
@@ -137,7 +32,7 @@ Nostalgia as motivation and meaning
      * teenage girls at a party in the 1990s teenage girls at a party in
 </text>
 </page> §
-<page="eng-12">
+<page="eng-11">
 <text>
    FROM THE MAGAZINE
 
@@ -158,7 +53,7 @@ Why Does ’90s Nostalgia Feel So Good Right Now?
    Big Tech platforms—in other words, the very same online tar pits we
 </text>
 </page> §
-<page="eng-13">
+<page="eng-12">
 <text>
    #Admind » Feed Admind » Comments Feed Admind » ’90s nostalgia – how we
    learned to love the unlovable? Comments Feed alternate alternate
@@ -232,9 +127,19 @@ How to use nostalgia in brand communication?
 
    Did you enjoy this article? Also checkout our ’80s nostalgia and
    Cyberpunk aesthetic essay.
+
+--
+   (BUTTON) (BUTTON)
+
+   ’80s nostalgia – the decade that never ended
+     * Design
+
+’80s nostalgia – the decade that never ended
+
+   Designing for accessibility – 3 tips from an interaction designer
 </text>
 </page> §
-<page="eng-14">
+<page="eng-13">
 <text>
      * NEWSLETTERSubscribe
 
@@ -398,7 +303,7 @@ Beyond ’90s Nostalgia
    (BUTTON)
 </text>
 </page> §
-<page="eng-15">
+<page="eng-14">
 <text>
    with the Latin phrase "memoria praeteritorum bonorum", which translates
    into English roughly as "the past is always well remembered".^[1] Rosy
@@ -428,7 +333,7 @@ References[edit]
    Hidden categories:
 </text>
 </page> §
-<page="eng-16">
+<page="eng-15">
 <text>
 
    Home // News &amp; Advocacy // Podcasts // Speaking of Psychology //
@@ -729,7 +634,7 @@ Download Episode
    Save the MP3 file linked above to listen to it on your computer or
 </text>
 </page> §
-<page="eng-18">
+<page="eng-16">
 <text>
      * Psychology
 
@@ -778,323 +683,46 @@ We once thought nostalgia was a disease, but it might be key to our survival
    Our longing for a lost time can help us make it through today.
 </text>
 </page> §
-<page="eng-1">
+<page="eng-17">
 <text>
-   #alternate What Is Nostalgia Good For? Quite a Bit, Research Shows
+   Uncategorized
 
-   (BUTTON)
+Historical Nostalgia
+
+   Written by Rachel Van Zeumeren on April 9, 2015
 --
-   Today’s Paper
-
-   Science|What Is Nostalgia Good For? Quite a Bit, Research Shows
-   https://www.nytimes.com/2013/07/09/science/what-is-nostalgia-good-for-q
-   uite-a-bit-research-shows.html
-     * (BUTTON) Give this articleGive this articleGive this article
---
-   Continue reading the main story
-
-What Is Nostalgia Good For? Quite a Bit, Research Shows
-
-     * Send any friend a story
---
-   transcript
-
-Science of Nostalgia
-
-It was first thought to be a “neurological disease of essentially demonic
-cause,” but it turns out that nostalgia is good for your brain. And there’s
-science to prove it.
+   Many people are particularly attracted to the past, and, for some, the
+   feeling is so strong that they feel as though they were born into the
+   wrong generation. Historical nostalgia is a yearning for a time in the
+   past that you have not actually experienced; but is it the allure of
+   the past that causes nostalgia, or is it a result of dissatisfaction
+   with the present?
 
 --
+   romantic feeling about a time we have never experienced ourselves.
 
-   It was first thought to be a “neurological disease of essentially
-   demonic cause,” but it turns out that nostalgia is good for your brain.
-   And there’s science to prove it.
-
---
-   Southampton, Constantine Sedikides had lunch with a colleague in the
-   psychology department and described some unusual symptoms he’d been
-   feeling. A few times a week, he was suddenly hit with nostalgia for his
-   previous home at the University of North Carolina: memories of old
-   friends, Tar Heel basketball games, fried okra, the sweet smells of
+   Psychologists have studied nostalgia through Woody Allen’s film
+   Midnight in Paris. They come to the conclusion that the film uses
+   historical nostalgia to tell a story about coping with the present. In
+   the film, the main character Gil, played by Owen Wilson, leaves the
+   unsatisfying present and travels to 1920s Paris, where he spends time
 --
 
-   His colleague, a clinical psychologist, made an immediate diagnosis. He
-   must be depressed. Why else live in the past? Nostalgia had been
-   considered a disorder ever since the term was coined by a 17th-century
-   Swiss physician who attributed soldiers’ mental and physical maladies
---
+   Jennifer Yalouf, a doctoral student in clinical psychology at the
+   Massachusetts School of Professional Psychology, thinks nostalgia can
+   be interpreted as a type of fantasy, and fantasy is generally thought
+   of as a defense mechanism that allows someone to block out the bad in
+   the present. For Yalouf, historical nostalgia is a form of escapism,
+   because people turn to the past to escape in many ways, from
+   participating in historical re-enactments to reading books, listening
+   to music, or watching movies from bygone times.
 
-   “I told him I did live my life forward, but sometimes I couldn’t help
-   thinking about the past, and it was rewarding,” he says. “Nostalgia
-   made me feel that my life had roots and continuity. It made me feel
-   good about myself and my relationships. It provided a texture to my
---
-   today includes dozens of researchers around the world using tools
-   developed at his social-psychology laboratory, including a
-   questionnaire called the Southampton Nostalgia Scale. After a decade of
-   study, nostalgia isn’t what it used to be — it’s looking a lot better.
-
-   Nostalgia has been shown to counteract loneliness, boredom and anxiety.
-   It makes people more generous to strangers and more tolerant of
-   outsiders. Couples feel closer and look happier when they’re sharing
-   nostalgic memories. On cold days, or in cold rooms, people use
-   nostalgia to literally feel warmer.
-
-   Nostalgia does have its painful side — it’s a bittersweet emotion — but
-   the net effect is to make life seem more meaningful and death less
-   frightening. When people speak wistfully of the past, they typically
-   become more optimistic and inspired about the future.
-
-   “Nostalgia makes us a bit more human,” Dr. Sedikides says. He considers
-   the first great nostalgist to be Odysseus, an itinerant who used
-   memories of his family and home to get through hard times, but Dr.
-   Sedikides emphasizes that nostalgia is not the same as homesickness.
-   It’s not just for those away from home, and it’s not a sickness,
-   despite its historical reputation.
-
-   Nostalgia was originally described as a “neurological disease of
-   essentially demonic cause” by Johannes Hoffer, the Swiss doctor who
-   coined the term in 1688. Military physicians speculated that its
---
-   A Universal Feeling
-
-   In the 19th and 20th centuries nostalgia was variously classified as an
-   “immigrant psychosis,” a form of “melancholia” and a “mentally
-   repressive compulsive disorder” among other pathologies. But when Dr.
-   Sedikides, Tim Wildschut and other psychologists at Southampton began
-   studying nostalgia, they found it to be common around the world,
-   including in children as young as 7 (who look back fondly on birthdays
-   and vacations).
-
-   “The defining features of nostalgia in England are also the defining
-   features in Africa and South America,” Dr. Wildschut says. The topics
-   are universal — reminiscences about friends and family members,
---
-   the self as the protagonist surrounded by close friends.
-
-   Most people report experiencing nostalgia at least once a week, and
-   nearly half experience it three or four times a week. These reported
-   bouts are often touched off by negative events and feelings of
---
-   outnumber the negative elements, as the Southampton researchers found
-   by methodically analyzing stories collected in the laboratory as well
-   as in a magazine named Nostalgia.
-
-   “Nostalgic stories often start badly, with some kind of problem, but
---
-   and affiliation, and you become more generous toward others.”
-
-   A quick way to induce nostalgia is through music, which has become a
-   favorite tool of researchers. In an experiment in the Netherlands, Ad
-   J. J. M. Vingerhoets of Tilburg University and colleagues found that
---
-   That warm glow was investigated in southern China by Xinyue Zhou of Sun
-   Yat-Sen University. By tracking students over the course of a month,
-   she and colleagues found that feelings of nostalgia were more common on
-   cold days. The researchers also found that people in a cool room (68
-   degrees Fahrenheit) were more likely to nostalgize than people in
---
-   Not everyone in the cool room turned nostalgic during the experiment,
-   but the ones who did reported feeling warmer. That mind-body link, Dr.
-   Wildschut says, means that nostalgia might have had evolutionary value
-   to our ancestors long before Odysseus.
-
---
-
-   Of course, memories can also be depressing. Some researchers in the
-   1970s and ’80s suggested that nostalgia could worsen a problem that
-   psychologists call self-discontinuity, which is nicely defined in
-   “Suite: Judy Blue Eyes,” by Stephen Stills: “Don’t let the past remind
---
-
-   But the feeling of discontinuity doesn’t seem to be a typical result of
-   nostalgia, according to recent studies. In fact, people tend to have a
-   healthier sense of self-continuity if they nostalgize more frequently,
-   as measured on the scale developed at Southampton. To understand why
---
-   with English, Dutch and American adults.
-
-   First, the experimenters induced nostalgia by playing hit songs from
-   the past for some people and letting them read lyrics to their favorite
-   songs. Afterward, these people were more likely than a control group to
---
-   nostalgize, presumably to ward off Sartrean despair.
-
-   Moreover, when some people were induced to nostalgia before reading the
-   bleak essay, they were less likely to be convinced by it. The brief
-   stroll down memory lane apparently made life seem worthwhile, at least
---
-   gloomy French intellectuals remains to be determined.)
-
-   “Nostalgia serves a crucial existential function,” Dr. Routledge says.
-   “It brings to mind cherished experiences that assure us we are valued
-   people who have meaningful lives. Some of our research shows that
-   people who regularly engage in nostalgia are better at coping with
-   concerns about death.”
-
-   Feeding the Memory Bank
-
-   The usefulness of nostalgia seems to vary with age, according to Erica
-   Hepper, a psychologist at the University of Surrey in England. She and
-   her colleagues have found that nostalgia levels tend to be high among
-   young adults, then dip in middle age and rise again during old age.
-
-   “Nostalgia helps us deal with transitions,” Dr. Hepper says. “The young
-   adults are just moving away from home and or starting their first jobs,
-   so they fall back on memories of family Christmases, pets and friends
---
-   although his range has expanded greatly over the past decade. He says
-   that the years of research have inspired strategies for increasing
-   nostalgia in his own life. One is to create more moments that will be
-   memorable.
-
-   “I don’t miss an opportunity to build nostalgic-to-be memories,” he
-   says. “We call this anticipatory nostalgia and have even started a line
-   of relevant research.”
-
---
-   with anything else.
-
-   “Many other people,” he explains, “have defined nostalgia as comparing
-   the past with the present and saying, implicitly, that the past was
-   better — ‘Those were the days.’ But that may not be the best way for
---
-   inmates.
-
-   Is there anyone who shouldn’t be indulging in nostalgia? People who are
-   leery of intimate relationships — “avoidant,” in psychological jargon —
-   seem to reap relatively small benefits from nostalgia compared with
-   people who crave closeness. And there are undoubtedly neurotics who
-   overdo it. But for most others, Dr. Sedikides recommends regular
---
-   nostalgizing two or maybe three times a week,” he says. “Experience it
-   as a prized possession. When Humphrey Bogart says, ‘We’ll always have
-   Paris,’ that’s nostalgia for you. We have it, and nobody can take it
-   away from us. It’s our diamond.”
+   Woody Allen often uses nostalgia as a theme, as seen in Manhattan and
+   Radio Days, but the films come to a realization that the good old days
+   were not as good as one might think. In Midnight in Paris, Gil realizes
 </text>
 </page> §
-<page="eng-21">
-<text>
-     Arts &amp; Culture
-
-     Is Nostalgia the Enemy of the New?
-
-        Hindsight is 2022: The Psychology Behind Our Cultural Nostalgia
-
-   Look around and you’ll find it everywhere, from your TV to your dinner
-   plate: a reverence for things past. But is it cute comfort or the enemy
-   of the new? Here, our guide to navigating nostalgia, and how to look
-   back while still forging ahead.
-
---
-   remake after remake, Spider-Man after Spider-Man. The plague of Marvel
-   superhero movies was really just the harbinger of a grand, persistent
-   nostalgia that seems to be our era’s preferred framework for consuming
-   culture.
-
-   Unable to imagine the future—as a result of the pandemic, climate
-   change, social unrest, a sense of looming apocalypse—we return to the
-   past. After all, the etymology of nostalgia comes down to a painful
-   desire to return home.
-
---
-   The rewatching of prestige TV series became something of a competition
-   during the pandemic. At first it was Mad Men (itself a piece of
-   nostalgia for midcentury New York), and then The Sopranos became the
-   primary target, elucidated with essays and reconsiderations and,
-   finally, a disappointing prequel film.
---
-   we know are highly unlikely to let us down. At the moment we can hardly
-   be blamed for such tendencies. The past two years have been frightening
-   enough that guilty pleasures are more than justified. But nostalgia
-   consumption comes with a cost. Too much has a way of impeding new
-   culture, and there’s not much incentive to stop wallowing in it.
---
-   unusual. With our digital cultural channels, art can be profitable only
-   if it gets attention, and it can get attention only if it matches a
-   preexisting pattern. That pattern is called nostalgia, and while it’s
-   pleasurable, is it not ultimately boring? Per Nietzsche, we can be
-   happy with the idea that life as a whole repeats, but no one wants to
-</text>
-</page> §
-<page="eng-22">
-<text>
-   #Homesick for Yesterday » Feed Homesick for Yesterday » Comments Feed
-   Homesick for Yesterday » CfP: Pop Nostalgia: The Uses of the Past in
-   Popular Culture Comments Feed alternate alternate alternate RDF Version
-   RDF Version of this post RDF Version of the category Posts Outline
---
-Homesick for Yesterday
-
-A History of the Nostalgia Wave
-
-   (BUTTON) Menu Skip to content
---
-     * Project description
-     * Events
-          + Pop Nostalgia Conference
-          + Nostalgia conference
-          + Things We Keep
-     * Project publications
---
-   Search for: ____________________ Search
-
-CfP: Pop Nostalgia: The Uses of the Past in Popular Culture
-
-   18/04/2016PostsTobias Becker
-
-   Pop nostalgia, we are told, is everywhere. Our current golden age of
-   television—from Mad Men to Vinyl, Downton Abbey to Call the
-   Midwife—lovingly recreates earlier periods of the twentieth century,
---
-
-   15391.books.origjpg These very different cultural phenomena, which are
-   often subsumed under the term nostalgia, raise a number of still
-   under-explored questions. How new is this development, given that
-   period films are as old as the cinema and that popular culture and
---
-   be highly creative and result in innovations? Are period settings and
-   costumes, retro and vintage styles as such indicative and synonymous
-   with nostalgia? Is it really nostalgia—a sentimental longing for
-   yesterday—that drives our interest in and our engagement with the past?
-   And if not what other motivations are at play? What role, for example,
---
-   preserving the culture of the past in the present?
-
-   These are some of the questions the workshop Pop Nostalgia addresses.
-   It explores the uses of the past in popular culture across all media
-   and genre, from literature, cinema, television, and video games to
---
-   representations of the past but also in their production and
-   circulation as well as in audiences and reception. The workshop is
-   particularly interested in the historical dimension of pop nostalgia,
-   namely how it has changed over the course of the nineteenth and
-   twentieth century.
---
-Post navigation
-
-   ← Conference report “Nostalgia: Historicizing the Longing for the Past”
-   Talk on “pop nostalgia” at IHR, 16 May →
-
-   Search for: ____________________ Search
-
-   Until the 1950s the term nostalgia primarily designated a pathological
-   form of homesickness. Only from the mid-60s onwards did the new
-   definition, a “yearning for the past”, find its ways into the
-   dictionaries. At the same time intellectuals in the United States,
-   Britain and West Germany observed a “nostalgia wave”. This diagnosis
-   serves as point of departure for a research project at the German
-   Historical Institute London on the popularisation of history in the
---
-     __________________________________________________________________
-
-   Noch bis in die 1950er Jahre hinein bezeichnete der Begriff Nostalgia
-   in erster Linie eine krankhafte Form des Heimwehs. Erst Mitte der
-   sechziger Jahre fand die “Sehnsucht nach Vergangenheit” Eingang in die
-</text>
-</page> §
-<page="eng-24">
+<page="eng-18">
 <text>
    https://doi.org/10.3389/fpsyg.2020.01186
 
@@ -1637,7 +1265,7 @@ This article is part of the Research Topic
    View all 13 Articles
 </text>
 </page> §
-<page="eng-25">
+<page="eng-19">
 <text>
    PMID: 32547466
 
@@ -2148,7 +1776,203 @@ Data Availability Statement
        10.2753/rpo1061-0405490306 [CrossRef] [Google Scholar]
 </text>
 </page> §
-<page="eng-27">
+<page="eng-1">
+<text>
+   #alternate What Is Nostalgia Good For? Quite a Bit, Research Shows
+
+   (BUTTON)
+--
+   Today’s Paper
+
+   Science|What Is Nostalgia Good For? Quite a Bit, Research Shows
+   https://www.nytimes.com/2013/07/09/science/what-is-nostalgia-good-for-q
+   uite-a-bit-research-shows.html
+     * (BUTTON) Give this articleGive this articleGive this article
+--
+   Continue reading the main story
+
+What Is Nostalgia Good For? Quite a Bit, Research Shows
+
+     * Send any friend a story
+--
+   transcript
+
+Science of Nostalgia
+
+It was first thought to be a “neurological disease of essentially demonic
+cause,” but it turns out that nostalgia is good for your brain. And there’s
+science to prove it.
+
+--
+
+   It was first thought to be a “neurological disease of essentially
+   demonic cause,” but it turns out that nostalgia is good for your brain.
+   And there’s science to prove it.
+
+--
+   Southampton, Constantine Sedikides had lunch with a colleague in the
+   psychology department and described some unusual symptoms he’d been
+   feeling. A few times a week, he was suddenly hit with nostalgia for his
+   previous home at the University of North Carolina: memories of old
+   friends, Tar Heel basketball games, fried okra, the sweet smells of
+--
+
+   His colleague, a clinical psychologist, made an immediate diagnosis. He
+   must be depressed. Why else live in the past? Nostalgia had been
+   considered a disorder ever since the term was coined by a 17th-century
+   Swiss physician who attributed soldiers’ mental and physical maladies
+--
+
+   “I told him I did live my life forward, but sometimes I couldn’t help
+   thinking about the past, and it was rewarding,” he says. “Nostalgia
+   made me feel that my life had roots and continuity. It made me feel
+   good about myself and my relationships. It provided a texture to my
+--
+   today includes dozens of researchers around the world using tools
+   developed at his social-psychology laboratory, including a
+   questionnaire called the Southampton Nostalgia Scale. After a decade of
+   study, nostalgia isn’t what it used to be — it’s looking a lot better.
+
+   Nostalgia has been shown to counteract loneliness, boredom and anxiety.
+   It makes people more generous to strangers and more tolerant of
+   outsiders. Couples feel closer and look happier when they’re sharing
+   nostalgic memories. On cold days, or in cold rooms, people use
+   nostalgia to literally feel warmer.
+
+   Nostalgia does have its painful side — it’s a bittersweet emotion — but
+   the net effect is to make life seem more meaningful and death less
+   frightening. When people speak wistfully of the past, they typically
+   become more optimistic and inspired about the future.
+
+   “Nostalgia makes us a bit more human,” Dr. Sedikides says. He considers
+   the first great nostalgist to be Odysseus, an itinerant who used
+   memories of his family and home to get through hard times, but Dr.
+   Sedikides emphasizes that nostalgia is not the same as homesickness.
+   It’s not just for those away from home, and it’s not a sickness,
+   despite its historical reputation.
+
+   Nostalgia was originally described as a “neurological disease of
+   essentially demonic cause” by Johannes Hoffer, the Swiss doctor who
+   coined the term in 1688. Military physicians speculated that its
+--
+   A Universal Feeling
+
+   In the 19th and 20th centuries nostalgia was variously classified as an
+   “immigrant psychosis,” a form of “melancholia” and a “mentally
+   repressive compulsive disorder” among other pathologies. But when Dr.
+   Sedikides, Tim Wildschut and other psychologists at Southampton began
+   studying nostalgia, they found it to be common around the world,
+   including in children as young as 7 (who look back fondly on birthdays
+   and vacations).
+
+   “The defining features of nostalgia in England are also the defining
+   features in Africa and South America,” Dr. Wildschut says. The topics
+   are universal — reminiscences about friends and family members,
+--
+   the self as the protagonist surrounded by close friends.
+
+   Most people report experiencing nostalgia at least once a week, and
+   nearly half experience it three or four times a week. These reported
+   bouts are often touched off by negative events and feelings of
+--
+   outnumber the negative elements, as the Southampton researchers found
+   by methodically analyzing stories collected in the laboratory as well
+   as in a magazine named Nostalgia.
+
+   “Nostalgic stories often start badly, with some kind of problem, but
+--
+   and affiliation, and you become more generous toward others.”
+
+   A quick way to induce nostalgia is through music, which has become a
+   favorite tool of researchers. In an experiment in the Netherlands, Ad
+   J. J. M. Vingerhoets of Tilburg University and colleagues found that
+--
+   That warm glow was investigated in southern China by Xinyue Zhou of Sun
+   Yat-Sen University. By tracking students over the course of a month,
+   she and colleagues found that feelings of nostalgia were more common on
+   cold days. The researchers also found that people in a cool room (68
+   degrees Fahrenheit) were more likely to nostalgize than people in
+--
+   Not everyone in the cool room turned nostalgic during the experiment,
+   but the ones who did reported feeling warmer. That mind-body link, Dr.
+   Wildschut says, means that nostalgia might have had evolutionary value
+   to our ancestors long before Odysseus.
+
+--
+
+   Of course, memories can also be depressing. Some researchers in the
+   1970s and ’80s suggested that nostalgia could worsen a problem that
+   psychologists call self-discontinuity, which is nicely defined in
+   “Suite: Judy Blue Eyes,” by Stephen Stills: “Don’t let the past remind
+--
+
+   But the feeling of discontinuity doesn’t seem to be a typical result of
+   nostalgia, according to recent studies. In fact, people tend to have a
+   healthier sense of self-continuity if they nostalgize more frequently,
+   as measured on the scale developed at Southampton. To understand why
+--
+   with English, Dutch and American adults.
+
+   First, the experimenters induced nostalgia by playing hit songs from
+   the past for some people and letting them read lyrics to their favorite
+   songs. Afterward, these people were more likely than a control group to
+--
+   nostalgize, presumably to ward off Sartrean despair.
+
+   Moreover, when some people were induced to nostalgia before reading the
+   bleak essay, they were less likely to be convinced by it. The brief
+   stroll down memory lane apparently made life seem worthwhile, at least
+--
+   gloomy French intellectuals remains to be determined.)
+
+   “Nostalgia serves a crucial existential function,” Dr. Routledge says.
+   “It brings to mind cherished experiences that assure us we are valued
+   people who have meaningful lives. Some of our research shows that
+   people who regularly engage in nostalgia are better at coping with
+   concerns about death.”
+
+   Feeding the Memory Bank
+
+   The usefulness of nostalgia seems to vary with age, according to Erica
+   Hepper, a psychologist at the University of Surrey in England. She and
+   her colleagues have found that nostalgia levels tend to be high among
+   young adults, then dip in middle age and rise again during old age.
+
+   “Nostalgia helps us deal with transitions,” Dr. Hepper says. “The young
+   adults are just moving away from home and or starting their first jobs,
+   so they fall back on memories of family Christmases, pets and friends
+--
+   although his range has expanded greatly over the past decade. He says
+   that the years of research have inspired strategies for increasing
+   nostalgia in his own life. One is to create more moments that will be
+   memorable.
+
+   “I don’t miss an opportunity to build nostalgic-to-be memories,” he
+   says. “We call this anticipatory nostalgia and have even started a line
+   of relevant research.”
+
+--
+   with anything else.
+
+   “Many other people,” he explains, “have defined nostalgia as comparing
+   the past with the present and saying, implicitly, that the past was
+   better — ‘Those were the days.’ But that may not be the best way for
+--
+   inmates.
+
+   Is there anyone who shouldn’t be indulging in nostalgia? People who are
+   leery of intimate relationships — “avoidant,” in psychological jargon —
+   seem to reap relatively small benefits from nostalgia compared with
+   people who crave closeness. And there are undoubtedly neurotics who
+   overdo it. But for most others, Dr. Sedikides recommends regular
+--
+   nostalgizing two or maybe three times a week,” he says. “Experience it
+   as a prized possession. When Humphrey Bogart says, ‘We’ll always have
+   Paris,’ that’s nostalgia for you. We have it, and nobody can take it
+   away from us. It’s our diamond.”
+</text>
+</page> §
+<page="eng-20">
 <text>
     2. Psychology
 
@@ -2243,7 +2067,7 @@ Collective nostalgia for good
      __________________________________________________________________
 </text>
 </page> §
-<page="eng-29">
+<page="eng-21">
 <text>
    https://doi.org/10.3389/fpsyg.2020.570621
 
@@ -2787,7 +2611,7 @@ This article is part of the Research Topic
    View all 13 Articles
 </text>
 </page> §
-<page="eng-31">
+<page="eng-22">
 <text>
    The Human Brain
 
@@ -2842,7 +2666,7 @@ Nostalgia and Your Brain
    <lt;https://science.howstuffworks.com/life/inside-the-mind/human-brain/nos
 </text>
 </page> §
-<page="eng-32">
+<page="eng-23">
 <text>
    #Harley Therapy™ Blog » Feed Harley Therapy™ Blog » Comments Feed
    Harley Therapy™ Blog » Nostalgia – is Missing the Past Good or Bad for
@@ -2991,7 +2815,7 @@ Can’t stop reminiscing?
        sport cause I really enjoyed it, but sometimes I catch myself
 </text>
 </page> §
-<page="eng-33">
+<page="eng-24">
 <text>
    Medically reviewed by Matthew Boland, PhD — By Crystal Raypole on July
    14, 2021
@@ -3165,7 +2989,7 @@ Seek out fulfilling relationships
        eaning-life
 </text>
 </page> §
-<page="eng-34">
+<page="eng-25">
 <text>
    Thinking
 
@@ -3287,7 +3111,7 @@ Don’t Use Nostalgia to Run Away From Your Problems
    American Psychological Association – Memories of Childhood Abuse
 </text>
 </page> §
-<page="eng-35">
+<page="eng-26">
 <text>
     #Manipal The Talk Network » Feed Manipal The Talk Network » Comments
    Feed Manipal The Talk Network » The Neurology of Nostalgia—Why Do We
@@ -3458,7 +3282,7 @@ Nostalgia as Therapy
 Post navigation
 </text>
 </page> §
-<page="eng-37">
+<page="eng-27">
 <text>
    Newsletter
    Free Ebook
@@ -3577,7 +3401,7 @@ Nostalgia: A Beautiful Suffering
    Newer PostChasing Adventure: A Forgotten Perspective
 </text>
 </page> §
-<page="eng-39">
+<page="eng-28">
 <text>
 Why Are Happy Memories so Sad and Melancholic?
 
@@ -3586,7 +3410,12 @@ When nostalgia puts your heart on edge…
    Photo by Isaque Pereira from Pexels
 </text>
 </page> §
-<page="eng-3">
+<page="eng-29">
+<text>
+
+</text>
+</page> §
+<page="eng-2">
 <text>
    #alternate Edit this page Wikipedia (en)
 
@@ -4125,12 +3954,7 @@ Further reading[edit]
      * 17th-century neologisms
 </text>
 </page> §
-<page="eng-40">
-<text>
-
-</text>
-</page> §
-<page="eng-41">
+<page="eng-30">
 <text>
    Annals of Technology
 
@@ -4220,7 +4044,7 @@ Why a Great Wave of Nostalgia Is Sweeping Through China
 The Daily
 </text>
 </page> §
-<page="eng-42">
+<page="eng-31">
 <text>
    - China Marketing Club BlogCAREERSContact Us
 
@@ -4271,12 +4095,12 @@ Chinese Consumer Trends: Nostalgia’s Role in Consumerism
    Chinese luxury market, China Retail Sales, Chinese economy, Chinese
 </text>
 </page> §
-<page="eng-43">
+<page="eng-32">
 <text>
 
 </text>
 </page> §
-<page="eng-45">
+<page="eng-33">
 <text>
    Quick Navigation
 
@@ -4312,6 +4136,2150 @@ Look at Old Photographs
    feeling of nostalgia. The BBC's archive of TV nostalgia has some great
    TV programmes for you to have a look at for free that will certainly
    take you back.
+</text>
+</page> §
+<page="eng-34">
+<text>
+   (BUTTON)
+
+The Benefits of Nostalgia
+
+   Medically reviewed by Scientific Advisory Board — By John DiPrete on
+   September 16, 2018
+
+   If unpleasant or obsessional, past memories can hurt — but nostalgia is
+   good for you. The benefits of this internal psychological state are
+   touted in various academic studies exploring the art and practice of
+--
+   lend a gratifying sense of continuity in our lives.
+
+   Nostalgia can take on many different forms. Watching an old
+   black-and-white movie can trigger a cultural nostalgia for a lost
+   period in time. Often that longing can predate one’s own date of birth:
+   fondness for a time only your parents may have known and talked about.
+--
+   The mental journey back through time adds a fourth dimension to the
+   present. If mindfulness is the focal point of the Eternal Now,
+   nostalgia forms a special continuum to the timeless past, expanding our
+   concept of the self. The future may be vague, inchoate and
+   unpredictable; but the past represents a finished whole that cannot be
+   harmed or tampered with.
+
+   Documented reasons why nostalgia (when used intelligently) can be good
+   for us:
+
+--
+   as telling stories and sharing wisdom from a bygone time.
+
+   According to Dena Kemmet, “an additional function of nostalgia may be
+   its motivating potential. Nostalgia may boost optimism, spark
+   inspiration, and foster creativity.”
+
+   According to Dr. Clay Routledge, Social Psychologist and Associate
+   Professor of Psychology at North Dakota State University,nostalgia
+   “increases positive mood, self-esteem, feelings of social
+   connectedness, optimism about the future, and perceptions of meaning in
+   life. Furthermore, nostalgia motivates people to focus on cultivating
+   meaningful relationships and pursue important life goals. In addition,
+   as people get older, nostalgia makes them feel youthful and energetic.
+   Nostalgia also reduces existential fears about death.”
+
+   The emotion of nostalgia can be evoked from a familiar scent, an old
+   photograph, or a cherished song. Often it occurs during periods of
+   sadness or transition, but it can appear anytime — affecting the young
+--
+   and more adaptable to life‘s vicissitudes.
+
+   The healthy use of nostalgia is not about retreating into the past. On
+   the contrary, exploring the treasures of our “mental” time capsules can
+   propel us toward the future, with a restored sense of enthusiasm and
+--
+   correlated with increased resilience and self-confidence.
+
+   For some, nostalgia can come to resemble a spiritual meditation.
+   Indeed, the past is more venerated in places where the future is more
+   fleeting — where constant change is often expected and demanded. The
+--
+   turmoil.
+
+   The judicious use of nostalgia offers each one of us who feels stranded
+   in the present an anchor to the past.
+</text>
+</page> §
+<page="eng-35">
+<text>
+   Collaboration and teams
+
+The Surprising Power of Nostalgia at Work
+
+   It can deepen relationships, foster creativity, and boost a collective
+--
+   Summary.
+
+   Nostalgia is an important psychological resource that helps individuals
+   cope with life’s stressors, build strong relationships, find and
+   maintain meaning in life, and become more creative and inspired. By
+   understanding how nostalgia works, managers can utilize its power to
+   help their organizations thrive. The author presents three reasons to
+   do so. First, it brings the social self online by increasing social
+--
+   strengthening social and group bonds. Second, it can reduce turnover by
+   helping work feel meaningful — especially for employees who are burned
+   out. Third, because nostalgia makes people feel socially supported,
+   energized, and confident, it can help employees feel more creative and
+   inspired.
+--
+   Ler em português
+
+   Many people assume that nostalgia is purely entertainment, a feeling
+   individuals enjoy because it takes them back to the more carefree days
+   of their youth. Some view it as maladaptive fixation on the past,
+   perhaps indicating a fear of change. I’ve heard business analysts and
+   leaders argue that, although nostalgia may help some companies sell
+   consumers a range of products, it’s ultimately bad for business and the
+   economy. They imagine that by keeping people focused on the past,
+   nostalgia undermines innovation, creativity, and ultimately progress.
+
+   From that perspective, there’s little reason for managers to view
+   nostalgia as having value within their organizations. However, a
+   growing body of research reveals that it’s an important psychological
+   resource that helps individuals cope with life’s stressors, build
+   strong relationships, find and maintain meaning in life, and become
+   more creative and inspired. I’ve been conducting research on the
+   psychology of nostalgia for almost 20 years. Based on what I’ve
+   learned, I believe managers can use the power of nostalgia to help
+   their organizations thrive.
+
+Nostalgia Is a Psychological Resource
+
+   First, managers need to understand how nostalgia actually works. When
+   people engage in nostalgia, they’re accessing personally meaningful
+   autobiographical events typically shared with family, friends, and
+   other close connections. It isn’t just a happy trip down memory lane —
+--
+   in which negative feelings such as longing and loss give way to
+   positive feelings such as happiness, social connectedness, gratitude,
+   and hope. In other words, nostalgia is bittersweet, but more sweet than
+   bitter.
+
+   Nostalgia can be triggered by explicit reminders of the past, such as
+   running into an old friend or hearing music from one’s youth, but
+   people also often become nostalgic when they’re feeling down or
+   distressed in some way. Common psychological triggers of nostalgia
+   include feelings of sadness, loneliness, meaninglessness, uncertainty,
+   and boredom.
+
+   These negative psychological states increase nostalgia because
+   nostalgia is restorative. After conducting dozens of studies using
+   diverse methods ranging from qualitative text analysis, self-report
+   surveys, and behavioral and neuroscientific experiments, my colleagues
+   and I have concluded that nostalgia is best described as a
+   self-regulatory existential resource that people naturally and
+   frequently use to navigate stress and uncertainty and find the
+   motivation needed to move forward with purpose and focus. The impact of
+   nostalgia on meaning is particularly important because meaning in life
+   has great motivational power. Research finds that nostalgia motivates
+   the pursuit of important life goals by increasing that sense of
+   meaning.
+--
+   Humans are an existential species. To flourish, we need to make
+   meaningful social connections and feel like we’re contributing to the
+   world in a way that matters. Nostalgia serves these existential
+   endeavors. Here are three reasons for managers to bring this adaptive
+   feature of human psychology into their organizations — and ways to do
+   it.
+
+1. Nostalgia can help build strong relationships and teams
+
+   Social bonds are a central feature of nostalgia. Most nostalgic
+   memories involve other people, and when individuals reflect on these
+   memories, they feel more socially connected and supported. Managers can
+   take advantage of nostalgia’s social nature to promote strong
+   relationships and teams. Encouraging employees to share nostalgic
+   stories with team members may help them build deeper connections
+   because nostalgia orients people toward social goals. For example, in
+   one set of studies my colleagues and I conducted, we found that having
+   research participants spend a few minutes reflecting on a nostalgic
+--
+
+   We also observed that when people are experiencing higher levels of
+   nostalgia, they’re more interested in working on tasks with others, and
+   nostalgia has been shown to increase empathy for others and prosocial
+   behavior in the forms of volunteering and charitable donations.
+   Research also finds that, when people are part of a group, nostalgia
+   for an event shared within it makes people more committed to the group.
+
+   Nostalgia brings the social self online. It increases social agency and
+   directs that agency toward helping others and strengthening social and
+   group bonds. Given the importance of positive relationships and
+   effective teams for both the health of individual employees and the
+   organization, managers should explore ways to incorporate nostalgia
+   into team-building activities, as well as social events like workplace
+   celebrations and retreats. For example, create a retro music playlist
+   by asking employees to submit nostalgia-themed song requests. This will
+   give employees of different ages and with different experiences the
+   opportunity to revisit their own nostalgic memories, which energizes
+   the desire to connect with others. It will also inspire them to share
+   these memories with others, which helps build deeper connections and
+   increase nostalgia in others. Indeed, research finds that exposure to
+   other people’s nostalgic memories increases one’s own nostalgia and all
+   the associated psychological benefits — in other words, nostalgia is
+   contagious.
+
+2. Nostalgia can help make work feel meaningful and reduce turnover
+
+   As an existential resource, nostalgia helps people maintain and enhance
+   meaning in the present — when they reflect on past meaningful
+   experiences, they become motivated to prioritize meaning in the
+--
+   those experiencing burnout. A series of studies found that when workers
+   were prompted to reflect on experiences within their organization that
+   made them nostalgic (organizational nostalgia), they subsequently
+   reported a greater sense of meaning at work and lower turnover
+   intentions. These effects were most pronounced among employees
+--
+   which can provide guidance for how to restore meaning at work in the
+   present. Developing organizational social rituals and traditions can
+   help create organizational nostalgia in the first place — it’s an
+   investment in the future. For example, organizations could hold monthly
+   game nights, potluck dinners, movie screenings, book clubs, or other
+--
+   organization is undergoing major changes that cause anxiety,
+   interpersonal conflict, or other negative experiences, organizational
+   nostalgia may prove to be a vital resource.
+
+3. Nostalgia can help organizations be more creative and inspired
+
+   Managers looking to cultivate outside-the-box thinking can also take
+   advantage of nostalgia. A workplace that encourages employees to both
+   share nostalgic memories and make new ones with their coworkers primes
+   the pump of creativity. People are more likely to feel comfortable
+   taking risks and exploring new ideas when they feel socially supported,
+   energized, and confident. Nostalgia generates these states and can thus
+   offer a way to orient employees toward creative thinking and
+   problem-solving.
+--
+   open-minded and creative, and critically, made them produce more
+   creative content (as judged by independent evaluators). In addition,
+   our research shows that nostalgia makes people feel more inspired.
+
+   While on the subject of creativity, it’s worth noting that there is no
+   single right way of inducing nostalgia. Our studies as well as those
+   conducted by other research teams have utilized diverse nostalgia
+   prompts, such as having people write about a nostalgic memory, read
+   accounts of other people’s nostalgic memories, read song lyrics that
+   make them nostalgic, listen to nostalgic music, watch nostalgic music
+   videos, look at old photographs, visit nostalgia-themed websites,
+   create scrapbooks, and engage in activities using augmented reality
+   technology.
+
+   Managers should look for opportunities to introduce nostalgia in ways
+   they believe will best fit their organizational environment and
+   culture. What’s most important is that managers appreciate that
+   meaningfully connecting the present to the past via nostalgia can help
+   them and their employees have the mindset and motivation needed to
+   productively work toward future-oriented individual and organizational
+</text>
+</page> §
+<page="eng-36">
+<text>
+   #Thriveworks » Restorative vs. reflective nostalgia: Learn to spot the
+   differences and combat memory distortions Comments Feed alternate
+   alternate alternate
+--
+   [home-icon.png] Learn Coping Skills, Mental Health Topics
+
+Restorative vs. reflective nostalgia: Learn to spot the differences and
+combat memory distortions
+
+--
+   [gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==]
+   [arrow-down.png]
+     * Nostalgia is a familiar feeling, but there are actually two
+       different types—reflective and restorative nostalgia.
+     * Restorative nostalgia involves happy memories and associations with
+       the past. When we feel restoratively nostalgic, we’re likely to
+       feel motivated to seek out new and rewarding experiences.
+     * Conversely, reflective nostalgia may often make us feel gloomy and
+       disappointed, making it seem that the present moment doesn’t
+       compare with our memories, preventing us from moving forward and
+       making new positive experiences.
+     * Though they might sound like polar opposites, both types of
+       nostalgia can be empowering experiences, if we learn to harness
+       their emotional power.
+     * Feeling reflectively nostalgic can be counteracted by remembering
+--
+   days gone by has a bittersweet quality, one that can be difficult to
+   express. We’ve all felt nostalgic, but we may not be as familiar with
+   the two types of nostalgia: restorative and reflective. While
+   restorative nostalgia makes us feel positive about our past and
+   motivates us to seek out new possibilities and experiences, reflective
+   nostalgia often leaves us upset and wistful, thinking that our best
+   days are behind us.
+
+--
+   that our brains are rewarding or even bribing us into seeking out
+   positive experiences in order to keep the good vibes flowing. In
+   contrast, feelings of reflective nostalgia cause us to shut ourselves
+   off to new possibilities; in this state of mind, we might actually be
+   susceptible to developing depression or anxiety. Despite the
+   drastically different ways that restorative and reflective nostalgia
+   affect us, psychologists now know that our ability to recall past
+   events isn’t very accurate. Most memories, good or bad (and especially
+--
+   white-and-green-wooden-house-miniature
+
+Reflective vs. Restorative Nostalgia
+
+   Reflective nostalgia was first described in the 17th century when Swiss
+   physician Dr. Johannes Hofer noted that soldiers who were stationed
+   abroad would often long for their home country, experiencing a
+--
+   effect of their memories could not be mistaken.
+
+   When the past is viewed through the lens of reflective nostalgia, we’re
+   typically closed off to the possibility of change and are reflecting
+   back on old memories in order to seek refuge. We don’t see potential in
+--
+
+   Regardless of whether you’re experiencing reflective or restorative
+   nostalgia, it’s important to recognize and harness the emotional power
+   of these unique psychological experiences. You can clear the haze
+   associated with memory distortions from your train of thought by taking
+--
+       encounter at least some resistance in our efforts.
+
+   Unlike restorative nostalgia, sensations of reflective nostalgia aren’t
+   pleasant. Evaluate whether your negative emotions could be attached to
+   an underlying mental health condition. Reflecting too long on adversity
+--
+How to Harness Restorative Nostalgic Memories
+
+   When you feel the rush of restorative nostalgia, try to:
+     * Soak it all in, but don’t dwell in the past for too long. If you’re
+       thinking about lost friends, an old relationship, or a breakthrough
+--
+     Mental Health Topics
+
+     Restorative vs. reflective nostalgia: Learn to spot the differences
+   and combat memory distortions
+</text>
+</page> §
+<page="eng-37">
+<text>
+   Technology
+
+How the Internet Uses Nostalgia
+
+   Long-lost memories pop up in music recommendations, personality
+--
+   House are selling Greek yogurt. Boyz II Men recently made a cameo on
+   How I Met Your Mother. This year's Super Bowl featured, of all people,
+   Flea. We are having a moment of '90s nostalgia, occasioned in part by
+   millennials (or The Youths or Those Kids or whatever you want to call
+   them) who are aging into adulthood and therefore eager to relive their
+--
+   ***
+
+   Nostalgia, the copious literature on it suggests, comes in two basic
+   forms. One is organic, the kind that washes over you when you see an
+   old picture of yourself and your cousins, aged 7 and 9 and 10, giggling
+--
+   Dawson’s Creek's Joey and/or Blossom's Joey, appropriated to arouse a
+   vague sense that we have lost something as we’ve moved, inexorably,
+   into our future. This form of nostalgia is usually invoked, in one way
+   or another, to sell us stuff. You could, because of that, dismiss its
+   validity (fauxstalgia?). But it will live on, inevitably, because media
+   producers know exactly what advertisers have long understood: that
+   nostalgia, like sex, sells.
+
+   The products of that basic insight, whether they're movies or TV shows
+--
+   Lebowski.
+
+   Nostalgia, under the stewardship of the Internet, has been made nimble.
+
+   As market goods, however, these products can also be recursive: Mad Men
+--
+
+   While, sure, commercial culture is commercial, it’s also notable how
+   ambient nostalgia has become. The memorial-industrial complex ensures
+   that our past—our collective past—permeates our present. That complex
+   markets directly to memories that are shared, across generations and
+--
+   to realize the vague-but-also-urgent goal shared by many social
+   networks and services: user engagement. "For almost everyone,” Sung
+   says, a nostalgia-focused Spotify story “usually triggers some sort of
+   strong emotion. Sometimes it's, 'Wow, I totally forgot that song.
+   Thanks so much for reminding me of it.' Other times, it's more like,
+--
+   Either way, though: engagement. And an experience of the past that is
+   customized—if not to a person, individually, then to that person's
+   generational demographic. Spotify’s interpretation of nostalgia, in
+   that sense, is pretty much the opposite of The LEGO® Movie’s or Mad
+   Men's or that of Kraft-by-way-of-the-Ninja Turtles-by-way-of-Vanilla
+--
+                                     ***
+
+   Spotify isn’t alone in its use of nostalgia as a marketing tool. Social
+   networks in general, you could argue, are
+   implicitly—preemptively—nostalgic, combining our pasts and our
+--
+
+   Networks, however, are also experimenting with more explicit forms of
+   nostalgia-baiting. Earlier this month, Facebook rolled out “Look Back”
+   compilations that collect users’ most-liked photos, statuses, and life
+   events into an easily viewable video. (These collections come in
+--
+
+   Even Pinterest, which is most commonly associated with future-oriented
+   and aspirational image-collecting, makes use of customized nostalgia.
+   Gabriel Trionfi, Pinterest's user experience researcher, is a
+   psychologist by training, and he points out that the flip side of
+   anticipation—one of the emotions Pinterest uses to generation its own
+   version of user engagement—is, yep, nostalgia.
+
+   Journalists have long recognized the same thing advertisers have, which
+   is that nostalgia is an extremely efficient tool for selling stuff.
+
+   “Nostalgia is a known way to boost people's mood,” Trionfi told me. It
+   allows people to live (and re-live) “something familiar, something they
+   remember, a positive emotional experience.” On Pinterest, he points
+--
+   past.
+
+   Nostalgia, at its most basic level, requires access to memories—and
+   there is, of course, no better archive than the Internet. The social
+   networks that are becoming increasingly synonymous with our experience
+--
+
+   The good feeling is growing. Many media outlets ("content producers,"
+   you could call them) are selling nostalgia in one form or another:
+   There’s Retronaut and @historyinpix and the many similar—and
+   controversial—features dedicated to the resurfacing of the past.
+   There’s New York magazine’s late, great “Nostalgia Face-Check” series.
+   Yesterday, Wired—known mostly for its reporting on the future—published
+   a list, curated by Questlove, of the top hip-hop tracks of the ’90s.
+--
+
+   This is all fairly unremarkable; journalists have long recognized the
+   same thing advertisers have, which is that nostalgia is an extremely
+   efficient tool for selling stuff. But media outlets—especially the ones
+   that are merging technological prowess with journalistic—aren’t just
+   leveraging our soft enthusiasms for the past; they’re also taking a
+   platform-focused approach to that work. They, like the social networks,
+   are trafficking in targeted nostalgia.
+
+   Take Buzzfeed’s ever-more-ubiquitous quizzes. “Which ‘90s Movie
+--
+   people who fit those demographics.
+
+   The upshot of all this? Nostalgia no longer comes in one-size-fits-all,
+   and that size is no longer “large.” Nostalgia, under the stewardship of
+   the Internet, has been made nimble. Our tenuous relationship with the
+   past can now be customized and made relevant, in the manner of a
+</text>
+</page> §
+<page="eng-38">
+<text>
+   >gt; Television >gt; Sponsored Content
+
+The creative rise of Internet nostalgia
+
+   As the early days of the Internet begin to inform creative practices,
+--
+   But is it all too soon?
+
+   A sped up sense of nostalgia
+
+   As artists explore the tumultuous history of the digital and create
+--
+   rise and fall, versions are superseded in mere heartbeats and
+   universally adopted programs can disappear after just a few months.
+    According to Kostreva a true sense of nostalgia can build up around
+   this fast turn around of programs and systems. ‘I think/hope that there
+   is always a certain level of sincerity to it, considering that most of
+--
+   height of our interest, when it “was still good.” Those are the
+   memories that become romanticised and sentimental. The cycle of
+   generating nostalgia mirrors the life-span of these online entities.’
+
+   An extra sense of loss stems from the common user belief that the
+--
+   old technologies able to inform upon modern practice.
+
+   ‘I don’t think it is nostalgia alone that is driving this love of old
+   technology. I might have fond memories of Super Mario Kart but that
+   doesn’t mean it’s not still awesome.’
+--
+   aesthetic response.
+
+   ‘Nostalgia is really about the feeling the memories give you so I find
+   it’s most successful when artists try and capture that feeling in the
+   style of their work. Personally when I see Internet nostalgia used as
+   subject matter I find the work to be flat and uninteresting. Nostalgia
+   goes against critical thinking, it glorifies.’
+
+--
+   Yet some artworks seem to be both sincere and ironic at the same time.
+   While this initially seems impossible, the sped up conditions in which
+   Internet nostalgia emerged has helped to make this an actuality.
+
+   According to Schreier, ‘As the rate of technological development
+--
+
+   By existing within this digital culture a swinging oscillation between
+   hope and despair is intuitively assumed. Internet nostalgia relates to
+   this by highlighting a recent past that is now obsolete through swift
+   technological advancement.
+
+   ‘Given the frustrations of current times, there is a very palpable
+   sense of nostalgia for the unfulfilled promises of past utopian
+   visions. In revisiting these moments, as we oscillate between former
+   and future visions, there is perhaps a hope that we might come to
+</text>
+</page> §
+<page="eng-39">
+<text>
+
+   Trump and Biden could not be more different in terms of ideology. But
+   when it comes to nostalgia, both candidates relied on a similar notion
+   of returning America to a different time.
+
+--
+   Melania Trump leave. (AP Photo/Evan Vucci)
+
+   Biden also has a brand of nostalgia and has played on the trope of an
+   industrial America of yesteryear, where people work hard, love their
+   families as they do their neighbours. It’s a place where “honest Joe”
+</text>
+</page> §
+<page="eng-3">
+<text>
+   Menu
+   Verywell Mind
+   What Is Nostalgia?
+     * Mental Health A-Z
+          + Addiction
+--
+   Mental Health A-Z
+
+What Is Nostalgia?
+
+   By
+--
+   View All
+   Table of Contents
+     * What Is Nostalgia?
+     * History
+     * Examples
+--
+     * How to Avoid the Negative Effects
+
+What Is Nostalgia?
+
+Nostalgia
+
+   Nostalgia is a sentimentality for the past, typically for a period or
+   place with happy personal associations. Nostalgia is usually triggered
+   by something reminding an individual of an experience from the past. It
+   is often characterized as a longing or desire to return to a former
+   time or place.
+
+   Nostalgia can also be thought of as "the memory of happiness," as it is
+   often associated with happy memories from the past. It can be a source
+   of comfort in times of sadness or distress.
+
+   However, nostalgia is not just about happy memories; it can also be
+   about longing for a time when things were simpler, or for a time when
+   we felt more connected to others.
+
+History of Nostalgia
+
+   Nostalgia is a relatively new concept. The word was first coined in
+   1688 by Swiss physician Johannes Hofer, who defined it as a
+   neurological illness of continually thinking about one's homeland and
+   longing for return.
+
+   It was not until the 19th century that nostalgia began to be seen as a
+   positive sentiment, rather than a pathological condition. Swiss
+   psychiatrist Carl Jung, for example, saw nostalgia as a way of
+   reconnecting with our past and understanding our present. For Jung,
+   nostalgia was a way to access the "collective unconscious"—the shared
+   history and experiences that we all have as human beings.
+
+   During the First World War, nostalgia was once again associated with
+   illness, as soldiers away at battle longed for the comforts of home.
+   However, after the war ended, nostalgia once again became a positive
+   sentiment.
+
+Examples of Nostalgia From Popular Culture
+
+   There are many examples of nostalgia in popular culture. The film It's
+   a Wonderful Life (1946) is often cited as one of the most nostalgic
+   films ever made. The film tells the story of George Bailey (played by
+--
+
+   The television series The Wonder Years (1988-1993) is another example
+   of nostalgia. The show tells the story of Kevin Arnold (played by Fred
+   Savage), a boy growing up in the suburbs in the 1960s and 1970s. The
+   show is notable for its use of voice-over narration from Kevin's older
+--
+   to make it one of the most popular love songs of all time.
+
+Types of Nostalgia
+
+   There are two types of nostalgia: positive and negative.
+     * Positive nostalgia is characterized by happy, rose-tinted memories
+       of the past. It is often associated with feelings of warmth,
+       happiness, and comfort.
+     * Negative nostalgia, on the other hand, is characterized by
+       bittersweet or even painful memories of the past.It is often
+       associated with longing, sadness, and regret.
+
+   Nostalgia can also be divided into three different categories:
+   personal, social, and cultural.
+     * Personal nostalgia is characterized by memories of specific people
+       or events from one's own life.
+     * Social nostalgia is characterized by memories of a time when one
+       felt more connected to others.
+     * Cultural nostalgia is characterized by memories of a time when one
+       felt more connected to their culture.
+
+Benefits of Nostalgia
+
+   Nostalgia has been shown to have a number of benefits. For example,
+   nostalgia has been shown to:
+     * Boost mood
+     * Increase self-esteem
+--
+       divorce, retirement, and death
+
+   Nostalgia can also have positive effects on physical health. For
+   example, nostalgia has been shown to boost immune function and reduce
+   stress levels.Nostalgia can also help to increase life satisfaction and
+   reduce anxiety.
+
+Negative Effects of Nostalgia
+
+   However, nostalgia can also have negative effects. For example,
+   nostalgia can:
+     * Lead to a sense of loneliness and isolation
+     * Cause people to dwell on the past and become unhappy with the
+--
+   'I Hate Life': What to Do If Nothing Makes You Happy
+
+How to Avoid the Negative Effects of Nostalgia
+
+   There are a few things you can do to avoid the negative effects of
+   nostalgia:
+     * Think about the present moment. What are you doing right now that
+       you enjoy?
+--
+A Word From Verywell
+
+   Nostalgia is a complex emotion that can have both positive and negative
+   effects. If you find yourself feeling nostalgic, try to focus on the
+   present moment and the people you care about. If nostalgia is causing
+   you distress, it may be helpful to talk to a therapist.
+   13 Sources
+--
+   process to learn more about how we fact-check and keep our content
+   accurate, reliable, and trustworthy.
+    1. The Atlantic. When Nostalgia Was a Disease.
+    2. Battesti M. Nostalgia in the Army (17th-19th Centuries). Front
+       Neurol Neurosci. 2016;38:132-142. doi:10.1159/000442652
+    3. Batcho KI. Nostalgia: The bittersweet history of a psychological
+       concept. Hist Psychol. 2013;16(3):165-176. doi:10.1037/a0032427
+    4. National Endowment for the Arts. Did You Know.... It's a Wonderful
+--
+       1992
+    7. Abeyta AA, Routledge C, Kaslon S. Combating Loneliness With
+       Nostalgia: Nostalgic Feelings Attenuate Negative Thoughts and
+       Motivations Associated With Loneliness. Front Psychol.
+       2020;11:1219. Published 2020 Jun 23. doi:10.3389/fpsyg.2020.01219
+    8. Newman DB, Sachs ME. The Negative Interactive Effects of Nostalgia
+       and Loneliness on Affect in Daily Life. Front Psychol.
+       2020;11:2185. Published 2020 Sep 2. doi:10.3389/fpsyg.2020.02185
+    9. Jiang T, Cheung WY, Wildschut T, Sedikides C. Nostalgia,
+       reflection, brooding: Psychological benefits and autobiographical
+       memory functions. Conscious Cogn. 2021;90:103107.
+       doi:10.1016/j.concog.2021.103107
+   10. Ismail S, Christopher G, Dodd E, et al. Psychological and Mnemonic
+       Benefits of Nostalgia for People with Dementia. J Alzheimers Dis.
+       2018;65(4):1327-1344. doi:10.3233/JAD-180075
+   11. Juhl J, Wildschut T, Sedikides C, Xiong X, Zhou X. Nostalgia
+       promotes help seeking by fostering social connectedness. Emotion.
+       2021;21(3):631-643. doi:10.1037/emo0000720
+   12. Batcho KI. Nostalgia: retreat or support in difficult times?. Am J
+       Psychol. 2013;126(3):355-367. doi:10.5406/amerjpsyc.126.3.0355
+   13. Newman DB, Sachs ME, Stone AA, Schwarz N. Nostalgia and well-being
+       in daily life: An ecological validity perspective. J Pers Soc
+       Psychol. 2020;118(2):325-347. doi:10.1037/pspp0000236
+</text>
+</page> §
+<page="eng-40">
+<text>
+     *
+          + Abstract
+          + The Sociality of Nostalgia
+          + National Nostalgia vs. Personal Nostalgia
+          + National Nostalgia and Outgroup Threat
+          + National Nostalgia and Outgroup Perceptions in the Context of
+            Political Messaging
+          + The Current Study
+--
+   https://doi.org/10.3389/fpsyg.2021.555667
+
+Making America Great Again? National Nostalgia's Effect on Outgroup
+Perceptions
+
+--
+       Richmond, VA, United States
+
+   Nostalgia is a fond longing for the past that has been shown to
+   increase feelings of meaning, social connectedness, and
+   self-continuity. Although nostalgia for personal memories provides
+   intra- and interpersonal benefits, there may be negative consequences
+   of group-based nostalgia on the perception and acceptance of others.
+   The presented research examined national nostalgia (a form of
+   collective nostalgia), and its effects on group identification and
+   political attitudes in the United States. In a sample of US voters (N =
+   252), tendencies to feel personal and national nostalgia are associated
+   with markedly different emotional and attitudinal profiles. Higher
+   levels of national nostalgia predicted both positive attitudes toward
+   President Trump and racial prejudice, though there was no evidence of
+   such relationships with personal nostalgia. National nostalgia most
+   strongly predicted positive attitudes toward president Trump among
+   those high in racial prejudice. Furthermore, nostalgia's positive
+   relationship with racial prejudice was partially mediated by perceived
+   outgroup threat. Results from this study will help us better understand
+   how the experience of national nostalgia can influence attitudes and
+   motivate political behavior.
+
+--
+   rhetoric (Skelley, 2017). One concept repeatedly emerged within these
+   discussions as a mainstay of Trump's political appeal: that of
+   nostalgia, broadly defined as a bittersweet longing for the past.
+   Evidence of Trump's appeals to an earlier time in American history have
+   been cited from the beginning of the 2016 presidential campaign through
+--
+   voters' latent feelings of threat to their economic welfare, or to the
+   racial or cultural homogeneity of American culture (Brownstein, 2016;
+   Smeekes et al., 2020). On a broad scale, nostalgia focused on
+   nationality is a prominent feature of right-wing populist party
+   rhetoric, and evidence from voters in the Netherlands suggests that the
+   emphasis of stigmatizing outgroups and preserving cultural hegemony
+   within nostalgic messaging is what explains the link between nostalgia
+   and right-wing populist support (Smeekes et al., 2020). In the United
+   States, several studies provide strong evidence of a link between
+--
+   has of yet established whether Trump's nostalgic rhetoric may be
+   associated with voters' attitudes toward racial outgroups. To this end,
+   in this paper, we present evidence that national nostalgia, an emotion
+   distinct from personal nostalgia, is associated with increased
+   prejudice as well as support for the populist messaging of Donald
+   Trump.
+
+The Sociality of Nostalgia
+
+   Nostalgia is a mostly positive emotion that increases self-regard,
+   attenuates self-esteem defense, enhances meaning in life, increases
+   perceptions of self-continuity, and lessens feelings of existential
+   threat (Wildschut et al., 2006; Routledge et al., 2008). Most people
+   report experiencing nostalgia on a regular basis (Wildschut et al.,
+   2006) and often structure their present in anticipation of experiencing
+   nostalgia in the future (Cheung et al., 2020). Nostalgia is triggered
+   in various ways, including by music, scents, and reflecting on past
+   momentous events (Barrett et al., 2010; Reid et al., 2015; Sedikides et
+--
+   et al., 2008).
+
+   The social connectedness function of nostalgia is a primary avenue
+   through which nostalgia confers positive psychological benefits.
+   Although nostalgic memories are more likely to be evoked while
+   experiencing negative affect (Wildschut et al., 2006) and loneliness
+--
+   memories seem to indirectly regulate these positive emotions by evoking
+   and making more salient one's symbolic connections with others
+   (Sedikides and Wildschut, 2019). For example, nostalgia felt in
+   response to loneliness has been shown to reduce perceptions of
+   isolation and low social support (Zhou et al., 2008). In organizational
+--
+   et al., 2015).
+
+   Importantly, those who are more likely to experience nostalgia (i.e.,
+   those high in personal nostalgia) are also more motivated to control
+   prejudicial feelings and reduce their expression of prejudices against
+   outgroups as a result of these positive benefits (Cheung et al., 2017).
+   Four studies of Caucasian Americans examined the links between personal
+   nostalgia and the expression of both blatant and more subtle prejudice
+   toward African Americans (Cheung et al., 2017). They found that the
+   link between personal nostalgia and prejudice reduction was mediated by
+   feelings of empathy, suggesting that the experience of nostalgia offers
+   advantages beyond the self.
+
+National Nostalgia vs. Personal Nostalgia
+
+   The link between nostalgia and sociality becomes more complex when
+   considering nostalgia felt for one's group. Although nostalgia felt at
+   the individual level confers both intra- and interpersonal benefits,
+   group-based nostalgia appears to have a distinct psychological profile
+   from personal nostalgia. Group-based emotions, as distinct from
+   individual-level emotions, arise when individuals self-categorize with
+   a social group and integrate the group into their sense of self (Seger
+--
+   Mastro, 2015).
+
+   Group-based nostalgia—operationalized as nostalgia felt for events
+   shared with one's ingroup, or collective nostalgia—can be experienced
+   in a variety of social settings, including organizations, school
+   classes (e.g., Class of 2021), cities, and nations (Wildschut et al.,
+   2014; Smeekes, 2015; Green et al., 2021). Like individual-level
+   nostalgia, shared memories can include notable events, such as a
+   special performance (band or orchestra), graduation day, homecoming
+   (college class), or sports championships (city). However, unlike
+   individual-level nostalgia, group-based nostalgia can occur in the form
+   of a longing for a past that individuals themselves did not experience,
+   but rather one that was passed down through collective memory
+   (Martinovic et al., 2017). Additionally, collective nostalgia has been
+   shown to increase positive attitudes as well as an approach-oriented
+   action tendency toward the ingroup relative to an individually
+   experienced nostalgic memory (Wildschut et al., 2014, Study 1).
+   Collective nostalgia also can increase group-oriented prosociality
+   (e.g., willingness to volunteer or donate money to help the ingroup;
+   Wildschut et al., 2014; Green et al., 2021). Collective self-esteem
+--
+   collective self-esteem, which, in turn, increased intentions to
+   volunteer. Other research has found additional ingroup benefits to
+   collective nostalgia, such a preference for domestic (vs. foreign)
+   consumer products (Dimitriadou et al., 2019) and a promotion of
+   collective political action (in Hong Kong; Cheung et al., 2017).
+--
+   an ordinary collective memory) were more willing to punish outgroup
+   members who were unfair to an ingroup member (Wildschut et al., 2014,
+   Study 3). However, in some cases, collective nostalgia might increase
+   intergroup contact when individuals can feel collective nostalgia for a
+   superordinate group (Martinovic et al., 2017). In a study of former
+   Yugoslavians who had settled in Australia, Bosniaks, Croats, and Serbs
+--
+   ethnic groups).
+
+   National nostalgia is one type of collective nostalgia that is felt
+   while self-categorizing as a citizen of a specific country, and is
+   likely to be associated with particular intra- and intergroup attitudes
+   and behavioral intentions. Just as personal nostalgia during times of
+   change and upheaval can facilitate coping (e.g., attenuating
+   loneliness) (Zhou et al., 2008), national nostalgia—a reverie for a
+   country's good old days—may increase felt closeness to fellow natives
+   during times of national stress or uncertainty. However, nostalgic
+   revelry at the national level may exclude other citizens, such as
+   recent immigrants or minorities (Smeekes and Jetten, 2019). Studies of
+   national nostalgia among Dutch participants indicated that national
+   nostalgia predicted prejudice toward religious minorities in the
+   country (Smeekes et al., 2014) as well as prejudice toward Muslim
+   countries (Smeekes, 2015). Notably, these outgroup attitudes were not
+   predicted by personal nostalgia, which has been shown to be associated
+   with decreased intergroup prejudice (Cheung et al., 2017). This
+   distinction between personal and national nostalgia may lie in the
+   extent to which outgroups pose an emotional threat to the self.
+
+National Nostalgia and Outgroup Threat
+
+   The intergroup threat theory (Stephan et al., 1999) posits that
+--
+   2a and 2b) prejudice toward non-White outgroups and pro-White
+   attitudinal bias. One possible explanation on why national and personal
+   nostalgia are associated with different intergroup attitudes may be due
+   to different levels of social categorization evoked, leading to
+   differing levels of perceived threat. Personal nostalgia, which is
+   associated with continuity of personal identity (Sedikides et al.,
+   2015a) and evokes strong feelings of social connectedness, also has
+   downstream implications for reducing anxiety and hostility toward
+   outgroup members (for a review, see Sedikides and Wildschut, 2019). In
+   contrast, feeling national nostalgia is associated with
+   self-categorizing at the group level, evoking one's national identity
+   (Smeekes and Verkuyten, 2015). Similar to how personal nostalgia may be
+   evoked when feeling disconnection at the individual level, national
+   nostalgia has been shown to be evoked in response to existential
+   concerns about one's group-based identity, and may have the beneficial
+   effect of reducing anxiety by bolstering perceptions of group
+   continuity and connection (Smeekes et al., 2018). For example, trait
+   national nostalgia among Dutch participants was positively associated
+   with wanting to protect national ingroup identity (Smeekes, 2015).
+   Similarly, a cross-national survey across 27 countries found that
+   existential concerns about the future of one's country predicted
+   increased collective nostalgia, which in turn predicted greater ingroup
+   belonging and anti-immigrant sentiment (Smeekes et al., 2018). However,
+   when the presence or power of outgroups is salient (e.g., chronically
+   or by the rhetoric of politicians), national nostalgia may increase
+   perceived threat. Moreover, ingroup continuity may be threatened by
+   consideration of outgroups (Smeekes et al., 2018). This may be
+--
+   distorted—for example, when whites in the United States feel a longing
+   for a (whiter and more homogenized) past that never was. Thus, national
+   nostalgia could increase this fear of the future, leading to increased
+   prejudice.
+
+--
+   ethnic identities, we extended this line of inquiry by examining
+   whether perceived intergroup threat explains any found relationship
+   between national nostalgia and endorsement of symbolic prejudice.
+
+National Nostalgia and Outgroup Perceptions in the Context of Political
+Messaging
+
+   Recent work has highlighted the prominence of national nostalgia in the
+   rhetoric of right-wing populist political parties, and in particular
+   its role in posing racial or national outgroups as scapegoats for
+   perceived economic or cultural decline (Mols and Jetten, 2014; Smeekes
+   et al., 2020). Political leaders often utilize national nostalgia in
+   rhetorical strategy by emphasizing the discontinuity between a nation's
+   past and present (Mols and Jetten, 2014), which then serves to evoke
+   collective angst about group status (Smeekes et al., 2018). A content
+   analysis of speeches by right-wing populist leaders in Western Europe
+   found consistent themes of nostalgia for their country's “glorious
+   past” while denigrating the country's present, as well as themes
+   emphasizing that a) opponents of the party were the cause of this
+--
+   outlet for restoring psychological well-being by denigrating the
+   outgroups believed to be responsible (Smeekes et al., 2018). Indeed,
+   national nostalgia has been shown to explain support for right-wing
+   populist policies and leaders via the denigration of immigrant and
+   racial outgroups (Smeekes et al., 2020).
+--
+
+   To build upon this research, the aim of our study was to directly
+   examine how voters' propensity to feel national nostalgia may explain
+   support for Trump's populist rhetoric as well as increases in racial
+   prejudice in the United States following the 2016 presidential election
+--
+The Current Study
+
+   We examined the role of national nostalgia in propagating intergroup
+   racial hostility above and beyond political orientation. We explored
+   how national nostalgia relates to political and racial attitudes among
+   voters who participated in the 2016 US presidential election. We also
+   examined the interplay between national nostalgia, pro-Trump attitudes,
+   outgroup prejudice, and perceived outgroup threat.
+
+--
+   office for some time, and whether the nostalgic message of “Making
+   America Great Again” still resonated with voters. Minimal work on
+   national nostalgia has been conducted, and to date, nearly all of this
+   work has been conducted outside of the United States; thus, this
+   research would explore the potential link between national nostalgia
+   and political attitudes as well as study the phenomenon in the US
+   sociopolitical landscape. In addition, we included a validated measure
+   of personal nostalgia in order to better examine the association
+   between personal and national nostalgia as well as to assess whether
+   each type of nostalgia might be associated with political attitudes.
+
+Hypotheses
+--
+   (https://osf.io/mwh6n).
+
+   Hypothesis 1. National nostalgia would be positively related to
+   pro-Trump attitudes (1a). No relationship was expected to be found
+   between personal nostalgia and positive attitudes toward President
+   Trump (1b).
+
+--
+   related to pro-Trump attitudes?
+
+   Research Question 2. Will national nostalgia be positively related to
+   racial prejudice?
+
+   Research Question 3. Will the relationship between national nostalgia
+   and racial prejudice be mediated by increased threat sensitivity?
+
+--
+Measures
+
+Personal Nostalgia
+
+   The Southampton Nostalgia Scale (SNS; Routledge et al., 2008) measured
+   personal nostalgia, operationalized as how frequently participants
+   experience nostalgia and how significant participants felt nostalgic
+   experiences were to them. The scale included seven items (e.g., “How
+   valuable is nostalgia for you?”) rated from 1 (Not at all) to 7 (Very
+   much). To build on past national nostalgia research (Smeekes et al.,
+   2014), we use a validated measure of personal nostalgia (proneness to
+   feeling personal nostalgia).
+
+National Nostalgia
+
+   The National Nostalgia Scale (NNS; Smeekes et al., 2014, Study 1)
+   measured participants' propensity to feel nostalgia on the basis of
+   one's national ingroup membership. The scale included four items rated
+   from 1 (Very rarely) to 5 (Very frequently) scale. The NNS used in this
+--
+
+   In terms of political attitudes, we wanted to assess positive sentiment
+   toward the President as related to the experience of nostalgia.
+   Therefore, we used a modified version of the State Functions of
+   Nostalgia Scale (SFN; Hepper et al., 2012), which measures the extent
+   to which nostalgia confers the positive benefits of social
+   connectedness, well-being, self-regard, and overall positive affect.
+   Each item was modified to assess how participants experienced these
+--
+   Table 1. To test our hypotheses, we conducted a series of hierarchical
+   linear regression models and bootstrapped mediation and moderation
+   analyses to assess the relationship between nostalgia (national and
+   personal) and political and intergroup attitudes using SPSS v. 20 and
+   Hayes' PROCESS macro v.3 (Hayes, 2013). Following these baseline
+   models, we also support our findings using path analyses employing
+   maximum likelihood estimation using IBM AMOS v. 26 (Due to a computer
+   error, the national nostalgia data from 72 participants were unusable,
+   reducing the n for analyses including national nostalgia to 193, still
+   above the target based on the power analysis).
+   TABLE 1
+--
+Main Hypothesis
+
+   We first assessed whether national nostalgia and personal nostalgia
+   would be related to pro-Trump attitudes in the ways previously
+   predicted. National nostalgia and personal nostalgia proneness were
+   entered simultaneously in step 2 of the model to identify their unique
+   relationship with attitudes toward Trump. In step 1 of the hierarchical
+--
+   attitudes such that higher conservatism was associated with more
+   positive attitudes of Trump, β = 0.59 t(192) = 10.08, p <lt; 0.001. In
+   step 2 of the model, national nostalgia was associated with more
+   pro-Trump attitudes above and beyond political affiliation, β = 0.30,
+   t(192) = 4.43, p <lt; 0.001, supporting Hypothesis 1a. In contrast,
+   personal nostalgia was not associated with pro-Trump attitudes above
+   and beyond political orientation, β = −0.07, t(192) = −1.13, p = 0.259.
+   Nostalgia predicted a significant proportion of variance in attitudes
+   above and beyond political orientation, F[(2, 189)] = 9.90, p <lt; 0.001,
+   R^2Δ = 0.06.
+--
+   To examine this relationship in a consolidated path model^5, Figure 1
+   displays Path Model 1, quantifying the relationship between national
+   and personal nostalgia and race, political orientation, ethnic identity
+   salience, and pro-Trump attitudes. The model fit the data somewhat
+   weakly due to the lower sample size [χ2(1) = 23.01, p <lt; 0.001; CFI =
+   0.89; RMSEA = 0.34; SRMR = 0.03]. As shown in Model 1, Hypothesis 1 was
+   again supported: national nostalgia predicted pro-Trump attitudes (β =
+   0.24, p <lt; 0.001), whereas personal nostalgia was unrelated to pro-Trump
+   attitudes (β = −0.08, p = 0.156).
+   FIGURE 1
+--
+
+   Figure 1. Path analysis of relationships between national/personal
+   nostalgia, ethnic identity, and pro-Trump attitudes (Model 1). Note.
+   Path coefficients represent standardized estimates.
+
+--
+
+   We also examined whether racial identity salience qualified the
+   relationship between national nostalgia and pro-Trump attitudes. A
+   moderation analysis using Hayes' PROCESS macro (model 1) indicated that
+   higher racial identity salience somewhat strengthened the relationship
+   between national nostalgia and positive attitudes toward Trump, but
+   only among White participants; ΔR^2 = 0.03, F[(1, 77)] = 3.94, p =
+   0.051. Among those low in racial identity salience, national nostalgia
+   was unrelated to attitudes toward Trump; b = 0.27, 95% CI = (−0.03,
+   0.58). Those moderate [b = 0.43, 95% CI = (0.18, 70)] and high [b =
+   0.64, 95% CI = (0.31, 0.97)] in racial identity salience showed a
+   strong relationship between national nostalgia and pro-Trump attitudes.
+
+   As a final examination of Research Question 1, a second path model
+   (Path Model 2, Figure 4) was compared with Path Model 1 to again
+   examine the interaction between nostalgia and ethnic identity (on
+   pro-Trump attitudes), and the interaction between political orientation
+   and race (assessing its relationship with ethnic identity). When
+--
+   on a continuous scale) was not significantly associated with ethnic
+   identity (β = −0.08, p = 0.210). Additionally, the interaction term
+   between national nostalgia and ethnic identity was no longer associated
+   with pro-Trump attitudes (β = 0.13, p = 0.607). This suggests that for
+   White participants, greater national nostalgia was associated with
+   increased ethnic identity.
+   FIGURE 4
+--
+
+   Figure 4. Path analysis estimating interaction effects (race ×
+   political orientation and ethnic identity × nostalgia) on pro-Trump
+   attitudes. Note. Path coefficients represent standardized estimates.
+
+Research Question 2
+
+   We next examined whether national nostalgia was positively related to
+   racial prejudice. Bivariate correlations indicated that national
+   nostalgia was positively associated with both anti-Black racial
+   prejudice measured by the Symbolic Racism Scale (SRS) as well as
+   perceived realistic threat measured by the Realistic Threat Scale (RTS,
+   see Table 1). To further examine the link between national nostalgia
+   and racial prejudice, we tested whether racial prejudice moderated the
+   link between national nostalgia and positive attitudes toward President
+   Trump using Hayes' PROCESS macro (model 1) with 5,000 resamples. A
+   significant moderation effect was identified. Participants reporting
+   higher prejudice exhibited a stronger relationship between national
+   nostalgia and pro-Trump attitudes; ΔR^2 = 0.05, F[(1, 178)] = 19.60, p
+   <lt; 0.001. Simple slopes were calculated and visualized using the
+   interActive online utility, and are presented in Figure 5 (McCabe et
+   al., 2018). The relationship between national nostalgia and positive
+   attitudes toward Trump was non-significant at low levels of prejudice
+   (those at least −1 SD below the mean of SNS). However, for those
+   moderate to high in racial prejudice (0, +1, or +2 SDs above the mean
+   of SNS), national nostalgia positively predicted pro-Trump attitudes
+   (see Figure 5). Interestingly, this effect was found separately for
+   both White [ΔR^2 = 0.03, F[(1, 77)] = 5.93, p = 0.02] and Black
+   participants [ΔR^2 = 0.09, F[(1, 97)] = 17.44, p <lt; 0.001], but there
+   was no significant three-way interaction between national nostalgia,
+   prejudice, and race (p = 0.14), so the results in Figure 5 are
+   displayed for all participants.
+--
+   www.frontiersin.org
+
+   Figure 5. Relationship between national nostalgia and pro-Trump
+   attitudes moderated by anti-Black racial prejudice. Note. Plots display
+   simple slopes at −2, −1, 0, +1, and +2 SDs away from the mean of racial
+--
+Research Question 3
+
+   Will the relationship between national nostalgia and racial prejudice
+   be mediated by increased threat sensitivity?
+
+   We last examined whether the relationship between national nostalgia
+   and racial prejudice would be mediated by outgroup threat perception
+   (measured by the Realistic Threat Scale, RTS). A moderated mediation
+--
+   European-American and African-American participants. As shown in Figure
+   6, the model indicated a significant indirect effect of national
+   nostalgia on prejudice through the mediator of perceived threat for
+   both White/EA participants [β = 0.23, 95% CI = (0.12, 0.36)] and
+   Black/AA participants [β = 0.22, 95% CI = (0.13, 0.32)]. The
+--
+   www.frontiersin.org
+
+   Figure 6. Mediation of national nostalgia relationship with racial
+   prejudice by outgroup threat perception, moderated by participant race.
+
+   To examine this question in the context of a path model, Path Model 3
+   (Figure 7) displays the proposed relationships between national
+   nostalgia and racial prejudice. Model 3 showed a moderate fit with the
+   data, χ(2) = 65.80, p <lt; 0.001; CFI = 0.79; RMSEA = 0.41; SRMR = 0.07).
+   When accounting for political orientation, race, national nostalgia,
+   personal nostalgia, racial threat sensitivity, and racial prejudice in
+   a structural equation mediation model, national nostalgia directly
+   predicted racial prejudice (β = 0.21, p <lt; 0.001), whereas personal
+   nostalgia did not (β = 0.03, p = 0.581). The relationship between
+   national nostalgia and racial prejudice was significantly mediated by
+   threat sensitivity [indirect effect β = 0.18, 95% bias-corrected CI
+   (0.10, 0.26)]. Interestingly, personal nostalgia also showed a weak
+   indirect effect on national nostalgia via threat sensitivity, but in a
+   negative direction [indirect effect β = −0.07, 95% bias-corrected CI
+   (−0.14, −0.01)]. This suggests that greater personal nostalgia may
+   weakly predict lower racial prejudice via reduced racial threat
+   sensitivity.
+--
+
+   Figure 7. Path analysis of relationships between national/personal
+   nostalgia and prejudice, mediated by racial threat sensitivity (Model
+   3). Note. Path coefficients represent standardized estimates. Indirect
+   effect of national nostalgia on racial prejudice through racial threat
+   sensitivity was significant [β = 0.18; 95% bias-corrected CI (0.10,
+   0.26)].
+--
+Discussion
+
+   In our study, national nostalgia was associated with more positive
+   feelings about President Trump, as well as increased perceived racial
+   threat among White respondents. In contrast, personal nostalgia was
+   unrelated to support for Trump or perceived racial threat. When
+   assessed in a path model, personal nostalgia was actually associated
+   indirectly with lower anti-Black prejudice via decreased racial threat
+   sensitivity. These findings align with evidence from samples outside
+   the United States (e.g., Smeekes and Verkuyten, 2015; Smeekes et al.,
+   2020) that personal and national nostalgia are distinct experiences
+   with unique ramifications for intergroup attitudes and relations.
+   Though our overall finding that national nostalgia predicted Trump
+   support could reflect a strong semantic connection between Trump and
+   its 2016 presidential campaign slogan, it also may point to the appeal
+   of Trump's campaign—and its right wing, populist sentiments—among those
+   initially prone to feeling national nostalgia. To better answer this
+   question, our next analyses investigated more closely the relationship
+   between national nostalgia and identity.
+
+   Our first research question asked whether identity was associated with
+   national nostalgia. We found partial evidence for this idea, as
+   Republican participants expressed greater positive attitudes toward
+   Trump. However, there was no evidence of a relationship between race
+--
+   Trump's messaging appealed mostly to White voters. However, although
+   race itself did not predict support for the President, racial identity
+   salience moderated the link between national nostalgia and pro-Trump
+   attitudes. White Republicans felt more strongly connected to their
+   racial identity than Whites who identified as either Democrats or
+--
+   that the threat to White identity, along with other related constructs,
+   may influence political attitudes and may also offer an explanation on
+   why leaders invoking national nostalgia may be so attractive to some
+   individuals. This type of rhetoric typically emphasizes collective
+   identity discontinuity in order to foment anxiety about the state of
+--
+
+   The role of intergroup attitudes was apparent when examining the
+   relationship between national nostalgia and pro-Trump support. We found
+   that national nostalgia significantly predicted racial prejudice and
+   that this relationship was mediated by perceived outgroup threat.
+   Interestingly, this mediational effect was found among both White/EA
+   and Black/AA participants, although the lack of a significant
+   interaction effect may have been due to lower power. Additionally, we
+   found a stronger relationship between national nostalgia and pro-Trump
+   attitudes among those who reported more prejudice toward Black
+   individuals. These findings align with evidence that group emotions
+--
+   when outgroups are perceived to be a threat (Smith et al., 2007;
+   Wildschut et al., 2014). In particular, these findings align with
+   converging evidence that the content of collective nostalgia—what
+   individuals perceive to be “the good old days” for their identity
+   group—reflects salient sources of perceived threat (Wohl et al., 2020).
+   This conceptual model, highlighting the content of collective
+   nostalgia, also explains differences between the emotional outcomes of
+   personal and national nostalgia. Whereas, personal nostalgia enhances
+   feelings of belonging by evoking memories of positive intrapersonal
+   experiences in the face of ostracism or loneliness, national nostalgia
+   may enhance belongingness by evoking positive thoughts about the “good
+   old days” when one's group was perceived to be higher in status or less
+   threatened by outgroups. It is also possible that national nostalgia,
+   like personal nostalgia, may enhance feelings of continuity in its own
+   way, by allowing individuals to feel connected to a time in which they
+   believed their ingroup identity was less threatened or somehow
+   stronger. Recent work supports the notion that, analogous to personal
+   nostalgia, enhancing feelings of self-continuity (Sedikides and
+   Wildschut, 2019), national nostalgia is linked to feelings of ingroup
+   continuity (Smeekes et al., 2018). A study across 27 countries found
+   that national nostalgia was associated with stronger feelings of
+   ingroup continuity (Smeekes et al., 2018); ingroup belonging but not
+   prejudice (outgroup rejection) appeared to mediate this link. Since
+   relatively little research on collective nostalgia, particularly
+   national nostalgia, has been undertaken, future work should examine
+   these questions via multiple methods, particularly longitudinal and
+   experimental designs, which can identify whether and to what extent
+   self-continuity is enhanced by (or itself predicts) collective
+   nostalgia in response to outgroup threat.
+
+Constraint on Generalizability
+--
+   Additionally, these considerations of intergroup threat perception and
+   prejudice are most generalizable to White/EA and Black/AA social groups
+   within the United States, and future analysis of national nostalgia
+   should continue to assess different ethnicities, races, and other
+   relevant social categories.
+--
+Future Directions
+
+   These findings raise the question on whether national nostalgia stems
+   from a desire by some to go back in time, due to perceived group
+   identity threats. Future research should employ longitudinal or
+   experimental methods, such as manipulating identity threat, to examine
+   whether national nostalgia arises as a defense against perceived
+   threats to one's ingroup. Relatedly, it is only recently that national
+   nostalgia has been manipulated (Smeekes and Verkuyten, 2015; Wohl et
+   al., 2020), as the majority of national nostalgia research has been at
+   the trait level. Further work evoking national nostalgia in
+   experimental contexts would allow us to better understand how this
+   emotion interacts with intergroup attitudes, prejudice, and feelings of
+--
+
+   An additional question to be explored is the extent to which national
+   nostalgia operates within specific cultures and nations. Although
+   Trump's presidential tenure has ended, the importance of these findings
+   is not constrained only to the rhetoric from his campaign. Rather, the
+   use of national nostalgia in political communication is widespread
+   (Mols and Jetten, 2014; Smeekes et al., 2020) and has far-reaching
+   implications. Future research should examine the role of national
+   nostalgia in shaping attitudes toward demagogues in a variety of
+   settings and when considering a variety of societal outcomes. Our
+   findings suggest that national nostalgia may influence intergroup
+   attitudes as a group-based emotion broadly through evoking positive
+   emotions about one's national group identity. However, the nature of
+--
+   recent history, and a call to return to a former time may imply a call
+   for a return to a former and less egalitarian social hierarchy. Future
+   research on national nostalgia should explore the nuances of this
+   emotion and its expression among various ethnic and social groups in
+   different countries. Expressions of national nostalgia may evoke
+   intergroup hostility to a lesser extent within nations with different
+   histories.
+--
+Coda
+
+   National nostalgia, a form of collective nostalgic experience, is a
+   promising lens through which to analyze attitudes, such as political
+   and prejudicial attitudes, particularly when combined with assessments
+   of identity salience and perceived outgroup threat. Research to date on
+   national nostalgia is relatively new. Although this phenomenon has been
+   studied elsewhere (mostly in European and Asian nations), this is the
+   first study, to our knowledge, to examine the US political landscape.
+   Personal nostalgia—a wistful longing for one's personal past—does not
+   have the same associations with political and group attitudes, and only
+   moderately correlates with national nostalgia. In contrast, national
+   nostalgia, particularly in combination with white identity salience and
+   outgroup threat perception, predicted both prejudice and political
+   attitudes.
+
+   There may be some irony in the possibility that national nostalgia may
+   include beliefs for a past that never was; in this case, an America
+   that was not as white as some recollect. Nevertheless, these national
+--
+   group to the Caucasian sample.
+
+   3. ^The Pearson correlation between national nostalgia and outgroup
+   prejudice reported by Smeekes and Verkuyten, 2015, study 2).
+
+--
+   time this study was developed. However, the decision was made prior to
+   data collection to utilize this validated scale as a more direct and
+   statistically sound way to measure the construct of national nostalgia.
+
+   5. ^Although structural equation models are often used to model paths
+   among composite variables (such as national and personal nostalgia), we
+   opted to use a path model for these analyses given that our sample was
+   not large enough to justify inclusion of all individual items in the
+--
+
+   Barrett, F. S., Grimm, K. J., Robins, R. W., Wildschut, T., Sedikides,
+   C., and Janata, P. (2010). Music-evoked nostalgia: affect, memory, and
+   personality. Emotion 10, 390–403. doi: 10.1037/a0019006
+
+--
+
+   Batcho, K. I., DaRin, M. L., Nave, A. M., and Yaworsky, R. R. (2008).
+   Nostalgia and identity in song lyrics. Psychol. Aesth. Creativ. Arts 2,
+   236–244. doi: 10.1037/1931-3896.2.4.236
+
+   CrossRef Full Text | Google Scholar
+
+   Brownstein, R. (2016, June 2). Trump's rhetoric of White nostalgia. The
+   Atlantic. Available online at:
+   https://www.theatlantic.com/politics/archive/2016/06/trumps-rhetoric-of
+   -white-nostalgia/485192/
+
+   Google Scholar
+
+   Cheung, W. Y., Hepper, E. G., Reid, C. A., Green, J. D., Wildschut, T.,
+   and Sedikides, C. (2020). Anticipated nostalgia: looking forward to
+   looking back. Cogn. Emot. 34, 511–525. doi:
+   10.1080/02699931.2019.1649247
+--
+   PubMed Abstract | CrossRef Full Text | Google Scholar
+
+   Cheung, W. Y., Sedikides, C., and Wildschut, T. (2017). Nostalgia
+   proneness and reduced prejudice. Pers. Individ. Dif. 109, 89–97. doi:
+   10.1016/j.paid.2016.12.045
+--
+
+   Dimitriadou, M., Maciejovsky, B., Wildschut, T., and Sedikides, C.
+   (2019). Collective nostalgia and domestic country bias. J. Exp.
+   Psychol. Appl. 25, 445–457. doi: 10.1037/xap0000209
+
+--
+
+   Green, J. D., Cairo, A. H., Sedikides, S., and Wildschut. (2021). The
+   ties that bind: university nostalgia fosters relational and collective
+   university engagement. Front. Soc. Psychol. 11:580731. doi:
+   10.3389/fpsyg.2020.580731
+--
+
+   Hepper, E. G., Ritchie, T. D., Sedikides, C., and Wildschut, T. (2012).
+   Odyssey's end: Lay conceptions of nostalgia reflect its original
+   Homeric meaning. Emotion 12, 102–119. doi: 10.1037/a0025167
+
+--
+
+   Martinovic, B., Jetten, J., Smeekes, A., and Verkuyten, M. (2017).
+   Collective memory of a dissolved country: group-based nostalgia and
+   guilt assignment as predictors of interethnic relations between
+   diaspora groups from former Yugoslavia. J. Soc. Political Psychol. 5,
+--
+
+   Reid, C. A., Green, J. D., Wildschut, T., and Sedikides, C. (2015).
+   Scent-evoked nostalgia. Memory 23, 157–166. doi:
+   10.1080/09658211.2013.876048
+
+--
+
+   Routledge, C., Arndt, J., Sedikides, C., and Wildschut, T. (2008). A
+   blast from the past: the terror management function of nostalgia. J.
+   Exp. Soc. Psychol. 44, 132–140. doi: 10.1016/j.jesp.2006.11.001
+
+--
+
+   Sedikides, C., and Wildschut, T. (2019). The sociality of personal and
+   collective nostalgia. Eur. Rev. Soc. Psychol. 30, 123–173. doi:
+   10.1080/10463283.2019.1630098
+
+--
+
+   Sedikides, C., Wildschut, T., Arndt, J., and Routledge, C. (2008).
+   Nostalgia: past, present, and future. Curr. Dir. Psychol. Sci. 17,
+   304–307. doi: 10.1111/j.1467-8721.2008.00595.x
+
+--
+
+   Sedikides, C., Wildschut, T., Routledge, C., and Arndt, J. (2015a).
+   Nostalgia counteracts self-discontinuity and restores self continuity.
+   Eur. J. Soc. Psychol. 45, 52–61. doi: 10.1002/ejsp.2073
+
+--
+   Google Scholar
+
+   Smeekes, A. (2015). National nostalgia: a group-based emotion that
+   benefits the in-group but hampers intergroup relations. Int. J.
+   Intercult. Relat. 49, 54–67. doi: 10.1016/j.ijintrel.2015.07.001
+--
+
+   Smeekes, A., and Jetten, J. (2019). Longing for one's home country:
+   national nostalgia and acculturation among immigrants and natives. Int.
+   J. Intercult. Relat. 69, 131–150. doi: 10.1016/j.ijintrel.2019.02.001
+
+--
+
+   Smeekes, A., Verkuyten, M., and Martinovic, B. (2014). Longing for the
+   country's good old days: national nostalgia, autochthony beliefs, and
+   opposition to Muslim expressive rights. Br. J. Soc. Psychol. 54,
+   561–580. doi: 10.1111/bjso.12097
+--
+
+   Smeekes, A., Wildschut, T., and Sedikides, C. (2020). Longing for the
+   “good old days” of our country: national nostalgia as a new
+   master-frame of populist radical-right parties. J. Theoret. Soc.
+   Psychol. doi: 10.1002/jts5.78
+--
+
+   van Dijke, M., Wildschut, T., Leunissen, J., and Sedikides, C. (2015).
+   Nostalgia buffers the negative impact of low procedural justice on
+   cooperation. Organ. Behav. Hum. Decis. Process. 127, 15–29. doi:
+   10.1016/j.obhdp.2014.11.005
+--
+
+   Wildschut, T., Bruder, M., Robertson, S., van Tilburg, W. A. P., and
+   Sedikides, C. (2014). Collective nostalgia: a group-level emotion that
+   confers unique benefits on the group. J. Pers. Soc. Psychol. 107,
+   844–863. doi: 10.1037/a0037760
+--
+
+   Wildschut, T., Sedikides, C., Arndt, J., and Routledge, C. (2006).
+   Nostalgia: content, triggers, functions. J. Pers. Soc. Psychol. 91,
+   975–993. doi: 10.1037/0022-3514.91.5.975
+
+--
+
+   Wohl, M. J., Stefaniak, A., and Smeekes, A. (2020). Longing is in the
+   memory of the beholder: collective nostalgia content determines the
+   method members will support to make their group great again. J. Exp.
+   Soc. Psychol. 91:104044. doi: 10.1016/j.jesp.2020.104044
+--
+
+   Zhou, X., Sedikides, C., Wildschut, T., and Gao, D. G. (2008).
+   Counteracting loneliness: on the restorative function of nostalgia.
+   Psychol. Sci. 19, 1023–1029. doi: 10.1111/j.1467-9280.2008.02194.x
+
+   PubMed Abstract | CrossRef Full Text | Google Scholar
+
+   Keywords: national nostalgia, prejudice, intergroup relations, emotion,
+   political differences
+
+   Citation: Behler AMC, Cairo A, Green JD and Hall C (2021) Making
+   America Great Again? National Nostalgia's Effect on Outgroup
+   Perceptions. Front. Psychol. 12:555667. doi: 10.3389/fpsyg.2021.555667
+
+--
+This article is part of the Research Topic
+
+   Current Issues in Nostalgia Research
+   View all 13 Articles
+</text>
+</page> §
+<page="eng-41">
+<text>
+   #The School Of Life » Overcoming Nostalgia for a Past Relationship
+   Comments Feed alternate alternate alternate
+
+--
+   Relationships • Breaking Up &amp; Heartbreak
+
+Overcoming Nostalgia for a Past Relationship
+
+   After considerable agony, we’ve left a relationship. We’re on our own
+--
+   genuine mistake. But it’s even more likely that we are in the grip of a
+   characteristic mental habit of the newly single, facing the vertigo of
+   independence: nostalgia.
+
+   In the middle of the nineteenth century, Britain underwent industrial
+--
+     * 09. What If I Just Repeat the Same Mistakes Next Time?
+     * 10. Are My Expectations Too High?
+     * 11. Overcoming Nostalgia for a Past Relationship
+     * 12. The Feeling of Being Back in Love with the Person You're About
+       to Leave
+--
+     * 06. Our Tragic Condition
+     * 07. The Melancholy Charm of Lonely Travelling Places
+     * 08. Nostalgia for Religion
+     * 09. Parties and Melancholy
+     * 10. Why Very Beautiful Scenes Can Make Us So Melancholy
+--
+     * 15. Sex and Melancholy
+     * 16. Astronomy and Melancholy
+     * 17. Nostalgia for the Womb
+     * 18. Melancholy and the Feeling of Being Superfluous
+     * 19. Pills &amp; Melancholy
+</text>
+</page> §
+<page="eng-42">
+<text>
+   #Constructed Nostalgia for Rock’s Golden Age: “I Believe in Yesterday”
+   La nostalgie construite Volume !, Numéros Volume !, Documents
+
+--
+   La revue des musiques populaires
+
+   AccueilTous les numéros11 : 1Rock &amp; chansonConstructed Nostalgia for
+   Rock’s ...
+
+--
+   Rock &amp; chanson
+
+Constructed Nostalgia for Rock’s Golden Age: “I Believe in Yesterday”
+
+   Deena Weinstein
+--
+   The phenomenon of rock’s past having occluded its present is examined
+   through the intentionality that grounds it culturally. Specifically,
+   neo-nostalgia (Jameson) and similar postmodern terms (simulation,
+   construction) constitute the intentionality and the commercial
+   interests of the music industry and the generational power of the Baby
+   Boomers and Gen X are the structural determinants. Neo-nostalgia for
+   rock’s past is directed toward an aestheticized imaginary of rock’s
+   golden age — a mythical time that never was, rather than a supposed
+   eternal transcendent (religion) or an individualized empirical past
+   (homesickness). Nostalgia for a construction, fabricated for corporate
+   profit and generational/parental power, is a depthless and riskless
+   adventure for a generation that experiences severe constraints on its
+--
+Keywords:
+
+   memory / nostalgia / retro, music / recording industry, mainstream /
+   commercialism / commodification, marketing / communication /
+   advertising, authenticity, age / generation, archives / reissues /
+--
+
+   Rock Zombies Invade The Living
+   Constructed Nostalgia
+   Commodification of Nostalgia
+   Youth without Youth
+   Conclusion
+--
+   Knebworth festival Afficher l’image
+
+   1Nostalgia isn’t what it used to be and neither is rock. In a sense,
+   rock today is even more what it used to be while nostalgia, especially
+   nostalgia about rock music, has changed so much that it deserves a new
+   name. It once referred to direct experience; now it is mainly a
+   cultural construction, so it would be more precise to refer to it as
+   cultural nostalgia. Both nostalgia and rock have had their own
+   histories, the first as old as the human past itself, and, the second
+   inaugurated in the middle of the last century.
+
+   The relationship between nostalgia and rock has flipped – originally
+   nostalgia was often influenced by rock, whereas today rock is impelled
+   by nostalgia’s new incarnation. The following discussion traces the
+   conjunction of rock and nostalgia in terms of a general (post-modern)
+   cultural analysis and its social-structural grounds.
+
+--
+     Thinking””.
+
+Constructed Nostalgia
+
+   11Rock hasn’t changed to become exactly what it used to be. It carries
+   a severely edited version of its past with many artists and recordings
+   redacted, and others, especially those from the late 1960s and early
+   1970s, bolded and underlined. On the other hand, nostalgia is something
+   more than it has been with a history far older than the word itself.
+
+     The oldest form of nostalgia, first documented in those who lived
+     and died in the same community in which they were born, was for some
+     mythic past. It was a past when the gods interacted with humans. In
+--
+     Eden. It was the home of human beings, the home of us all, a
+     wonderful place-time to which we could never “return,” providing
+     that dual sweet and bitter feeling that characterizes nostalgia.
+
+   12Nostalgia’s second incarnation, adding to but not erasing that
+   originary type, began once there were armies stationed or fighting for
+   years in foreign lands, sailors, traders, or explorers discovering “new
+   worlds,” and whole communities forced from their ancestral lands. This
+   new type was a longing to return to a real, not ideal, site, in which
+   people once lived. By the 17^th century, such nostalgia was understood,
+   at least by the Swiss whose mercenary armies experienced it, as a
+   medical problem. Many soldiers pining for home physically deteriorated
+--
+   doctor Johannes Hofer, who coined his neologism in 1688 from two Greek
+   words, nost (return or home) and algia (pain) (Hofer, 1688). This
+   pre-industrial denotation of nostalgia as a desire to return to one’s
+   native land, or the bittersweet memories of it, persisted and is still
+   in use. For example, the Irish escaping famine and populating the
+--
+   in shebeens and then saloons and sing Irish songs (Rosenzweig, 1983).
+
+   Perhaps for some, the object of nostalgia is a place, but, less than a
+   century later, one of Hofer’s countrymen, Jean Jacques Rousseau, would
+   interpret the term in a broader way. In his Dictionary of Music,
+--
+   childhood as his youth itself. He is not straining toward something
+   which he can repossess, but toward an age which is forever beyond his
+   reach” (Kant, 1798: 95). Rousseau and Kant comprehend nostalgia as it
+   has mainly been understood in the modern world. Lunching with a friend,
+   a professor of art about 50 years old, I asked him about the music he
+--
+   him a strong sense of his self? “Yes, definitely.”
+
+   14The third incarnation of nostalgia is the meaning that characterizes
+   the current period and that applies to the domination of rock’s past
+   over its present. Whereas originary nostalgia was directed toward a
+   mythical “golden age” that was deemed to have existed and was lost, and
+   modern nostalgia refers to an individualized experienced past that can
+   no longer be recovered, contemporary nostalgia is a construct of the
+   communications media that is directed to a simulation of a
+   de-individualized empirical past that never existed as such and is not
+   directly part of the lives of the individuals who experience the
+   nostalgia.
+
+   15Contemporary nostalgia is neither for everyone’s personal past nor
+   for a concrete individual’s life history, but for a social
+   construction. It is constructed nostalgia that the students who would
+   prefer to have lived in the 1960s or in some later decades of the
+   twentieth century, feel (e.g. “I would have rather been a teenager in
+--
+   rock functions here as a “memorative sign” for a representation, a sign
+   for a sign. As Pickering and Keightley (2006: 929) grasp it,
+   contemporary nostalgia is self-referential: the individual who feels it
+   is engaged in a process of “mediated nostalgic remembering.”
+
+   In his commentary on Frederic Jameson’s discussion of nostalgia in
+   postmodernity, Brown defines Jameson’s notion of “neo-nostalgia” as
+   “the pseudo-historical appeal of a bygone aesthetic.” That appeal “is
+   achieved by stylistic evocations and temporal stereotypes, which convey
+   various forms of past-ness”(Brown, 2001: 310).
+
+   16Nostalgia for rock’s past is a form of “mediated nostalgic
+   remembering.” There was, indeed, an empirical past of rock, but it has
+   been taken up in the present as mediated and then re-mediated to
+   create, for example, the 1960s as a set of selective representations in
+   which some artists, music, and events are highlighted and others
+   eliminated. In that process of selection and simplification, nostalgia
+   is aestheticized – it becomes a pose that can be felt intensely, but
+   that does not connect the individual to an “eternal tradition” or to a
+   personal history, but to an image lacking insistency.
+
+   17Aestheticized nostalgia for past rock lacks seriousness in the sense
+   that it does not instigate any attempt by those who feel it to try to
+   recreate the past, except sporadically and episodically. To dwell in
+   the constructed golden age is to experience its culture as an imaginary
+   (similar to originary nostalgia), but also as the survival of an
+   empirical past in which there is interest but no commitment.
+
+   That aestheticized nostalgia should have come to be the dominant
+   intentionality towards rock might be an irony, since rock’s ideology
+   privileges authenticity and novelty as the requisites for having one’s
+--
+   reversal have happened?
+
+Commodification of Nostalgia
+
+   18Why has rock’s past swamped its present? Why is rock today mired in
+   neo-nostalgia? There are two major structural determinants of this
+   constructed nostalgia. The major one is economic, essentially,
+   commercial capitalism doing what it is supposed to do. Each of the
+   companies that comprise the complex of the rock industry is focused on
+--
+   audiences. To make audiences desire the “back catalog,” they have also
+   had to promote rock’s past and construct a simulation of the past that
+   would instigate neo-nostalgia.
+
+   That is exactly what the big players have done, aided and abetted by a
+--
+   33Writers and documentarians, accompanying the major record labels,
+   concert promoters and classic rock djs, create an auratic imaginary of
+   rock’s past that breeds neo-nostalgia. These hypesters of the canon
+   create some Golden Age that never was, but can be heard in this $100
+   box set, or seen for a few hours and $355 in person. These writers and
+--
+
+   Mass media reports on the death further reinforce that
+   nostalgia-inducing imaginary. The innumerable TV, radio, magazine, and
+   newspaper accounts of Lennon’s death referenced not the man and the
+   four decades in which he lived, or even the nearly two decades in which
+--
+
+   The imaginary is also alive and well in video games like the Guitar
+   Hero and Rock Band franchises. These simulations foster neo-nostalgia
+   for an aestheticized golden age, a simulation itself. Hodson’s analysis
+   of the Beatles Rock Band Game is illustrative. “The game produces a
+--
+   relationship to commodity over community” he writes (Hodson, 2012: 72).
+   “Rather than just a commodification of play, Beatles Rock Band is a
+   game that also commodifies nostalgia” (Hodson, 2012: 81).
+
+   37For Jameson, neo-nostalgia is a matter of substituting an
+   imaginary/construction/simulation/myth for what actually presumably
+   happened at some time in the past. Neo-nostalgia takes that
+   construction as its object and then judges the present to be inferior
+   to the construction — it would have been better to live then, but at
+--
+   factor — the power of the Boomer generation especially in the US —
+   insured that hegemony. The cultural power of the baby-boomers is a
+   second structural foundation for constructed nostalgia.
+
+   39The most obvious factor in boomer-power is the fact that Boomers
+--
+   their rock, listening to it, or to the newer music made by the bands of
+   the late 1960s and early 1970s. Their music was, in Rousseau’s (1768:
+   267) term, a “memorative sign”, creating a sense of nostalgia, in
+   Kant’s sense, “toward an age which is forever beyond his reach” (Kant,
+   1798). As these bands began to be seen as “great” aesthetically, they
+--
+   Alternative rock, R.E.M., Nirvana, Pearl Jam, and Smashing Pumpkins
+   were among the commercially most successful. It has turned out that
+   Gen-X was the last generation before neo-nostalgia buried new musical
+   initiatives by young people.
+
+--
+   generation, which has substituted the effect of “youthfulness” for
+   actual youth itself — another aestheticization and simulation that
+   accompanies and is bound up with neo-nostalgia.
+
+Conclusion
+--
+   sense, youth.
+
+   51 Neo-nostalgia — Frederic Jameson’s precise contribution to
+   postmodern discourse — is the framing intentionality of the event of
+   rock’s past occluding its present. (New rock has not disappeared: it
+--
+   an overhanging past in Baudrillard’s Simulations (1983), the critique
+   of the modern culminates with its subjective component in
+   (neo)nostalgia.
+
+   52 The myth of rock’s “golden age” is an aetheticization of rock’s
+--
+   artifact.
+
+   53Neo-nostalgia for rock’s past is a riskless adventure.
+   Haut de page
+
+--
+
+   Hodson, J. (2012), “When I'm Sixty-Four: Beatles Rock Band and the
+   Commodification of Nostalgia”, Loading… The Journal of the Canadian
+   Game Studies Association, vol. 6, n° 10, 72-89.
+
+   Hofer, J. (1688), Dissertatio Medica de Nostalgia, Bâle, J. Bertsch
+   [cited in Starobinski].
+
+--
+   October 2014]
+
+   Pickering, M. &amp; Keightley, E. (2006), “The Modalities of Nostalgia”,
+   Current Sociology, vol. 54, n° 6, November, 919–941.
+
+--
+   [1768, cited in Starobinski].
+
+   Starobinski, J. (1966), “The Idea of Nostalgia”, trans. W.S. Kemp,
+   Diogenes vol. 54, 81-103.
+
+--
+Référence papier
+
+   Deena Weinstein, « Constructed Nostalgia for Rock’s Golden Age: “I
+   Believe in Yesterday” », Volume !, 11 : 1 | 2014, 20-36.
+
+Référence électronique
+
+   Deena Weinstein, « Constructed Nostalgia for Rock’s Golden Age: “I
+   Believe in Yesterday” », Volume ! [En ligne], 11 : 1 | 2014, mis en
+   ligne le 30 décembre 2016, consulté le 17 décembre 2022. URL :
+</text>
+</page> §
+<page="eng-43">
+<text>
+   Scroll To Top
+
+Five Ways Nostalgia Can Improve Your Well-Being
+
+Some recent studies suggest that experiencing nostalgia about our past can
+make us happier and more resilient during times of stress.
+
+--
+   me a bittersweet feeling—a mixture of joy, sadness, and longing.
+
+   While I find nostalgia pleasant overall and even inspiring, doctors and
+   psychologists did not always consider it a good thing. Staying “stuck
+   in the past” was often associated with being unable to adjust to new
+   realities, like when soldiers were nostalgic for their faraway homes
+   and experienced loneliness and dread. Not that long ago, some
+   considered nostalgia to be a mental illness, akin to melancholy, which
+   could lead to anxiety, depression, and sleep disorders.
+
+   But more recent findings on nostalgia suggest it can be good for us,
+   increasing our well-being, making us feel connected to other people,
+   and giving us a sense of continuity in our lives. And it seems to come
+   on naturally when we need to weather life’s difficulties. Rather than
+   being a problem, nostalgia can help bring happiness and meaning to our
+   lives.
+
+--
+   well-being.
+
+   Here are some of the ways nostalgia can benefit us, according to
+   science.
+
+Nostalgia makes us feel socially connected
+
+   Nostalgia about our past often includes recalling important people in
+   our lives—people who cared about us and made us feel like we belonged.
+   Certainly, my own nostalgic musings are centered around times when I
+--
+   with older adults—they felt less prejudice toward that group.
+
+   Nostalgia also seems to help us maintain our relationships. For
+   example, one study found that inducing nostalgia helped people feel
+   more optimistic about relationships in general and more willing to
+   connect with friends. Another study found that when induced to feel
+   nostalgia, people (especially those who find connecting with others
+   easier) felt more able to offer emotional support to the people in
+   their lives.
+
+Nostalgia helps us find meaning in life
+
+   A sense of meaning in life involves knowing that your existence matters
+--
+   strive for in one way or another.
+
+   Fortunately, research suggests nostalgia can be an important resource
+   for increasing meaning, by highlighting central moments in our lives
+   and giving us a sense of continuity.
+
+   In one study, researchers compared nostalgia to two seemingly related
+   forms of thinking about one’s life: recalling a positive past event or
+   imagining a desired future. Focusing on an event that made them
+--
+   So take a moment to ponder the following question: In the grand scheme
+   of things, how significant are you?”—they naturally turned to feelings
+   of nostalgia for relief from that sense of meaninglessness.
+
+   These findings and others suggest that nostalgia not only heightens
+   your sense of meaning in life, but can act as a buffer when you
+   experience a loss of meaning. And it may help you move forward in life,
+   too. As one study found, nostalgia can increase your motivation to
+   pursue important life goals, because it increases meaning—not just
+   because it puts you in a better mood.
+
+Nostalgia can make us happier
+
+   Though it does seem to do just that—to boost our mood. Even though
+   nostalgia is by definition a blend of positive and negative emotion,
+   the positive tends to outweigh the negative, meaning we feel happier
+   overall.
+
+   In one very recent study, 176 university students were randomly
+   assigned to a six-week nostalgia program where they were asked weekly
+   to write about a past event that brought on “a sentimental longing for
+   the past” (while a control group wrote about past events that were
+--
+       Try It Now
+
+   The researchers found that nostalgia was generally beneficial, leading
+   people to experience more positive emotions, life satisfaction, and
+   well-being, as well as fewer negative emotions—at least three weeks
+   into the program. These benefits mostly disappeared after that—except
+   for people who started the experiment already engaging in nostalgia
+   regularly. For them, going through the nostalgia program brought them
+   greater life satisfaction and fewer negative emotions up to a month
+   later, possibly because the program was a better fit for them.
+
+   A lot of the benefits on happiness may be connected to nostalgia’s
+   effects on social connection and meaning. But it could also be that
+   nostalgia helps us see ourselves in a truer, more authentic light.
+
+Nostalgia puts us in touch with our authentic selves
+
+   When thinking nostalgically about our past, we are the prime
+   protagonists in our own life stories. Perhaps because of this,
+   nostalgia helps us to see our lives as continuous and coherent,
+   providing us with a sense of authenticity.
+
+--
+
+   The researchers also studied how threats to one’s sense of self might
+   make people engage in more nostalgia. Half of the participants read
+   this text: “Many people feel that they have two sides to themselves.
+   One side is the person that they show to other people; the other side
+--
+   participants wrote about their daily routines and when those routines
+   were disrupted. Then, both groups reported on their positive and
+   negative emotions, as well as feelings of nostalgia.
+
+    Findings showed that people who focused on threats to their
+   self-concept experienced more negative emotions, and in turn felt more
+   nostalgic. This suggests that nostalgia helps put us in touch with our
+   “real selves” and protects us against threats to our authenticity.
+
+   Perhaps for this reason, engaging in nostalgia can lead to personal
+   growth. At least one study found that feeling nostalgia made people
+   feel more positively about themselves, which, in turn, made them more
+   open to experiencing new things, expanding their horizons, and being
+   curious—all signs of psychological health.
+
+Nostalgia may help people who feel disillusioned or depressed
+
+   Perhaps because of these potential benefits, people tend to engage in
+   nostalgia when they are feeling down, lonely, or disillusioned. Many
+   studies have found that nostalgia seems to protect people from negative
+   mind states, bringing about a kind of emotional homeostasis.
+
+   Of course, that doesn’t mean that nostalgia is always good or can’t
+   have a downside. If nostalgia makes us spend too much time thinking
+   about our past, it may prevent us from recognizing the joy in our lives
+   right here and now. And, since we tend to engage in nostalgia when
+   negative things occur, it could become an avoidance strategy that keeps
+   us from dealing with present problems in more effective ways.
+
+   Encouraging groups of people to feel nostalgic could also have negative
+   consequences. For example, one study found that nostalgia made people
+   more likely to believe political claims, regardless of their veracity.
+   Inducing nostalgia could be an advertising ploy used to affect consumer
+   behavior, which could lead to poor choices, too.
+
+   Still, chances are that nostalgia is more a blessing than a curse, and
+   a winning strategy for feeling better about ourselves. It can increase
+   our connection to others, our sense of meaning in our lives, our
+   authenticity, and our happiness. So, why not tune into nostalgia now
+   and then? It may just help you meet the challenges of the moment.
+</text>
+</page> §
+<page="eng-44">
+<text>
+Visual Art
+
+Will We Feel Nostalgia for 2020?
+
+Elijah Teitelbaum | Issue 108
+--
+   refuge. History appears far more stable than it ever actually was; even
+   the recent past has aged rapidly under layers of rose-tinted patina.
+   Indeed, nostalgia is all around us these days. Old films are constantly
+   being rebooted, the eighties are in style, and home-baking traditions
+   have been rediscovered in lockdown.
+
+   While seeking comfort in the familiar might seem simplistic, the ways
+   we generate and consume nostalgia make it complex: how we perceive and
+   connect to the past makes it an important medium for the cultural and
+   political narratives which shape our communities. Art and popular media
+--
+   What were once ordinary ways communities came together—worship, bars,
+   celebrations, guests—have accrued overtones of danger. We have had to
+   rethink how to connect with one another, and nostalgia plays an
+   important role here: when we are able to see that others share our
+   affinity for the past, and that we locate common values there, we gain
+   a language for our contemporary communities. Though we often think of
+   our nostalgia as being for an irrevocable past, it is actually about
+   our present imagination and concerns.
+
+   Our communal attraction to nostalgia, our ways of fitting the past into
+   the present, represent historical memory in flexible, complex, and
+   often troubled ways. Sometimes we see this, and sometimes we don’t.
+   Nostalgia’s simplification of the past is often overt and obvious, but
+   our desires for the feel of a synagogue sanctuary or a Sunday brunch
+   can be covertly nostalgic in ways we might not realize. Nonetheless,
+   the relationship between history and memory remains constant: our
+   nostalgia places our values first, then imagines histories which embody
+   those values, independent of actual experience.
+
+--
+   reality—by the fact that this person was here, or this action took
+   place—but are connected through our own perception of the past.
+   Nostalgia too, as culturally mediated memory, is defined by how we
+   approach it, rather than what it refers to. This makes it a
+   particularly useful way for communities to tell stories about their
+--
+
+   If the past is so flexible, perhaps we should think about how our
+   current moment will age. Will we feel nostalgia for 2020? The question
+   seems absurd. Why would anyone feel nostalgia for a moment synonymous
+   with division, danger, and unrest? As the turn of the year approached
+   and the pandemic wore on, the arrival of 2021 was imbued with
+--
+
+   It is important to ask this question because, as Attie attests, the
+   links between history and memory, memory and nostalgia, are not as
+   intuitive as they appear. On closer inspection, many nostalgic periods
+   reveal their roots in moments of similar distress. The 1950s’ quaint
+--
+   feel differently about 2020 further down the road.
+
+   While nostalgia often paints over history in broad strokes, it is not
+   about burying the past. It is not as though hardship and pain simply
+   vanish. Rather, suffering is placed in other frames of reference which
+   de-emphasize it—or grant it a redeeming significance. These reactions
+   capitalize on the fact that memory speaks to the present: our nostalgia
+   is something which takes place in this moment. How people approach
+   history is informed first and foremost by what they care about in the
+--
+   Bronzeville. As the neighborhood grew, pressure increased to prevent
+   further racial integration with other areas of Chicago. Michelle Boyd
+   drives this home in her book Jim Crow Nostalgia: Reconstructing Race in
+   Bronzeville, where she describes how, beginning in the early twentieth
+   century, “Whites responded to Blacks’ visibility and quest for economic
+--
+   authenticity perceived in Bronzeville’s Black culture is due to the
+   forced concentration of Black Americans within this bounded space.
+   Contemporary nostalgia tends to glide over this, highlighting the
+   cultural value of these communities instead. In the neighborhood today,
+   murals emphasize the strength of a cohesive Black community without
+   dwelling much on why it was a minority enclave in the first place.
+
+   What does this say about nostalgia’s relation to the past? Are
+   Bronzeville’s warm memories at risk if their historical picture becomes
+   fully exposed? Not quite. Nostalgia, after all, is a contemporary way
+   of approaching the past that puts a present community’s values first.
+   The disjunction between nostalgia and history reveals not so much a
+   deficiency of memory as a priority for what matters here and now.
+   Looking to Bronzeville of the 1940s as a vibrant and cohesive Black
+--
+
+   These connections locate what is really important for nostalgic
+   individuals and groups. Their nostalgia is about defining, envisioning,
+   and supporting a perspective on history—on values, culture, and
+   experiences—which connects with their contemporary concerns. This way
+   of identifying what is valuable in certain nostalgic moments
+   demonstrates how nostalgia is itself an inflected connection to the
+   past. Even when that past includes seemingly insurmountable obstacles
+   to this attachment, such as racial segregation, what is most important
+--
+   over its challenging aspects, as with segregation or persecution. In
+   some cases, that pain can be recontextualized as a meaningful feature
+   of the nostalgia itself. This is how many Jews have valorized their
+   eastern European, “old world” predecessors. Those Jews and their
+   communities were shaped by anti-Semitic restrictions which opposed
+--
+   exclusion has been recast as a narrative about communal vibrancy.
+
+   Unlike nostalgia for Bronzeville, Jewish nostalgia for the old world
+   embraces its very pain and trauma. While nostalgia for Bronzeville has
+   recast the fact of segregation within an aspirational narrative, the
+   way that these Jewish communities are depicted often stresses their
+--
+
+   Now, Lilien himself had his own aims for his artwork, and was not
+   especially interested in casting eastern Europe as a site of nostalgia,
+   but the messages he advanced became important for later nostalgic
+   perspectives. In this image, religious overtones dominate, not only in
+--
+   writes, eastern European Jews’ struggle is nostalgically depicted “as
+   the handmaiden of deep spirituality, intellectualism, and generosity.”
+   And so, while nostalgia does not repress this struggle, it wholly
+   recasts it from its immediate distress.
+
+--
+
+   This kind of thinking about the past underscores that pain does not
+   preclude nostalgia. We can feel warmly about moments that are hurtful
+   and dangerous. We can feel affinity for times that we would not
+   actually want to live in. What is most important to recognize in these
+--
+   contextualized and what they imply: whether they recall ongoing
+   struggles, as with Bronzeville, or emphasize what people value within
+   their nostalgia, as with Kishinev.
+
+   Sarah Weal. Ruth, Scarlett, and David, 2020. From the series Furloughed
+--
+     __________________________________________________________________
+
+   The pandemic has created a moment for which nostalgia at first seems
+   incomprehensible. The daily death toll, the fear of infection, and the
+   isolation that characterize this moment have left us with an
+--
+   pandemic, and so its bitterness defines how we feel about it. However,
+   as we can see from other examples, these things change as they age.
+   Nostalgia teases certain narratives out of history, and nostalgia is
+   beholden to the present over and above the past. This may mean that our
+   lockdown’s isolation will be underplayed, like segregation in memories
+--
+   feelings about lockdown—proximity, after all, is not a positive thing
+   in and of itself—but rather that we may come to ascribe an important
+   value to these experiences. It is because nostalgia trades in the
+   communal and the narrative that this is possible. The question is not
+   so much, “Will we feel nostalgia for 2020?” as, “What will shape the
+   nostalgia of the future?” What new factors will inform the way we feel
+   about turning to the past?
+
+   Some may dislike this nostalgic habit, sensing an arbitrariness to the
+   stories it tells. But does nostalgia’s reshaping of the past really
+   represent a disconnect with history? Not necessarily. Nostalgia does
+   not show that “real” history is different because it is neutral;
+   rather, it illustrates that no past is neutral, that nostalgia and
+   history alike must be taken seriously. We must embrace the fact that
+   our memory is informed by what we care about in the present. As we
+--
+
+   Elijah Teitelbaum is a researcher at the University of Cambridge. His
+   work focuses on connections between nostalgia and visual culture, and
+   especially how American Jewish communities perceive and represent their
+   histories.
+--
+
+   Tags: 2020 art history COVID-19 Elijah Teitelbaum history lockdown
+   pandemic past Will We Feel Nostalgia for 2020
+
+Related Visual Art
+</text>
+</page> §
+<page="eng-45">
+<text>
+   Behavior
+
+Why Nostalgia Is Good for You
+
+   The bittersweet emotion increases feelings of vitality
+--
+     * Print
+
+   Why Nostalgia Is Good for You
+   Credit: BRIAN STAUFFER
+   Advertisement
+--
+   childhood spent singing carols or meals spent with now departed loved
+   ones. Recently scientists have explored the bittersweet feeling of
+   nostalgia, finding that it serves a positive function, improving mood
+   and possibly mental health. A new paper illuminates why it works,
+   finding that this sepia-toned sentiment does not cement us in the past
+--
+   in England and the primary author of the paper, which was recently
+   published in Emotion, had shown this effect in a 2015 paper. But here
+   they found that nostalgia boosted self-continuity by increasing a sense
+   of social connectedness. Sentimental recollections often include loved
+   ones, which can remind us of a social web that extends across
+--
+
+   Tim Wildschut, one of Sedikides's Southampton collaborators on the
+   paper, notes there are many ways people elicit nostalgia—looking at
+   photographs, cooking certain meals, sharing stories or playing music.
+   He calls the feeling, which we naturally experience several times a
+--
+
+   This article was originally published with the title "Embrace the
+   Nostalgia" in SA Mind 27, 6, 8-9 (November 2016)
+
+   doi:10.1038/scientificamericanmind1116-8b
 </text>
 </page> §
 <page="eng-46">
@@ -4758,170 +6726,6 @@ How the Internet Uses Nostalgia
 </page> §
 <page="eng-4">
 <text>
-   Menu
-   Verywell Mind
-   What Is Nostalgia?
-     * Mental Health A-Z
-          + Addiction
---
-   Mental Health A-Z
-
-What Is Nostalgia?
-
-   By
---
-   View All
-   Table of Contents
-     * What Is Nostalgia?
-     * History
-     * Examples
---
-     * How to Avoid the Negative Effects
-
-What Is Nostalgia?
-
-Nostalgia
-
-   Nostalgia is a sentimentality for the past, typically for a period or
-   place with happy personal associations. Nostalgia is usually triggered
-   by something reminding an individual of an experience from the past. It
-   is often characterized as a longing or desire to return to a former
-   time or place.
-
-   Nostalgia can also be thought of as "the memory of happiness," as it is
-   often associated with happy memories from the past. It can be a source
-   of comfort in times of sadness or distress.
-
-   However, nostalgia is not just about happy memories; it can also be
-   about longing for a time when things were simpler, or for a time when
-   we felt more connected to others.
-
-History of Nostalgia
-
-   Nostalgia is a relatively new concept. The word was first coined in
-   1688 by Swiss physician Johannes Hofer, who defined it as a
-   neurological illness of continually thinking about one's homeland and
-   longing for return.
-
-   It was not until the 19th century that nostalgia began to be seen as a
-   positive sentiment, rather than a pathological condition. Swiss
-   psychiatrist Carl Jung, for example, saw nostalgia as a way of
-   reconnecting with our past and understanding our present. For Jung,
-   nostalgia was a way to access the "collective unconscious"—the shared
-   history and experiences that we all have as human beings.
-
-   During the First World War, nostalgia was once again associated with
-   illness, as soldiers away at battle longed for the comforts of home.
-   However, after the war ended, nostalgia once again became a positive
-   sentiment.
-
-Examples of Nostalgia From Popular Culture
-
-   There are many examples of nostalgia in popular culture. The film It's
-   a Wonderful Life (1946) is often cited as one of the most nostalgic
-   films ever made. The film tells the story of George Bailey (played by
---
-
-   The television series The Wonder Years (1988-1993) is another example
-   of nostalgia. The show tells the story of Kevin Arnold (played by Fred
-   Savage), a boy growing up in the suburbs in the 1960s and 1970s. The
-   show is notable for its use of voice-over narration from Kevin's older
---
-   to make it one of the most popular love songs of all time.
-
-Types of Nostalgia
-
-   There are two types of nostalgia: positive and negative.
-     * Positive nostalgia is characterized by happy, rose-tinted memories
-       of the past. It is often associated with feelings of warmth,
-       happiness, and comfort.
-     * Negative nostalgia, on the other hand, is characterized by
-       bittersweet or even painful memories of the past.It is often
-       associated with longing, sadness, and regret.
-
-   Nostalgia can also be divided into three different categories:
-   personal, social, and cultural.
-     * Personal nostalgia is characterized by memories of specific people
-       or events from one's own life.
-     * Social nostalgia is characterized by memories of a time when one
-       felt more connected to others.
-     * Cultural nostalgia is characterized by memories of a time when one
-       felt more connected to their culture.
-
-Benefits of Nostalgia
-
-   Nostalgia has been shown to have a number of benefits. For example,
-   nostalgia has been shown to:
-     * Boost mood
-     * Increase self-esteem
---
-       divorce, retirement, and death
-
-   Nostalgia can also have positive effects on physical health. For
-   example, nostalgia has been shown to boost immune function and reduce
-   stress levels.Nostalgia can also help to increase life satisfaction and
-   reduce anxiety.
-
-Negative Effects of Nostalgia
-
-   However, nostalgia can also have negative effects. For example,
-   nostalgia can:
-     * Lead to a sense of loneliness and isolation
-     * Cause people to dwell on the past and become unhappy with the
---
-   'I Hate Life': What to Do If Nothing Makes You Happy
-
-How to Avoid the Negative Effects of Nostalgia
-
-   There are a few things you can do to avoid the negative effects of
-   nostalgia:
-     * Think about the present moment. What are you doing right now that
-       you enjoy?
---
-A Word From Verywell
-
-   Nostalgia is a complex emotion that can have both positive and negative
-   effects. If you find yourself feeling nostalgic, try to focus on the
-   present moment and the people you care about. If nostalgia is causing
-   you distress, it may be helpful to talk to a therapist.
-   13 Sources
---
-   process to learn more about how we fact-check and keep our content
-   accurate, reliable, and trustworthy.
-    1. The Atlantic. When Nostalgia Was a Disease.
-    2. Battesti M. Nostalgia in the Army (17th-19th Centuries). Front
-       Neurol Neurosci. 2016;38:132-142. doi:10.1159/000442652
-    3. Batcho KI. Nostalgia: The bittersweet history of a psychological
-       concept. Hist Psychol. 2013;16(3):165-176. doi:10.1037/a0032427
-    4. National Endowment for the Arts. Did You Know.... It's a Wonderful
---
-       1992
-    7. Abeyta AA, Routledge C, Kaslon S. Combating Loneliness With
-       Nostalgia: Nostalgic Feelings Attenuate Negative Thoughts and
-       Motivations Associated With Loneliness. Front Psychol.
-       2020;11:1219. Published 2020 Jun 23. doi:10.3389/fpsyg.2020.01219
-    8. Newman DB, Sachs ME. The Negative Interactive Effects of Nostalgia
-       and Loneliness on Affect in Daily Life. Front Psychol.
-       2020;11:2185. Published 2020 Sep 2. doi:10.3389/fpsyg.2020.02185
-    9. Jiang T, Cheung WY, Wildschut T, Sedikides C. Nostalgia,
-       reflection, brooding: Psychological benefits and autobiographical
-       memory functions. Conscious Cogn. 2021;90:103107.
-       doi:10.1016/j.concog.2021.103107
-   10. Ismail S, Christopher G, Dodd E, et al. Psychological and Mnemonic
-       Benefits of Nostalgia for People with Dementia. J Alzheimers Dis.
-       2018;65(4):1327-1344. doi:10.3233/JAD-180075
-   11. Juhl J, Wildschut T, Sedikides C, Xiong X, Zhou X. Nostalgia
-       promotes help seeking by fostering social connectedness. Emotion.
-       2021;21(3):631-643. doi:10.1037/emo0000720
-   12. Batcho KI. Nostalgia: retreat or support in difficult times?. Am J
-       Psychol. 2013;126(3):355-367. doi:10.5406/amerjpsyc.126.3.0355
-   13. Newman DB, Sachs ME, Stone AA, Schwarz N. Nostalgia and well-being
-       in daily life: An ecological validity perspective. J Pers Soc
-       Psychol. 2020;118(2):325-347. doi:10.1037/pspp0000236
-</text>
-</page> §
-<page="eng-5">
-<text>
    Search the Site ____________________ (BUTTON) Search
 
    Nostalgia
@@ -4969,7 +6773,7 @@ Why Does Nostalgia Feel So Nice?
    Privacy Settings
 </text>
 </page> §
-<page="eng-6">
+<page="eng-5">
 <text>
           + Future-Oriented Social Cognition
           + The Motivated Brain
@@ -5255,7 +7059,7 @@ This article is part of the Research Topic
    View all 13 Articles
 </text>
 </page> §
-<page="eng-7">
+<page="eng-6">
 <text>
    Emotional Health
 
@@ -5380,7 +7184,7 @@ The Potential Downside of Nostalgia
    consequences, too,” he says.
 </text>
 </page> §
-<page="eng-8">
+<page="eng-7">
 <text>
    Hide and Seek
 
@@ -5470,7 +7274,7 @@ The psychology and philosophy of nostalgia.
    physiological comfort. Emotion 12(4):700.
 </text>
 </page> §
-<page="eng-9">
+<page="eng-8">
 <text>
    (BUTTON)
 
@@ -5601,6 +7405,111 @@ Why do we need nostalgia?
    that “nostalgia is an emotional experience that unifies,” that “helps
    unite our sense of who we are, our self, our identity over time,” and
    “gives us a sense of who we want to be […] in the future.”
+</text>
+</page> §
+<page="eng-9">
+<text>
+   Old school
+
+The power of nostalgia: What science tells us about longing for the past
+
+   “Nostalgia is a resource that people use to move forward.”
+   campers in 1930
+
+--
+   swimming, water balloon fights, and drinking orange soda. The feeling
+   isn’t just one of happy recollection: It’s carried by a strong current
+   of wistful longing for a time in the past. It’s nostalgia.
+
+   Nostalgia is powerful: It gets political leaders elected, it’s at the
+   core of billions of dollars of advertising, and was once considered a
+   medical disease. But what is nostalgia and what makes it so powerful?
+   What’s happening in our brains when we’re feeling it and how does it
+   influence our lives?
+
+   Researchers are finding that nostalgia can be an enormously beneficial,
+   and potentially life-saving emotion. Clay Routledge, a psychological
+   scientist, has spent much of his career studying what gives our lives
+   meaning and has found that nostalgia plays an important role.
+
+   “Nostalgia is one of the self-regulatory tools we use to remind
+   ourselves that we matter,” he tells Inverse.
+
+What is nostalgia?
+
+   “The simplest definition of nostalgia is people’s reflection on their
+   cherished memories,” Routledge explains. “That varies from person to
+   person, obviously, but there are some commonalities.”
+--
+   a decade ago.
+
+What nostalgia does to the brain
+
+   A 2016 study used fMRI imaging to monitor participants’ brain activity
+   when they were exposed to nostalgia-inducing stimuli. When nostalgia
+   was triggered, participants’ brains showed activity in two powerful
+   neural networks: the areas of the brain associated with memory and the
+--
+
+   The more those systems “worked cooperatively,” the researchers found,
+   the more nostalgia people felt.
+   camping car
+   “Nostalgia is one of the self-regulatory tools we use to remind
+   ourselves that we matter.”Shutterstock
+
+   A very specific kind of memory is being activated during nostalgia,
+   Routledge says. “Most of the time when you’re nostalgic, it’s
+   autobiographical; you’re accessing what we call ‘self-relevant
+--
+   recollection of the smell is important for survival.
+
+Is nostalgia a positive or negative emotion?
+
+   In the earliest days of nostalgia study, Routledge says, “it was seen
+   as simply as homesickness.”
+
+   This is where nostalgia gets its name: the word was coined by a Swiss
+   medical student, Johannes Hofer, in his 1688 dissertation. In
+   describing the anxieties of soldiers fighting away from home, he
+--
+   But watch someone find an old-school Gameboy or the opening credits of
+   their favorite childhood TV show, and you’ll likely find them smiling.
+   While homesickness is pure ache, nostalgia is a unique mix of ache and
+   pleasure.
+
+--
+   positivity.”
+
+   That positivity is what can make nostalgia such a useful emotion.
+
+Nostalgia as motivation and meaning
+
+   Routledge and his nostalgia-studying colleagues have found that
+   nostalgia is actually used to help self-regulate stress signals in the
+   brain. Routledge speculates likely what those soldiers were doing when
+   Hofer observed them and coined the term.
+--
+   stress.”
+
+   His own research supports this theory. “We’ve seen that nostalgia seems
+   to bring online these motivational, or self-regulatory processes in the
+   brain that help us down-regulate or mitigate psychological threats,”
+--
+   Boardwalk in 1944.Getty/Nextrecord Archives
+
+   Research suggests the social aspect of nostalgia motivates us to engage
+   in “prosocial” behavior. Nostalgia makes us realize the importance of
+   relationships and, in turn, motivates us to connect with friends and
+   pursue romantic relationships.
+--
+   It’s also strongly associated with optimism and resiliency.
+
+   “Nostalgia is a resource that people use to move forward,” Routledge
+   says.
+
+   We saw all of these aspects of nostalgia play out during the pandemic.
+   You probably found yourself watching old movies, or listening to old
+   music. When we were in lockdown, we all felt nostalgic for the “before
 </text>
 </page> §
 </lang>

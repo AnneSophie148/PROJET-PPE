@@ -11,14 +11,14 @@
 
 fichier_urls=$1 # le fichier d'URL en entrée
 fichier_tableau=$2 # le fichier HTML en sortie
+mot=$3
 
-if [[ $# -ne 2 ]]
+if [[ $# -ne 3 ]]
 then
-	echo "Ce programme demande exactement deux arguments."
+	echo "Ce programme demande exactement trois arguments."
 	exit
 fi
 
-mot="nostalgia" # à modifier
 
 echo $fichier_urls;
 basename=$(basename -s .txt $fichier_urls)

@@ -1,45 +1,282 @@
-   Search the Site ____________________ (BUTTON) Search
+          + Future-Oriented Social Cognition
+          + The Motivated Brain
+          + The Need For An Interpersonal Approach: Shared Nostalgia
+          + Drawing From The Past For The Future
+          + Author Contributions
+--
+   https://doi.org/10.3389/fpsyg.2020.01133
 
-   Nostalgia
+Is Nostalgia a Past or Future-Oriented Experience? Affective, Behavioral,
+Social Cognitive, and Neuroscientific Evidence
 
-     * What is Nostalgia...
-     * Collaborators
-     * Publications
-     * Media coverage
-     * Southampton Nostalgia Scale
-     * Grant support
-     * Research Participation
+--
+       United States
+
+   Nostalgia, a sentimental longing for the past, is a common, universal,
+   and highly social emotional experience. Nostalgic reverie is centered
+   around the self, important social connections, and personally
+--
+   words, when people bring to mind memories that make them nostalgic,
+   they are revisiting personally meaningful life events shared with loved
+   ones. A growing body of research positions nostalgia as a psychological
+   resource with self-regulatory implications. Negative affective states
+   such as sadness, loneliness, and meaninglessness trigger nostalgia and
+   nostalgia, in turn, enhances well-being, feelings of social
+   connectedness, and perceptions of meaning in life (e.g., Routledge et
+   al., 2013). Building on the behavioral inhibition (BIS/avoidance
+   motivation) and behavioral activation (BAS/approach motivation)
+   regulatory model Carver and White (1994), research also indicates that
+   the activation of avoidance motivation increases nostalgia, which then
+   activates approach motivation (Stephan et al., 2014). In the present
+   analysis, we draw on the current state of the science to propose that
+   nostalgia is ultimately a future-oriented emotional experience.
+   Nostalgia involves reflecting on past experiences but it motivates
+   affective states, behaviors, and goals that improve people's future
+   lives. In the following sections, we briefly review relevant evidence
+   across affective, behavioral, social cognitive, and neuroscientific
+   indicators and close by considering the need for future research
+   focused on nostalgia as a shared experience.
+
+Future-Oriented Affect
+
+   Nostalgia increases general well-being (Routledge et al., 2013) but
+   also positively impacts motivation-relevant affect. For instance,
+   nostalgia increases optimism (Cheung et al., 2013, 2016) inspiration
+   (Stephan et al., 2015) social efficacy (Abeyta et al., 2015) and
+   feelings of purpose in life (Routledge et al., 2011). In addition, as
+   people get older, nostalgia makes them feel youthful and more
+   optimistic about their health (Abeyta and Routledge, 2016). People's
+   written accounts of nostalgic memories also frequently contain themes
+   of appreciation for both the past and hopefulness for the future
+   (Routledge, 2015). In short, nostalgia promotes the types of affective
+   states that mobilize the self for action.
+
+Future-Oriented Behavior
+
+   Critically, nostalgia-induced affective states promote relevant
+   behavior. For instance, health optimism triggered by nostalgia is
+   associated with increased intentions to exercise and eat well, as well
+   as subsequent levels of physical activity (Kersten et al., 2016).
+   Similarly, the social efficacy nostalgia engenders leads to increased
+   social engagement (Abeyta et al., 2015). More broadly, when people
+   experience nostalgia, they are subsequently more likely to engage in
+   prosocial behavior (Stephan et al., 2014), including charitable giving
+   (Zhou et al., 2012). Nostalgia doesn't just make people feel inspired.
+   It drives them to act on their inspiration.
+
+Future-Oriented Social Cognition
+
+   Arguably, the most compelling evidence that nostalgia is a
+   future-oriented emotional experience is its effects on goal-related
+   cognition, since goals are about the future. Nostalgia increases the
+   importance people assign to relationship goals, intentions to pursue
+   the goal of connecting with friends, and the desire to resolve a
+   relationship problem (Abeyta et al., 2015). More broadly, nostalgia
+   increases the motivation to pursue one's most important goal (Sedikides
+   et al., 2017).
+
+   Given the social nature of nostalgia, its impact on goals may be
+   strongest in the interpersonal domain. Relatedly, nostalgia's impact on
+   social motivation is moderated by individual differences in
+   attachment-related avoidance (Abeyta et al., 2019). For individuals who
+   rely on relationships for psychological comfort (low attachment-related
+   avoidance), nostalgia increases social goal pursuit. For those who do
+   not rely on relationships for comfort (high attachment-related
+   avoidance), nostalgia decreases social goal pursuit. In sum, nostalgia
+   mobilizes the self, particularly the social self.
+
+The Motivated Brain
+
+   The neuroscience of nostalgia remains limited. Nostalgia proneness is
+   positively related to right-frontal electroencephalogram (EEG)
+   asymmetry, an indicator avoidance motivation and negative emotions
+--
+   thus, we cannot determine causality from it, this finding is in line
+   with past research suggesting that negative emotions and experiences,
+   such as loneliness and meaninglessness, trigger nostalgia as a
+   regulatory resource (e.g., Routledge et al., 2013). More recently,
+   Bocincova et al. (2019) found that nostalgia reduced error related
+   negativity (ERN; a neurological indicator of avoidance motivation) in
+   response to making a mistake in a modified Flanker task, which is
+   consistent with research indicating that nostalgia orients people away
+   from avoidant and toward approach-related psychological states (Stephan
+   et al., 2014). Notably, a preregistered follow-up study did not
+   replicate these findings (FioRito et al., 2020). Further research is
+   required to examine if, and how, nostalgia affects motivation as
+   measured using social neuroscientific paradigms.
+
+The Need For An Interpersonal Approach: Shared Nostalgia
+
+   Although previous research demonstrates that nostalgia is primarily
+   focused on social relationships, almost no work has explored how
+   nostalgia occurs in a social setting. Nostalgia likely frequently
+   implicates social interaction. Indeed, up to 75 percent of
+   conversations may include nostalgic content (Pasupathi et al., 2002;
+   Fivush, 2008; Baron and Bluck, 2009; Beike et al., 2016). Therefore,
+   future research should explore nostalgia as a shared experience. We
+   define shared nostalgia as nostalgia transmitted to at least one other
+   person or exchanged between two or more people. The nature of shared
+   nostalgia needs to be determined. How often does this occur? With whom?
+   What is the role of approach motivation in sharing nostalgic memories
+   with and between others? What social and emotional benefits, if any,
+   can be gained?
+
+   We posit that individuals share nostalgia for two purposes: to create
+   and to maintain social connections. The future-oriented qualities of
+   nostalgia may prompt an individual to share a nostalgic memory with an
+   acquaintance to build closeness. Alternatively, those who discuss
+   nostalgic memories with others may “bring online” a social approach
+--
+Drawing From The Past For The Future
+
+   By definition, nostalgia is a past-focused affective experience. A
+   growing body of evidence, however, documents the future-oriented nature
+   of nostalgia. Specifically, people can reference their nostalgic past
+   to remind themselves what it felt to be young (Abeyta and Routledge,
+   2016) and loved (e.g., Cheung et al., 2013), which, in turn, promotes
+--
+   2015), and pursuing goals (e.g., Sedikides et al., 2017). There are
+   deviations from this process, however. For instance, Cheung et al.
+   (2019) recently introduced the concept of anticipated nostalgia. This
+   construct is unique in that it does not rely on the reflections of the
+   past. Instead, anticipated nostalgia is nostalgia for the present and
+   the future (e.g., “I anticipate I will feel nostalgic about my
+   children's childhood in the future”). Critically, Cheung et al. (2019)
+   found that anticipated nostalgia is related to deliberate savoring
+   techniques, such as purchasing souvenirs and documenting moments with
+   pictures. Thus, anticipated nostalgia could be considered a
+   future-focused experience that promotes future-oriented behavior. When
+   discussing the future-oriented nature of nostalgia, individual
+   differences should be considered, as well; not everyone benefits from
+   using nostalgia (e.g., attachment-related avoidance; Wildschut et al.,
+   2010; Juhl et al., 2012; Abeyta et al., 2019). Future research should
+   examine other instances in which nostalgia does not result in
+   future-oriented behavior.
+
+--
+   Abeyta, A. A., Nelson, T. A., and Routledge, C. (2019). The pushes and
+   pulls of the past: The effects of attachment-related avoidance and
+   nostalgia on approach-oriented social goals. Personal. Indiv. Diff.
+   149, 200–208. doi: 10.1016/j.paid.2019.06.008
+
 --
 
-   Home>
-   Nostalgia
-   What is Nostalgia...
-   >
+   Abeyta, A. A., and Routledge, C. (2016). Fountain of youth: the impact
+   of nostalgia on youthfulness and implications for health. Self Identity
+   15, 356–369. doi: 10.1080/15298868.2015.1133452
 
-What Nostalgia Is and What It Does
-
-   Hepper, Ritchie, Sedikides, and Wildschut (2012, Emotion) describe
-   nostalgia as a complex emotion that involves past-oriented cognition
-   and a mixed affective signature. The emotion is often triggered by
-   encountering a familiar smell, sound, or keepsake, by engaging in
 --
-   an overall sense of bittersweetness.
 
-   Nostalgia confers psychological benefits. When engaging in nostalgic
-   reflection, people report a stronger sense of belongingness,
-   affiliation, or sociality; they convey higher continuity between their
+   Abeyta, A. A., Routledge, C., and Juhl, J. (2015). Looking back to move
+   forward: nostalgia as a psychological resource for promoting
+   relationship goals and overcoming relationship challenges. J. Personal.
+   Soc. Psychol. 109, 1029–1044. doi: 10.1037/pspi0000036
 --
-   vicissitudes of life.
 
-Why Does Nostalgia Feel So Nice?
-
-   "The holidays have a way of bringing up fond memories that can warm
-   your heart. But are there any actual health benefits to nostalgia? It's
-   more than just a longing for the past, and as Anthony and Laci explain,
-   these sentiments can be quite good for us. "
+   Bocincova, A., Nelson, T. A., Johnson, J. S., and Routledge, C. (2019).
+   Experimentally induced nostalgia reduces the amplitude of the
+   event-related negativity. Soc. Neurosci. 14, 631–634. doi:
+   10.1080/17470919.2019.1580612
 --
-   Video link to:
 
-    Why Does Nostalgia Feel So Nice?
+   Cheung, W.-Y., Sedikides, C., and Wildschut, T. (2016). Induced
+   nostalgia increases optimism (via social-connectedness and self-esteem)
+   among individuals high, but not low, in trait nostalgia. Personal.
+   Individual Diff. 90, 283–288. doi: 10.1016/j.paid.2015.11.028
 
-   Privacy Settings
+--
+
+   Cheung, W.-Y., Wildschut, T., Sedikides, C., Hepper, E. G., Arndt, J.,
+   and Vingerhoets, A. J. (2013). Back to the future: nostalgia increases
+   optimism. Personal. Soc. Psychol. Bull. 39, 1484–1496. doi:
+   10.1177/0146167213499187
+--
+
+   Cheung, W. Y., Hepper, E. G., Reid, C. A., Green, J. D., Wildschut, T.,
+   and Sedikides, C. (2019). Anticipated nostalgia: looking forward to
+   looking back. Cognition Emotion 2, 1–15. doi:
+   10.1080/02699931.2019.1649247
+--
+
+   FioRito, T., Bocincova, A., Johnson, J. S., and Routledge, C. (2020). A
+   Follow-Up Examination of Experimentally Induced Nostalgia Reducing ERN.
+   Retrieved from: osf.io/6c3uz
+
+--
+
+   Juhl, J., Sand, E. C., and Routledge, C. (2012). The effects of
+   nostalgia and avoidant attachment on relationship satisfaction and
+   romantic motives. J. Soc. Personal Relationships 29, 661–670. doi:
+   10.1177/0265407512443433
+--
+
+   Kersten, M., Cox, C. R., and Enkevort, E. A. V. (2016). An exercise in
+   nostalgia: nostalgia promotes health optimism and physical activity.
+   Psychol. Health 31, 1166–1181. doi: 10.1080/08870446.2016.1185524
+
+--
+   CrossRef Full Text | Google Scholar
+
+   Routledge, C. (2015). Nostalgia: A Psychological Resource. New York,
+   NY: Routledge and Taylor and Francis Group.
+
+--
+   Routledge, C., Arndt, J., Wildschut, T., Sedikides, C., Hart, C. M.,
+   Juhl, J., et al. (2011). The past makes the present meaningful:
+   Nostalgia as an existential resource. J. Pers. Soc. Psychol. 101,
+   638–652. doi: 10.1037/a0024292
+
+--
+
+   Routledge, C., Wildschut, T., Sedikides, C., and Juhl, J. (2013).
+   Nostalgia as a resource for psychological health and well-being. Soc.
+   Personal. Psychol. Compass 7, 808–818. doi: 10.1111/spc3.12070
+
+--
+
+   Sedikides, C., Cheung, W.-Y., Wildschut, T., Hepper, E. G., Baldursson,
+   E., and Pedersen, B. (2017). Nostalgia motivates pursuit of important
+   goals by increasing meaning in life. Eur. J. Soc. Psychol. 48, 209–216.
+   doi: 10.1002/ejsp.2318
+--
+
+   Stephan, E., Sedikides, C., Wildschut, T., Cheung, W.-Y., Routledge,
+   C., and Arndt, J. (2015). Nostalgia-evoked inspiration. Personal. Soc.
+   Psychol. Bull. 41, 1395–1410. doi: 10.1177/0146167215596985
+
+--
+
+   Stephan, E., Wildschut, T., Sedikides, C., Zhou, X., He, W., Routledge,
+   C., et al. (2014). The mnemonic mover: Nostalgia regulates avoidance
+   and approach motivation. Emotion 14, 545–561. doi: 10.1037/a0035673
+
+--
+   Tullett, A. M., Wildschut, T., Sedikides, C., and Inzlicht, M. (2015).
+   Right-frontal cortical asymmetry predicts increased proneness to
+   nostalgia. Psychophysiology 52, 990–996. doi: 10.1111/psyp.12438
+
+   PubMed Abstract | CrossRef Full Text | Google Scholar
+
+   Wildschut, T., Sedikides, C., Routledge, C., Arndt, J., and Cordaro, F.
+   (2010). Nostalgia as a repository of social connectedness: the role of
+   attachment-related avoidance. J. Personal. Soc. Psychol. 98, 573–586.
+   doi: 10.1037/a0017597
+--
+
+   Zhou, X., Wildschut, T., Sedikides, C., Shi, K., and Feng, C. (2012).
+   Nostalgia: the gift that keeps on giving. J. Consumer Res. 39, 39–50.
+   doi: 10.1086/662199
+
+   CrossRef Full Text | Google Scholar
+
+   Keywords: nostalgia, shared nostalgia, motivation, self-regulation,
+   social cognition
+
+   Citation: FioRito TA and Routledge C (2020) Is Nostalgia a Past or
+   Future-Oriented Experience? Affective, Behavioral, Social Cognitive,
+   and Neuroscientific Evidence. Front. Psychol. 11:1133. doi:
+--
+This article is part of the Research Topic
+
+   Current Issues in Nostalgia Research
+   View all 13 Articles

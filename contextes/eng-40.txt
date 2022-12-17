@@ -1,1 +1,773 @@
+     *
+          + Abstract
+          + The Sociality of Nostalgia
+          + National Nostalgia vs. Personal Nostalgia
+          + National Nostalgia and Outgroup Threat
+          + National Nostalgia and Outgroup Perceptions in the Context of
+            Political Messaging
+          + The Current Study
+--
+   https://doi.org/10.3389/fpsyg.2021.555667
 
+Making America Great Again? National Nostalgia's Effect on Outgroup
+Perceptions
+
+--
+       Richmond, VA, United States
+
+   Nostalgia is a fond longing for the past that has been shown to
+   increase feelings of meaning, social connectedness, and
+   self-continuity. Although nostalgia for personal memories provides
+   intra- and interpersonal benefits, there may be negative consequences
+   of group-based nostalgia on the perception and acceptance of others.
+   The presented research examined national nostalgia (a form of
+   collective nostalgia), and its effects on group identification and
+   political attitudes in the United States. In a sample of US voters (N =
+   252), tendencies to feel personal and national nostalgia are associated
+   with markedly different emotional and attitudinal profiles. Higher
+   levels of national nostalgia predicted both positive attitudes toward
+   President Trump and racial prejudice, though there was no evidence of
+   such relationships with personal nostalgia. National nostalgia most
+   strongly predicted positive attitudes toward president Trump among
+   those high in racial prejudice. Furthermore, nostalgia's positive
+   relationship with racial prejudice was partially mediated by perceived
+   outgroup threat. Results from this study will help us better understand
+   how the experience of national nostalgia can influence attitudes and
+   motivate political behavior.
+
+--
+   rhetoric (Skelley, 2017). One concept repeatedly emerged within these
+   discussions as a mainstay of Trump's political appeal: that of
+   nostalgia, broadly defined as a bittersweet longing for the past.
+   Evidence of Trump's appeals to an earlier time in American history have
+   been cited from the beginning of the 2016 presidential campaign through
+--
+   voters' latent feelings of threat to their economic welfare, or to the
+   racial or cultural homogeneity of American culture (Brownstein, 2016;
+   Smeekes et al., 2020). On a broad scale, nostalgia focused on
+   nationality is a prominent feature of right-wing populist party
+   rhetoric, and evidence from voters in the Netherlands suggests that the
+   emphasis of stigmatizing outgroups and preserving cultural hegemony
+   within nostalgic messaging is what explains the link between nostalgia
+   and right-wing populist support (Smeekes et al., 2020). In the United
+   States, several studies provide strong evidence of a link between
+--
+   has of yet established whether Trump's nostalgic rhetoric may be
+   associated with voters' attitudes toward racial outgroups. To this end,
+   in this paper, we present evidence that national nostalgia, an emotion
+   distinct from personal nostalgia, is associated with increased
+   prejudice as well as support for the populist messaging of Donald
+   Trump.
+
+The Sociality of Nostalgia
+
+   Nostalgia is a mostly positive emotion that increases self-regard,
+   attenuates self-esteem defense, enhances meaning in life, increases
+   perceptions of self-continuity, and lessens feelings of existential
+   threat (Wildschut et al., 2006; Routledge et al., 2008). Most people
+   report experiencing nostalgia on a regular basis (Wildschut et al.,
+   2006) and often structure their present in anticipation of experiencing
+   nostalgia in the future (Cheung et al., 2020). Nostalgia is triggered
+   in various ways, including by music, scents, and reflecting on past
+   momentous events (Barrett et al., 2010; Reid et al., 2015; Sedikides et
+--
+   et al., 2008).
+
+   The social connectedness function of nostalgia is a primary avenue
+   through which nostalgia confers positive psychological benefits.
+   Although nostalgic memories are more likely to be evoked while
+   experiencing negative affect (Wildschut et al., 2006) and loneliness
+--
+   memories seem to indirectly regulate these positive emotions by evoking
+   and making more salient one's symbolic connections with others
+   (Sedikides and Wildschut, 2019). For example, nostalgia felt in
+   response to loneliness has been shown to reduce perceptions of
+   isolation and low social support (Zhou et al., 2008). In organizational
+--
+   et al., 2015).
+
+   Importantly, those who are more likely to experience nostalgia (i.e.,
+   those high in personal nostalgia) are also more motivated to control
+   prejudicial feelings and reduce their expression of prejudices against
+   outgroups as a result of these positive benefits (Cheung et al., 2017).
+   Four studies of Caucasian Americans examined the links between personal
+   nostalgia and the expression of both blatant and more subtle prejudice
+   toward African Americans (Cheung et al., 2017). They found that the
+   link between personal nostalgia and prejudice reduction was mediated by
+   feelings of empathy, suggesting that the experience of nostalgia offers
+   advantages beyond the self.
+
+National Nostalgia vs. Personal Nostalgia
+
+   The link between nostalgia and sociality becomes more complex when
+   considering nostalgia felt for one's group. Although nostalgia felt at
+   the individual level confers both intra- and interpersonal benefits,
+   group-based nostalgia appears to have a distinct psychological profile
+   from personal nostalgia. Group-based emotions, as distinct from
+   individual-level emotions, arise when individuals self-categorize with
+   a social group and integrate the group into their sense of self (Seger
+--
+   Mastro, 2015).
+
+   Group-based nostalgia—operationalized as nostalgia felt for events
+   shared with one's ingroup, or collective nostalgia—can be experienced
+   in a variety of social settings, including organizations, school
+   classes (e.g., Class of 2021), cities, and nations (Wildschut et al.,
+   2014; Smeekes, 2015; Green et al., 2021). Like individual-level
+   nostalgia, shared memories can include notable events, such as a
+   special performance (band or orchestra), graduation day, homecoming
+   (college class), or sports championships (city). However, unlike
+   individual-level nostalgia, group-based nostalgia can occur in the form
+   of a longing for a past that individuals themselves did not experience,
+   but rather one that was passed down through collective memory
+   (Martinovic et al., 2017). Additionally, collective nostalgia has been
+   shown to increase positive attitudes as well as an approach-oriented
+   action tendency toward the ingroup relative to an individually
+   experienced nostalgic memory (Wildschut et al., 2014, Study 1).
+   Collective nostalgia also can increase group-oriented prosociality
+   (e.g., willingness to volunteer or donate money to help the ingroup;
+   Wildschut et al., 2014; Green et al., 2021). Collective self-esteem
+--
+   collective self-esteem, which, in turn, increased intentions to
+   volunteer. Other research has found additional ingroup benefits to
+   collective nostalgia, such a preference for domestic (vs. foreign)
+   consumer products (Dimitriadou et al., 2019) and a promotion of
+   collective political action (in Hong Kong; Cheung et al., 2017).
+--
+   an ordinary collective memory) were more willing to punish outgroup
+   members who were unfair to an ingroup member (Wildschut et al., 2014,
+   Study 3). However, in some cases, collective nostalgia might increase
+   intergroup contact when individuals can feel collective nostalgia for a
+   superordinate group (Martinovic et al., 2017). In a study of former
+   Yugoslavians who had settled in Australia, Bosniaks, Croats, and Serbs
+--
+   ethnic groups).
+
+   National nostalgia is one type of collective nostalgia that is felt
+   while self-categorizing as a citizen of a specific country, and is
+   likely to be associated with particular intra- and intergroup attitudes
+   and behavioral intentions. Just as personal nostalgia during times of
+   change and upheaval can facilitate coping (e.g., attenuating
+   loneliness) (Zhou et al., 2008), national nostalgia—a reverie for a
+   country's good old days—may increase felt closeness to fellow natives
+   during times of national stress or uncertainty. However, nostalgic
+   revelry at the national level may exclude other citizens, such as
+   recent immigrants or minorities (Smeekes and Jetten, 2019). Studies of
+   national nostalgia among Dutch participants indicated that national
+   nostalgia predicted prejudice toward religious minorities in the
+   country (Smeekes et al., 2014) as well as prejudice toward Muslim
+   countries (Smeekes, 2015). Notably, these outgroup attitudes were not
+   predicted by personal nostalgia, which has been shown to be associated
+   with decreased intergroup prejudice (Cheung et al., 2017). This
+   distinction between personal and national nostalgia may lie in the
+   extent to which outgroups pose an emotional threat to the self.
+
+National Nostalgia and Outgroup Threat
+
+   The intergroup threat theory (Stephan et al., 1999) posits that
+--
+   2a and 2b) prejudice toward non-White outgroups and pro-White
+   attitudinal bias. One possible explanation on why national and personal
+   nostalgia are associated with different intergroup attitudes may be due
+   to different levels of social categorization evoked, leading to
+   differing levels of perceived threat. Personal nostalgia, which is
+   associated with continuity of personal identity (Sedikides et al.,
+   2015a) and evokes strong feelings of social connectedness, also has
+   downstream implications for reducing anxiety and hostility toward
+   outgroup members (for a review, see Sedikides and Wildschut, 2019). In
+   contrast, feeling national nostalgia is associated with
+   self-categorizing at the group level, evoking one's national identity
+   (Smeekes and Verkuyten, 2015). Similar to how personal nostalgia may be
+   evoked when feeling disconnection at the individual level, national
+   nostalgia has been shown to be evoked in response to existential
+   concerns about one's group-based identity, and may have the beneficial
+   effect of reducing anxiety by bolstering perceptions of group
+   continuity and connection (Smeekes et al., 2018). For example, trait
+   national nostalgia among Dutch participants was positively associated
+   with wanting to protect national ingroup identity (Smeekes, 2015).
+   Similarly, a cross-national survey across 27 countries found that
+   existential concerns about the future of one's country predicted
+   increased collective nostalgia, which in turn predicted greater ingroup
+   belonging and anti-immigrant sentiment (Smeekes et al., 2018). However,
+   when the presence or power of outgroups is salient (e.g., chronically
+   or by the rhetoric of politicians), national nostalgia may increase
+   perceived threat. Moreover, ingroup continuity may be threatened by
+   consideration of outgroups (Smeekes et al., 2018). This may be
+--
+   distorted—for example, when whites in the United States feel a longing
+   for a (whiter and more homogenized) past that never was. Thus, national
+   nostalgia could increase this fear of the future, leading to increased
+   prejudice.
+
+--
+   ethnic identities, we extended this line of inquiry by examining
+   whether perceived intergroup threat explains any found relationship
+   between national nostalgia and endorsement of symbolic prejudice.
+
+National Nostalgia and Outgroup Perceptions in the Context of Political
+Messaging
+
+   Recent work has highlighted the prominence of national nostalgia in the
+   rhetoric of right-wing populist political parties, and in particular
+   its role in posing racial or national outgroups as scapegoats for
+   perceived economic or cultural decline (Mols and Jetten, 2014; Smeekes
+   et al., 2020). Political leaders often utilize national nostalgia in
+   rhetorical strategy by emphasizing the discontinuity between a nation's
+   past and present (Mols and Jetten, 2014), which then serves to evoke
+   collective angst about group status (Smeekes et al., 2018). A content
+   analysis of speeches by right-wing populist leaders in Western Europe
+   found consistent themes of nostalgia for their country's “glorious
+   past” while denigrating the country's present, as well as themes
+   emphasizing that a) opponents of the party were the cause of this
+--
+   outlet for restoring psychological well-being by denigrating the
+   outgroups believed to be responsible (Smeekes et al., 2018). Indeed,
+   national nostalgia has been shown to explain support for right-wing
+   populist policies and leaders via the denigration of immigrant and
+   racial outgroups (Smeekes et al., 2020).
+--
+
+   To build upon this research, the aim of our study was to directly
+   examine how voters' propensity to feel national nostalgia may explain
+   support for Trump's populist rhetoric as well as increases in racial
+   prejudice in the United States following the 2016 presidential election
+--
+The Current Study
+
+   We examined the role of national nostalgia in propagating intergroup
+   racial hostility above and beyond political orientation. We explored
+   how national nostalgia relates to political and racial attitudes among
+   voters who participated in the 2016 US presidential election. We also
+   examined the interplay between national nostalgia, pro-Trump attitudes,
+   outgroup prejudice, and perceived outgroup threat.
+
+--
+   office for some time, and whether the nostalgic message of “Making
+   America Great Again” still resonated with voters. Minimal work on
+   national nostalgia has been conducted, and to date, nearly all of this
+   work has been conducted outside of the United States; thus, this
+   research would explore the potential link between national nostalgia
+   and political attitudes as well as study the phenomenon in the US
+   sociopolitical landscape. In addition, we included a validated measure
+   of personal nostalgia in order to better examine the association
+   between personal and national nostalgia as well as to assess whether
+   each type of nostalgia might be associated with political attitudes.
+
+Hypotheses
+--
+   (https://osf.io/mwh6n).
+
+   Hypothesis 1. National nostalgia would be positively related to
+   pro-Trump attitudes (1a). No relationship was expected to be found
+   between personal nostalgia and positive attitudes toward President
+   Trump (1b).
+
+--
+   related to pro-Trump attitudes?
+
+   Research Question 2. Will national nostalgia be positively related to
+   racial prejudice?
+
+   Research Question 3. Will the relationship between national nostalgia
+   and racial prejudice be mediated by increased threat sensitivity?
+
+--
+Measures
+
+Personal Nostalgia
+
+   The Southampton Nostalgia Scale (SNS; Routledge et al., 2008) measured
+   personal nostalgia, operationalized as how frequently participants
+   experience nostalgia and how significant participants felt nostalgic
+   experiences were to them. The scale included seven items (e.g., “How
+   valuable is nostalgia for you?”) rated from 1 (Not at all) to 7 (Very
+   much). To build on past national nostalgia research (Smeekes et al.,
+   2014), we use a validated measure of personal nostalgia (proneness to
+   feeling personal nostalgia).
+
+National Nostalgia
+
+   The National Nostalgia Scale (NNS; Smeekes et al., 2014, Study 1)
+   measured participants' propensity to feel nostalgia on the basis of
+   one's national ingroup membership. The scale included four items rated
+   from 1 (Very rarely) to 5 (Very frequently) scale. The NNS used in this
+--
+
+   In terms of political attitudes, we wanted to assess positive sentiment
+   toward the President as related to the experience of nostalgia.
+   Therefore, we used a modified version of the State Functions of
+   Nostalgia Scale (SFN; Hepper et al., 2012), which measures the extent
+   to which nostalgia confers the positive benefits of social
+   connectedness, well-being, self-regard, and overall positive affect.
+   Each item was modified to assess how participants experienced these
+--
+   Table 1. To test our hypotheses, we conducted a series of hierarchical
+   linear regression models and bootstrapped mediation and moderation
+   analyses to assess the relationship between nostalgia (national and
+   personal) and political and intergroup attitudes using SPSS v. 20 and
+   Hayes' PROCESS macro v.3 (Hayes, 2013). Following these baseline
+   models, we also support our findings using path analyses employing
+   maximum likelihood estimation using IBM AMOS v. 26 (Due to a computer
+   error, the national nostalgia data from 72 participants were unusable,
+   reducing the n for analyses including national nostalgia to 193, still
+   above the target based on the power analysis).
+   TABLE 1
+--
+Main Hypothesis
+
+   We first assessed whether national nostalgia and personal nostalgia
+   would be related to pro-Trump attitudes in the ways previously
+   predicted. National nostalgia and personal nostalgia proneness were
+   entered simultaneously in step 2 of the model to identify their unique
+   relationship with attitudes toward Trump. In step 1 of the hierarchical
+--
+   attitudes such that higher conservatism was associated with more
+   positive attitudes of Trump, β = 0.59 t(192) = 10.08, p < 0.001. In
+   step 2 of the model, national nostalgia was associated with more
+   pro-Trump attitudes above and beyond political affiliation, β = 0.30,
+   t(192) = 4.43, p < 0.001, supporting Hypothesis 1a. In contrast,
+   personal nostalgia was not associated with pro-Trump attitudes above
+   and beyond political orientation, β = −0.07, t(192) = −1.13, p = 0.259.
+   Nostalgia predicted a significant proportion of variance in attitudes
+   above and beyond political orientation, F[(2, 189)] = 9.90, p < 0.001,
+   R^2Δ = 0.06.
+--
+   To examine this relationship in a consolidated path model^5, Figure 1
+   displays Path Model 1, quantifying the relationship between national
+   and personal nostalgia and race, political orientation, ethnic identity
+   salience, and pro-Trump attitudes. The model fit the data somewhat
+   weakly due to the lower sample size [χ2(1) = 23.01, p < 0.001; CFI =
+   0.89; RMSEA = 0.34; SRMR = 0.03]. As shown in Model 1, Hypothesis 1 was
+   again supported: national nostalgia predicted pro-Trump attitudes (β =
+   0.24, p < 0.001), whereas personal nostalgia was unrelated to pro-Trump
+   attitudes (β = −0.08, p = 0.156).
+   FIGURE 1
+--
+
+   Figure 1. Path analysis of relationships between national/personal
+   nostalgia, ethnic identity, and pro-Trump attitudes (Model 1). Note.
+   Path coefficients represent standardized estimates.
+
+--
+
+   We also examined whether racial identity salience qualified the
+   relationship between national nostalgia and pro-Trump attitudes. A
+   moderation analysis using Hayes' PROCESS macro (model 1) indicated that
+   higher racial identity salience somewhat strengthened the relationship
+   between national nostalgia and positive attitudes toward Trump, but
+   only among White participants; ΔR^2 = 0.03, F[(1, 77)] = 3.94, p =
+   0.051. Among those low in racial identity salience, national nostalgia
+   was unrelated to attitudes toward Trump; b = 0.27, 95% CI = (−0.03,
+   0.58). Those moderate [b = 0.43, 95% CI = (0.18, 70)] and high [b =
+   0.64, 95% CI = (0.31, 0.97)] in racial identity salience showed a
+   strong relationship between national nostalgia and pro-Trump attitudes.
+
+   As a final examination of Research Question 1, a second path model
+   (Path Model 2, Figure 4) was compared with Path Model 1 to again
+   examine the interaction between nostalgia and ethnic identity (on
+   pro-Trump attitudes), and the interaction between political orientation
+   and race (assessing its relationship with ethnic identity). When
+--
+   on a continuous scale) was not significantly associated with ethnic
+   identity (β = −0.08, p = 0.210). Additionally, the interaction term
+   between national nostalgia and ethnic identity was no longer associated
+   with pro-Trump attitudes (β = 0.13, p = 0.607). This suggests that for
+   White participants, greater national nostalgia was associated with
+   increased ethnic identity.
+   FIGURE 4
+--
+
+   Figure 4. Path analysis estimating interaction effects (race ×
+   political orientation and ethnic identity × nostalgia) on pro-Trump
+   attitudes. Note. Path coefficients represent standardized estimates.
+
+Research Question 2
+
+   We next examined whether national nostalgia was positively related to
+   racial prejudice. Bivariate correlations indicated that national
+   nostalgia was positively associated with both anti-Black racial
+   prejudice measured by the Symbolic Racism Scale (SRS) as well as
+   perceived realistic threat measured by the Realistic Threat Scale (RTS,
+   see Table 1). To further examine the link between national nostalgia
+   and racial prejudice, we tested whether racial prejudice moderated the
+   link between national nostalgia and positive attitudes toward President
+   Trump using Hayes' PROCESS macro (model 1) with 5,000 resamples. A
+   significant moderation effect was identified. Participants reporting
+   higher prejudice exhibited a stronger relationship between national
+   nostalgia and pro-Trump attitudes; ΔR^2 = 0.05, F[(1, 178)] = 19.60, p
+   < 0.001. Simple slopes were calculated and visualized using the
+   interActive online utility, and are presented in Figure 5 (McCabe et
+   al., 2018). The relationship between national nostalgia and positive
+   attitudes toward Trump was non-significant at low levels of prejudice
+   (those at least −1 SD below the mean of SNS). However, for those
+   moderate to high in racial prejudice (0, +1, or +2 SDs above the mean
+   of SNS), national nostalgia positively predicted pro-Trump attitudes
+   (see Figure 5). Interestingly, this effect was found separately for
+   both White [ΔR^2 = 0.03, F[(1, 77)] = 5.93, p = 0.02] and Black
+   participants [ΔR^2 = 0.09, F[(1, 97)] = 17.44, p < 0.001], but there
+   was no significant three-way interaction between national nostalgia,
+   prejudice, and race (p = 0.14), so the results in Figure 5 are
+   displayed for all participants.
+--
+   www.frontiersin.org
+
+   Figure 5. Relationship between national nostalgia and pro-Trump
+   attitudes moderated by anti-Black racial prejudice. Note. Plots display
+   simple slopes at −2, −1, 0, +1, and +2 SDs away from the mean of racial
+--
+Research Question 3
+
+   Will the relationship between national nostalgia and racial prejudice
+   be mediated by increased threat sensitivity?
+
+   We last examined whether the relationship between national nostalgia
+   and racial prejudice would be mediated by outgroup threat perception
+   (measured by the Realistic Threat Scale, RTS). A moderated mediation
+--
+   European-American and African-American participants. As shown in Figure
+   6, the model indicated a significant indirect effect of national
+   nostalgia on prejudice through the mediator of perceived threat for
+   both White/EA participants [β = 0.23, 95% CI = (0.12, 0.36)] and
+   Black/AA participants [β = 0.22, 95% CI = (0.13, 0.32)]. The
+--
+   www.frontiersin.org
+
+   Figure 6. Mediation of national nostalgia relationship with racial
+   prejudice by outgroup threat perception, moderated by participant race.
+
+   To examine this question in the context of a path model, Path Model 3
+   (Figure 7) displays the proposed relationships between national
+   nostalgia and racial prejudice. Model 3 showed a moderate fit with the
+   data, χ(2) = 65.80, p < 0.001; CFI = 0.79; RMSEA = 0.41; SRMR = 0.07).
+   When accounting for political orientation, race, national nostalgia,
+   personal nostalgia, racial threat sensitivity, and racial prejudice in
+   a structural equation mediation model, national nostalgia directly
+   predicted racial prejudice (β = 0.21, p < 0.001), whereas personal
+   nostalgia did not (β = 0.03, p = 0.581). The relationship between
+   national nostalgia and racial prejudice was significantly mediated by
+   threat sensitivity [indirect effect β = 0.18, 95% bias-corrected CI
+   (0.10, 0.26)]. Interestingly, personal nostalgia also showed a weak
+   indirect effect on national nostalgia via threat sensitivity, but in a
+   negative direction [indirect effect β = −0.07, 95% bias-corrected CI
+   (−0.14, −0.01)]. This suggests that greater personal nostalgia may
+   weakly predict lower racial prejudice via reduced racial threat
+   sensitivity.
+--
+
+   Figure 7. Path analysis of relationships between national/personal
+   nostalgia and prejudice, mediated by racial threat sensitivity (Model
+   3). Note. Path coefficients represent standardized estimates. Indirect
+   effect of national nostalgia on racial prejudice through racial threat
+   sensitivity was significant [β = 0.18; 95% bias-corrected CI (0.10,
+   0.26)].
+--
+Discussion
+
+   In our study, national nostalgia was associated with more positive
+   feelings about President Trump, as well as increased perceived racial
+   threat among White respondents. In contrast, personal nostalgia was
+   unrelated to support for Trump or perceived racial threat. When
+   assessed in a path model, personal nostalgia was actually associated
+   indirectly with lower anti-Black prejudice via decreased racial threat
+   sensitivity. These findings align with evidence from samples outside
+   the United States (e.g., Smeekes and Verkuyten, 2015; Smeekes et al.,
+   2020) that personal and national nostalgia are distinct experiences
+   with unique ramifications for intergroup attitudes and relations.
+   Though our overall finding that national nostalgia predicted Trump
+   support could reflect a strong semantic connection between Trump and
+   its 2016 presidential campaign slogan, it also may point to the appeal
+   of Trump's campaign—and its right wing, populist sentiments—among those
+   initially prone to feeling national nostalgia. To better answer this
+   question, our next analyses investigated more closely the relationship
+   between national nostalgia and identity.
+
+   Our first research question asked whether identity was associated with
+   national nostalgia. We found partial evidence for this idea, as
+   Republican participants expressed greater positive attitudes toward
+   Trump. However, there was no evidence of a relationship between race
+--
+   Trump's messaging appealed mostly to White voters. However, although
+   race itself did not predict support for the President, racial identity
+   salience moderated the link between national nostalgia and pro-Trump
+   attitudes. White Republicans felt more strongly connected to their
+   racial identity than Whites who identified as either Democrats or
+--
+   that the threat to White identity, along with other related constructs,
+   may influence political attitudes and may also offer an explanation on
+   why leaders invoking national nostalgia may be so attractive to some
+   individuals. This type of rhetoric typically emphasizes collective
+   identity discontinuity in order to foment anxiety about the state of
+--
+
+   The role of intergroup attitudes was apparent when examining the
+   relationship between national nostalgia and pro-Trump support. We found
+   that national nostalgia significantly predicted racial prejudice and
+   that this relationship was mediated by perceived outgroup threat.
+   Interestingly, this mediational effect was found among both White/EA
+   and Black/AA participants, although the lack of a significant
+   interaction effect may have been due to lower power. Additionally, we
+   found a stronger relationship between national nostalgia and pro-Trump
+   attitudes among those who reported more prejudice toward Black
+   individuals. These findings align with evidence that group emotions
+--
+   when outgroups are perceived to be a threat (Smith et al., 2007;
+   Wildschut et al., 2014). In particular, these findings align with
+   converging evidence that the content of collective nostalgia—what
+   individuals perceive to be “the good old days” for their identity
+   group—reflects salient sources of perceived threat (Wohl et al., 2020).
+   This conceptual model, highlighting the content of collective
+   nostalgia, also explains differences between the emotional outcomes of
+   personal and national nostalgia. Whereas, personal nostalgia enhances
+   feelings of belonging by evoking memories of positive intrapersonal
+   experiences in the face of ostracism or loneliness, national nostalgia
+   may enhance belongingness by evoking positive thoughts about the “good
+   old days” when one's group was perceived to be higher in status or less
+   threatened by outgroups. It is also possible that national nostalgia,
+   like personal nostalgia, may enhance feelings of continuity in its own
+   way, by allowing individuals to feel connected to a time in which they
+   believed their ingroup identity was less threatened or somehow
+   stronger. Recent work supports the notion that, analogous to personal
+   nostalgia, enhancing feelings of self-continuity (Sedikides and
+   Wildschut, 2019), national nostalgia is linked to feelings of ingroup
+   continuity (Smeekes et al., 2018). A study across 27 countries found
+   that national nostalgia was associated with stronger feelings of
+   ingroup continuity (Smeekes et al., 2018); ingroup belonging but not
+   prejudice (outgroup rejection) appeared to mediate this link. Since
+   relatively little research on collective nostalgia, particularly
+   national nostalgia, has been undertaken, future work should examine
+   these questions via multiple methods, particularly longitudinal and
+   experimental designs, which can identify whether and to what extent
+   self-continuity is enhanced by (or itself predicts) collective
+   nostalgia in response to outgroup threat.
+
+Constraint on Generalizability
+--
+   Additionally, these considerations of intergroup threat perception and
+   prejudice are most generalizable to White/EA and Black/AA social groups
+   within the United States, and future analysis of national nostalgia
+   should continue to assess different ethnicities, races, and other
+   relevant social categories.
+--
+Future Directions
+
+   These findings raise the question on whether national nostalgia stems
+   from a desire by some to go back in time, due to perceived group
+   identity threats. Future research should employ longitudinal or
+   experimental methods, such as manipulating identity threat, to examine
+   whether national nostalgia arises as a defense against perceived
+   threats to one's ingroup. Relatedly, it is only recently that national
+   nostalgia has been manipulated (Smeekes and Verkuyten, 2015; Wohl et
+   al., 2020), as the majority of national nostalgia research has been at
+   the trait level. Further work evoking national nostalgia in
+   experimental contexts would allow us to better understand how this
+   emotion interacts with intergroup attitudes, prejudice, and feelings of
+--
+
+   An additional question to be explored is the extent to which national
+   nostalgia operates within specific cultures and nations. Although
+   Trump's presidential tenure has ended, the importance of these findings
+   is not constrained only to the rhetoric from his campaign. Rather, the
+   use of national nostalgia in political communication is widespread
+   (Mols and Jetten, 2014; Smeekes et al., 2020) and has far-reaching
+   implications. Future research should examine the role of national
+   nostalgia in shaping attitudes toward demagogues in a variety of
+   settings and when considering a variety of societal outcomes. Our
+   findings suggest that national nostalgia may influence intergroup
+   attitudes as a group-based emotion broadly through evoking positive
+   emotions about one's national group identity. However, the nature of
+--
+   recent history, and a call to return to a former time may imply a call
+   for a return to a former and less egalitarian social hierarchy. Future
+   research on national nostalgia should explore the nuances of this
+   emotion and its expression among various ethnic and social groups in
+   different countries. Expressions of national nostalgia may evoke
+   intergroup hostility to a lesser extent within nations with different
+   histories.
+--
+Coda
+
+   National nostalgia, a form of collective nostalgic experience, is a
+   promising lens through which to analyze attitudes, such as political
+   and prejudicial attitudes, particularly when combined with assessments
+   of identity salience and perceived outgroup threat. Research to date on
+   national nostalgia is relatively new. Although this phenomenon has been
+   studied elsewhere (mostly in European and Asian nations), this is the
+   first study, to our knowledge, to examine the US political landscape.
+   Personal nostalgia—a wistful longing for one's personal past—does not
+   have the same associations with political and group attitudes, and only
+   moderately correlates with national nostalgia. In contrast, national
+   nostalgia, particularly in combination with white identity salience and
+   outgroup threat perception, predicted both prejudice and political
+   attitudes.
+
+   There may be some irony in the possibility that national nostalgia may
+   include beliefs for a past that never was; in this case, an America
+   that was not as white as some recollect. Nevertheless, these national
+--
+   group to the Caucasian sample.
+
+   3. ^The Pearson correlation between national nostalgia and outgroup
+   prejudice reported by Smeekes and Verkuyten, 2015, study 2).
+
+--
+   time this study was developed. However, the decision was made prior to
+   data collection to utilize this validated scale as a more direct and
+   statistically sound way to measure the construct of national nostalgia.
+
+   5. ^Although structural equation models are often used to model paths
+   among composite variables (such as national and personal nostalgia), we
+   opted to use a path model for these analyses given that our sample was
+   not large enough to justify inclusion of all individual items in the
+--
+
+   Barrett, F. S., Grimm, K. J., Robins, R. W., Wildschut, T., Sedikides,
+   C., and Janata, P. (2010). Music-evoked nostalgia: affect, memory, and
+   personality. Emotion 10, 390–403. doi: 10.1037/a0019006
+
+--
+
+   Batcho, K. I., DaRin, M. L., Nave, A. M., and Yaworsky, R. R. (2008).
+   Nostalgia and identity in song lyrics. Psychol. Aesth. Creativ. Arts 2,
+   236–244. doi: 10.1037/1931-3896.2.4.236
+
+   CrossRef Full Text | Google Scholar
+
+   Brownstein, R. (2016, June 2). Trump's rhetoric of White nostalgia. The
+   Atlantic. Available online at:
+   https://www.theatlantic.com/politics/archive/2016/06/trumps-rhetoric-of
+   -white-nostalgia/485192/
+
+   Google Scholar
+
+   Cheung, W. Y., Hepper, E. G., Reid, C. A., Green, J. D., Wildschut, T.,
+   and Sedikides, C. (2020). Anticipated nostalgia: looking forward to
+   looking back. Cogn. Emot. 34, 511–525. doi:
+   10.1080/02699931.2019.1649247
+--
+   PubMed Abstract | CrossRef Full Text | Google Scholar
+
+   Cheung, W. Y., Sedikides, C., and Wildschut, T. (2017). Nostalgia
+   proneness and reduced prejudice. Pers. Individ. Dif. 109, 89–97. doi:
+   10.1016/j.paid.2016.12.045
+--
+
+   Dimitriadou, M., Maciejovsky, B., Wildschut, T., and Sedikides, C.
+   (2019). Collective nostalgia and domestic country bias. J. Exp.
+   Psychol. Appl. 25, 445–457. doi: 10.1037/xap0000209
+
+--
+
+   Green, J. D., Cairo, A. H., Sedikides, S., and Wildschut. (2021). The
+   ties that bind: university nostalgia fosters relational and collective
+   university engagement. Front. Soc. Psychol. 11:580731. doi:
+   10.3389/fpsyg.2020.580731
+--
+
+   Hepper, E. G., Ritchie, T. D., Sedikides, C., and Wildschut, T. (2012).
+   Odyssey's end: Lay conceptions of nostalgia reflect its original
+   Homeric meaning. Emotion 12, 102–119. doi: 10.1037/a0025167
+
+--
+
+   Martinovic, B., Jetten, J., Smeekes, A., and Verkuyten, M. (2017).
+   Collective memory of a dissolved country: group-based nostalgia and
+   guilt assignment as predictors of interethnic relations between
+   diaspora groups from former Yugoslavia. J. Soc. Political Psychol. 5,
+--
+
+   Reid, C. A., Green, J. D., Wildschut, T., and Sedikides, C. (2015).
+   Scent-evoked nostalgia. Memory 23, 157–166. doi:
+   10.1080/09658211.2013.876048
+
+--
+
+   Routledge, C., Arndt, J., Sedikides, C., and Wildschut, T. (2008). A
+   blast from the past: the terror management function of nostalgia. J.
+   Exp. Soc. Psychol. 44, 132–140. doi: 10.1016/j.jesp.2006.11.001
+
+--
+
+   Sedikides, C., and Wildschut, T. (2019). The sociality of personal and
+   collective nostalgia. Eur. Rev. Soc. Psychol. 30, 123–173. doi:
+   10.1080/10463283.2019.1630098
+
+--
+
+   Sedikides, C., Wildschut, T., Arndt, J., and Routledge, C. (2008).
+   Nostalgia: past, present, and future. Curr. Dir. Psychol. Sci. 17,
+   304–307. doi: 10.1111/j.1467-8721.2008.00595.x
+
+--
+
+   Sedikides, C., Wildschut, T., Routledge, C., and Arndt, J. (2015a).
+   Nostalgia counteracts self-discontinuity and restores self continuity.
+   Eur. J. Soc. Psychol. 45, 52–61. doi: 10.1002/ejsp.2073
+
+--
+   Google Scholar
+
+   Smeekes, A. (2015). National nostalgia: a group-based emotion that
+   benefits the in-group but hampers intergroup relations. Int. J.
+   Intercult. Relat. 49, 54–67. doi: 10.1016/j.ijintrel.2015.07.001
+--
+
+   Smeekes, A., and Jetten, J. (2019). Longing for one's home country:
+   national nostalgia and acculturation among immigrants and natives. Int.
+   J. Intercult. Relat. 69, 131–150. doi: 10.1016/j.ijintrel.2019.02.001
+
+--
+
+   Smeekes, A., Verkuyten, M., and Martinovic, B. (2014). Longing for the
+   country's good old days: national nostalgia, autochthony beliefs, and
+   opposition to Muslim expressive rights. Br. J. Soc. Psychol. 54,
+   561–580. doi: 10.1111/bjso.12097
+--
+
+   Smeekes, A., Wildschut, T., and Sedikides, C. (2020). Longing for the
+   “good old days” of our country: national nostalgia as a new
+   master-frame of populist radical-right parties. J. Theoret. Soc.
+   Psychol. doi: 10.1002/jts5.78
+--
+
+   van Dijke, M., Wildschut, T., Leunissen, J., and Sedikides, C. (2015).
+   Nostalgia buffers the negative impact of low procedural justice on
+   cooperation. Organ. Behav. Hum. Decis. Process. 127, 15–29. doi:
+   10.1016/j.obhdp.2014.11.005
+--
+
+   Wildschut, T., Bruder, M., Robertson, S., van Tilburg, W. A. P., and
+   Sedikides, C. (2014). Collective nostalgia: a group-level emotion that
+   confers unique benefits on the group. J. Pers. Soc. Psychol. 107,
+   844–863. doi: 10.1037/a0037760
+--
+
+   Wildschut, T., Sedikides, C., Arndt, J., and Routledge, C. (2006).
+   Nostalgia: content, triggers, functions. J. Pers. Soc. Psychol. 91,
+   975–993. doi: 10.1037/0022-3514.91.5.975
+
+--
+
+   Wohl, M. J., Stefaniak, A., and Smeekes, A. (2020). Longing is in the
+   memory of the beholder: collective nostalgia content determines the
+   method members will support to make their group great again. J. Exp.
+   Soc. Psychol. 91:104044. doi: 10.1016/j.jesp.2020.104044
+--
+
+   Zhou, X., Sedikides, C., Wildschut, T., and Gao, D. G. (2008).
+   Counteracting loneliness: on the restorative function of nostalgia.
+   Psychol. Sci. 19, 1023–1029. doi: 10.1111/j.1467-9280.2008.02194.x
+
+   PubMed Abstract | CrossRef Full Text | Google Scholar
+
+   Keywords: national nostalgia, prejudice, intergroup relations, emotion,
+   political differences
+
+   Citation: Behler AMC, Cairo A, Green JD and Hall C (2021) Making
+   America Great Again? National Nostalgia's Effect on Outgroup
+   Perceptions. Front. Psychol. 12:555667. doi: 10.3389/fpsyg.2021.555667
+
+--
+This article is part of the Research Topic
+
+   Current Issues in Nostalgia Research
+   View all 13 Articles

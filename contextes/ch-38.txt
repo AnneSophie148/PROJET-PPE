@@ -1,1 +1,16 @@
-
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">“现代乡愁”的社会性基础</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <dc:description>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">基于以往哲学、文学、美学角度审视“乡愁”的局限，本文试图勾勒两种不同的“乡愁”类型，并探究“现代乡愁”的社会性基础。本文首先简要概括了“乡愁”的意涵、特征与生成条件；其次阐明“传统乡愁”和“现代乡愁”两种理念型在时空条件、承载主体、客体指向、表现形式、客体特征、心理体验、触发情境和商品转化诸方面的不同，以及在“传统乡愁”向“现代乡愁”过渡阶段，“乡愁”自身的特点及其群体差异；最后指出：人们生活方式和联结纽带的转变，奠定了“现代乡愁”作为一种抽象情感依托的社会基础；乡村与城市互为他者的文化建构及其意象的“颠转”，构成了“现代乡愁”生成的话语形式及其时空条件；乡土变迁中“社会底蕴”的稳固性与特定的时代氛围，为“乡愁”扩展为近乎全社会共享的情感体验，提供了内在文明基础与外在社会条件。</rdf:li>
+            </rdf:Alt>
+         </dc:description>
+--
+         </dc:creator>
+         <pdf:Producer>Adobe PDF Library 11.0</pdf:Producer>
+         <pdf:Keywords>“乡愁”，类型，社会性基础</pdf:Keywords>
+         <pdfx:SourceModified>D:20200927033053</pdfx:SourceModified>
+         <pdfx:Company/>

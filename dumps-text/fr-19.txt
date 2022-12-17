@@ -1,230 +1,300 @@
-UTF-8 and Unicode
+   Education, study and knowledge
 
-   Unicode Transformation Format 8-bit is a variable-width encoding that
-   can represent every character in the Unicode character set. It was
-   designed for backward compatibility with ASCII and to avoid the
-   complications of endianness and byte order marks in UTF-16 and UTF-32.
-   ^[1]
+   (BUTTON) Basculer la navigation
+     * Représentants Du Perspectivisme
+     * Quai Sud
+     * Emmanuel Krivitch
+     * French
+          + Russian
+          + English
+          + Arabic
+          + Bulgarian
+          + Croatian
+          + Czech
+          + Danish
+          + Dutch
+          + Estonian
+          + Finnish
+          + French
+          + Georgian
+          + German
+          + Greek
+          + Hebrew
+          + Hindi
+          + Hungarian
+          + Indonesian
+          + Italian
+          + Japanese
+          + Korean
+          + Latvian
+          + Lithuanian
+          + Norwegian
+          + Polish
+          + Portuguese
+          + Romanian
+          + Serbian
+          + Slovak
+          + Slovenian
+          + Swedish
+          + Thai
+          + Turkish
+          + Ukrainian
+          + Persian
 
-   UTF-8 encodes each Unicode character as a variable number of 1 to 4
-   octets, where the number of octets depends on the integer value
-   assigned to the Unicode character. It is an efficient encoding of
-   Unicode documents that use mostly US-ASCII characters because it
-   represents each character in the range U+0000 through U+007F as a
-   single octet.
+Nostalgie: qu'est-ce que c'est, caractéristiques et fonctions de ce sentiment
 
-   UTF-8 is the default encoding for XML and since 2010 has become the
-   dominant character set on the Web.
+   Sep 13, 2021
 
-Standards
+   Psychologie
 
-     * RFC 3629: UTF-8, a transformation format of ISO 10646. November
-       2003.
-     * The Unicode Standard 5.0, November 2006. [purchase from Amazon.com]
-          + In particular, see the informal description of UTF-8 in
-            sections 2.5 and 2.6, pages 30-32, and a much more formal
-            definition in sections 3.9 and 3.10, pages 77-81.
+   0
+   [INS: :INS]
 
-Articles and background reading
+     How to effectively deal with bots on your site? The best protection
+                            against click fraud.
 
-     * UTF-8 and Unicode FAQ for Unix/Linux by Markus Kuhn
-     * Forms of Unicode, an excellent overview by Mark Davis
-     * Wikipedia UTF-8 contains a good discussion of why five- and
-       six-octet sequences are now illegal UTF-8
-     * Unicode Transformation Formats [czyborra.com]
-     * The Absolute Minimum Every Software Developer Absolutely,
-       Positively Must Know About Unicode and Character Sets (No
-       Excuses!), an amusing and informative article by Joel Spolsky
+   Nous avons tous connu la nostalgie à plusieurs reprises. C'est un
+   sentiment qui surgit lorsque nous regardons en arrière et que nous nous
+   souvenons de bons moments, de moments de notre vie où nous étions
+   heureux ou, du moins, c'est ce que nous croyons maintenant.
 
-Character Sets
+   Quand on sortait avec un copain ou une copine, quand on jouait dans le
+   parc avec nos amis, quand on mangeait Les samedis chez notre
+   grand-mère... il y a beaucoup de "cuandos" qui évoquent proprement nos
+   expériences nostalgique.
 
-   The MIME character set attribute for UTF-8 is UTF-8. Character sets are
-   case-insensitive, so utf-8 is equally valid. [IANA Character Sets].
+   Qu'est-ce que la nostalgie ? A-t-il une utilité? Cela peut-il être un
+   problème? Ce sont quelques-unes des questions que nous allons résoudre
+   ensuite.
+     * Article associé: "Les 8 types d'émotions (classification et
+       description)"
 
-   In a modern HTML 5 page, place this tag inside <head> ... </head>:
-<meta charset="UTF-8">
+Qu'est-ce que la nostalgie ?
 
-   In an XML prolog, the encoding is typically specified as an attribute:
-<?xml version="1.0" encoding="UTF-8" ?>
-     __________________________________________________________________
+   La nostalgie est un sentiment ancré dans le passé, en fait, elle est
+   comprise comme le désir de toujours mieux. Cette émotion est vécue
+   lorsque nous ressentons de la tristesse, de la tristesse et de la
+   mélancolie envers notre patrie lorsque nous en sommes loin, nous
+   ressentons la l'absence de nos proches, une personne décédée nous
+   manque ou nous nous souvenons d'un objet qui nous était très précieux.
+   C'est vouloir faire revivre un temps passé. C'est la nostalgie qui
+   parle quand on dit que les temps passés étaient toujours meilleurs...
+   [INS: :INS] instagram story viewer
 
-   Last modified: Wed Jan 5 12:57:21 PST 2022
+   Son étymologie nous offre une bonne description du sentiment
+   qu'implique la nostalgie. Il vient de la combinaison des mots grecs
+   νόστος (nóstos), qui signifie « retour », et du suffixe -αλγία
+   (-algia), qui signifie « douleur ». La nostalgie est donc le "retour à
+   la douleur", une douleur résultant du souvenir des moments où nous
+   étions plus heureux, ou du moins c'est ce que nous croyons
+
+   Bien qu'aujourd'hui nous voyions la nostalgie comme un sentiment qui
+   surgit lorsque nous pensons à ces bons moments qui font partie du
+   passé, il fut un temps où elle était considérée comme une pathologie
+   mentale ou, plus dans la ligne de pensée de l'époque, une maladie de
+   l'âme. Ce mot est apparu pour la première fois dans une thèse de
+   médecine en 1688. Son auteur, Johannes Hofer, a décrit cette émotion
+   comme une maladie, un tableau clinique manifesté par des étudiants qui
+   sont allés à l'académie de Bâle et qui aspiraient à leur ville natale.
+
+   Au XIXe siècle, le terme nostalgie a cessé d'être utilisé pour désigner
+   une prétendue maladie mentale, bien qu'il ait été considéré comme un
+   symptôme possible d'un trouble mental. C'est en fait en partie vrai
+   pour certains troubles comme la dépression et les troubles anxieux. Au
+   fil du temps, le terme a été utilisé pour désigner simplement toute
+   situation dans laquelle le passé a été manqué., d'une manière
+   mélancolique et aspirant à revivre ces temps meilleurs, ôtant le
+   caractère pathologique avec lequel le terme avait été conçu.
+
+   On sait aujourd'hui que la nostalgie est un état d'esprit dont
+   l'expérience n'est pas pathologique en soi. En fait, nous pourrions le
+   voir comme un mécanisme de défense, une échappatoire à un présent
+   souvent complexe et troublé. Cela peut même améliorer notre humeur en
+   nous souvenant de nos forces et de nos attitudes passées qui ont
+   contribué à rendre cette période si heureuse. La nostalgie nous aide à
+   comprendre qu'il y a eu un bon bilan dans notre histoire de vie,
+   moments où nous avons appris ce qu'il faut faire pour aller de l'avant
+   et qui nous ont aidés à grandir comme personnes.
+
+   Cependant, il a aussi son mauvais côté, car vivre cette émotion trop de
+   fois Cela peut impliquer de naviguer dans des sentiments de solitude,
+   de manque de sens à la vie et de déconnexion avec ceux qui nous
+   entourent. Cela peut nous amener à rester coincé dans le passé, en
+   oubliant ce qui existe est maintenant.
+     * Vous etes peut etre intéressé: "Voyons ce qu'est le recul et
+       comment il nous amène à prendre certains raccourcis mentaux."
+
+A quoi sert la nostalgie ?
+
+   Peut-être que pour beaucoup la nostalgie n'est plus un autre élément de
+   notre répertoire mental. Cependant, la vérité est que chaque émotion et
+   sentiment a sa signification et son utilité, et la nostalgie ne fait
+   pas exception à cela. Si nous le vivons de manière saine, cet état
+   d'esprit nous captive dans le passé glorieux, nous aidant à prendre
+   conscience du bien qui s'y trouvait et à voir ce qui se passait si bien
+   à ce moment-là, mais sans s'y prendre et nous faire oublier que le
+   présent, s'il n'est pas vécu, se perd.
+
+   L'utilité potentielle de la nostalgie a été abordée par la science. On
+   en trouve un exemple dans l'étude de 2006 de Wildschut et ses
+   collègues, publiée dans le Journal de personnalité et de psychologie
+   sociale, dont la conclusion était que les gens ressentent généralement
+   cet état comme une motivation, quelque chose qui nous pousse à avancer
+   à un moment donné de notre vie. C'est une émotion qui apporte avec elle
+   le sentiment d'une impulsion vitale qui nous dit « en avant ». Ainsi,
+   cette émotion aurait une finalité à la fois psychologique et
+   émotionnelle, deux aspects fondamentaux dans la motivation.
+
+   Un autre exemple d'approche de l'utilité de la nostalgie se trouve dans
+   l'œuvre de Svetlana Boym. Dans son livre "L'avenir de la nostalgie"
+   (2001) l'auteur expose l'existence de deux types de nostalgie:
+   réparatrice et réflexive.
+   Fonctions de la nostalgie
+
+   La nostalgie réparatrice aurait un but émotionnel, étant celle dans
+   laquelle vous essayez de retourner dans le passé parce que vous y voyez
+   un moment de bonheur et de bien-être, quelque chose à l'opposé de ce
+   que la personne vit dans son présent le plus immédiat ou après avoir
+   vécu de mauvaises vivre.
+
+   D'autre part, la nostalgie réflexive, dans laquelle on retourne aussi
+   au passé, ne survient pas nécessairement après avoir avait une aversion
+   pour le présent mais avec l'intention d'apprendre du passé pour faire
+   du présent un moment mieux. Il regarde le passé mais valorise l'ici et
+   maintenant.
+
+   En plus de cela, d'autres auteurs considèrent que la nostalgie pourrait
+   avoir les trois fonctions principales suivantes.
+     * Article associé: "Développement personnel: 5 raisons de
+       s'auto-réfléchir"
+
+1. Préparation émotionnelle
+
+   La nostalgie nous prépare à de nouvelles expériences mais similaires à
+   celles que nous avons déjà vécues dans le passé. Ici, Ce sentiment est
+   complété par l'attente, nous remplissant d'enthousiasme et d'excitation
+   pour ce que nous espérons., confiant qu'il ira aussi bien qu'avant.
+
+   Se souvenir des expériences passées dans lesquelles nous avons réussi
+   et imaginer l'avenir dans lequel nous utiliserons les mêmes stratégies
+   nous rend plus forts et plus confiants. Il est plus facile de réaliser
+   un objectif ou un rêve si nous l'associons émotionnellement à un succès
+   passé, voyant que nous en étions capables, qu'il y a un contexte
+   satisfaisant dans notre histoire de vie.
+     * Article associé: « Qu'est-ce que l'intelligence émotionnelle? »
+
+2. Activation comportementale
+
+   Tant que nous nous sentons nostalgiques de manière saine, cette
+   expérience peut nous rendre plus actifs. Comment? Lorsque nous nous
+   souvenons du passé, nous sentons qu'il contient des choses que nous
+   n'avons plus dans le présent. Cette Cela peut nous motiver à y aller,
+   essayer de faire revenir ces choses dont nous aspirons.
+
+   Nous pouvons avoir le mal du pays pour le sport, la peinture, le
+   bowling ou toute autre activité. Ressentant cette émotion, il nous
+   invite à reprendre nos vieilles habitudes, à ne plus laisser le temps
+   continuer à passer sans que nous ne fassions rien. Qu'il s'agisse de
+   quelque chose d'ancien ou de nouveau, la question est de ressentir à
+   nouveau ce bonheur du passé en faisant quelque chose qui nous comble
+   dans le présent.
+     * Vous etes peut etre intéressé: « Types de mémoire: comment le
+       cerveau stocke-t-il les souvenirs? »
+
+3. Renforcer les relations sociales
+
+   La nostalgie aide beaucoup d'amis à durer car, après avoir passé du
+   temps séparés ou ne rien savoir de l'autre, deux amis chérissent les
+   bons moments que vous avez passés ensemble.
+
+   Cette émotion amène les gens à se concentrer sur le bien et à minimiser
+   le mal qui s'est produit dans le passé. Qu'il s'agisse de deux amis, de
+   deux anciens petits amis, de membres de la famille ou de tout type de
+   relation sociale existant entre deux personnes, se souvenir du passé
+   aide à se connecter une fois qu'ils deviennent Voyons.
+     * Article associé: « Les 12 types d'amis: à quoi ressemblent les
+       vôtres ?
+
+Dangers et inconvénients de ce sentiment
+
+   Comme nous l'avons vu, la nostalgie est une émotion qui nous aide à
+   apprécier le passé pour affronter au présent, soit en appliquant des
+   stratégies qui fonctionnaient bien pour nous auparavant, soit pour
+   tester des choses Nouveau.
+
+   C'est un sentiment qui nous fait du bien de voir que nous étions
+   autrefois heureux, ce qui Cela peut nous aider à voir ce qui se passait
+   bien dans nos vies à ce moment-là et ce que nous pouvons appliquer à
+   notre présent pour en tirer le meilleur parti.
+
+   Cependant, il est également vrai qu'être têtu dans le passé a ses
+   inconvénients. Si cela nous attrape, cela peut nous empêcher d'innover,
+   saboter notre volonté de grandir en tant que personnes et d'avancer
+   dans notre travail, notre vie sentimentale et sociale. Cela peut
+   devenir un danger parce que nous cesserons de valoriser notre présent,
+   nous réfugierons dans un passé que nous considérons comme glorieux en
+   ne faisant pratiquement rien pour changer notre ici et maintenant.
+
+   Cette émotion devient un problème quand il déforme notre vision du
+   présent et du passé, rabaissant l'un et idéalisant l'autre. En
+   conséquence, nous abandonnons beaucoup de choses positives qui se
+   produisent dans notre présent en nous rappelant encore et encore des
+   moments qui, bien qu'ils étaient heureux, n'existent plus. Le passé est
+   passé. Nous devons trouver l'équilibre, apprendre à vivre dans le
+   présent en utilisant la nostalgie pour nous motiver à avancer vers
+   l'avenir.
+   Teachs.ru
+   Effet Ganzfeld: qu'est-ce que c'est, ses caractéristiques et comment il
+   a été étudié
+
+Effet Ganzfeld: qu'est-ce que c'est, ses caractéristiques et comment il a été
+étudié
+
+   Y a-t-il de la télépathie? Pour le moment, tout semble indiquer
+   qu'aucunPuisqu'il n'y a aucune ex...
+
+   Lire la suite
+
+Pourquoi les gens croient aux complots ?
+
+   Il y a un grand nombre de personnes (même si statistiquement c'est une
+   minorité), qui ont des cro...
+
+   Lire la suite
+
+L'amour de soi: les raisons de le cultiver, et comment le faire en 5 étapes
+
+   L'amour de soi est un ingrédient très important pour profiter du
+   bien-être psychologique. Quoi qu...
+
+   Lire la suite
+
+   Education, study and knowledge
+
+CONNECTE-TOI AVEC NOUS
 
      *
-          + A la une
-          + Bien-être
-          + Art de vivre
-          + Environnement
-          + Argent
-          + Culture Pop
-          + Vie digitale
-          + Mode Beauté
+     *
+     *
+     *
+     *
 
-   L'esprit de Noël a-t-il un réel impact sur notre cerveau ?
-   News
-   L'esprit de Noël a-t-il un réel impact sur notre cerveau ?
-   06 décembre 2022
-   Repas de Noël : 10 sujets de conversation à esquiver pour éviter les
-   embrouilles
-   News
-   Repas de Noël : 10 sujets de conversation à esquiver pour éviter les
-   ...
-   06 décembre 2022
-   Maman ou femme : comment trouver l'équilibre ?
-   News
-   Maman ou femme : comment trouver l'équilibre ?
-   22 novembre 2022
-   Rétroplanning de Noël : 10 étapes pour préparer les fêtes sereinement
-   News
-   Rétroplanning de Noël : 10 étapes pour préparer les fêtes sereinement
-   22 novembre 2022
-   Est-il mauvais pour le moral de regarder la télévision ?
-   News
-   Est-il mauvais pour le moral de regarder la télévision ?
-   08 novembre 2022
-   10 conseils pour une famille recomposée réussie
-   News
-   10 conseils pour une famille recomposée réussie
-   08 novembre 2022
-   Ils n'ont jamais montré leurs enfants pour préserver leur famille
-   News
-   Ils n'ont jamais montré leurs enfants pour préserver leur famille
-   03 novembre 2022
-   Déco thérapie : quand la décoration permet d'aller mieux
-   News
-   Déco thérapie : quand la décoration permet d'aller mieux
-   25 octobre 2022
-   Hypersensibilité : 10 signes pour la déceler
-   News
-   Hypersensibilité : 10 signes pour la déceler
-   25 octobre 2022
-   Fatigue physique ou mentale : comment les discerner ?
-   News
-   Fatigue physique ou mentale : comment les discerner ?
-   11 octobre 2022
-   Ces personnalités qui ont ralenti le rythme pour se consacrer à leur
-   famille
-   News
-   Ces personnalités qui ont ralenti le rythme pour se consacrer à leur
-   ...
-   11 octobre 2022
-   Trahison : 10 étapes pour pardonner
-   News
-   Trahison : 10 étapes pour pardonner
-   11 octobre 2022
-   Contact humain : pourquoi est-il important pour notre bonheur ?
-   News
-   Contact humain : pourquoi est-il important pour notre bonheur ?
-   27 septembre 2022
-   Psycho
+     * Représentants Du Perspectivisme
+     * Quai Sud
+     * Emmanuel Krivitch
+     * Alouette Tavera Jaramillo
+     * Cliniques D'origine Albufera
+     * Types De Métaphores
 
-La nostalgie est-elle une émotion positive ou négative ?
+     * Viña Del Mar
+     * Daniela Guajardo Psychologue Scolaire
+     * Quart De Huerva
+     * J'enlève
+     * La Communication
+     * Sebastien Robalino
 
-   Chargement en cours
-   Fouler de nouveau un lieu familier peut faire apparaître de la
-   nostalgie.
-   Feuilleter des photos peut faire surgir un état de nostalgie positif !
-   Chargement en cours
-   Fouler de nouveau un lieu familier peut faire apparaître de la
-   nostalgie.
-   Fouler de nouveau un lieu familier peut faire apparaître de la
-   nostalgie.
-   1/2
-   © Adobe Stock, Rido
-   A lire aussi
-   Omar Da Fonseca (beIN SPORTS) : "Je ne sais pas si je serai consultant
-   pour la prochaine Coupe du monde 2026"
-   article
-   Omar Da Fonseca (beIN SPORTS) : "Je ne sais pas si je serai consultant
-   pour la prochaine Coupe du monde 2026"
-   article
-   "Beaucoup de lâcheté" de la part de Johnny Hallyday... Les propos très
-   surprenants de Laeticia !
-   diaporama
-   10 facteurs qui favorisent les aphtes
+   Education, study and knowledge @ 2022 All Rights Reserved
 
-   Alexandra Arquey, Jellyfish France
+   instagram viewer
 
-   Regardez-vous souvent derrière vous ? Le fait de se raccrocher à des
-   émotions du passé amène à ressentir de la nostalgie. Fréquemment perçue
-   comme étant négative, cette émotion aurait-elle finalement des effets
-   positifs sur le mental ?
-
-   Qu'est-ce que la nostalgie ?
-
-   L'étymologie de ce mot définit à elle seule cet état d'âme si
-   particulier. Le terme nostalgie est formé à partir de deux mots grecs,
-   nóstos signifiant retour et álgos traduisible par douleur. C'est une
-   émotion généralement passagère, associée à des souvenirs heureux de
-   votre vie. De fait, elle se distingue de la mélancolie. Cette dernière
-   apparaît comme étant un sentiment plus présent et plus noir. La
-   mélancolie s'apparente davantage à de la tristesse et à une déprime.
-   Cet état s'avère souvent plus long et plus récurrent que la nostalgie.
-
-   Comment se caractérise la nostalgie ?
-
-   Être nostalgique n'est pas un état exceptionnel. Il se rencontre chez
-   tous les individus, adultes comme enfants. Cette émotion peut se
-   déclencher en visionnant des photos de votre enfance, en percevant un
-   parfum familier, en évoquant vos souvenirs avec une tierce personne, en
-   écoutant une chanson ou encore en goûtant un plat aux saveurs bien
-   définies dans votre esprit. La nostalgie se caractérise donc par un
-   sentiment de regret du passé, souvent joyeux, par un manque, par
-   l'éloignement d'un lieu, d'une personne, d'une période de votre vie.
-
-   Si la nostalgie fait appel à des regrets, ce n'est pas pour autant que
-   cette émotion demeure systématiquement négative, bien au contraire !
-
-   La nostalgie peut-elle être négative et positive ?
-
-   Si les souvenirs de vos années sur les bancs de l'école font apparaître
-   un sentiment de joie et de douceur ponctué par un "C'était bien !", il
-   y a de fortes chances pour que vous ressentiez de la nostalgie
-   positive. S'ils font apparaître une pensée du type "Ma vie était bien
-   plus belle à ce moment-là !", l'émotion que vous allez ressentir sera
-   davantage de la nostalgie négative. Elle ne se transformera cependant
-   pas nécessairement en mélancolie !
-
-   L'état émotionnel dans lequel vous vous trouvez au moment où vos
-   souvenirs apparaissent vont forcément conditionner la nature de la
-   nostalgie ressentie.
-
-   La nostalgie c'est quoi ? - #CulturePrimepar France Culture
-
-   La nostalgie peut-elle être bénéfique ?
-
-   De façon générale, la nostalgie ne génère pas de grande tristesse. Elle
-   peut avoir un effet rassurant, comme une bulle dans laquelle vous allez
-   vous plonger pour y trouver du réconfort et de la chaleur si vous vivez
-   un moment actuel un peu anxiogène.
-
-   La nostalgie peut également se partager. Évoquer des souvenirs communs
-   entre amis ou membres d'une même famille donnera l'impression
-   d'appartenir à une même tribu et renforcera le lien déjà présent. Cette
-   émotion permet de connecter le passé au présent en établissant une
-   douce continuité qui se savoure et non qui blesse ou rend triste. La
-   nostalgie peut aussi vous envoyer un message et vous faire prendre
-   conscience d'un besoin. Si vous pensez un peu trop souvent à vos
-   vacances prises il y a 6 mois, il est peut-être temps de récidiver...
-
-   Publicité
-
-Déco de Noël
-
-   En panne d'inspiration pour décorer votre sapin ? 10 idées féeriques à
-   copier
-
-   En panne d'inspiration pour décorer votre sapin ? 10 idées féeriques à
-   copier
-
-La recette du jour
-
-   Cailles aux canneberges
-
-   Cailles aux canneberges
-
-   Vos réactions doivent respecter nos CGU.
-
-Liens commerciaux
-
-   Publicité
+   [INS: :INS]

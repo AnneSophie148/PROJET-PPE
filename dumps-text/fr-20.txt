@@ -1,298 +1,675 @@
-   Education, study and knowledge
+   #alternate
 
-   (BUTTON) Basculer la navigation
-     * Représentants Du Perspectivisme
-     * Quai Sud
-     * Emmanuel Krivitch
-     * French
-          + Russian
-          + English
-          + Arabic
-          + Bulgarian
-          + Croatian
-          + Czech
-          + Danish
-          + Dutch
-          + Estonian
-          + Finnish
-          + French
-          + Georgian
-          + German
-          + Greek
-          + Hebrew
-          + Hindi
-          + Hungarian
-          + Indonesian
-          + Italian
-          + Japanese
-          + Korean
-          + Latvian
-          + Lithuanian
-          + Norwegian
-          + Polish
-          + Portuguese
-          + Romanian
-          + Serbian
-          + Slovak
-          + Slovenian
-          + Swedish
-          + Thai
-          + Turkish
-          + Ukrainian
-          + Persian
+   Aller au contenu
 
-Nostalgie: qu'est-ce que c'est, caractéristiques et fonctions de ce sentiment
+   (BUTTON) Menu
+   Abonnez-vous 0,99€ le premier moisRechercher
+   Nouveau
+   Le Figaro Cuisine
+   5000 recettes exclusives
 
-   Sep 13, 2021
+   Rubriques et services du Figaro
+     * Guerre en Ukraine
+     * Politique
+     * International
+     * Société
+     * Vox
+     * Économie
+     * Sport
+     * Culture
+     * Voyage
+     * Style
+     * Madame
+     * Vin
 
-   Psychologie
+   (BUTTON)
 
-   0
-   [INS: :INS]
+   (BUTTON)
 
-     How to effectively deal with bots on your site? The best protection
-                            against click fraud.
+   Rubriques et services du Figaro
+     * Le Figaro Live
+     * Le Figaro Magazine
+     * La Vérification
+     * Le Figaro Étudiant
+     * Faits divers
+     * Santé
+     * Sciences
+     * Fig Data
+     * Tech et web
+     * Bourse
+     * Le Figaro Immobilier
+     * Emploi
+     * Art de vivre
+     * Automobile
+     * Langue française
+     * Golf
+     * Histoire
+     * TVMag
+     * Programme TV
+     * Maison et Jardin
+     * Le Figaroscope
+     * Carnet du jour
+     * Guide achat
+     * Services
+     * Billetterie
+     * Podcasts
+     * La question du jour
 
-   Nous avons tous connu la nostalgie à plusieurs reprises. C'est un
-   sentiment qui surgit lorsque nous regardons en arrière et que nous nous
-   souvenons de bons moments, de moments de notre vie où nous étions
-   heureux ou, du moins, c'est ce que nous croyons maintenant.
+   Nos journaux et magazines
+     * Le Figaro
+     * Le Figaro Magazine
+     * Madame Figaro
+     * TV Magazine
 
-   Quand on sortait avec un copain ou une copine, quand on jouait dans le
-   parc avec nos amis, quand on mangeait Les samedis chez notre
-   grand-mère... il y a beaucoup de "cuandos" qui évoquent proprement nos
-   expériences nostalgique.
+   Les sites du Groupe Figaro
+     * Figaro Store
+     * TickeTac.com
+     * Le Particulier
+     * Météo Consult
+     * La chaîne météo
+     * Figaro Nautisme
+     * Les voyages F
+     * Cadremploi
+     * Keljob
+     * Insiders
+     * Immobilier
+     * Immoneuf
+     * Propriétés de France
+     * Achat Terrain
+     * Choose your boss
+     * Marco Vasco
+     * Maisons du voyage
 
-   Qu'est-ce que la nostalgie ? A-t-il une utilité? Cela peut-il être un
-   problème? Ce sont quelques-unes des questions que nous allons résoudre
-   ensuite.
-     * Article associé: "Les 8 types d'émotions (classification et
-       description)"
+   Se connecter (BUTTON) Mon compte
+     * Mon espace personnel
+     * Mes newsletters
+     * Mes commentaires
+     * S'abonner
+     * Aide et contact
+     * Se déconnecter
 
-Qu'est-ce que la nostalgie ?
+   Lire Madame en PDF en ligne Lire le magazine
+   Abonnez-vous 0,99€ le premier mois
 
-   La nostalgie est un sentiment ancré dans le passé, en fait, elle est
-   comprise comme le désir de toujours mieux. Cette émotion est vécue
-   lorsque nous ressentons de la tristesse, de la tristesse et de la
-   mélancolie envers notre patrie lorsque nous en sommes loin, nous
-   ressentons la l'absence de nos proches, une personne décédée nous
-   manque ou nous nous souvenons d'un objet qui nous était très précieux.
-   C'est vouloir faire revivre un temps passé. C'est la nostalgie qui
-   parle quand on dit que les temps passés étaient toujours meilleurs...
-   [INS: :INS] instagram story viewer
+     * MASTERCLASS
+     * (BUTTON) Style
+     * (BUTTON) Beauté & Bien-être
+     * (BUTTON) Prénoms
+     * (BUTTON) Société & Business
+     * (BUTTON) Art de vivre
+     * (BUTTON) Cuisine & recettes
+     * (BUTTON) Culture
+     * Le Petit Club
+     * (BUTTON) Podcasts
+     * (BUTTON) Astro
 
-   Son étymologie nous offre une bonne description du sentiment
-   qu'implique la nostalgie. Il vient de la combinaison des mots grecs
-   νόστος (nóstos), qui signifie « retour », et du suffixe -αλγία
-   (-algia), qui signifie « douleur ». La nostalgie est donc le "retour à
-   la douleur", une douleur résultant du souvenir des moments où nous
-   étions plus heureux, ou du moins c'est ce que nous croyons
+     * Mode
+          + Actu mode
+          + Tendances mode
+          + Mode enfants
+     * Défilés
+          + Prêt-à-porter
+          + Haute couture
+          + Homme
+          + Croisières
+          + Tous les créateurs
+          + Toutes les saisons
+     * Bijoux et montres
+          + Tendances bijoux
+          + Agenda bijoux
+          + Shopping bijoux
+          + Coups de coeur bijoux
+          + Saga bijoux
+     * Mariage
+          + Tendances mariage
+          + Robes & tenues
+          + Bijoux & accessoires de mariage
 
-   Bien qu'aujourd'hui nous voyions la nostalgie comme un sentiment qui
-   surgit lorsque nous pensons à ces bons moments qui font partie du
-   passé, il fut un temps où elle était considérée comme une pathologie
-   mentale ou, plus dans la ligne de pensée de l'époque, une maladie de
-   l'âme. Ce mot est apparu pour la première fois dans une thèse de
-   médecine en 1688. Son auteur, Johannes Hofer, a décrit cette émotion
-   comme une maladie, un tableau clinique manifesté par des étudiants qui
-   sont allés à l'académie de Bâle et qui aspiraient à leur ville natale.
+     * Beauté
+          + Maquillage et soins
+          + Cheveux
+          + Parfum
+          + Prix Beauté Stars
+     * Bien-être
+          + Forme et détente
+          + Nutrition
+     * Psycho
+          + Education
+     * Partenaire
+          + D’eau et de fleurs D’eau et de fleurs
 
-   Au XIXe siècle, le terme nostalgie a cessé d'être utilisé pour désigner
-   une prétendue maladie mentale, bien qu'il ait été considéré comme un
-   symptôme possible d'un trouble mental. C'est en fait en partie vrai
-   pour certains troubles comme la dépression et les troubles anxieux. Au
-   fil du temps, le terme a été utilisé pour désigner simplement toute
-   situation dans laquelle le passé a été manqué., d'une manière
-   mélancolique et aspirant à revivre ces temps meilleurs, ôtant le
-   caractère pathologique avec lequel le terme avait été conçu.
+     * Guide des prénoms
+          + Prénoms féminins
+          + Prénoms masculins
+     * Top des prénoms
+          + Prénoms fille 2023
+          + Prénoms garçons 2023
+     * Prénoms par origine et thématique
+          + Prénoms féminins originaux
+          + Prénoms masculins originaux
+          + Prénoms bretons
+          + Prénoms originaux
+          + Prénoms portugais
+          + Prénoms bibliques
+          + Prénoms arabes
+     * Compatibilité des prénoms
 
-   On sait aujourd'hui que la nostalgie est un état d'esprit dont
-   l'expérience n'est pas pathologique en soi. En fait, nous pourrions le
-   voir comme un mécanisme de défense, une échappatoire à un présent
-   souvent complexe et troublé. Cela peut même améliorer notre humeur en
-   nous souvenant de nos forces et de nos attitudes passées qui ont
-   contribué à rendre cette période si heureuse. La nostalgie nous aide à
-   comprendre qu'il y a eu un bon bilan dans notre histoire de vie,
-   moments où nous avons appris ce qu'il faut faire pour aller de l'avant
-   et qui nous ont aidés à grandir comme personnes.
+     * Société
+          + Actu société
+          + Portraits
+     * Slow
+     * Business
+          + Business with Attitude
+          + Actu business
+          + Coaching carrière
+          + Business détox
+          + Business style
+     * Partenaires
+          + Carnet de Rencontres
+          + Miroirs d'excellence Miroirs d'excellence
 
-   Cependant, il a aussi son mauvais côté, car vivre cette émotion trop de
-   fois Cela peut impliquer de naviguer dans des sentiments de solitude,
-   de manque de sens à la vie et de déconnexion avec ceux qui nous
-   entourent. Cela peut nous amener à rester coincé dans le passé, en
-   oubliant ce qui existe est maintenant.
-     * Vous etes peut etre intéressé: "Voyons ce qu'est le recul et
-       comment il nous amène à prendre certains raccourcis mentaux."
+     * Déco & Design
+          + Actu déco & design
+          + Inspirations déco
+          + Design
+     * Évasion
+          + Idées voyages
+          + City guide
+          + Reportages
+          + Trophée Golf Madame Figaro
+     * Madame aime
+          + Les adresses incontournables
 
-A quoi sert la nostalgie ?
+     * Cuisine
+          + Nouveau - L'application Le Figaro Cuisine
+          + Actu cuisine
+          + Tendances cuisine
+          + Rencontres
+          + Nos sélections de recettes
+     * Idées menu
+          + Recettes pour Halloween
+          + Apéro dînatoire : recettes de buffet et d'apéritif
+          + Recettes entre amis
+          + Recettes faciles et rapides en moins de 10 minites
+          + Idées de repas d'anniversaire
+          + Recettes à bases de légumes
+          + Idées de recettes pour la Saint-Valentin
+          + Recettes pour un soir d'été
+          + Recette de réveillon : idées de repas et menus de réveillon de
+            Noel et Nouvel An
+          + Recettes végétariennes faciles, rapides
+     * Recettes par types de plats
+          + Recettes de cocktails et boissons
+          + Recettes de brunch
+          + Idées entrées
+          + Salades : recettes fraîches et légères
+          + Idées plats
+          + Idées desserts
+          + Recettes de soupes et potages
+     * Recettes de chefs
+          + Recettes du chef Cyril Lignac
+          + Recettes du chef Hélène Darroze
+          + Recettes du chef Anne-Sophie Pic
+          + Recettes du chef Pierre Hermé
+          + Recettes du chef Thierry Marx
+          + Recettes du chef Alain Passard
+          + Recettes du chef Alain Ducasse
+          + Recette du chef Michel Guérard
+          + Recette de Julie Andrieu
+     * Recettes par ingrédient
+          + Recettes de lotte
+          + Recettes de pousse de soja
+          + Recette d'oursins
+          + Recettes de salsifi
+          + Recettes d'oignons nouveau
+          + Recettes de saumon fumé
+          + Recettes de pousses d'épinard
+          + Recettes de riz
+          + Recettes de coquilles Saint-Jacques
+          + Recettes de blanc de poulet
+          + Sélection des meilleurs produits
 
-   Peut-être que pour beaucoup la nostalgie n'est plus un autre élément de
-   notre répertoire mental. Cependant, la vérité est que chaque émotion et
-   sentiment a sa signification et son utilité, et la nostalgie ne fait
-   pas exception à cela. Si nous le vivons de manière saine, cet état
-   d'esprit nous captive dans le passé glorieux, nous aidant à prendre
-   conscience du bien qui s'y trouvait et à voir ce qui se passait si bien
-   à ce moment-là, mais sans s'y prendre et nous faire oublier que le
-   présent, s'il n'est pas vécu, se perd.
+     * Célébrités
+     * Soirées
+     * Séries
+     * Littérature
+          + Grand prix de l'Héroïne
+     * Art & expositions
+     * Musique
+     * Cinéma
+          + Festival de Cannes
+          + César 2022 : une folle envie de cinéma
 
-   L'utilité potentielle de la nostalgie a été abordée par la science. On
-   en trouve un exemple dans l'étude de 2006 de Wildschut et ses
-   collègues, publiée dans le Journal de personnalité et de psychologie
-   sociale, dont la conclusion était que les gens ressentent généralement
-   cet état comme une motivation, quelque chose qui nous pousse à avancer
-   à un moment donné de notre vie. C'est une émotion qui apporte avec elle
-   le sentiment d'une impulsion vitale qui nous dit « en avant ». Ainsi,
-   cette émotion aurait une finalité à la fois psychologique et
-   émotionnelle, deux aspects fondamentaux dans la motivation.
+     * Vidéos
+          + Bande annonce
+          + Défilés
+          + MAD
+     * Podcasts
+          + Revue
+          + Désirs
+          + Happiness therapy
+          + Scandales
 
-   Un autre exemple d'approche de l'utilité de la nostalgie se trouve dans
-   l'œuvre de Svetlana Boym. Dans son livre "L'avenir de la nostalgie"
-   (2001) l'auteur expose l'existence de deux types de nostalgie:
-   réparatrice et réflexive.
-   Fonctions de la nostalgie
+     * Astro
+          + Horoscope du jour
+          + Horoscope chinois
+          + Horoscope de la semaine
+          + Horoscope du mois
+          + Horoscope de l'année
+          + Horoscope amoureux de l'année
+     * Compatibilité des prénoms
 
-   La nostalgie réparatrice aurait un but émotionnel, étant celle dans
-   laquelle vous essayez de retourner dans le passé parce que vous y voyez
-   un moment de bonheur et de bien-être, quelque chose à l'opposé de ce
-   que la personne vit dans son présent le plus immédiat ou après avoir
-   vécu de mauvaises vivre.
+    1. Accueil
+    2. Bien-être
+    3. Psycho
 
-   D'autre part, la nostalgie réflexive, dans laquelle on retourne aussi
-   au passé, ne survient pas nécessairement après avoir avait une aversion
-   pour le présent mais avec l'intention d'apprendre du passé pour faire
-   du présent un moment mieux. Il regarde le passé mais valorise l'ici et
-   maintenant.
+La nostalgie n'est plus ce qu'elle était, mais aujourd'hui elle fait vendre
 
-   En plus de cela, d'autres auteurs considèrent que la nostalgie pourrait
-   avoir les trois fonctions principales suivantes.
-     * Article associé: "Développement personnel: 5 raisons de
-       s'auto-réfléchir"
+   Par Lisa Vignoli
+   Publié le 04/11/2022 à 17:00
+   La nostalgie, ce sentiment complexe et familier. La nostalgie, ce
+   sentiment complexe et familier.
+   La nostalgie, ce sentiment complexe et familier. Getty Images
 
-1. Préparation émotionnelle
+   Elle n'est pas ce que l'on croit. Exploration d'un sentiment complexe
+   et familier, inventé à la fin du XVIIIe siècle, avec l'historien Thomas
+   Dodman.
 
-   La nostalgie nous prépare à de nouvelles expériences mais similaires à
-   celles que nous avons déjà vécues dans le passé. Ici, Ce sentiment est
-   complété par l'attente, nous remplissant d'enthousiasme et d'excitation
-   pour ce que nous espérons., confiant qu'il ira aussi bien qu'avant.
+   Thomas Dodman n'a pas écrit Nostalgie directement en français, mais il
+   aurait pu. Cet historien britannique qui a, depuis peu, acquis la
+   nationalité française le parle parfaitement. Après avoir publié un
+   ouvrage collectif sur l'histoire de la guerre, son nouveau livre, fruit
+   d'un travail de longue haleine débuté en 2005, s'articule autour d'une
+   notion connue de tous : la nostalgie. Pourtant, l'histoire et
+   l'évolution de cette émotion, dont chacun use dans le langage courant,
+   ne nous sont pas si familières. Rencontre à quelques pas du campus
+   universitaire de Columbia, à Paris, où il dirige le programme Histoire
+   et littérature.
 
-   Se souvenir des expériences passées dans lesquelles nous avons réussi
-   et imaginer l'avenir dans lequel nous utiliserons les mêmes stratégies
-   nous rend plus forts et plus confiants. Il est plus facile de réaliser
-   un objectif ou un rêve si nous l'associons émotionnellement à un succès
-   passé, voyant que nous en étions capables, qu'il y a un contexte
-   satisfaisant dans notre histoire de vie.
-     * Article associé: « Qu'est-ce que l'intelligence émotionnelle? »
+   À lire aussi«Le bonheur d'être triste» : contre la tyrannie de la
+   positivité
 
-2. Activation comportementale
+   Madame Figaro. – Il y a maintenant près de quinze ans, vous avez
+   commencé à vous intéresser à la nostalgie. Pourquoi ce choix ?
+   Thomas Dodman. – Je donnais à l'époque un cours sur la mémoire (mémoire
+   collective, mémoire individuelle). Et vers la fin du cours, il y avait
+   une session sur la nostalgie. J'ai découvert qu'auparavant la nostalgie
+   était considérée comme une maladie, et même que des soldats français en
+   mouraient. Je me suis tout de suite dit : «En fouillant un peu dans les
+   archives militaires, je risque de tomber sur quelque chose.» Je suis
+   alors allé au Val-de-Grâce (hôpital militaire, NDLR), à Paris, et, en
+   effet, je suis tombé sur un trésor : des lettres, des rapports, où il
+   était écrit noir sur blanc que des centaines de soldats mouraient de
+   nostalgie. J'ai commencé à creuser, comme un archéologue.
 
-   Tant que nous nous sentons nostalgiques de manière saine, cette
-   expérience peut nous rendre plus actifs. Comment? Lorsque nous nous
-   souvenons du passé, nous sentons qu'il contient des choses que nous
-   n'avons plus dans le présent. Cette Cela peut nous motiver à y aller,
-   essayer de faire revenir ces choses dont nous aspirons.
+   Aujourd'hui, on ne meurt plus de nostalgie… Si ce n'est plus une
+   maladie, est-ce que c'est un état d'âme ?
+   L'évolution de la nostalgie fait qu'on peut vivre avec elle de manière
+   saine. Son statut est passé de «médical» à «bénin». Lorsqu'en 1778 un
+   jeune étudiant en médecine forge la notion de nostalgie, il prend les
+   définitions de la mélancolie (qui, à l'époque, est aussi vue comme une
+   maladie) et calque la nostalgie dessus. La nostalgie est alors une
+   sous-forme de mélancolie, avec quelques particularités qui la
+   distinguent : notamment l'éloignement par rapport au lieu de naissance.
+   Ceux qui en souffrent sont éloignés dans l'espace de leur milieu
+   d'origine, arrachés à une certaine terre de l'attachement. C'est en
+   quelque sorte ce qu'on appellerait le «mal du pays».
 
-   Nous pouvons avoir le mal du pays pour le sport, la peinture, le
-   bowling ou toute autre activité. Ressentant cette émotion, il nous
-   invite à reprendre nos vieilles habitudes, à ne plus laisser le temps
-   continuer à passer sans que nous ne fassions rien. Qu'il s'agisse de
-   quelque chose d'ancien ou de nouveau, la question est de ressentir à
-   nouveau ce bonheur du passé en faisant quelque chose qui nous comble
-   dans le présent.
-     * Vous etes peut etre intéressé: « Types de mémoire: comment le
-       cerveau stocke-t-il les souvenirs? »
+   La mélancolie est l'apanage de l'intellectuel, de l'être cultivé, un
+   mal « noble ». La nostalgie, en revanche, est clairement dès le début
+   une maladie qui s'attaque au peuple
 
-3. Renforcer les relations sociales
+     Thomas Dodman
 
-   La nostalgie aide beaucoup d'amis à durer car, après avoir passé du
-   temps séparés ou ne rien savoir de l'autre, deux amis chérissent les
-   bons moments que vous avez passés ensemble.
+   Quelle autre distinction peut-on faire entre la mélancolie et la
+   nostalgie ?
+   La mélancolie est l'apanage de l'intellectuel, de l'être cultivé, un
+   mal «noble». La nostalgie, en revanche, est clairement dès le début une
+   maladie qui s'attaque au peuple (des soldats, souvent issus de paysans,
+   des travailleurs migrants, des colons qui partent travailler la terre
+   ailleurs et aussi des esclaves). Ce sont des catégories arrachées sous
+   contrainte, avec cette idée de coupure définitive ou quasi définitive.
+   La distinction se fait donc en fonction de qui est le patient.
 
-   Cette émotion amène les gens à se concentrer sur le bien et à minimiser
-   le mal qui s'est produit dans le passé. Qu'il s'agisse de deux amis, de
-   deux anciens petits amis, de membres de la famille ou de tout type de
-   relation sociale existant entre deux personnes, se souvenir du passé
-   aide à se connecter une fois qu'ils deviennent Voyons.
-     * Article associé: « Les 12 types d'amis: à quoi ressemblent les
-       vôtres ?
+   C'est ce qui se passe encore aujourd'hui : selon le milieu social, on
+   va parler de «burn-out» ou de «dépression», par exemple.
+   Le chanteur Serge Reggiani interprétait un morceau intitulé Madame
+   Nostalgie, dans lequel il s'adressait à elle : «Tu confonds, pauvre
+   imbécile, l'amour et la géographie…» Oui, c'est tout à fait ça. Au
+   XIX^e siècle, il y a tout un tas de tentatives pour clarifier cette
+   notion. On pense que la nostalgie est dans le temps ce que le mal du
+   pays est dans l'espace. Mais ce basculement n'est pas si facile à
+   opérer : lorsqu'on est nostalgique du pays qu'on a quitté pour aller à
+   l'armée, on est aussi nostalgique de notre enfance. Mais alors,
+   Baudelaire vient brouiller davantage encore les pistes en déclarant :
+   «J'ai la nostalgie d'une époque que je n'ai pas connue.»
 
-Dangers et inconvénients de ce sentiment
+   Et pourtant, par rapport à sa définition originelle, ce serait un
+   contresens…
+   Son sens a basculé, oui. Mais il y a surtout une part de fantasme dans
+   la nostalgie. On peut déformer, embellir le souvenir, ou partir de
+   quelque chose qu'on n'a pas du tout vécu mais dont on a entendu parler,
+   vu des images ou qu'on a simplement désiré, et à partir de là, le
+   désir, le fantasme cristallisent ce qu'on n'a jamais vécu. Je pourrais
+   tout à fait dire que j'ai la nostalgie d'un New York que je n'ai pas
+   connu, car je suis arrivé un peu trop tard dans un New York
+   complètement gentrifié. Je suis nostalgique de cette ville, parce que
+   j'aurais adoré y avoir 20 ans…
 
-   Comme nous l'avons vu, la nostalgie est une émotion qui nous aide à
-   apprécier le passé pour affronter au présent, soit en appliquant des
-   stratégies qui fonctionnaient bien pour nous auparavant, soit pour
-   tester des choses Nouveau.
+En vidéo, développer son intuition en 7 étapes
 
-   C'est un sentiment qui nous fait du bien de voir que nous étions
-   autrefois heureux, ce qui Cela peut nous aider à voir ce qui se passait
-   bien dans nos vies à ce moment-là et ce que nous pouvons appliquer à
-   notre présent pour en tirer le meilleur parti.
+   Vous avez quitté le Royaume-Uni très tôt, vécu dans plusieurs pays. Ne
+   pensez-vous pas que ce sentiment vous est proche ?
+   Sur le moment, je ne l'ai pas formulé comme ça. J'ai beaucoup bougé,
+   vécu dans des valises. Ce n'est pas complètement un hasard : mes
+   parents font partie de cette génération d'Anglais qui a souhaité aller
+   enseigner l'anglais ailleurs, et j'ai beaucoup de nostalgie pour le
+   lieu où j'ai grandi, en Toscane. C'est là où je me sens le plus chez
+   moi, le pays dont il me manque le plus de choses. Quand ça fait trop
+   longtemps que je suis loin de cette région, de son huile d'olive, je le
+   sens dans mon corps.
 
-   Cependant, il est également vrai qu'être têtu dans le passé a ses
-   inconvénients. Si cela nous attrape, cela peut nous empêcher d'innover,
-   saboter notre volonté de grandir en tant que personnes et d'avancer
-   dans notre travail, notre vie sentimentale et sociale. Cela peut
-   devenir un danger parce que nous cesserons de valoriser notre présent,
-   nous réfugierons dans un passé que nous considérons comme glorieux en
-   ne faisant pratiquement rien pour changer notre ici et maintenant.
+   La nostalgie se trouve dans plusieurs endroits de notre société
+   actuelle…
+   Oui, on peut se demander au début à quoi ressemblerait le monde
+   aujourd'hui si celui qui avait créé le terme de «nostalgie» en avait
+   choisi un autre qui était possible, comme «philopatridomanie». On se le
+   serait sans doute moins approprié, et il y aurait beaucoup moins
+   d'impact sur la culture populaire. Ce qu'on appelle la rétromania, par
+   exemple. Car la nostalgie fait vendre. Que ce soit dans la mode, dans
+   la musique ou d'autres domaines. Même chose en politique. La politique
+   de la nostalgie est partout.
 
-   Cette émotion devient un problème quand il déforme notre vision du
-   présent et du passé, rabaissant l'un et idéalisant l'autre. En
-   conséquence, nous abandonnons beaucoup de choses positives qui se
-   produisent dans notre présent en nous rappelant encore et encore des
-   moments qui, bien qu'ils étaient heureux, n'existent plus. Le passé est
-   passé. Nous devons trouver l'équilibre, apprendre à vivre dans le
-   présent en utilisant la nostalgie pour nous motiver à avancer vers
-   l'avenir.
-   Teachs.ru
+   La nostalgie est une émotion qui assoit l'identité, donne un sentiment
+   d'appartenance et même recentre le sujet. Elle a une fonction positive
+   dans un monde en perte de repères
 
-Comment annoncer une mauvaise nouvelle? 12 clés émotionnelles
+     Thomas Dodman
 
-   le mauvaises nouvelles ils provoquent presque toujours une gêne, tant
-   chez celui qui le reçoit qu...
+   Quand les politiques exposent que «c'était mieux avant», c'est elle
+   qu'ils convoquent ?
+   Oui, la politique de la nostalgie a pris. Certains vous disent : «Vous
+   êtes moins bien, aujourd'hui, que l'étaient vos parents», et la façon
+   la plus simple de l'expliquer est de pointer du doigt «ceux qui vous
+   gouvernent» ou «ceux qui sont venus et profitent du système». C'est un
+   phénomène qu'on retrouve dans un discours de politique, à la fois à
+   droite et à gauche, anticapitaliste et anti-immigration. Le clivage
+   n'est pas hermétique. C'est un phénomène qu'on observe dans beaucoup de
+   pays (France, Royaume-Uni, Hongrie, Brésil ou Turquie) depuis la crise
+   économique de 2008. L'effet Trump est impensable sans la nostalgie !
+   Elle est même au cœur de son slogan «Make America great again», qui
+   veut redorer le blason ancien des États-Unis. Elle se trouve évidemment
+   chez Poutine. C'est même une des raisons de la guerre à l'Ukraine. Ce
+   sentiment de la perte de rang, suite à l'effondrement de l'URSS et au
+   glissement de l'Europe de l'Est vers un bloc occidental, qui fait peur
+   aux Russes nostalgiques d'une ancienne époque de gloire.
 
-   Lire la suite
+   On retrouve aussi cette valeur nostalgique dans le discours écologiste,
+   par certains aspects.
+   Oui, à travers la démodernisation, un retour à la terre, à des
+   habitudes de vie quotidienne anciennes que l'on souhaiterait retrouver.
+   Il y a même un terme pour parler de nostalgie écologique : la
+   solastalgie. C'est un néologisme créé par un philosophe australien qui
+   s'est imposé au début du XXI^e. Il définit un malaise lié aux
+   changements climatiques, un trouble psychologique lié à un changement
+   de lieu, non pas dans l'espace, cette fois, mais sous nos propres
+   pieds, dans notre environnement, nos souvenirs de paysages. Au départ,
+   il a souhaité en faire une maladie, mais il s'est rendu compte que si
+   la définir comme une maladie a pu avoir une utilité en termes de prise
+   de conscience, il aurait dû y voir quelque chose de sain et de
+   raisonnable. Il a évolué de ce point de vue-là. Que l'on soit mal à
+   l'aise de perdre un paysage aimé est normal et peut conduire à mettre
+   en place des politiques qui empêchent le désastre. Avec le temps, il a
+   constaté que la solastalgie pouvait être utilisée comme un terreau
+   positif, éthique !
 
-Le transfert et le contre-transfert en psychanalyse
+   À lire aussiEntre peur et tristesse, l'éco-anxiété, une nouvelle forme
+   de dépression
 
-   S'il y a quelque chose qui caractérise la psychanalyse développée par
-   Sigmund Freud, est l'accent...
+   Récemment, le Royaume-Uni – où vous êtes né – a perdu sa reine. Les
+   obsèques d'Élisabeth II étaient impressionnantes, et son départ a
+   suscité une émotion absolue dans tout le pays. Au-delà de la tristesse
+   d'une nation, n'y a-t-il pas quelque chose de nostalgique dans cet
+   engouement ?
+   C'est très juste : on sait déjà que le règne de Charles III ne pourra
+   pas être aussi long que celui de sa mère. Ce qui est frappant, c'est
+   que son départ est une façon comme une autre de découper le temps et de
+   voir qu'une page se tourne. On reprend le fil pour voir quand cette
+   page s'est ouverte, et on remonte soixante-dix ans en arrière. Alors,
+   la réaction normale est : « Au secours, combien le monde a changé
+   entre-temps ! » Ce n'est pas juste une reine, elle était parvenue à
+   faire pivoter un peu l'image de la monarchie, à céder un petit peu à la
+   modernité et à endosser ce rôle de grand-mère de la patrie. La reine
+   d'Angleterre correspondait à ce versant bénin de la nostalgie : un
+   sentiment d'identité, d'appartenance, une certaine continuité qui
+   maintenant vient à manquer. On est, d'ores et déjà, dans un sentiment
+   nostalgique, car on sait déjà qu'on va être nostalgique. C'est une
+   sorte de nostalgie par anticipation.
 
-   Lire la suite
-   Les 25 articles les plus lus sur la psychologie et l'esprit en 2015
+   Vous dirigez un cycle autour de la littérature au sein de l'université
+   américaine de Columbia. Pour vous, quel est le grand écrivain de la
+   nostalgie ?
+   Je distinguerais deux phases : «l'avant-démédicalisation du terme» et
+   «l'après-». Dans celle qui précède, Chateaubriand écrit ses Mémoires
+   d'outre-tombe, et tout est dit. C'est un projet qui baigne dans une
+   nostalgie qui n'existe à l'époque que comme terme médical, mais il est
+   certain que tout ce qu'il a à dire sur son intérêt pour les ruines, sur
+   l'effondrement d'un monde montre une posture nostalgique pour l'époque
+   qui précède la révolution de 1789. En aval, évidemment, À la recherche
+   du temps perdu s'impose. L'entreprise de Proust est foncièrement
+   nostalgique. Ce qui est intéressant, c'est que son père est médecin, il
+   est très proche de Théodule Ribot, grand psychologue théoricien de la
+   mémoire affective, et, pourtant, il est emblématique de ce moment où la
+   nostalgie n'est plus une maladie mais juste un état d'âme.
 
-Les 25 articles les plus lus sur la psychologie et l'esprit en 2015
+   Des travaux récents de psychologie des émotions montrent qu'elle est
+   une continuité entre le passé et le présent, et donc que nous n'avons
+   pas à la craindre.
+   Oui, selon les psychologues aujourd'hui, la nostalgie est une émotion
+   qui assoit l'identité, donne un sentiment d'appartenance et même
+   recentre le sujet. Elle a une fonction positive dans un monde en perte
+   de repères. Certaines études montrent, par exemple, qu'elle est
+   importante pour des étudiants américains sur des campus éloignés de
+   chez eux, elle leur permet de garder le lien avec leur famille, avec ce
+   qu'ils aiment. Dans un autre contexte, elle est également extrêmement
+   importante pour les émigrés dans la création de leur identité de
+   migrants installés.
+   La rédaction vous conseille
+     * Notre personnalité est-elle définie par cinq souvenirs d'enfance ?
+     * «Avant, le repos était la condition nécessaire pour penser ;
+       aujourd'hui, la vision d'un individu inoccupé est insupportable»
+     * Ils ont renoué avec passion avec leur amour de jeunesse
 
-   2015 est terminé. Une année très importante pour Psychologie et esprit,
-   parce que Grâce à notre a...
+   Sujets
+     * Nostalgie
+     * Emotions
+     * Histoire
 
-   Lire la suite
+   2 commentaires
+     * Samarcande
+       le 06/11/2022 à 12:31
+       J'adore le titre de l'article
+     * DidierLAGARDE
+       le 06/11/2022 à 11:52
+       Qui ne ressent pas de nostalgie n'aime pas son pays et sa culture.
 
-   Education, study and knowledge
+   (BUTTON) Lire les 2 commentaires
 
-CONNECTE-TOI AVEC NOUS
+   À lire aussi
 
-     *
-     *
-     *
-     *
-     *
+Soyez flemmards, lâchez prise : adoptez le «mode gobelin»
 
-     * Représentants Du Perspectivisme
-     * Quai Sud
-     * Emmanuel Krivitch
-     * Alouette Tavera Jaramillo
-     * Cliniques D'origine Albufera
-     * Types De Métaphores
+   Soyez flemmards, lâchez prise&nbsp;: adoptez le «mode gobelin» Soyez
+   flemmards, lâchez prise&nbsp;: adoptez le «mode gobelin»
 
-     * Viña Del Mar
-     * Daniela Guajardo Psychologue Scolaire
-     * Quart De Huerva
-     * J'enlève
-     * La Communication
-     * Sebastien Robalino
+   Popularisé sur les réseaux sociaux et élu mot de l’année 2022, le mode
+   gobelin désigne une attitude embrassant le lâcher-prise total, jogging,
+   paquet de chips et grognement compris. Le tout sans se soucier des
+   qu’en-dira-t-on. Éclairage.
 
-   Education, study and knowledge @ 2022 All Rights Reserved
+Les caméléons du couple : ils changent de personnalité pour ressembler à leur
+partenaire
 
-   instagram viewer
+   Les caméléons du couple&nbsp;: ils changent de personnalité pour
+   ressembler à leur partenaire Les caméléons du couple&nbsp;: ils
+   changent de personnalité pour ressembler à leur partenaire
 
-   [INS: :INS]
+   DÉCRYPTAGE - Chaque fois qu'ils tombent amoureux, certains embrassent
+   le mode de vie de leur nouveau conjoint. Changeant de personnalité au
+   gré de leurs relations, au point d'être qualifiés de caméléon du couple
+   par leurs proches.
+
+Qu'est-ce que le syndrome de dépression post-Avatar ?
+
+   Qu'est-ce que le syndrome de dépression post-Avatar&nbsp;? Qu'est-ce
+   que le syndrome de dépression post-Avatar&nbsp;?
+
+   Depuis la sortie d'Avatar en 2009, la maîtrise visuelle du blockbuster
+   et sa nature sublimée ont marqué les spectateurs. Au point de faire
+   naître chez certains des sentiments dépressifs. À l'heure de la sortie
+   en salles du second volet, retour sur cet étrange phénomène.
+   Regarder la vidéo
+
+   Plus de services
+   Cuisine
+     * Recette d'oeuf à la coque
+     * Recette d'asperge vapeur
+     * Recette de pâte à crêpes
+     * Idées d'entrées rapides
+     * Idées de recettes d'anniversaire
+     * Recette de poule au pot
+     * Recette de pâtes aux truffes
+     * Recette des oeufs bénédicte
+     * Recette de sauce tomate maison
+     * Bien conserver ses restes alimentaires
+
+   Bien-être
+     * Comment perdre du ventre
+     * Rêver de perdre ses dents
+     * Les premiers effets du sport
+     * Les effets du sucre
+     * Mieux vivre son hypersensibilité
+     * Angoisse nocturne
+     * Gainage pour travailler ses abdos rapidement
+     * L'importance de la pensée positive
+     * Perdre du poids avec la corde à sauter
+     * Pourquoi avons nous des insomnies lorsque nous sommes épuisés ?
+
+   Prénoms
+     * Prénoms féminins
+     * Prénoms masculins
+     * Idées de prénoms originaux
+     * Prénoms féminins originaux
+     * Prénoms compatibles
+     * Prénoms arabes
+     * Prénoms portugais
+     * Prénoms grecs
+     * Prénoms bretons
+     * Prénoms médiévaux
+     * Prénoms masculins anglophones
+     * Prénoms d'origine latine
+
+   Société
+     * Femmes de pouvoir et hommes de l'ombre
+     * Questions pour tomber amoureux
+     * Formules de fin de mail
+     * Alcool et grossesse
+     * Les règles du savoir-vivre
+     * Comment ranger sa maison
+     * Comment plier ses vêtements
+     * La rupture amoureuse
+     * Madame Claude : un personnage mi-héroïne, mi-monstre
+     * La vérité sur les hôpitaux
+
+   Astro
+     * Horoscope du jour
+     * Horoscope quotidien du Cancer
+     * Horoscope quotidien des Poissons
+     * Horoscope quotidien du Lion
+     * Horoscope quotidien de la Balance
+     * Horoscope quotidien du Taureau
+     * Horoscope quotidien du Bélier
+     * Horoscope quotidien du Scorpion
+     * Horoscope quotidien des Gémeaux
+     * Horoscope quotidien du Capricorne
+     * Horoscope quotidien du Verseau
+     * Horoscope quotidien de la Vierge
+     * Horoscope quotidien du Sagittaire
+
+   Vous avez choisi de refuser les cookies
+   Et pourtant, la publicité personnalisée est un moyen de soutenir le
+   travail de notre rédaction qui s’engage à vous proposer chaque jour une
+   information de qualité. En acceptant les cookies, vous pourrez accéder
+   aux contenus et fonctionnalités gratuites que propose notre site.
+
+   À tout moment, vous pouvez modifier vos choix via le bouton “paramétrer
+   les cookies” en bas de page.
+   (BUTTON) Accepter les cookiesouRefuser et s'abonner
+
+   La nostalgie n'est plus ce qu'elle était, mais aujourd'hui elle fait
+   vendre
+   S'ABONNER
+   (BUTTON) Fermer
+   (BUTTON) Imprimer
+   Partager (BUTTON) 1
+
+   Partager via :
+     * Mail
+     * Facebook
+     * Twitter
+     * Pinterest
+     * WhatsApp
+     * (BUTTON) Copier
+     * Messenger
+
+   (BUTTON)
+
+   2 commentaires
+
+   2
+   S'abonner
+
+   Nos liens utiles
+     * Business with attitude
+     * Le Petit Club
+     * Vidéos Madame
+
+   Madame Figaro
+   Le Kiosque
+
+   Madame Figaro
+   Lire ce numéro
+   Abonnement
+     * Découvrez toutes les offres
+       Les articles et recettes en illimité 0,99€ le premier mois sans
+       engagement
+     * Gérer votre abonnement
+     * Espace personnel
+
+   Applications mobiles
+     * Madame Figaro : Iphone | Android
+     * Le Figaro Cuisine : iPhone | Android
+
+   Nos newsletters
+   Inscrivez-vous aux newsletters
+   Suivez-nous sur :
+     * (BUTTON) Paramétrer les cookies
+     * Contacts
+     * Newsletters
+     * Charte
+     * Mentions légales
+     * CGU
+     * CGV
+     * Confidentialité
+     * Info cookies
+     * Annonceurs
+     * Espace partenaires
+     * Jour de France
+     * Madame Figaro Japon
+     * Madame Figaro Grèce
+     * Madame Figaro Chypre
+     * Woman Madame Figaro
+     * Madame Figaro Liban
+     * Madame Figaro Hong-Kong
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5ZC8C4Q

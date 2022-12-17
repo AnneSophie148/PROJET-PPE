@@ -1,1358 +1,347 @@
-
-     * Home UOL
-     * Produtos
-       Outros canais UOL
-
-Assine UOL
-          + 4003-6118 capitais
-          + 0800 703 3000 demais localidades
-          + Assine e tenha acesso ilimitado ao conteúdo exclusivo e a
-            produtos UOL
-
-Produtos
-          + Conteúdo Exclusivo
-          + UOL Mail
-          + UOL Play
-          + TNT Sports
-          + Nordeste FC
-          + Bate-papo UOL
-          + Universinho
-          + UOL Loja de Jogos
-          + UOL Leia+
-          + UOL Segurança Digital
-          + UOL Família Protegida
-          + UOL Assistência Técnica
-          + UOL Resolve
-          + UOL WI-FI
-          + UOL Sexo
-          + Clube UOL
-          + UOL ads
-          + UOL Host
-          + UOL Meu Negócio
-          + UOL Afiliados
-     * Notícias
-       Outros canais UOL
-
-Notícias
-          + Eleições 2022
-          + Colunas
-          + Coronavírus
-          + Cotidiano
-          + Educação
-          + Internacional
-          + Política
-          + Previsão do tempo
-          + Saúde
-          + UOL Confere
-          + Newsletters
-          + Últimas notícias
-
-Loterias
-          + Mega Sena
-          + Quina
-          + Lotofácil
-          + Lotomania
-          + Outras loterias
-
-Podcasts
-          + Posse de Bola
-          + Sexoterapia
-          + Splash Vê TV
-          + UOL Entrevista
-          + UOL Investiga
-          + UOL Líderes
-          + Mídia e Marketing
-     * Carros
-       Outros canais UOL
-
-Carros
-          + Avaliação
-          + Meu Carro
-          + Mobilidade
-          + Motos
-          + Lançamentos e Mercado
-          + Segredos Automotivos
-          + Tabela Fipe
-          + Vídeos
-          + Newsletters
-          + Últimas notícias
-
-Programas em vídeo
-          + Avaliação UOL Carros
-          + Duelo
-          + Meu Carro, Minha Vida
-          + PitsTOP
-          + Deu ruim
-          + Séloko Tio!
-          + Os carros de...
-     * Economia
-       Outros canais UOL
-
-Economia
-          + Alta Renda
-          + Cotações
-          + Investimentos
-          + Empreendedorismo
-          + Empregos
-          + Finanças Pessoais
-          + Guia de Compras
-          + Guia de Economia
-          + Imposto de Renda
-          + Líderes
-          + Lugares Incríveis para Trabalhar
-          + Mídia e Marketing
-          + Reforma da Previdência
-          + UOL Economia Explica
-          + Colunas
-          + Newsletters
-          + Vídeos
-          + Últimas notícias
-
-Cotações
-          + Dólar
-          + Euro
-          + Outras moedas
-          + Bolsa de Valores
-          + Criptomoedas
-
-Imposto de Renda
-          + Últimas notícias
-          + Dúvidas do IR 2022
-          + Download do programa
-
-Investimentos
-          + PagBank
-          + Guia do Investidor UOL
-          + Papo com Especialista
-          + Pensando em Dinheiro
-          + Perfil de Investidor
-     * Folha
-     * Copa 2022
-       Outros canais UOL
-
-Copa 2022
-          + Brasil
-          + Calendário
-          + Duelo de cartas
-          + Escale o Brasil
-          + Simulador
-          + Tabela da Copa
-          + Últimas notícias
-     * Esporte
-       Outros canais UOL
-
-Esporte
-          + Futebol
-          + Jogos de Hoje
-          + Mercado da Bola
-          + Copa do Mundo
-          + Libertadores
-          + Brasileirão
-          + Série B
-          + Copa do Brasil
-          + Sul-Americana
-          + Liga dos Campeões
-          + Mais campeonatos
-
-Mais Esporte
-          + Fórmula 1
-          + MMA
-          + Basquete
-          + Vôlei
-          + Tênis
-          + Reportagens especiais
-          + Minha História
-          + Colunas
-          + Vídeos
-          + Newslettters
-          + Últimas notícias
-
-Times
-          + América-MG
-          + Athletico
-          + Atletico-MG
-          + Atlético-GO
-          + Avaí
-          + Botafogo
-          + Ceará
-          + Corinthians
-          + Coritiba
-          + Cruzeiro
-          + Cuiabá
-          + Flamengo
-          + Fluminense
-          + Fortaleza
-          + Goiás
-          + Grêmio
-          + Internacional
-          + Juventude
-          + Palmeiras
-          + Red Bull Bragantino
-          + Santos
-          + São Paulo
-          + Vasco
-
-Vídeos e Podcasts
-          + Fim de Papo
-          + Podcast UOL Corinthians
-          + Podcast UOL Flamengo
-          + Podcast UOL Palmeiras
-          + Podcast UOL São Paulo
-
-Assine e veja ao vivo
-          + Brasileirão
-          + Champions League
-          + Copa do Nordeste
-          + Campeonato Italiano
-          + Nations League
-          + NBA
-     * Splash
-       Outros canais UOL
-
-Splash
-          + A Fazenda
-          + Celebs
-          + Filmes
-          + Séries
-          + Música
-          + Televisão
-          + Novelas
-          + Reality shows
-          + Memelândia
-          + Colunas
-          + Vídeos
-          + Newsletters
-          + Últimas
-
-Novelas
-          + Cara e Coragem
-          + Mar do Sertão
-          + Poliana Moça
-          + Reis
-          + Travessia
-
-Assine
-          + UOL Play
-          + UOL Leia+ Banca
-          + UOL Leia+ Livros
-          + Loja de jogos
-          + Sexo
-     * Universa
-       Outros canais UOL
-
-Universa
-          + Transforma
-          + Inspira
-          + Pausa
-          + Horóscopo
-          + Entrevista
-          + Newsletters
-          + Colunas
-          + Vídeos
-          + Últimas notícias
-
-Transforma
-          + Direitos da Mulher
-          + Finanças
-          + LGBTQIA+
-          + Mapa da Mina
-          + Política
-          + Raça
-          + Trabalho
-          + Universa Talks
-          + Violência Contra Mulher
-
-Inspira
-          + Autoestima
-          + Família
-          + Maternidade
-          + Na Minha Pele
-          + A Poderosa
-          + Prêmio Inspiradoras
-          + Relacionamentos
-
-Pausa
-          + Beleza
-          + Moda
-          + Movimento
-          + Retratos
-          + Saúde da Mulher
-          + Sem filtro
-          + Sexo
-          + Stalkeadas
-          + Universa Experimenta
-     * VivaBem
-       Outros canais UOL
-
-VivaBem
-          + Alimentação
-          + Cardápios
-          + Equilíbrio
-          + Longevidade
-          + Movimento
-          + Saúde
-          + Newsletters
-          + Colunas
-          + Vídeos
-          + Últimas notícias
-     * Tilt
-       Outros canais UOL
-
-Tilt
-          + Fique por dentro
-          + Tec a seu favor
-          + Novos hábitos
-          + Papo cabeça
-          + Ficção científica?
-          + Colunas
-          + Vídeos
-          + Newsletters
-          + Últimas
-
-Fique por dentro
-          + Lançamentos
-          + WhatsApp
-          + Redes Sociais
-          + Apps
-          + Isso é Golpe!
-          + Ciência
-          + Astronomia
-          + Negócios
-
-Tec a seu favor
-          + Teste de Velocidade da Internet
-          + #ficadica
-          + Dicas matadoras
-          + A tecnologia por trás
-          + Review
-          + Comparativo
-          + No Brasil não tem
-
-Papo cabeça
-          + Fala, chefia
-          + Como seria se...
-          + Podcast Deu Tilt
-
-Ficção científica?
-          + O que Steve diria
-          + Isso é tão Black Mirror
-     * Ecoa
-       Outros canais UOL
-
-Ecoa
-          + Pessoas
-          + Soluções
-          + Na prática
-          + Plural
-          + Podcasts
-          + Reportagens especiais
-          + Colunas
-          + Últimas
-
-Pessoas
-          + Causadores
-          + Fizeram história
-
-Soluções
-          + Empresas que mudam
-          + Iniciativas que inspiram
-
-Na prática
-          + Sim ou não?
-          + Como fazer
-          + Destretando
-     * Canal UOL
-     * MOV
-       Outros canais UOL
-
-Vídeos
-          + Canal UOL
-          + Entrevistas
-          + MOV.doc
-          + Programas
-          + Blog UOL Play
-
-Parceiros
-          + Band
-          + Caras
-          + History
-          + RedeTV!
-          + TV Cultura
-     * Nossa
-       Outros canais UOL
-
-Nossa
-          + Casa
-          + Cozinha
-          + Viagem
-          + Moda
-          + Temporadas
-          + Programas
-          + Reportagens Especiais
-          + Colunas
-          + Últimas
-
-Casa
-          + Bichos
-          + Feito à mão
-          + Meu apê
-          + Microespaços
-          + Plantados
-          + Tapa na casa
-
-Cozinha
-          + Receitas
-          + Ao ponto
-          + Instachef
-          + Tim-tim
-          + Receita de família
-          + Gastronobásico
-
-Viagem
-          + 12 horas
-          + Fora da rota
-          + Retina
-          + Na Estrada
-
-Moda
-          + Moodboard
-
-Temporadas
-          + Solar
-          + Arraiá
-          + Japão
-          + Brasileiro
-          + Festejo
-          + Entornos
-          + Férias
-     * TAB
-       Outros canais UOL
-
-TAB
-          + Especiais
-          + Perfis
-          + Nas Ruas
-          + Aba Anônima
-          + Tendência
-          + Colunas
-          + Últimas
-          + Assista
-          + Newsletter
-     * Educação
-       Outros canais UOL
-
-Educação
-          + Banco de Redações
-          + Enem
-          + Pesquisa Escolar
-          + Planos de aula
-          + Resumo de livros
-          + Vestibular
-          + Brasil Escola
-          + Últimas notícias
-
-Pesquisa Escolar
-          + Atualidades
-          + Biografias
-          + Biologia
-          + Física
-          + Geografia
-          + História
-          + Matemática
-          + Português
-          + Química
-          + Outros temas
-
-Cursos online
-          + Cursos Livres - Upfy
-          + Pós-graduação
-          + Profissionalizantes
-          + Preparatório OAB
-     * UOL Meu Negócio
-     * UOL Play
-       Outros canais UOL
-
-UOL Play
-          + Início
-          + Assistir
-          + Ao Vivo
-          + Canal UOL
-          + Blog
-          + Alugar
-          + Conheça
-          + Assine
-
-Assistir
-          + Ação e aventura
-          + Comédia
-          + Criança
-          + Drama
-          + Documentários
-          + Entrevistas
-          + Família e infantil
-          + Ficção científica
-          + Programas
-          + Reality show
-          + Romance
-          + Séries
-          + Shows
-          + Suspense e Terror
-
-MOV Originais
-          + MOV
-          + Nossa
-          + Splash
-          + TAB
-          + Tilt
-          + Universa
-          + VivaBem
-     * PagBank
-     * PagSeguro
-     * Passei Direto
-
-     * sac
-     *
-     *
-     * Assine UOL
-
-     * Alimentação
-     * Cardápios
-     * Equilíbrio
-     * Longevidade
-     * Movimento
-     * Saúde
-     * Newsletters
-     * Colunas
-     * Vídeos
-     * Últimas notícias
-
-     * Home UOL
-     * Produtos
-       Outros canais UOL
-
-Assine UOL
-          + 4003-6118 capitais
-          + 0800 703 3000 demais localidades
-          + Assine e tenha acesso ilimitado ao conteúdo exclusivo e a
-            produtos UOL
-
-Produtos
-          + Conteúdo Exclusivo
-          + UOL Mail
-          + UOL Play
-          + TNT Sports
-          + Nordeste FC
-          + Bate-papo UOL
-          + Universinho
-          + UOL Loja de Jogos
-          + UOL Leia+
-          + UOL Segurança Digital
-          + UOL Família Protegida
-          + UOL Assistência Técnica
-          + UOL Resolve
-          + UOL WI-FI
-          + UOL Sexo
-          + Clube UOL
-          + UOL ads
-          + UOL Host
-          + UOL Meu Negócio
-          + UOL Afiliados
-     * Notícias
-       Outros canais UOL
-
-Notícias
-          + Eleições 2022
-          + Colunas
-          + Coronavírus
-          + Cotidiano
-          + Educação
-          + Internacional
-          + Política
-          + Previsão do tempo
-          + Saúde
-          + UOL Confere
-          + Newsletters
-          + Últimas notícias
-
-Loterias
-          + Mega Sena
-          + Quina
-          + Lotofácil
-          + Lotomania
-          + Outras loterias
-
-Podcasts
-          + Posse de Bola
-          + Sexoterapia
-          + Splash Vê TV
-          + UOL Entrevista
-          + UOL Investiga
-          + UOL Líderes
-          + Mídia e Marketing
-     * Carros
-       Outros canais UOL
-
-Carros
-          + Avaliação
-          + Meu Carro
-          + Mobilidade
-          + Motos
-          + Lançamentos e Mercado
-          + Segredos Automotivos
-          + Tabela Fipe
-          + Vídeos
-          + Newsletters
-          + Últimas notícias
-
-Programas em vídeo
-          + Avaliação UOL Carros
-          + Duelo
-          + Meu Carro, Minha Vida
-          + PitsTOP
-          + Deu ruim
-          + Séloko Tio!
-          + Os carros de...
-     * Economia
-       Outros canais UOL
-
-Economia
-          + Alta Renda
-          + Cotações
-          + Investimentos
-          + Empreendedorismo
-          + Empregos
-          + Finanças Pessoais
-          + Guia de Compras
-          + Guia de Economia
-          + Imposto de Renda
-          + Líderes
-          + Lugares Incríveis para Trabalhar
-          + Mídia e Marketing
-          + Reforma da Previdência
-          + UOL Economia Explica
-          + Colunas
-          + Newsletters
-          + Vídeos
-          + Últimas notícias
-
-Cotações
-          + Dólar
-          + Euro
-          + Outras moedas
-          + Bolsa de Valores
-          + Criptomoedas
-
-Imposto de Renda
-          + Últimas notícias
-          + Dúvidas do IR 2022
-          + Download do programa
-
-Investimentos
-          + PagBank
-          + Guia do Investidor UOL
-          + Papo com Especialista
-          + Pensando em Dinheiro
-          + Perfil de Investidor
-     * Folha
-     * Copa 2022
-       Outros canais UOL
-
-Copa 2022
-          + Brasil
-          + Calendário
-          + Duelo de cartas
-          + Escale o Brasil
-          + Simulador
-          + Tabela da Copa
-          + Últimas notícias
-     * Esporte
-       Outros canais UOL
-
-Esporte
-          + Futebol
-          + Jogos de Hoje
-          + Mercado da Bola
-          + Copa do Mundo
-          + Libertadores
-          + Brasileirão
-          + Série B
-          + Copa do Brasil
-          + Sul-Americana
-          + Liga dos Campeões
-          + Mais campeonatos
-
-Mais Esporte
-          + Fórmula 1
-          + MMA
-          + Basquete
-          + Vôlei
-          + Tênis
-          + Reportagens especiais
-          + Minha História
-          + Colunas
-          + Vídeos
-          + Newslettters
-          + Últimas notícias
-
-Times
-          + América-MG
-          + Athletico
-          + Atletico-MG
-          + Atlético-GO
-          + Avaí
-          + Botafogo
-          + Ceará
-          + Corinthians
-          + Coritiba
-          + Cruzeiro
-          + Cuiabá
-          + Flamengo
-          + Fluminense
-          + Fortaleza
-          + Goiás
-          + Grêmio
-          + Internacional
-          + Juventude
-          + Palmeiras
-          + Red Bull Bragantino
-          + Santos
-          + São Paulo
-          + Vasco
-
-Vídeos e Podcasts
-          + Fim de Papo
-          + Podcast UOL Corinthians
-          + Podcast UOL Flamengo
-          + Podcast UOL Palmeiras
-          + Podcast UOL São Paulo
-
-Assine e veja ao vivo
-          + Brasileirão
-          + Champions League
-          + Copa do Nordeste
-          + Campeonato Italiano
-          + Nations League
-          + NBA
-     * Splash
-       Outros canais UOL
-
-Splash
-          + A Fazenda
-          + Celebs
-          + Filmes
-          + Séries
-          + Música
-          + Televisão
-          + Novelas
-          + Reality shows
-          + Memelândia
-          + Colunas
-          + Vídeos
-          + Newsletters
-          + Últimas
-
-Novelas
-          + Cara e Coragem
-          + Mar do Sertão
-          + Poliana Moça
-          + Reis
-          + Travessia
-
-Assine
-          + UOL Play
-          + UOL Leia+ Banca
-          + UOL Leia+ Livros
-          + Loja de jogos
-          + Sexo
-     * Universa
-       Outros canais UOL
-
-Universa
-          + Transforma
-          + Inspira
-          + Pausa
-          + Horóscopo
-          + Entrevista
-          + Newsletters
-          + Colunas
-          + Vídeos
-          + Últimas notícias
-
-Transforma
-          + Direitos da Mulher
-          + Finanças
-          + LGBTQIA+
-          + Mapa da Mina
-          + Política
-          + Raça
-          + Trabalho
-          + Universa Talks
-          + Violência Contra Mulher
-
-Inspira
-          + Autoestima
-          + Família
-          + Maternidade
-          + Na Minha Pele
-          + A Poderosa
-          + Prêmio Inspiradoras
-          + Relacionamentos
-
-Pausa
-          + Beleza
-          + Moda
-          + Movimento
-          + Retratos
-          + Saúde da Mulher
-          + Sem filtro
-          + Sexo
-          + Stalkeadas
-          + Universa Experimenta
-     * VivaBem
-       Outros canais UOL
-
-VivaBem
-          + Alimentação
-          + Cardápios
-          + Equilíbrio
-          + Longevidade
-          + Movimento
-          + Saúde
-          + Newsletters
-          + Colunas
-          + Vídeos
-          + Últimas notícias
-     * Tilt
-       Outros canais UOL
-
-Tilt
-          + Fique por dentro
-          + Tec a seu favor
-          + Novos hábitos
-          + Papo cabeça
-          + Ficção científica?
-          + Colunas
-          + Vídeos
-          + Newsletters
-          + Últimas
-
-Fique por dentro
-          + Lançamentos
-          + WhatsApp
-          + Redes Sociais
-          + Apps
-          + Isso é Golpe!
-          + Ciência
-          + Astronomia
-          + Negócios
-
-Tec a seu favor
-          + Teste de Velocidade da Internet
-          + #ficadica
-          + Dicas matadoras
-          + A tecnologia por trás
-          + Review
-          + Comparativo
-          + No Brasil não tem
-
-Papo cabeça
-          + Fala, chefia
-          + Como seria se...
-          + Podcast Deu Tilt
-
-Ficção científica?
-          + O que Steve diria
-          + Isso é tão Black Mirror
-     * Ecoa
-       Outros canais UOL
-
-Ecoa
-          + Pessoas
-          + Soluções
-          + Na prática
-          + Plural
-          + Podcasts
-          + Reportagens especiais
-          + Colunas
-          + Últimas
-
-Pessoas
-          + Causadores
-          + Fizeram história
-
-Soluções
-          + Empresas que mudam
-          + Iniciativas que inspiram
-
-Na prática
-          + Sim ou não?
-          + Como fazer
-          + Destretando
-     * Canal UOL
-     * MOV
-       Outros canais UOL
-
-Vídeos
-          + Canal UOL
-          + Entrevistas
-          + MOV.doc
-          + Programas
-          + Blog UOL Play
-
-Parceiros
-          + Band
-          + Caras
-          + History
-          + RedeTV!
-          + TV Cultura
-     * Nossa
-       Outros canais UOL
-
-Nossa
-          + Casa
-          + Cozinha
-          + Viagem
-          + Moda
-          + Temporadas
-          + Programas
-          + Reportagens Especiais
-          + Colunas
-          + Últimas
-
-Casa
-          + Bichos
-          + Feito à mão
-          + Meu apê
-          + Microespaços
-          + Plantados
-          + Tapa na casa
-
-Cozinha
-          + Receitas
-          + Ao ponto
-          + Instachef
-          + Tim-tim
-          + Receita de família
-          + Gastronobásico
-
-Viagem
-          + 12 horas
-          + Fora da rota
-          + Retina
-          + Na Estrada
-
-Moda
-          + Moodboard
-
-Temporadas
-          + Solar
-          + Arraiá
-          + Japão
-          + Brasileiro
-          + Festejo
-          + Entornos
-          + Férias
-     * TAB
-       Outros canais UOL
-
-TAB
-          + Especiais
-          + Perfis
-          + Nas Ruas
-          + Aba Anônima
-          + Tendência
-          + Colunas
-          + Últimas
-          + Assista
-          + Newsletter
-     * Educação
-       Outros canais UOL
-
-Educação
-          + Banco de Redações
-          + Enem
-          + Pesquisa Escolar
-          + Planos de aula
-          + Resumo de livros
-          + Vestibular
-          + Brasil Escola
-          + Últimas notícias
-
-Pesquisa Escolar
-          + Atualidades
-          + Biografias
-          + Biologia
-          + Física
-          + Geografia
-          + História
-          + Matemática
-          + Português
-          + Química
-          + Outros temas
-
-Cursos online
-          + Cursos Livres - Upfy
-          + Pós-graduação
-          + Profissionalizantes
-          + Preparatório OAB
-     * UOL Meu Negócio
-     * UOL Play
-       Outros canais UOL
-
-UOL Play
-          + Início
-          + Assistir
-          + Ao Vivo
-          + Canal UOL
-          + Blog
-          + Alugar
-          + Conheça
-          + Assine
-
-Assistir
-          + Ação e aventura
-          + Comédia
-          + Criança
-          + Drama
-          + Documentários
-          + Entrevistas
-          + Família e infantil
-          + Ficção científica
-          + Programas
-          + Reality show
-          + Romance
-          + Séries
-          + Shows
-          + Suspense e Terror
-
-MOV Originais
-          + MOV
-          + Nossa
-          + Splash
-          + TAB
-          + Tilt
-          + Universa
-          + VivaBem
-     * PagBank
-     * PagSeguro
-     * Passei Direto
-
-     * sac
-     *
-     *
-     * Assine UOL
-
-     * Alimentação
-     * Cardápios
-     * Equilíbrio
-     * Longevidade
-     * Movimento
-     * Saúde
-     * Newsletters
-     * Colunas
-     * Vídeos
-     * Últimas notícias
-     __________________________________________________________________
-
-   Topo
-
-Equilíbrio
-
-   Cuidar da mente para uma vida mais harmônica
-     __________________________________________________________________
-
-Equilíbrio
-
-Nostalgia demais faz mal? Veja como conviver com ela de maneira saudável
-
-   iStock
-   Imagem: iStock
-
-   Sibele Oliveira
-
-   Colaboração para o VivaBem
-
-   05/12/2019 04h00
-
-Resumo da notícia
-
-     * A nostalgia é uma forma de preservar as nossas memórias
-     * Muitas vezes ela faz com que a pessoa não queira abandonar o
-       passado e fique com a vida paralisada
-     * Quando é exagerada, a nostalgia pode causar doenças como a
-       depressão e nesses casos é preciso buscar ajuda médica
-     * Os nostálgicos tendem a considerar o passado muito melhor do que o
-       presente e as pessoas mais velhas são as que sentem mais nostalgia
-
-   Bons tempos! Como o passado era bom! Eu era feliz e não sabia! Quem
-   nunca se pegou dizendo essas frases? Elas são expressões de nostalgia,
-   termo que para os gregos significava a dor (algós) que atingia quem
-   fazia uma viagem (nostós) para longe do seu país. De acordo com o
-   dicionário, é um sentimento ligeiro de tristeza pela lembrança de
-   experiências vividas no passado, além de saudade ou tristeza por algo
-   ou alguém que já não existe mais ou que não temos mais.
-
-   Muitas pessoas fazem confusão entre nostalgia e saudade, mas segundo
-   Carolina Falcão, professora de psicologia da PUCRS (Pontifícia
-   Universidade Católica do Rio Grande do Sul), não são sentimentos
-   iguais. "Somos sujeitos atravessados por saudades, já que ao longo da
-   vida vamos deixando experiências, pessoas e prazeres para trás". A
-   diferença dos nostálgicos, ela diz, é que além de sentirem saudade,
-   entendem que o que tinham ou viviam no passado era melhor do que o que
-   têm e vivem hoje.
-
-Relacionadas
-
-Pílula da felicidade? Como o Prozac mudou o tratamento e até mesmo o conceito
-que temos de depressão
-
-#SemFrescura: por que temos dor de barriga quando ficamos nervosos?
-
-De alho a bicarbonato: qual tratamento caseiro para candidíase funciona?
-
-   A nostalgia às vezes é vista como algo sentido apenas por quem tem um
-   presente pobre de alegrias. Mas conforme Leila Tardivo, professora do
-   Instituto de Psicologia da USP (Universidade de São Paulo), ela tem sua
-   importância. "Tem a ver com a memória de um tempo que passou. E isso
-   não é necessariamente patológico. Na verdade, é necessário. Porque se
-   as pessoas não puderem ter memória de tempos passados, de suas
-   experiências e relações, acabam ficando como um arquivo vazio".
-
-   Todos nós estamos sujeitos a sentir essa mistura de tristeza e saudade
-   quando deixamos para trás uma fase muito boa ou somos obrigados a fazer
-   renúncias. Afinal, se abrir para novas situações não é fácil. Leva um
-   tempo para nos adaptarmos às mudanças. "Sempre que fazemos algum
-   processo de transformação, por mais simples que seja, ou por mais que
-   desejemos esta transformação, experimentamos algum tipo de sofrimento",
-   pontua Falcão.
-
-   O normal, diz Tardivo, é que esse passado querido nos estimule a
-   crescer e ser pessoas melhores, mesmo que seja doloroso no começo.
-   "Crescer está relacionado a ganhar e perder. Ninguém muda de fase de
-   desenvolvimento se não perde a anterior. Isso faz parte da vida". É o
-   que acontece, por exemplo, quando um filho deixa a companhia dos pais
-   para seguir o próprio caminho. A ausência dele em casa é compensada
-   pela felicidade dos pais em vê-lo realizado.
-
-Quando a nostalgia pode fazer mal?
-
-   Tardivo afirma que a nostalgia é saudável quando traz lembranças de um
-   passado bem vivido e ajuda a entender o presente. Mas se for muito
-   intensa, pode até paralisar a vida. "O que prejudica é uma memória que
-   faz a pessoa ficar amarrada no passado", frisa. Esse sentimento é tão
-   forte em algumas pessoas que as impede de viver o aqui e agora. Como
-   não conseguem encerrar o luto pelo que perderam de tão precioso, não
-   acham graça em mais nada.
-
-   É necessário virar a página para enxergar o brilho do presente. "Para
-   isso, precisamos lidar com o que guardamos dentro de nós sobre a pessoa
-   ou situação que perdemos. Nesse primeiro momento do processo, tendemos
-   a ver a situação de forma mais parcial, já que enfrentar toda a
-   situação de luto é um desafio bastante grande", explica Falcão. Aos
-   poucos, essa dor vai passando. Mas nem todo mundo consegue sair dela.
-
-   Ao ficar preso em uma determinada época e acreditar que só seria feliz
-   se pudesse reviver o que não existe mais ou não é mais viável, o
-   nostálgico sofre bastante. "Muitas vezes, esse passado fica idealizado
-   como um tempo no qual existia muita felicidade. Numa oposição muito
-   desleal com o presente que, certamente, impõe frustrações", ressalta
-   Falcão. Esse olhar distorcido atrapalha algumas pessoas de verem a
-   época lembrada exatamente como ela era. Os aspectos bons são
-   valorizados e os maus simplesmente desaparecem.
-
-   Nos casos mais extremos, elas se recusam a aceitar a época atual.
-   Quando chegam ao ponto de não se lembrarem do passado com felicidade,
-   como é normal, mas com uma dor insuportável, é um sinal de que estão
-   doentes. Ouvir uma música, sentir um perfume, ver uma fotografia ou
-   estar num lugar que traz boas recordações são motivos para elas
-   desabarem. Experimentam uma sensação de falta constante e não se sentem
-   bem com as mudanças do mundo.
-
-   Essa nostalgia mais pesada pode gerar depressão, ansiedade, tristeza,
-   angústia, desânimo, dor e muita vontade de chorar. No entanto, seus
-   sintomas não são apenas emocionais. Distúrbios do sono, de alimentação
-   e até dores crônicas podem ser outras consequências. "Quando a pessoa
-   não está conseguindo tocar a vida, trabalhar, desfrutar de bons
-   momentos e ter relações saudáveis, é um indício de que ela não está
-   bem", garante Tardivo. Mas é importante investigar se não existem
-   outras causas por trás de todo esse mal.
-
-Dificuldade de sair da zona de conforto
-
-   A necessidade de se refugiar no passado tanto pode estar relacionada a
-   tendências depressivas e à resistência em aceitar as perdas, como
-   também sinalizar uma dificuldade de viver o presente. Isso pode
-   acontecer com qualquer um de nós, porém os mais velhos são os que
-   costumam se apegar mais ao que passou. "O envelhecer é um processo
-   bastante desafiador porque envolve uma reconfiguração da vida diante de
-   perdas que são contundentes e inerentes este momento do ciclo vital",
-   enfatiza Falcão.
-
-   Ao perceberem que a saúde, a imagem refletida no espelho, as
-   habilidades e o vigor já não são os mesmos, muitos idosos contabilizam
-   tudo o que perdeu e se deparam com a finitude. E custam a encontrar
-   meios de prazer e felicidade nas suas condições atuais. "Além do
-   físico, no envelhecimento nos ressituamos entre as gerações na cultura
-   e no mundo do trabalho. Perdemos de forma mais intensa os nossos pares
-   e nos deparamos com limites inevitáveis", completa a especialista.
-
-É preciso aceitar
-
-   Quando se torna muito difícil sair desse mundo de lembranças boas, é
-   hora de se ajudar e ser ajudado. "É importante usar a memória como um
-   estímulo para seguir em frente, e não como prisão. Também é bom
-   escrever a respeito, compartilhar o que está acontecendo com os amigos
-   e não enfatizar tanto o que se perdeu ou ganhou", aconselha Tardivo. É
-   verdade que nem sempre encontramos as oportunidades que queremos no
-   presente. Mas mesmo que as coisas não estejam indo bem, nossos recursos
-   internos podem nos auxiliar a encontrar um novo sentido para a vida.
-
-   "O segredo é aceitar o que se foi. Não anular ou esquecer. É usar
-   aquilo como riqueza, como ganho", ela acrescenta. Falcão orienta a
-   fazer o exercício de ver com clareza as imperfeições do passado e do
-   presente. "O primeiro desafio que temos é aceitar que qualquer evento
-   da vida será necessariamente composto de aspectos positivos e
-   negativos. Nunca seremos completamente satisfeitos, nem completamente
-   felizes". Isso significa que sempre encontraremos limites e
-   frustrações.
-
-   Só assim, ela diz, teremos condições de manejar, enfrentar e desfrutar
-   do presente nas possibilidades de prazer e crescimento que ele oferece.
-   Sem apagar o passado. "Somos produtos da nossa história, com seus
-   aspectos felizes e desafiadores. Fazer o alinhavo de todas essas
-   experiências é, sem dúvida, o maior desafio de qualquer pessoa",
-   considera Falcão. Olhar fixadamente para trás é um caminho que pode
-   levar ao adoecimento psíquico. Se necessário, busque espaços de escuta,
-   como uma terapia, para reorganizar a sua história e volta a ser feliz.
-
-   Podcasts do UOL
-   Ouça o podcast Maratona, em que especialistas e corredores falam sobre
-   corrida. Os podcasts do UOL estão disponíveis em uol.com.br/podcasts,
-   no Spotify, Apple Podcasts, Google Podcasts e outras plataformas de
-   áudio.
-
-As mais lidas agora
-
-3 mitos sobre a calvície e por que ela não é 'necessariamente ruim', segundo
-especialista
-
-Estudo derruba mito da necessidade de ingestão de 2 litros de água por dia
-
-A rotina de uma bebê que precisa de remédio de R$ 6 mi que chegará ao SUS
-
-   PUBLICIDADE
-
-   ID: {{comments.info.id}}
-   URL: {{comments.info.url}}
-
-Ocorreu um erro ao carregar os comentários.
-
-   Por favor, tente novamente mais tarde.
-
-{{comments.total}} Comentário
-
-{{comments.total}} Comentários
-
-Seja o primeiro a comentar
-
-Essa discussão está encerrada
-
-   Não é possivel enviar novos comentários.
-
-   Apenas assinantes podem ler e comentar
-   Avaliar:
-   UOL - O melhor conteúdo
-
-Só assinantes do UOL podem comentar
-
-   Ainda não é assinante? Assine já.
-
-   Se você já é assinante do UOL, faça seu login.
-   sair
+    #Feed para » Feed de comentários para » Feed de comentários para »
+   Relembrando o passado: Nostalgia faz bem? alternate alternate alternate
+   Structured Descriptor Document (JSON-LD format)
+
+     * Transtornos
+          + Ansiedade
+          + Burnout
+          + Depressão
+          + Estresse
+          + Fobias
+          + Síndrome do Pânico
+          + TOC
+          + Transtorno Bipolar
+     * Coluna dos Especialistas
+          + Arthur Andrade
+          + Beatriz Campos
+          + Flavia Romano
+          + José Antônio
+          + Pedro Sammarco
+          + Sonia Pittigliani
+     * Psicologia
+          + Psicologia Online
+          + Psicoterapia
+          + Telavita
+     * Falar com Psicólogo
+
+   Buscar ____________________
+
+   TelaVita - Seu Portal de Saúde e Bem-Estar
+   TelaVita - Seu Portal de Saúde e Bem-Estar TelaVita - Seu Portal de
+   Saúde e Bem-Estar
+     * Transtornos
+          + Ansiedade
+          + Burnout
+          + Depressão
+          + Estresse
+          + Fobias
+          + Síndrome do Pânico
+          + TOC
+          + Transtorno Bipolar
+     * Coluna dos Especialistas
+          + Arthur Andrade
+          + Beatriz Campos
+          + Flavia Romano
+          + José Antônio
+          + Pedro Sammarco
+          + Sonia Pittigliani
+     * Psicologia
+          + Psicologia Online
+          + Psicoterapia
+          + Telavita
+     * Falar com Psicólogo
+
+   ____________________ Buscar
+   Início Comportamento Relembrando o passado: Nostalgia faz bem?
+
+Relembrando o passado: Nostalgia faz bem?
+
+   Por
+   Juliana Sonsin
+   1
+   16656
+   Facebook
+   Twitter
+   Google+
+   Pinterest
+   WhatsApp
+
+   significado de nostalgia
+
+   Momentos de nostalgias podem ser saudáveis até certo ponto. Mas qual o
+   limite? Descubra aqui!
+
+   As crianças da década de 90 sabem muito bem o que é ser marcado por um
+   filme. “O Rei Leão”, desenho animado da Disney, conquistou essa geração
+   de tal modo que o filme virou sinônimo de nostalgia e sentimentos bons
+   da infância. Agora que a live action de O Rei Leão está prestes a
+   ganhar as telonas em 2019, os adultos estão se tornando crianças
+   novamente. Esse sentimento nostálgico que nos invade quando algo nos
+   faz recordar o passado é perfeitamente normal. O significado de
+   nostalgia, para o dicionário Cambridge, é “um sentimento prazeroso
+   misturado com um pouco de tristeza que se dá quando pensamos sobre algo
+   que aconteceu no passado”.
+
+   Foi do médico suíço Johannes Hofer que nasceu o termo “nostalgia”, em
+   1688. No início, a nostalgia não era vista com bons olhos. Ela foi
+   considerada uma doença neurológica provocada por algo maligno se
+   manifestar frequentemente em soldados militares que nutriam um
+   desesperado desejo de voltar para a casa, e esse sentimento trazia dor
+   e emoções ruins.
+
+   Mas pesquisas indicam que não é nada disso. Segundo estudos da
+   University de Southampton, na Inglaterra, ser nostálgico aumenta a
+   vitalidade e prepara os indivíduos para lidar com o presente e com o
+   futuro. Isso porque quando vivenciamos momentos de nostalgia,
+   experimentamos um sentimento de “autocontinuidade”. Frases como “Me
+   sinto conectado com meu passado” e “Importantes aspectos da minha
+   personalidade continuam os mesmos ao longo do tempo” levaram os
+   pesquisadores a acreditarem que, ao olharmos para o passado, nossa
+   compreensão de quem somos é mais clara.
+
+   O estudo também observou que, além de promover o autoconhecimento, a
+   nostalgia também religa o indivíduo com um grupo. Como assim? Quando
+   você recorda o passado e resgata lembranças que viveu com outras
+   pessoas, cria-se uma sensação de conexão social, ou seja, você sente
+   que pertence a um lugar, a um tempo, a um grupo.
+
+   A última conclusão da pesquisa foi surpreendente e que derrota de vez
+   os conceitos atrelados ao maligno que o médico suíço acreditava. Quando
+   ouvimos uma música antiga, encontramos um brinquedo que costumávamos
+   brincar ou fotografias de momentos felizes, produzimos muito mais do
+   que o sentimento de autocontinuidade ou de conexão social, aumentamos a
+   nossa vitalidade, nos sentimos cheios de energia e afastamos a
+   tristeza.
+
+   Um dos pesquisadores responsáveis pelo estudo, Tim Wildschut, definiu a
+   nostalgia como uma “resposta imunológica psicológica”. Em entrevista à
+   revista Scientific American, ele afirmou que o sentimento aparece
+   quando experimentamos dificuldades e funciona como um mecanismo de
+   defesa.
+
+   Lembrar o passado é saudável e, como concluiu a pesquisa, faz um enorme
+   bem ao nosso emocional e psicológico, pois nos conecta aos outros e a
+   nós mesmos. O problema é quando levamos muito à risca a famosa frase
+   “Recordar é viver” e passamos a nos referir ao passado como única fonte
+   de felicidade possível. O passado é confortável, pois já vivemos tudo
+   aquilo e sabemos como as situações felizes e tristes terminam. O
+   presente, em contrapartida, é assustador, pois não sabemos se vamos nos
+   recuperar daquele término de relacionamento, de um trauma ou luto.
+
+   Quando nos tornamos excessivamente nostálgicos, perdemos a noção do
+   presente e é aí que mora o perigo, pois muitas doenças psicológicas
+   podem ver nisso uma boa hora para atacar. A depressão costuma ser
+   associada ao indivíduo que “vive no passado”, e a ansiedade com o
+   indivíduo que “vive no futuro”. Para as pessoas depressivas que evocam
+   o passado diariamente, seja revivendo traumas ou alegrias que não
+   voltam mais, o presente se torna infinitamente sem perspectivas, já que
+   as coisas essencialmente importante já aconteceram.
+
+   Saiba tudo sobre depressão no nosso artigo sobre o tema.
+
+   Já que estamos num momento nostalgia com O Rei Leão, ao qual nos
+   referimos no início do texto, vamos lembrar uma frase importante do
+   filme. “O passado pode doer, mas da forma que eu vejo é: você pode
+   fugir dele, ou aprender com ele”. A depressão é uma doença psicológica
+   séria e precisa de tratamento. O ideal é que o paciente busque ajuda
+   psicológica para entender que não é saudável viver no passado. Sendo
+   bom ou ruim, o passado ensina, e é através dele que criamos a
+   consciência do presente, criando novos caminhos, encontrando respostas
+   e vivendo novos momentos que, daqui uns anos, serão memórias de outros
+   tempos marcantes.
+
+   IFRAME:
+   https://www.facebook.com/plugins/like.php?href=https://www.telavita.com
+   .br/blog/nostalgia/&layout=button_count&show_faces=false&width=105&acti
+   on=like&colorscheme=light&height=21
+
+   Facebook
+   Twitter
+   Google+
+   Pinterest
+   WhatsApp
+
+   Artigo anteriorAPAE DE SÃO PAULO: 10 sinais de alerta para se detectar
+   o autismo
+   Próximo artigoAtividades para crianças autistas
+   Juliana Sonsin
+   Jornalista formada pela Faculdade Cásper Libero e especializada em
+   saúde. Apaixonada por escrever roteiros de vídeos, produzir (e
+   assistir) documentários e ler sobre tudo um pouco. Acredito no
+   jornalismo ético como um meio de trazer ao público informações e
+   histórias que valem a pena serem contadas. Gosto de viajar, fazer yoga
+   e assistir séries.
+
+ARTIGOS RELACIONADOSMais do autor
+
+   rapaz-ensinando-na-lousa-como-ter-produtividade
+   Comportamento
+
+Como aumentar a produtividade e ter uma rotina eficiente?
+
+   gestão de tempo
+   Comportamento
+
+Gestão de tempo: o que é e como fazer
+
+   traição
+   Comportamento
+
+Traição: o que é e como lidar com a infidelidade
+
+1 COMENTÁRIO
+
+    1.
+   Geraldo 05/03/2022 at 12:17 PM
+       Passado é uma história que se viveu e, a partir daí exercermos a
+       Gratidão! O que a nostalgia se torna “prejudicial” é quando a
+       pessoa entendeu que passou pela superação mas a “experiência” de
+       haver tido provação, prevalece! Hoje sonhei com uma colega e, nem
+       foi a primeira vez; quando ela se aposentou me disse: “vou te
+       deixar em paz”! Ai quando acordo penso: como estará ela sem a
+       chamada “válvula de escape”! Meu irmão me encaminhou a foto da casa
+       em que morou nossa mãe e, ai entra a subjetividade dele, em pensar
+       que me despertaria “nostalgia”, mas para mim foi um local que fez
+       parte da minha história, já em relação a nossa mãe, eterna
+       gratidão, onde ontem uma pessoa comentou ser família e por isso
+       quando a sogra operou, agradeceu a ele a compreensão pela filha
+       estar acompanhando ela. Eu ai disse a ele que havia chegado o
+       momento da filha retribuir a mãe quando esteve na cabeceira dela,
+       na infância, noites “em claro”!
+       Responder
+
+DEIXE UMA RESPOSTA Cancelar resposta
+
+
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   Please enter your comment!
+   ______________________________
+   Please enter your name here
+   ______________________________
+   You have entered an incorrect email address!
+   Please enter your email address here
+   ______________________________
+
+   [ ] Save my name, email, and website in this browser for the next time
+   I comment.
+
+   Postar Comentário
+
+   Δ
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+   Esse site utiliza o Akismet para reduzir spam. Aprenda como seus dados
+   de comentários são processados.
+
+Categorias
+
+     * Aborto4
+     * Anorexia1
+     * Ansiedade17
+     * Autismo10
+     * Autoconhecimento51
+     * Bullying8
+     * Burnout9
+     * Comportamento58
+     * Depressão21
+     * Dislexia4
+     * Doenças11
+     * Envelhecer12
+     * Estresse9
+     * Família16
+     * Fobias13
+     * Gestação17
+     * Infância e Adolescência29
+     * Luto4
+     * Obesidade6
+     * Outras Síndromes14
+     * Psicologia22
+     * Psicologia Online16
+     * Psicoterapia27
+     * Psiquiatria4
+     * Relacionamento24
+     * Saúde da Mulher10
+     * Sem categoria6
+     * Sexologia33
+     * Síndrome do Pânico7
+     * Sono16
+     * Suicídio7
+     * TDAH4
+     * Telavita8
+     * TOC5
+     * Trabalho82
+     * Transtorno Bipolar5
+     * Transtornos Alimentares12
+     * Transtornos de Aprendizagem2
+     * Transtornos Psicológicos21
+     * Traumas Psicológicos4
+     * Vícios e Manias10
+
+   Logotipo Telavita
+   Somos um grupo de pessoas engajadas em melhorar o acesso à saúde de
+   qualidade através da tecnologia. Nós acreditamos que todos têm o
+   direito de ter acesso rápido e conveniente aos profissionais de saúde
+   de qualidade, quando e onde necessário. Cansados de uma comunicação
+   ineficiente, longas filas de esperas, alto custo e tempo de locomoção,
+   juntamos os melhores especialistas em healthcare, inovação e tecnologia
+   para iniciar juntos a transformação do conceito de acesso à saúde no
+   Brasil. O amor e consistência pelo que fazemos, nos levou ao
+   reconhecimento como a 2ª startup mais inovadora da América Latina no
+   G-Start Up Worldwide em 2017.
+   Contato: [email protected]
+
+POSTS MAIS POPULARES
+
+5 sinais de que você é nervoso demais
+
+   Estresse 03/05/2017
+
+Saiba como identificar a dependência emocional
+
+   Autoconhecimento 15/03/2017
+   homem-calando-mulher-violencia-psicologica
+
+Aprenda a identificar os sinais de violência psicológica dentro dos
+relacionamentos
+
+   Comportamento 01/05/2019
+
+CATEGORIA POPULAR
+
+     * Trabalho82
+     * Comportamento58
+     * Autoconhecimento51
+     * Sexologia33
+     * Infância e Adolescência29
+     * Psicoterapia27
+     * Relacionamento24
+     * Psicologia22
+     * Transtornos Psicológicos21
+
+   © A ajuda que você precisa, onde você estiver ❤️
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WKC7VSC
+
+   Edit with Live CSS
 
    ____________________________________________________________
-   (BUTTON) enviar comentário
-
    ____________________________________________________________
-   (BUTTON) enviar comentário
-
-   O autor da mensagem, e não o UOL, é o responsável pelo comentário. Leia
-   os termos de uso
-   Escolha do editor
-   {{ comment.created | formatDate | prettyDate}}
-
-   Responder Respostas ({{ comment.reply_count }}) Excluir Denunciar
-
    ____________________________________________________________
-   (BUTTON) responder
-   Escolha do editor
-   {{ reply.created | formatDate | prettyDate}}
+   ____________________________________________________________
 
-   Excluir Denunciar
-   (BUTTON) Ver mais respostas
-   (BUTTON) Ver mais comentários
-   PUBLICIDADE
-
-   Colaboração para o VivaBem - Segurança e privacidade© 1996 - 2022 UOL -
-   O melhor conteúdo. Todos os direitos reservados
-
-Equilíbrio
-
-   [placeholder-image-1621949831997_v2_300x300.jpg]
-
-'Minha dor foi reconhecida': como maternidades acolhem quem perde um bebê
-
-   07/12/2022 04h00
-   [placeholder-image-1621949831997_v2_300x300.jpg]
-
-Massagem, meditação e alongamento no trabalho: mais saúde e produtividade
-
-   06/12/2022 04h00
-   [placeholder-image-1621949831997_v2_300x300.jpg]
-   3:15
-
-Meu esposo gosta de ser penetrado com consolo e cinta. É normal, Jairo?
-
-   06/12/2022 04h00
-   [placeholder-image-1621949831997_v2_300x300.jpg]
-
-Por que alguns sempre acham que ter vivido em outras épocas era melhor?
-
-   05/12/2022 04h00
-   [placeholder-image-1621949831997_v2_300x300.jpg]
-
-Por que ter 'brancos' na mente pode ser bom para nós
-
-   04/12/2022 16h01
-   [placeholder-image-1621949831997_v2_300x300.jpg]
-
-Como ensinar as crianças a enfrentar riscos na vida
-
-   03/12/2022 13h34
-   [placeholder-image-1621949831997_v2_300x300.jpg]
-
-5 técnicas simples e cientificamente comprovadas para dormir melhor
-
-   03/12/2022 12h38
-   [placeholder-image-1621949831997_v2_300x300.jpg]
-
-Como administrar o ciúme em um relacionamento aberto?
-
-   03/12/2022 04h00
-   [placeholder-image-1621949831997_v2_300x300.jpg]
-
-Sinais para saber se você é dependente de pornografia, como Cara Delenvigne
-
-   02/12/2022 11h15
-   [placeholder-image-1621949831997_v2_300x300.jpg]
-
-Inquilinos e prisioneiros: convivência entre pessoas adultas e adolescentes
-
-   02/12/2022 04h00
-   [placeholder-image-1621949831997_v2_300x300.jpg]
-
-Estamos perdendo o que sempre fez parte da alma brasileira: amor pelo outro
-
-   02/12/2022 04h00
-   (BUTTON) ver mais
-   PUBLICIDADE
+   Save
+   Write CSS OR LESS and hit save. CTRL + SPACE for auto-complete.

@@ -1,255 +1,228 @@
-   Skip to Main Content
+UTF-8 and Unicode
 
-Main Menu
+   Unicode Transformation Format 8-bit is a variable-width encoding that
+   can represent every character in the Unicode character set. It was
+   designed for backward compatibility with ASCII and to avoid the
+   complications of endianness and byte order marks in UTF-16 and UTF-32.
+   ^[1]
 
-   (BUTTON) (BUTTON) U.S. Edition
+   UTF-8 encodes each Unicode character as a variable number of 1 to 4
+   octets, where the number of octets depends on the integer value
+   assigned to the Unicode character. It is an efficient encoding of
+   Unicode documents that use mostly US-ASCII characters because it
+   represents each character in the range U+0000 through U+007F as a
+   single octet.
 
-News
+   UTF-8 is the default encoding for XML and since 2010 has become the
+   dominant character set on the Web.
 
-   U.S. NewsWorld NewsBusinessEnvironmentHealthCoronavirusSocial Justice
+Standards
 
-Politics
+     * RFC 3629: UTF-8, a transformation format of ISO 10646. November
+       2003.
+     * The Unicode Standard 5.0, November 2006. [purchase from Amazon.com]
+          + In particular, see the informal description of UTF-8 in
+            sections 2.5 and 2.6, pages 30-32, and a much more formal
+            definition in sections 3.9 and 3.10, pages 77-81.
 
-   Joe BidenCongressExtremismElections 2022
+Articles and background reading
 
-Opinion
+     * UTF-8 and Unicode FAQ for Unix/Linux by Markus Kuhn
+     * Forms of Unicode, an excellent overview by Mark Davis
+     * Wikipedia UTF-8 contains a good discussion of why five- and
+       six-octet sequences are now illegal UTF-8
+     * Unicode Transformation Formats [czyborra.com]
+     * The Absolute Minimum Every Software Developer Absolutely,
+       Positively Must Know About Unicode and Character Sets (No
+       Excuses!), an amusing and informative article by Joel Spolsky
 
-Entertainment
+Character Sets
 
-   Culture & ArtsMediaCelebrityTV & Film
+   The MIME character set attribute for UTF-8 is UTF-8. Character sets are
+   case-insensitive, so utf-8 is equally valid. [IANA Character Sets].
 
-Life
+   In a modern HTML 5 page, place this tag inside <head> ... </head>:
+<meta charset="UTF-8">
 
-   Style & BeautyFood & DrinkParentingTravelWellnessRelationshipsMoneyHome
-   & LivingWork/LifeShopping
+   In an XML prolog, the encoding is typically specified as an attribute:
+<?xml version="1.0" encoding="UTF-8" ?>
+     __________________________________________________________________
 
-Voices
+   Last modified: Wed Jan 5 12:57:21 PST 2022
 
-   Queer VoicesWomen's VoicesBlack VoicesLatino VoicesAsian Voices
+     *
+          + A la une
+          + Bien-être
+          + Art de vivre
+          + Environnement
+          + Argent
+          + Culture Pop
+          + Vie digitale
+          + Mode Beauté
 
-Special Projects
+   10 anecdotes de stars autour des fêtes de fin d'année
+   News
+   10 anecdotes de stars autour des fêtes de fin d'année
+   13 décembre 2022
+   L'esprit de Noël a-t-il un réel impact sur notre cerveau ?
+   News
+   L'esprit de Noël a-t-il un réel impact sur notre cerveau ?
+   06 décembre 2022
+   Repas de Noël : 10 sujets de conversation à esquiver pour éviter les
+   embrouilles
+   News
+   Repas de Noël : 10 sujets de conversation à esquiver pour éviter les
+   ...
+   06 décembre 2022
+   Maman ou femme : comment trouver l'équilibre ?
+   News
+   Maman ou femme : comment trouver l'équilibre ?
+   22 novembre 2022
+   Rétroplanning de Noël : 10 étapes pour préparer les fêtes sereinement
+   News
+   Rétroplanning de Noël : 10 étapes pour préparer les fêtes sereinement
+   22 novembre 2022
+   Est-il mauvais pour le moral de regarder la télévision ?
+   News
+   Est-il mauvais pour le moral de regarder la télévision ?
+   08 novembre 2022
+   10 conseils pour une famille recomposée réussie
+   News
+   10 conseils pour une famille recomposée réussie
+   08 novembre 2022
+   Ils n'ont jamais montré leurs enfants pour préserver leur famille
+   News
+   Ils n'ont jamais montré leurs enfants pour préserver leur famille
+   03 novembre 2022
+   Déco thérapie : quand la décoration permet d'aller mieux
+   News
+   Déco thérapie : quand la décoration permet d'aller mieux
+   25 octobre 2022
+   Hypersensibilité : 10 signes pour la déceler
+   News
+   Hypersensibilité : 10 signes pour la déceler
+   25 octobre 2022
+   Fatigue physique ou mentale : comment les discerner ?
+   News
+   Fatigue physique ou mentale : comment les discerner ?
+   11 octobre 2022
+   Ces personnalités qui ont ralenti le rythme pour se consacrer à leur
+   famille
+   News
+   Ces personnalités qui ont ralenti le rythme pour se consacrer à leur
+   ...
+   11 octobre 2022
+   Trahison : 10 étapes pour pardonner
+   News
+   Trahison : 10 étapes pour pardonner
+   11 octobre 2022
+   Psycho
 
-   Highline
+La nostalgie est-elle une émotion positive ou négative ?
 
-HuffPost Personal
-
-Video
-
-Horoscopes
-
-From Our Partners
-
-   All The Way UpThe State of AbortionSplurgeworthyTech The Halls
-
-Newsletters
-
-International
-
-   AustraliaBrazilCanadaEspañaFranceΕλλάδα (Greece)IndiaItalia日本 (Japan)한국
-   (Korea)QuébecU.K.U.S.
-
-Follow Us
-
-   Terms |
-   Privacy Policy
-   Part of HuffPost News. ©2022 BuzzFeed, Inc. All rights reserved.
-   (BUTTON)
-   Log InJoin HuffPost
-   Cet article fait partie des archives en ligne du HuffPost Québec, qui a
-   fermé ses portes en 2021.
-   Vivre bien-êtremieux-êtrenostalgiesouvenirs
-
-La nostalgie, ce n’est pas de la tristesse
-
-   Ignorer tous ses souvenirs, c'est effacer un grand pan de sa vie. La
-   nostalgie, c'est, entre autres, le privilège des vieux. Il ne faut pas
-   se surprendre qu'ils aiment tant raconter des souvenirs.
-   By
-   Claude Bérubé, Contributor
-
-   76 ans, retraité et blogueur www.leptitvieux.com
-   76 ans, retraité et blogueur www.leptitvieux.com
-   Dec 7, 2018, 10:37 AM EST|Updated Dec 7, 2018
-   La nostalgie, c'est le mal du pays de l'enfance et de la jeunesse dont
-   on sent de plus en plus l'exil. Ce sont surtout des souvenirs joyeux.
-   Dougal Waters via Getty Images
-   La nostalgie, c'est le mal du pays de l'enfance et de la jeunesse dont
-   on sent de plus en plus l'exil. Ce sont surtout des souvenirs joyeux.
-
-   Les décorations de Noël commencent à faire partie de notre décor. Ainsi
-   que les chansons de circonstances. Déjà la plupart d'entre nous pensent
-   aux festivités qui s'approchent. Tant de souvenirs agréables de Noël
-   refont surface et nourrissent une nostalgie pleine de joie qui
-   pavoisera cette période. Beaucoup de spectacles de Noël affichent déjà
-   «complet». Pour d'autres, une tristesse mélancolique les emplit à cause
-   des arrière-goûts désagréables ou de la solitude traditionnelle qui les
-   accable.
-
-   On accole trop souvent la nostalgie à la tristesse, je lui fais plutôt
-   flirter le mot souvenir. Car la tristesse se marie davantage au mot
-   mélancolie. La nostalgie, c'est le mal du pays de l'enfance et de la
-   jeunesse dont on sent de plus en plus l'exil. Ce sont surtout des
-   souvenirs joyeux. C'est la tarte à la ferlouche de grand-maman. Quel
-   grand moment nostalgique! Le jour d'un grand mariage réussi. Un pays
-   visité en amoureux. Les mauvais coups d'une bande de gamins dont on
-   faisait partie. Le parfum voluptueux que sa bien-aimée préfère depuis
-   toujours. Une partie de pêche foisonnante avec son père. Un amour
-   passionnel. Quel merveilleux véhicule que la mémoire!
-   Advertisement
-
-     Voilà la nostalgie, une panoplie de souvenirs qui nous trotte dans
-     la tête avec un plaisir renouvelé et réconfortant. Il y a de ces
-     instants qui marquent notre vie à tout jamais. Souvent, un souvenir
-     accompagné d'une émotion.
-
-   Qui ne se souvient pas de ce premier «slow», dansé joue contre joue, en
-   écoutant les Platters avec la célèbre chanson Only You (1957). Quand
-   nous l'entendons encore aujourd'hui, le souvenir de ce moment nous
-   revient en mémoire. Et que dire de Smoke gets in your eyes, The great
-   pretender, My prayer? Comme quoi, la musique et les paroles contribuent
-   à la nostalgie.
-
-   Mais il a aussi les événements de la vie quotidienne comme ce qui suit:
-
-   Quand mon ami Marcel entend un petit avion voler dans le ciel, ses yeux
-   le cherchent pour le voir. Maints souvenirs surgissent pour lui
-   rappeler cette période de sa vie où il a appris à piloter un petit
-   avion. Que de belles randonnées surtout durant les couleurs de
-   l'automne! Le souvenir de la sensation de plénitude qui immergeait
-   chaque fois! La fierté de réaliser un tel rêve! Nostalgie!
-
-   Il suffit qu'elle visionne à la télé ou dans les magazines des paysages
-   sous-marins multicolores, Nathalie a souvenance aussitôt de cette
-   période où la plongée sous-marine occupait ses loisirs et ses voyages.
-   La panoplie de coraux et de poissons aux mille couleurs se déroulait à
-   portée de mains dans un monde de silence. Nostalgie.
-   Advertisement
-
-   Quand le cinéma situe l'histoire dans des pays exotiques et éloignés,
-   la période de globe-trotteur de mon cousin Mario refait surface. Tant
-   de savoir autochtone, de rencontres fortuites et de moments
-   exceptionnels lui trottent fidèlement dans la tête, me confie-t-il.
-   Nostalgie.
-
-   Quand un voilier strie l'écran de la télé pour représenter le rêve, je
-   me concentre sur l'image pour revivre tant de moments emballants. Car
-   j'ai navigué durant huit ans à bord de mon voilier. Un rêve et une
-   aventure exceptionnels. Nostalgie.
-
-   Pendant 14 ans, j'ai été l'éditeur, le fondateur et le propriétaire de
-   deux hebdomadaires. J'y revois constamment toutes les prouesses
-   d'entrepreneur nécessaires à son évolution. Je repense à tous ces
-   employés fidèles que j'ai tant aimés. Et à tous les contacts amicaux et
-   d'affaires. C'était la période où une poignée de main tenait lieu de
-   contrat et d'implications communautaires et sociales. Une période
-   charnière. Une réalisation mémorable. Nostalgie.
-
-   La vie familiale et la carrière sont parsemées d'intenses événements
-   heureux dont la souvenance remplit la tête et le cœur nourrissant la
+   Chargement en cours
+   Fouler de nouveau un lieu familier peut faire apparaître de la
    nostalgie.
-
-   Ah! Nostalgie, quand tu t'insères dans nos veines, la joie se
-   manifeste.
-   Westend61 via Getty Images
-   Advertisement
-
-Pourquoi tant de compilations de chansons passées connaissent un tel succès?
-
-   Pourquoi le spectacle Francostalgie, qui présentera 65 chansons de 1965
-   à 1995, une narration anecdotique et nostalgique de Michel Drucker et
-   une tournée du Québec à compter du 15 novembre, connait-il déjà un si
-   grand succès pour la vente des billets? Un spectacle qui générera une
-   tournée européenne, car là-bas aussi la chanson entretient la
+   Feuilleter des photos peut faire surgir un état de nostalgie positif !
+   Chargement en cours
+   Fouler de nouveau un lieu familier peut faire apparaître de la
    nostalgie.
+   Fouler de nouveau un lieu familier peut faire apparaître de la
+   nostalgie.
+   1/2
+   © Adobe Stock, Rido
+   A lire aussi
+   Omar Da Fonseca (beIN SPORTS) : "Je ne sais pas si je serai consultant
+   pour la prochaine Coupe du monde 2026"
+   article
+   Omar Da Fonseca (beIN SPORTS) : "Je ne sais pas si je serai consultant
+   pour la prochaine Coupe du monde 2026"
+   article
+   "Beaucoup de lâcheté" de la part de Johnny Hallyday... Les propos très
+   surprenants de Laeticia !
+   diaporama
+   10 facteurs qui favorisent les aphtes
 
-   Pourquoi le méga spectacle annuel La Tournée des idoles revient-il à
-   Québec? D'année en année, cette revue grandit énormément. Le Centre
-   Vidéotron sera l'hôte de ce rendez-vous unique, le 25 mai 2019, à 13h30
-   et 19h30. Pendant plus de deux heures, les heureux détenteurs de
-   billets pourront chanter et même danser sur les grands succès de:
-   Gérard Lenorman, Plastic Bertrand, Patsy Gallant, Sheila, Michèle
-   Richard, Michel Stax, Claude Valade, Claude Barzotti et Enrico Macias.
-   Sans compter Michel Louvain.
+   Alexandra Arquey, Jellyfish France
 
-   Plusieurs groupes musicaux formaient le paysage musical dans les années
-   60. C'est ainsi que seront présents Pierre Harvey qui rend hommage au
-   groupe de son père Les Gendarmes, Gilles Girard des Classels, Eddie Roy
-   des Bel Airs, Simon Brouillard des Lutins et André Fortin des Bel
-   Canto. Encore une fois, la nostalgie règne. Ils sont tellement nombreux
-   qui y succombent.
+   Regardez-vous souvent derrière vous ? Le fait de se raccrocher à des
+   émotions du passé amène à ressentir de la nostalgie. Fréquemment perçue
+   comme étant négative, cette émotion aurait-elle finalement des effets
+   positifs sur le mental ?
 
-   Les grandes et belles chansons ne vieillissent pas, ne se démodent pas
-   et ne meurent pas. Elles deviennent des classiques. Comment reléguer
-   aux oubliettes les chansons de Gilbert Bécaud et Charles Aznavour, les
-   interprétations des Compagnons de la Chanson, d'Édith Piaf, d'Yves
-   Montand, de Barbara ou de Léo Ferré, de Pavarotti, Michel Legrand et
-   Luis Mariano. Et que dire de Félix Leclerc, Vigneault, Ferland,
-   Léveillée, André Gagnon, Dumont, Beau dommage. Ajoutons les Sinatra,
-   Bennet, Streisand, Presley et Beatles. Ce qui a été beau demeure beau
-   et ne devient pas quétaine. Qu'une belle nostalgie et de joyeux
-   souvenirs en émanent.
+   Qu'est-ce que la nostalgie ?
 
-   Pourquoi la musique classique demeure-t-elle toujours vivante? Les
-   chefs-d'œuvre survivent. Comme les grands peintres.
-   Advertisement
+   L'étymologie de ce mot définit à elle seule cet état d'âme si
+   particulier. Le terme nostalgie est formé à partir de deux mots grecs,
+   nóstos signifiant retour et álgos traduisible par douleur. C'est une
+   émotion généralement passagère, associée à des souvenirs heureux de
+   votre vie. De fait, elle se distingue de la mélancolie. Cette dernière
+   apparaît comme étant un sentiment plus présent et plus noir. La
+   mélancolie s'apparente davantage à de la tristesse et à une déprime.
+   Cet état s'avère souvent plus long et plus récurrent que la nostalgie.
 
-     La nostalgie est devenue une industrie.
+   Comment se caractérise la nostalgie ?
 
-   Ce portrait est loin d'être complet. Pour traiter ce qui précède de
-   vieux jeu, de quétaine, il faut être jeune et sans passé. On dit qu'à
-   partir de trente ans seulement, la nostalgie entre en scène avec les
-   souvenirs.
+   Être nostalgique n'est pas un état exceptionnel. Il se rencontre chez
+   tous les individus, adultes comme enfants. Cette émotion peut se
+   déclencher en visionnant des photos de votre enfance, en percevant un
+   parfum familier, en évoquant vos souvenirs avec une tierce personne, en
+   écoutant une chanson ou encore en goûtant un plat aux saveurs bien
+   définies dans votre esprit. La nostalgie se caractérise donc par un
+   sentiment de regret du passé, souvent joyeux, par un manque, par
+   l'éloignement d'un lieu, d'une personne, d'une période de votre vie.
 
-   Ignorer tous ces souvenirs, c'est effacer un grand pan de sa vie. C'est
-   pourquoi plus on avance en âge, plus les années s'additionnent et plus
-   les souvenirs augmentent. La nostalgie, c'est, entre autres, le
-   privilège des vieux. Il ne faut pas se surprendre que les vieux aiment
-   tant raconter des souvenirs.
+   Si la nostalgie fait appel à des regrets, ce n'est pas pour autant que
+   cette émotion demeure systématiquement négative, bien au contraire !
 
-   Curieusement, la nostalgie exhale des souvenirs heureux. La mélancolie
-   se complait surtout dans les souvenirs malheureux ou sans joie
-   provoquant la tristesse. Heureusement, le temps souvent dédramatise
-   certains événements.
+   La nostalgie peut-elle être négative et positive ?
 
-   Joyeux Noël et joyeuse nostalgie!
+   Si les souvenirs de vos années sur les bancs de l'école font apparaître
+   un sentiment de joie et de douceur ponctué par un "C'était bien !", il
+   y a de fortes chances pour que vous ressentiez de la nostalgie
+   positive. S'ils font apparaître une pensée du type "Ma vie était bien
+   plus belle à ce moment-là !", l'émotion que vous allez ressentir sera
+   davantage de la nostalgie négative. Elle ne se transformera cependant
+   pas nécessairement en mélancolie !
 
-   Pour accéder au blogue de Claude Bérubé, cliquez leptitvieux.com
+   L'état émotionnel dans lequel vous vous trouvez au moment où vos
+   souvenirs apparaissent vont forcément conditionner la nature de la
+   nostalgie ressentie.
 
-     À LIRE AUSSI:
+   La nostalgie c'est quoi ? - #CulturePrimepar France Culture
 
-     » La Déclaration universelle des droits de l'homme a 70 ans
+   La nostalgie peut-elle être bénéfique ?
 
-     » Ensemble, mettons fin à la violence faite aux femmes et aux filles
-     autochtones
+   De façon générale, la nostalgie ne génère pas de grande tristesse. Elle
+   peut avoir un effet rassurant, comme une bulle dans laquelle vous allez
+   vous plonger pour y trouver du réconfort et de la chaleur si vous vivez
+   un moment actuel un peu anxiogène.
 
-     » La laïcité a le dos large au Québec!
+   La nostalgie peut également se partager. Évoquer des souvenirs communs
+   entre amis ou membres d'une même famille donnera l'impression
+   d'appartenir à une même tribu et renforcera le lien déjà présent. Cette
+   émotion permet de connecter le passé au présent en établissant une
+   douce continuité qui se savoure et non qui blesse ou rend triste. La
+   nostalgie peut aussi vous envoyer un message et vous faire prendre
+   conscience d'un besoin. Si vous pensez un peu trop souvent à vos
+   vacances prises il y a 6 mois, il est peut-être temps de récidiver...
 
-   La section des blogues propose des textes personnels qui reflètent
-   l'opinion de leurs auteurs et pas nécessairement celle du HuffPost
-   Québec.
+   Publicité
 
-Before You Go
+Noël
 
-Popular in the Community
+   10 conseils déco pour créer l'esprit magique de Noël
 
-   (BUTTON) Suggest a correction bien-êtremieux-êtrenostalgiesouvenirs
-   Claude Bérubé - 76 ans, retraité et blogueur www.leptitvieux.com
+   10 conseils déco pour créer l'esprit magique de Noël
 
-Claude Bérubé, Contributor
+La recette du jour
 
-   76 ans, retraité et blogueur www.leptitvieux.com
+   Bûche pâtissière au café
 
-You May Like
+   Bûche pâtissière au café
 
-   Cet article fait partie des archives en ligne du HuffPost Canada, qui
-   ont fermé en 2021. Si vous avez des questions ou des préoccupations,
-   veuillez consulter notre FAQ ou contacter support@huffpost.com.
-   NEWSPOLITICSENTERTAINMENTLIFEVOICESHUFFPOST
-   PERSONALELECTIONSNEWSLETTERS
-   About UsAdvertiseContact UsRSSFAQCareersArchiveUser AgreementComment
-   PolicyDMCA PolicyHuffPost Press RoomAccessibility StatementPrivacy
-   PolicyConsent Preferences
-   Part of HuffPost News. ©2022 BuzzFeed, Inc. All rights reserved.
-   The Huffington Post
-   [tr?id=1621685564716533&amp;ev=PageView&amp;noscript=1]
-   Quantcast
+   Vos réactions doivent respecter nos CGU.
+
+Liens commerciaux
+
+   Publicité

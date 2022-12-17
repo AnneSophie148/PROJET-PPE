@@ -1,947 +1,625 @@
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate
 
-   Bem Estar
+   IFRAME:
+   https://www.googletagmanager.com/ns.html?id=GTM-4QNX&gtm_auth=1neHKK1CR
+   E51gXHQlYImfg&gtm_preview=env-86&gtm_cookies_win=x
 
-Longevidade: modo de usar
+   (BUTTON) Euromonitor International
+     * Store
+       Store Reports By Industry Reports by Regions Economies Reports
+       Consumers Reports Companies Reports
+          + Alcoholic Drinks
+          + Apparel and Footwear
+          + Beauty and Personal Care
+          + Cannabis
+          + Consumer Appliances
+          + Consumer Electronics
+          + Consumer Finance
+          + Consumer Foodservice
+          + Consumer Health
+          + Cooking Ingredients and Meals
+          + Dairy Products and Alternatives
+          + Eyewear
+          + Fresh Food
+          + Health and Wellness
+          + Home and Garden
+          + Home Care
+          + Hot Drinks
+          + Industrial
+          + Ingredients
+          + Luxury Goods
+          + Mobility
+          + Nutrition
+          + Packaging
+          + Personal Accessories
+          + Pet Care
+          + Product Claims and Positioning
+          + Retailing
+          + Snacks
+          + Soft Drinks
+          + Sports and Entertainment
+          + Staple Foods
+          + Sustainability
+          + Tissue and Hygiene
+          + Tobacco
+          + Toys and Games
+          + Travel
+       World Asia Pacific Australasia Eastern Europe Latin America Africa
+       Middle East North America Western Europe
+          + Africa
+          + Asia Pacific
+          + Australasia
+          + Eastern Europe
+          + Latin America
+          + Middle East
+          + North America
+          + Western Europe
+          + World
+          + Afghanistan
+          + American Samoa
+          + Armenia
+          + Azerbaijan
+          + Bangladesh
+          + Bhutan
+          + Brunei Darussalam
+          + Cambodia
+          + China
+          + Fiji
+          + French Polynesia
+          + Guam
+          + Hong Kong, China
+          + India
+          + Indonesia
+          + Japan
+          + Kazakhstan
+          + Kiribati
+          + Kyrgyzstan
+          + Laos
+          + Macau, China
+          + Malaysia
+          + Maldives
+          + Mongolia
+          + Myanmar
+          + Nauru
+          + Nepal
+          + New Caledonia
+          + North Korea
+          + Pakistan
+          + Papua New Guinea
+          + Philippines
+          + Samoa
+          + Singapore
+          + Solomon Islands
+          + South Korea
+          + Sri Lanka
+          + Taiwan
+          + Tajikistan
+          + Thailand
+          + Tonga
+          + Turkmenistan
+          + Tuvalu
+          + Uzbekistan
+          + Vanuatu
+          + Vietnam
+          + Australia
+          + New Zealand
+          + Albania
+          + Belarus
+          + Bosnia and Herzegovina
+          + Bulgaria
+          + Croatia
+          + Czech Republic
+          + Estonia
+          + Georgia
+          + Hungary
+          + Kosovo
+          + Latvia
+          + Lithuania
+          + Moldova
+          + Anguilla
+          + Antigua and Barbuda
+          + Argentina
+          + Aruba
+          + Bahamas
+          + Barbados
+          + Belize
+          + Bermuda
+          + Bolivia
+          + Brazil
+          + British Virgin Islands
+          + Cayman Islands
+          + Chile
+          + Colombia
+          + Costa Rica
+          + Cuba
+          + Curacao
+          + Dominica
+          + Dominican Republic
+          + Ecuador
+          + El Salvador
+          + French Guiana
+          + Grenada
+          + Guadeloupe
+          + Guatemala
+          + Guyana
+          + Haiti
+          + Honduras
+          + Jamaica
+          + Martinique
+          + Mexico
+          + Nicaragua
+          + Panama
+          + Paraguay
+          + Peru
+          + Puerto Rico
+          + Sint Maarten
+          + St Kitts and Nevis
+          + St Lucia
+          + St Vincent and the Grenadines
+          + Suriname
+          + Trinidad and Tobago
+          + Uruguay
+          + US Virgin Islands
+          + Venezuela
+          + Algeria
+          + Angola
+          + Benin
+          + Botswana
+          + Burkina Faso
+          + Burundi
+          + Cabo Verde
+          + Cameroon
+          + Central African Republic
+          + Chad
+          + Comoros
+          + Congo, Democratic Republic
+          + Congo-Brazzaville
+          + Côte d'Ivoire
+          + Djibouti
+          + Egypt
+          + Equatorial Guinea
+          + Eritrea
+          + Eswatini
+          + Ethiopia
+          + Gabon
+          + Gambia
+          + Ghana
+          + Guinea
+          + Guinea-Bissau
+          + Kenya
+          + Lesotho
+          + Liberia
+          + Libya
+          + Madagascar
+          + Malawi
+          + Mali
+          + Mauritania
+          + Mauritius
+          + Morocco
+          + Mozambique
+          + Namibia
+          + Niger
+          + Nigeria
+          + Réunion
+          + Rwanda
+          + Sao Tomé e Príncipe
+          + Senegal
+          + Seychelles
+          + Sierra Leone
+          + Somalia
+          + South Africa
+          + South Sudan
+          + Sudan
+          + Tanzania
+          + Togo
+          + Tunisia
+          + Uganda
+          + Zambia
+          + Zimbabwe
+          + Bahrain
+          + Iran
+          + Iraq
+          + Israel
+          + Jordan
+          + Kuwait
+          + Lebanon
+          + Oman
+          + Qatar
+          + Saudi Arabia
+          + Syria
+          + United Arab Emirates
+          + Yemen
+          + Canada
+          + USA
+          + Andorra
+          + Austria
+          + Belgium
+          + Cyprus
+          + Denmark
+          + Finland
+          + France
+          + Germany
+          + Gibraltar
+          + Greece
+          + Iceland
+          + Ireland
+          + Italy
+          + Liechtenstein
+          + Luxembourg
+          + Malta
+          + Monaco
+          + Netherlands
+          + Norway
+          + Portugal
+          + Spain
+          + Sweden
+          + Switzerland
+          + Turkey
+          + United Kingdom
+          + Business Dynamics
+          + Cities
+          + Economy, Finance and Trade
+          + Commodities
+          + Digital Consumer
+          + Households
+          + Income and Expenditure
+          + Lifestyles
+          + Population
+          + Survey
+          + American Express Co
+          + Amway Corp
+          + Apple Inc
+          + Asahi Group Holdings Ltd
+          + Avon Products Inc
+          + Beiersdorf AG
+          + Campari Milano SpA, Davide
+          + Coca-Cola Co, The
+          + Colgate-Palmolive Co
+          + Danone, Groupe
+          + H&M Hennes & Mauritz AB
+          + Henkel AG & Co KGaA
+          + Herbalife Ltd
+          + Inditex, Industria de Diseño Textil SA
+          + Inter IKEA Systems BV
+          + Johnson & Johnson Inc
+          + Kao Corp
+          + Kraft Foods Inc
+          + LVMH Moët Hennessy Louis Vuitton SA
+          + Mondelez International Inc
+          + Nestlé SA
+          + Nu Skin Enterprises Inc
+          + PepsiCo Inc
+          + Procter & Gamble Co, The
+          + Reckitt Benckiser Group Plc (RB)
+          + Royal FrieslandCampina NV
+          + Samsung Corp
+          + Sara Lee Corp
+          + Seven & I Holdings
+          + Sony Corp
+          + Toyo Seikan Group Holdings, Ltd
+          + Unilever Group
+          + Companies
+     * Explore Insights
+       Insights Events Webinars White Papers
+       Explore Insights by Industry
+          + Appliances and Electronics
+          + B2B
+          + Drinks
+          + Food and Nutrition
+          + Health and Beauty
+          + Home Products
+          + Luxury and Fashion
+          + Nicotine and Cannabis
+          + Retail Channels
+          + Services
+       Themes
+          + Consumers
+          + COVID-19
+          + Digital
+          + Economy
+          + Inflation Surge
+          + Innovation
+          + Market Research in Action
+          + Megatrends
+          + Product Claims
+          + Sustainability
+          + Wellness
+     * Our Expertise
+       Our Expertise Our Products Custom Market Research Research
+       Methodology
+       Our premier, award-winning syndicated market research database
+       provides detailed data and analysis on industries, economies,
+       countries and consumers across 781 cities, 210 countries.​
+       Learn More About Passport
+       Via helps you navigate a fast-changing digital marketplace. We
+       extract and organise ecommerce data from over 1,500 online
+       retailers in 40 countries providing daily updates on pricing,
+       assortment size and key attributes.
+       Learn More About Via
+       Content Licensing Partnerships Sustainability
+       Our consulting team answers your commercial questions with data and
+       insights generated by our research experts, industry knowledge and
+       1,200 on-the-ground analysts in 100 developed, emerging and
+       frontier markets.
+       Curious about how we partner with you to help you solve your
+       complex modern-day business problem?
+       Learn More About Consulting
+          + Data Science
+          + Forecasting
+          + Macro Analysis
+          + Global Surveys
+          + Trend Analysis
+          + Market Analysis
+     * Our Story
+       Our Story Our History Meet The Team
+       Our Offices
+       Headquarters - London
+          + Bangalore
+          + Cape Town
+          + Chicago
+          + Dubai
+          + Düsseldorf
+          + Hong Kong
+          + Mexico City
+          + Santiago
+          + São Paulo
+          + Seoul
+          + Shanghai
+          + Singapore
+          + Sydney
+          + Tokyo
+          + Vilnius
 
-   fique por dentro
-   Copa do Mundo PEC da Transição Combustível mais barato Mega-Sena Farofa
-   da Gkay
+     * Press
+     * CSR
+     * Careers
+     * FAQ
+     * Contact Us
+     * Subscribe
 
-Nostalgia pode aliviar a dor
+   (BUTTON)
 
-Pesquisa mostra que ver imagens relacionadas à infância diminui a percepção de
-um incômodo de grau moderado
+   Access and download reports and data purchased through Euromonitor.com.
+   Sign In
+   0
 
-   Por Mariza Tavares — Rio de Janeiro
+   Your cart is empty.
+   View Cart (BUTTON) Check Out
+   secure checkout
+   (BUTTON)
+   ____________________ (BUTTON) Search
+   No results found.
 
-   01/03/2022 06h01 Atualizado 01/03/2022
-     __________________________________________________________________
+   View All Results
 
-   Mergulhar em memórias agradáveis produz um efeito que vai além do
-   sentimento de bem-estar e da sensação de ser transportado no tempo: é
-   também capaz de reduzir a percepção da dor. De acordo com estudo
-   recém-publicado na revista científica “The Journal of Neuroscience”, ou
-   simplesmente “JNeurosci”, a nostalgia diminui a atividade em áreas do
-   cérebro relacionadas com a dor.
-   1 de 3 Pirulitos: imagem associada à infância — Foto: Skitterphoto para
-   Pixabay
+   Our site uses cookies to improve functionality. If you are happy with
+   this select "Accept All". If not, select "Manage Preferences" to learn
+   more about managing your cookie preferences. Follow this link to learn
+   more about our cookie policy and how we use cookies. Or learn more
+   about our privacy policy and how we use and store your data.
+   (BUTTON) Manage Preferences (BUTTON) Accept All
 
-   Pirulitos: imagem associada à infância — Foto: Skitterphoto para
-   Pixabay
+   Latin America Euromonitor publishes comprehensive data and analysis
+   with five-year forecasts on products, industries, demographics and
+   consumer lifestyles in Latin America.
 
-   Pesquisadores da Academia Chinesa de Ciências submeteram adultos a
-   exames de ressonância magnética funcional, que mede a atividade
-   cerebral detectando alterações associadas a variações no fluxo
-   sanguíneo, enquanto exibiam dois tipos de imagens para esses
-   indivíduos. Havia uma categoria de cenas e objetos nostálgicos, que
-   remetiam à infância, como desenhos de TV, balas ou brincadeiras da hora
-   do recreio na escola; e outra de representações da vida contemporânea.
-   Simultaneamente, as pessoas recebiam estímulos térmicos na pele que
-   causavam desconforto. Os participantes tinham que classificar o nível
-   de nostalgia que cada figura despertava e avaliar o estímulo térmico a
-   que eram expostos.
-   2 de 3 National Kid: aventuras do herói japonês foram exibidas no
-   Brasil até a década de 1970 — Foto: Reprodução
+   Find content by
+   (BUTTON) Industry or Theme
+   (BUTTON)
+   Appliances and Electronics B2B Drinks Food and Nutrition Health and
+   Beauty Home Products Luxury and Fashion Nicotine and Cannabis Retail
+   Channels Services
+   Consumers COVID-19 Digital Economy Inflation Surge Innovation Market
+   Research in Action Megatrends Product Claims Sustainability Wellness
+   (BUTTON) Region
+   (BUTTON)
+   Africa Asia Pacific Australasia Europe Latin America North America
+   Middle East
 
-   National Kid: aventuras do herói japonês foram exibidas no Brasil até a
-   década de 1970 — Foto: Reprodução
+    1. Euromonitor
+    2. Insights
+    3. Latin America
+    4. Nostalgia e escapismo em momentos de crise
 
-   As imagens nostálgicas tinham o poder de diminuir o incômodo do
-   estímulo térmico – que provocava dor de baixa intensidade – se
-   comparadas com as figuras de controle, ou seja, do seu cotidiano. Elas
-   também reduziam a ação do giro lingual esquerdo e do giro
-   para-hipocampal, duas regiões do cérebro vinculadas à percepção da dor.
-   Os pesquisadores constataram ainda um incremento na atividade no
-   tálamo, parte do cérebro envolvida em transmitir informação para o
-   córtex cerebral, que se associava tanto à nostalgia quanto à avaliação
-   de dor, sugerindo que este possa ser um canal de comunicação. O melhor
-   é imaginar que sessões nostálgicas venham a substituir medicamentos
-   para tratar dores moderadas.
-   3 de 3 Fita cassete: símbolo das trilhas musicais que teve seu auge nos
-   anos de 1980 — Foto: Pexels para Pixabay
+Nostalgia e escapismo em momentos de crise
 
-   Fita cassete: símbolo das trilhas musicais que teve seu auge nos anos
-   de 1980 — Foto: Pexels para Pixabay
+   8/11/2022
+   Euromonitor International Profile Picture
+   Euromonitor International Bio
+   Share:
 
-   Created with Sketch.
+   Esse artigo foi originalmente publicado na edição de junho da revista
+   Meio & Mensagem, e escrito por Paula Ferolla Correia, Mikaely Correa,
+   Carolina Marchiori, Rodrigo de Mattos, Marília Borges e Guilherme
+   Machado
 
-   O que aconteceu hoje, diretamente no seu e-mail
-   As notícias que você não pode perder diretamente no seu e-mail.
-   Para se inscrever, entre ou crie uma Conta Globo gratuita.
-   Inscreva-se e receba a newsletter
+   As gerações que se tornaram adultas e financeiramente autônomas nas
+   duas primeiras décadas dos anos 2000 vivenciaram no Brasil um longo
+   período de crise a partir de 2014. As expectativas sobre uma retomada
+   econômica apontavam para um futuro mais promissor a partir de 2019, mas
+   a pandemia da COVID-19 superou as piores expectativas em termos
+   macroeconômicos e também trouxe preocupações redobradas com a
+   manutenção da saúde. Soma-se a esse cenário a tensão da guerra na
+   Ucrânia e a escalada global da inflação.
 
-   Obrigado!
+   Em contraste com esse ambiente de desânimo e medo, os anos 1990
+   acumularam marcos de avanços sociais importantes com o arrefecimento da
+   guerra fria, o Plano Real e uma nova perspectiva econômica no Brasil.
+   Durante esse período de infância dos millennials, a abertura econômica
+   que impulsionou o acesso à produção cultural internacional fez aumentar
+   significativamente a oferta de séries, filmes e desenhos que
+   desfrutaram da atenção de um mercado consumidor sedento por novidades.
+   Até mesmo no mercado audiovisual local, o remake da novela Pantanal
+   (originalmente exibida em 1990) reforça o momento de revisitação ao
+   período.
 
-   Você acaba de se inscrever na newsletter Resumo do dia.
+   O impulso de volta a esse passado ganha força no momento de crise
+   atual, enquanto consumidores buscam conforto e estabilidade no
+   comportamento de consumo. Se por um lado os consumidores buscam alívio
+   ou escapismo em produtos e marcas que reforcem o sentimento de
+   acolhimento e familiaridade, as empresas também vêm na retomada de
+   abordagens do passado uma estratégia mais conservadora de predição de
+   resultados em momento de incerteza conjuntural. Ademais, a
+   reaproximação entre pais e filhos durante os meses de confinamento nos
+   últimos anos trouxeram oportunidades de extensão desse vínculo, em
+   situações de consumo de diversas categorias. Muitas marcas têm
+   estimulado seus consumidores a criarem novas ocasiões de interação,
+   fazendo nascer novas tradições para a continuidade de vivências lúdicas
+   em família ou entre amigos.
 
-   Deseja receber as notícias mais importantes em tempo real? Ative as
-   notificações do G1!
-   (BUTTON) Agora não (BUTTON) Ativar
+   Especificamente na indústria de alimentos, muitos consumidores
+   millennials vem aumentando a demanda por snacks que proporcionem mais
+   prazer, enquanto rememoram tempos em que a vida era mais simples e
+   menos acelerada. De acordo com os resultados da Lifestyle Survey, da
+   Euromonitor, em relação a afirmação “Terei menos tempo livre”,
+   participantes que responderam afirmativamente somavam 20,7% em 2021, e
+   já no ano de 2022, esse valor aumentou para 21,2%.  Já para a
+   afirmativa “Minha vida será melhor”, o percentual caiu de 51,3% em 2021
+   para 50,5% em 2022. Esses dados reforçam que o consumidor vem se
+   sentindo mais sobrecarregado e menos otimista.
 
-   Veja também
-   [ld+json]
+   Beneficiando-se da tendência da nostalgia e o conforto que ela
+   proporciona, a Nestlé, por exemplo, relançou no início de 2021 o Nescau
+   Ball em edição limitada, o cereal coberto de chocolate que fez parte da
+   infância desse público. Em outubro do mesmo ano, as marcas Boticário e
+   Bubbaloo lançaram uma linha de produtos com o cheiro do famoso chiclete
+   rosa sabor tutti-frutti dos anos 90. Outro exemplo em que a nostalgia é
+   aplicada em um “cross” de marcas é o lançamento de fevereiro de 2022,
+   da Tortuguita 7Belo fabricada pela Arcor, objetivando unir marcas do
+   portfólio que têm sinergia e atravessam gerações, ganhando novos
+   espaços.
 
-   Anterior
-   Próximo
+   Na Indústria de Brinquedos, vários lançamentos têm se aproveitado do
+   apelo emocional da nostalgia, principalmente em relação a geração Y.
+   Os millennials que tiveram filhos influenciam diretamente no repertório
+   cultural e nos interesses da próxima geração. Além de serem compradores
+   e tomadores de decisão tanto nas lojas de brinquedos quanto no
+   e-commerce, os pais frequentemente buscam introduzir seus filhos a
+   desenhos, filmes e histórias conhecidas dos anos 1990-2000, e as
+   empresas do segmento têm se atentado a essa tendência.
 
-   Mais do G1
-   Uma mulher ou uma menina é estuprada a cada 9 minutos
-   Estupros cresceram 12,5% no 1º semestre no Brasil e retomaram patamar
-   pré-pandemia.
-   Foto: (Reprodução/TV Globo)
-   Há 1 hora São Paulo
-   Estragos após temporal
-   Árvore cai durante chuva e abre buraco em parede de prédio de SP
-   Vídeos mostram ruas alagadas e carros parcialmente submersos na Zona
-   Sul.
-   Foto: (Luiz Carlos Torres/Redes Sociais)
-   Há 1 hora São Paulo
-   Vem mais chuva por aí...
-   Sudeste terá chuvarada e granizo nesta quarta; veja previsão
-   Foto: (Reprodução)
-   Há 1 hora Hora 1
-     * Rio Grande do Sul pode ter onda de calor e máxima de 40°C
-       Há 1 hora
+   Para surfar nessa onda, a Estrela lançou uma linha colecionável dos
+   ursinhos carinhosos, além de uma edição do renomado Topo Giggio,
+   conhecido também pela geração X. Outro brinquedo que remete aos anos 90
+   é o Pogobol, que teve seu relançamento em 2019, e traz um apelo de
+   atividade ao ar livre, muito positivo ao desenvolvimento saudável de
+   crianças e adolescentes. Além disso, a franquia Harry Potter, cujo
+   primeiro livro data dos anos 2000, continua fazendo sucesso a ponto de
+   ganhar uma extensa linha de produtos da Sunny Brinquedos. Os adultos
+   podem colecionar itens, ensinar seus filhos sobre a história e
+   interagir dentro do imaginário do universo de J.K. Rowling, e dentre
+   outros como Star Wars, He-Man, Família Dinossauro, Pokémon, Os Simpsons
+   e As Meninas Super Poderosas. Os brinquedos compreendidos na categoria
+   de Bonecos de ação e acessórios, os quais tem forte relação com essa
+   tendência, vêm apresentando performance de crescimento alto desde 2020,
+   e nos próximos anos (2021-2025) deve crescer em torno de 10%. Assim, os
+   brinquedos nostálgicos resgatam uma forma de brincar menos conectada ao
+   mundo digital e, portanto, mais protegida da dureza dos noticiários.
 
-   Expulso de festa
-   VÍDEO: Tirullipa puxou biquíni de outras mulheres na Farofa da Gkay
-   [ld+json]
-   Há 2 horas Ceará
-     * Humorista foi expulso da Farofa da Gkay após puxar biquíni de atriz
-       Há 2 horas
-     * Festa tem famosos na 'gaiola' e muita pegação
-       Há 2 horas
+   Marcas nacionais como a Chilli Beans, inicialmente orientada a um
+   público mais jovem, têm atuado com uma estratégia que busca atingir
+   vários nichos e trabalhado com uma proposta também voltada a
+   consumidores mais velhos, resgatando com isso o sentimento de
+   nostalgia. Contam com uma série de trabalhos colaborativos com marcas
+   como Marvel, Disney, Harry Porter, Star Wars, Toy Story, Elvis e The
+   Beatles. São em geral produtos que para a empresa ajudam a sustentar
+   faixas de preço mais altas e que têm sido privilegiados pelos
+   consumidores. Além disso, a empresa lançou uma coleção de edição
+   limitada inspirada no evento LOLLAPALOOZA Brasil 2022, com modelos que
+   fazem referência aos anos 90 e 2000, trend em alta hoje e revisitada
+   pela cultura pop e pelos jovens influenciadores com ar mais nostálgico
+   e com a perspectiva de volta. Ainda, com o anúncio de volta do Orkut, a
+   Chilli Beans fez uma publicação na sua conta no Twitter, indicando um
+   possível lançamento de coleção dessa marca. A esperar o que vem de
+   novidades.
 
-   Lista da Forbes
-   Líder da Comissão Europeia é a mulher mais poderosa do mundo; veja top
-   10
-   Foto: (Yves Herman/REUTERS)
-   Há 24 minutos Mundo
-   Blog da Ana Flor
-   PF prende bolsonarista que incitou atos golpistas e estava acampado
-   Prisão foi autorizada por Moraes. Segundo o ministro, homem instigou
-   grupos armados a protestar.
-   Há 7 horas Blog Ana Flor
-   Ataque em Ipu
-   VÍDEO: criminosos invadem e explodem banco no Ceará
-   Grupo disparou durante a fuga e levou pânico a cidade de 40 mil
-   habitantes. Ninguém se feriu.
-   [ld+json]
-   Há 1 hora Ceará
-   Veja mais
+   Por fim, o revivalismo e o consumo nostálgico têm perspectivas para
+   continuar em consistente performance, podendo até ganhar impulso com a
+   perspectiva de recuperação no poder aquisitivo da população brasileira
+   nos próximos anos. Diversas categorias de produto podem trabalhar as
+   conexões com o passado como um reposicionamento no portfólio de marcas.
+   Assim, pequenos e grandes players podem alavancar resultados ou trazer
+   certo nível de previsibilidade no lançamento de produtos, já conhecidos
+   pela geração Y, por exemplo. As possibilidades são diversas, em que o
+   resgate de experiências, personagens e histórias traz a chance de um
+   reencontro com memórias afetivas a serem revisitadas e compartilhadas
+   com as novas gerações.
+   Brazil
+   Interested in more insights? Subscribe to our content
 
-   Últimas Notícias Eleições
-   © Copyright 2000-2022 Globo Comunicação e Participações S.A.
-     * princípios editoriais
-     * política de privacidade
-     * minha conta
-     * anuncie conosco
+Latest Insights
 
-     * Editorias
-        (BUTTON) menu g1 Editorias
-          + Agro
-             (BUTTON) Editorias Agro
-               o Primeira Página
-               o Agro de gente pra gente
-               o Globo Rural
-               o A Indústria-Riqueza do Brasil
-          + Ciência
-             (BUTTON) Editorias Ciência
-               o Primeira Página
-               o Viva Você
-          + Carnaval 2022
-             (BUTTON) Editorias Carnaval 2022
-               o primeira página
-               o Carnaval 2022 no Rio de Janeiro
-               o Carnaval 2022 em São Paulo
-               o Carnaval 2022 em Pernambuco
-               o Carnaval 2022 na Bahia
-               o Carnaval 2022 em Minas Gerais
-          + COPA DO MUNDO DA FIFA 2022™
-          + Economia
-             (BUTTON) Editorias Economia
-               o Primeira Página
-               o Bitcoin
-               o Calculadoras
-               o Dólar
-               o Educação Financeira
-               o Imposto de Renda
-               o Mídia e Marketing
-               o Open banking
-          + Educação
-             (BUTTON) Editorias Educação
-               o Primeira Página
-               o App G1 Enem
-               o Enem
-               o Estuda.com
-               o Guia de Carreiras
-               o Teste Vocacional
-               o Universidades
-          + Empreendedorismo​
-             (BUTTON) Editorias Empreendedorismo​
-               o Primeira página
-               o pequenas empresas
-               o Menos 30 Fest
-          + Fato ou Fake
-          + Guia de compras
-          + Inovação
-          + Loterias
-          + Meio Ambiente
-             (BUTTON) Editorias Meio Ambiente
-               o Primeira Página
-               o Amazônia
-               o Globo Natureza
-               o Sustentabilidade​
-          + Monitor da Violência
-          + Mundo
-             (BUTTON) Editorias Mundo
-               o Primeira página
-               o Guerra na Ucrânia
-          + Olha que legal
-          + Política
-             (BUTTON) Editorias Política
-               o Primeira Página
-               o Reforma da Previdência
-          + Pop & Arte
-             (BUTTON) Editorias Pop & Arte
-               o Primeira Página
-               o Cinema
-               o CCXP
-               o Diversidade
-               o Games
-               o Música
-               o Tv e séries
-               o Lollapalooza
-               o Oscar
-               o Rock in Rio
-          + Saúde
-             (BUTTON) Editorias Saúde
-               o Primeira página
-               o Bem Estar
-               o Coronavirus
-          + Tecnologia
-          + Trabalho e Carreira​
-             (BUTTON) Editorias Trabalho e Carreira​
-               o Primeira página
-               o Concursos
-               o Vagas de emprego
-          + Turismo e Viagem
-             (BUTTON) Editorias Turismo e Viagem
-               o Primeira Página
-               o Descubra o Brasil
-     * Eleições
-        (BUTTON) menu g1 Eleições
-          + primeira página
-          + Apuração pelo Brasil
-          + eleição em números
-          + fato ou fake
-          + pesquisas eleitorais
-          + Quem eu escolho?
-          + Propostas dos políticos
-          + Jogo Eleitoral
-     * Regiões
-        (BUTTON) menu g1 Regiões
-          + centro-oeste
-             (BUTTON) Regiões centro-oeste
-               o Distrito Federal
-                  (BUTTON) centro-oeste Distrito Federal
-                    # Primeira página
-                    # Bom Dia DF
-                    # DF1
-                    # DF2
-                    # Globo Comunidade DF
-                    # O que fazer no DF
-               o Goiás
-                  (BUTTON) centro-oeste Goiás
-                    # Primeira página
-                    # Bom Dia GO
-                    # Bom dia sábado
-                    # JA 1ª Edição
-                    # JA 2ª Edição
-                    # Jornal do Campo
-                    # Esporte
-                    # Mercado Imobiliário
-               o Mato Grosso
-                  (BUTTON) centro-oeste Mato Grosso
-                    # Primeira Página
-                    # Bom Dia MT
-                    # MT TV 1ª Edição
-                    # MT Rural
-                    # MT TV 2ª Edição
-                    # Esporte
-               o Mato Grosso do Sul
-                  (BUTTON) centro-oeste Mato Grosso do Sul
-                    # Primeira Página
-                    # Bom Dia MS
-                    # MS TV 1ª Edição
-                    # MS TV 2ª Edição
-                    # MS Rural
-                    # Esporte
-          + nordeste
-             (BUTTON) Regiões nordeste
-               o Alagoas
-                  (BUTTON) nordeste Alagoas
-                    # Primeira Página
-                    # Bom Dia Alagoas
-                    # AL TV 1ª Edição
-                    # AL TV 2ª Edição
-                    # Gazeta Rural
-                    # Esporte
-               o Bahia
-                  (BUTTON) nordeste Bahia
-                    # Primeira Página
-                    # Jornal da manhã
-                    # Bahia Meio Dia
-                    # BATV
-                    # Bahia Rural
-                    # Esporte
-               o Ceará
-                  (BUTTON) nordeste Ceará
-                    # Primeira Página
-                    # Bom Dia CE
-                    # CETV 1ª Edição
-                    # CETV 2ª Edição
-                    # NE Rural
-                    # Esporte
-               o Maranhão
-                  (BUTTON) nordeste Maranhão
-                    # Primeira Página
-                    # Bom Dia Mirante
-                    # JMTV 1ª Edição
-                    # JMTV 2ª edição
-                    # Mirante Rural
-                    # Esporte
-                    # Daqui
-                    # Repórter Mirante
-               o Paraíba
-                  (BUTTON) nordeste Paraíba
-                    # Primeira Página
-                    # Bom Dia Paraíba
-                    # JPB 1ª Edição
-                    # JPB 2ª Edição
-                    # Paraíba Comunidade
-                    # Esporte
-               o Pernambuco
-                  (BUTTON) nordeste Pernambuco
-                    # Recife e região
-                       (BUTTON) Pernambuco Recife e região
-                         @ Primeira página
-                         @ Bom Dia PE
-                         @ NE 1
-                         @ NE 2
-                         @ Espaço PE
-                         @ Globo Comunidade PE
-                         @ Nordeste Viver e Preservar
-                         @ Educação
-                         @ Esporte
-                    # Caruaru e região
-                       (BUTTON) Pernambuco Caruaru e região
-                         @ Primeira Página
-                         @ Bom Dia PE
-                         @ ABTV 1ª Edição
-                         @ ABTV 2ª Edição
-                         @ Globo Comunidade
-                         @ Esporte
-                    # Petrolina e região
-                       (BUTTON) Pernambuco Petrolina e região
-                         @ Primeira Página
-                         @ Bom Dia Pernambuco
-                         @ GRTV 1ª Edição
-                         @ GRTV 2ª edição
-                         @ Esporte
-               o Piauí
-                  (BUTTON) nordeste Piauí
-                    # Primeira Página
-                    # Bom Dia Piauí
-                    # Bom dia Sábado
-                    # PI TV 1ª edição
-                    # PI TV 2ª Edição
-                    # Clube Rural
-                    # Esporte
-               o Rio Grande do Norte
-                  (BUTTON) nordeste Rio Grande do Norte
-                    # Primeira Página
-                    # Bom Dia RN
-                    # RN TV 1ª Edição
-                    # RN TV 2ª edição
-                    # Inter TV Rural
-                    # Esporte
-               o Sergipe
-                  (BUTTON) nordeste Sergipe
-                    # Primeira página
-                    # Bom Dia SE
-                    # SETV 1ª Edição
-                    # SETV 2ª Edição
-                    # Estação Agrícola
-                    # Esporte
-          + norte
-             (BUTTON) Regiões norte
-               o Acre
-                  (BUTTON) norte Acre
-                    # Primeira Página
-                    # Bom Dia Amazônia
-                    # JAC 1ª Edição
-                    # JAC 2ª Edição
-                    # Globo Esporte Acre
-               o Amapá
-                  (BUTTON) norte Amapá
-                    # Primeira Página
-                    # Bom Dia Amazônia
-                    # JAP 1ª Edição
-                    # JAP 2ª Edição
-                    # Amazônia Rural
-                    # Esporte
-               o Amazonas
-                  (BUTTON) norte Amazonas
-                    # Primeira Página
-                    # Bom Dia Amazônia
-                    # JAM 1ª Edição
-                    # JAM 2ª Edição
-                    # Amazônia rural
-                    # Esporte
-               o Pará
-                  (BUTTON) norte Pará
-                    # Belém e região
-                       (BUTTON) Pará Belém e região
-                         @ Primeira Página
-                         @ Bom Dia Pará
-                         @ Jornal Liberal 1ª Edição
-                         @ Jornal Liberal 2ª Edição
-                         @ Liberal Comunidade
-                         @ É do Pará
-                         @ Esporte
-                    # Santarém e região
-                       (BUTTON) Pará Santarém e região
-                         @ Primeira Página
-                         @ Bom Dia Santarém
-                         @ Jornal Tapajós 1ª Edição
-                         @ Jornal Tapajós 2ª Edição
-                         @ Esporte
-               o Rondônia
-                  (BUTTON) norte Rondônia
-                    # Primeira Página
-                    # Bom Dia Amazônia
-                    # JRO 1ª Edição
-                    # JRO 2ª Edição
-                    # Amazônia Rural
-                    # Esporte
-               o Roraima
-                  (BUTTON) norte Roraima
-                    # Primeira Página
-                    # Bom Dia Amazônia
-                    # JRR 1ª Edição
-                    # JRR 2ª Edição
-                    # Amazônia Rural
-                    # Esporte
-               o Tocantins
-                  (BUTTON) norte Tocantins
-                    # Primeira Página
-                    # Bom Dia Tocantins
-                    # JA 1ª Edição
-                    # JA 2ª Edição
-                    # Jornal do Campo
-                    # Esporte
-          + sudeste
-             (BUTTON) Regiões sudeste
-               o Espírito Santo
-                  (BUTTON) sudeste Espírito Santo
-                    # Primeira Página
-                    # Bom dia Espírito Santo
-                    # ESTV 1ª Edição
-                    # ESTV 2ª Edição
-                    # Jornal do Campo
-                    # Agronégocios
-                    # Educação
-                    # Concursos
-                    # Esporte
-               o Minas Gerais
-                  (BUTTON) sudeste Minas Gerais
-                    # Belo Horizonte e região
-                       (BUTTON) Minas Gerais Belo Horizonte e região
-                         @ Primeira Página
-                         @ Bom dia Minas
-                         @ MG1
-                         @ MG2
-                         @ Rolê nas Gerais
-                         @ Terra de Minas
-                         @ pelas cozinhas de minas
-                         @ O que fazer em BH
-                         @ Esporte
-                    # Centro-Oeste
-                       (BUTTON) Minas Gerais Centro-Oeste
-                         @ Primeira Página
-                         @ Bom dia Minas
-                         @ MG TV 1ª Edição
-                         @ MG TV 2ª Edição
-                         @ MG Rural
-                         @ Integração notícia
-                         @ Esporte
-                    # Grande Minas
-                       (BUTTON) Minas Gerais Grande Minas
-                         @ Primeira página
-                         @ Inter TV Notícia
-                         @ MG Inter TV 1ª Edição
-                         @ MG Inter TV 2ª Edição
-                         @ Inter TV Rural
-                         @ É o bicho
-                         @ Esporte
-                    # Sul de Minas
-                       (BUTTON) Minas Gerais Sul de Minas
-                         @ Primeira Página
-                         @ Bom dia Cidade
-                         @ Jornal da EPTV 1ª Edição
-                         @ Jornal da EPTV 2ª Edição
-                         @ Terra da gente
-                         @ Esporte
-                    # Triângulo Mineiro
-                       (BUTTON) Minas Gerais Triângulo Mineiro
-                         @ Primeira Página
-                         @ Bom dia Minas
-                         @ Uberlândia
-                            (BUTTON) Triângulo Mineiro Uberlândia
-                              - MG TV 1ª Edição
-                              - MGTV 2ª edição
-                         @ Uberaba
-                            (BUTTON) Triângulo Mineiro Uberaba
-                              - MGTV 1ª Edição
-                              - MGTV 2ª Edição
-                         @ MG Rural
-                         @ Integração notícia
-                         @ Concursos
-                         @ Esporte
-                         @ Globo Esporte
-                    # Vales de Minas Gerais
-                       (BUTTON) Minas Gerais Vales de Minas Gerais
-                         @ Primeira Página
-                         @ Inter TV notícia
-                         @ MG Inter TV 1ª Edição
-                         @ MG Inter TV 2ª Edição
-                         @ Inter TV Rural
-                         @ É o bicho
-                         @ Esporte
-                    # Zona da Mata
-                       (BUTTON) Minas Gerais Zona da Mata
-                         @ Primeira Página
-                         @ Bom dia Minas
-                         @ MG TV 1ª Edição
-                         @ MG TV 2ª Edição
-                         @ MG Rural
-                         @ Integração notícia
-                         @ Esporte
-                         @ Globo Esporte
-               o Rio de Janeiro
-                  (BUTTON) sudeste Rio de Janeiro
-                    # Rio de Janeiro e região
-                       (BUTTON) Rio de Janeiro Rio de Janeiro e região
-                         @ Primeira Página
-                         @ Bom dia Rio
-                         @ RJ1
-                         @ RJ2
-                         @ Globo Comunidade RJ
-                         @ O que fazer no RJ
-                         @ Fora do ponto
-                         @ Esporte
-                    # Norte Fluminense
-                       (BUTTON) Rio de Janeiro Norte Fluminense
-                         @ Primeira Página
-                         @ Bom dia Rio
-                         @ RJ TV Inter 1ª Edição
-                         @ RJ TV Inter 2ª Edição
-                         @ Inter TV Rural
-                         @ Esporte
-                    # Região dos Lagos
-                       (BUTTON) Rio de Janeiro Região dos Lagos
-                         @ Primeira Página
-                         @ Bom dia Rio
-                         @ RJ TV Inter 1ª Edição
-                         @ RJ TV Inter 2ª Edição
-                         @ Inter TV Rural
-                         @ Esporte
-                    # Região Serrana
-                       (BUTTON) Rio de Janeiro Região Serrana
-                         @ Primeira Página
-                         @ Bom dia Rio
-                         @ RJ TV Inter 1ª Edição
-                         @ RJ TV Inter 2ª Edição
-                         @ Inter TV Rural
-                         @ Esporte
-                    # Sul e Costa Verde
-                       (BUTTON) Rio de Janeiro Sul e Costa Verde
-                         @ Primeira Página
-                         @ Bom dia Rio
-                         @ RJ TV 1ª Edição
-                         @ RJ TV 2ª Edição
-                         @ Esporte
-               o São Paulo
-                  (BUTTON) sudeste São Paulo
-                    # São Paulo e região
-                       (BUTTON) São Paulo São Paulo e região
-                         @ Primeira Página
-                         @ Bom Dia SP
-                         @ SP1
-                         @ SP2
-                         @ Antena Paulista
-                         @ Mistura Paulista
-                         @ O que fazer em SP
-                         @ Esporte
-                    # Bauru e Marília
-                       (BUTTON) São Paulo Bauru e Marília
-                         @ Primeira Página
-                         @ Bom Dia SP
-                         @ Bom Dia Cidade
-                         @ Tem Notícias 1ª Edição
-                         @ Tem Notícias 2ª Edição
-                         @ Nosso Campo
-                         @ Esporte
-                    # Campinas e região
-                       (BUTTON) São Paulo Campinas e região
-                         @ Primeira Página
-                         @ Bom Dia Cidade
-                         @ Jornal da EPTV 1ª Edição
-                         @ Jornal da EPTV 2ª Edição
-                         @ Terra da Gente
-                         @ Concursos
-                         @ Esporte
-                    # Itapetininga e região
-                       (BUTTON) São Paulo Itapetininga e região
-                         @ Primeira Página
-                         @ Bom Dia SP
-                         @ Bom Dia Cidade
-                         @ TEM Notícias 1ª Edição
-                         @ TEM Notícias 2ª Edição
-                         @ Antena Paulista
-                         @ Nosso Campo
-                         @ Resumo da Notícia
-                         @ Memória
-                         @ TEM Comunidade
-                         @ Esporte
-                    # Mogi das Cruzes e Suzano
-                       (BUTTON) São Paulo Mogi das Cruzes e Suzano
-                         @ Primeira Página
-                         @ Bom Dia Diário
-                         @ Diário TV 1ª Edição
-                         @ Diário TV 2ª Edição
-                         @ Diário Comunidade
-                         @ Concursos
-                         @ Esporte
-                    # Piracicaba e região
-                       (BUTTON) São Paulo Piracicaba e região
-                         @ Primeira Página
-                         @ Bom Dia Cidade
-                         @ Jornal da EPTV 1ª Edição
-                         @ Jornal da EPTV 2ª Edição
-                         @ Terra da Gente
-                         @ Esporte
-                    # Prudente e região
-                       (BUTTON) São Paulo Prudente e região
-                         @ Primeira Página
-                         @ Bom Dia Fronteira
-                         @ Bom Dia SP
-                         @ Fronteira Notícias 1ª Edição
-                         @ Fronteira Notícias 2ª Edição
-                         @ Esporte
-                    # Ribeirão Preto e Franca
-                       (BUTTON) São Paulo Ribeirão Preto e Franca
-                         @ Primeira Página
-                         @ Bom Dia Cidade
-                         @ Jornal da EPTV 1ª Edição
-                         @ Jornal da EPTV 2ª Edição
-                         @ Terra da Gente
-                         @ Esporte
-                    # Rio Preto e Araçatuba
-                       (BUTTON) São Paulo Rio Preto e Araçatuba
-                         @ Primeira Página
-                         @ Bom Dia SP
-                         @ Bom Dia Cidade
-                         @ TEM Notícias 1ª Edição
-                         @ TEM Notícias 2ª Edição
-                         @ Nosso Campo
-                         @ Esporte
-                    # Santos e região
-                       (BUTTON) São Paulo Santos e região
-                         @ Primeira Página
-                         @ Bom Dia Região
-                         @ Jornal Tribuna 1ª Edição
-                         @ Jornal Tribuna 2ª Edição
-                         @ Antena Paulista
-                         @ G1 em um Minuto Santos
-                         @ Viver Bem
-                         @ O Que Fazer Em Santos
-                         @ Culinária #13
-                         @ Por Dentro do Porto
-                         @ Esporte
-                    # São Carlos e Araraquara
-                       (BUTTON) São Paulo São Carlos e Araraquara
-                         @ Primeira Página
-                         @ Bom Dia Cidade
-                         @ Jornal da EPTV 1ª Edição
-                         @ Jornal da EPTV 2ª edição
-                         @ Terra da Gente
-                    # Sorocaba e Jundiaí
-                       (BUTTON) São Paulo Sorocaba e Jundiaí
-                         @ Primeira Página
-                         @ Bom Dia SP
-                         @ Bom Dia Cidade
-                         @ Tem Notícias 1ª Edição
-                         @ Tem notícias 2ª Edição
-                         @ Nosso Campo
-                         @ Esporte
-                    # Vale do Paraíba e região
-                       (BUTTON) São Paulo Vale do Paraíba e região
-                         @ Primeira Página
-                         @ Bom Dia Vanguarda
-                         @ Link Vanguarda
-                         @ Jornal Vanguarda
-                         @ Vanguarda Comunidade
-                         @ Esporte
-          + sul
-             (BUTTON) Regiões sul
-               o Paraná
-                  (BUTTON) sul Paraná
-                    # Curitiba e Região
-                       (BUTTON) Paraná Curitiba e Região
-                         @ Primeira Página
-                         @ Bom Dia Paraná
-                         @ Meio Dia Paraná
-                         @ Boa Noite Paraná
-                         @ Caminhos do Campo
-                         @ Bom Dia Sábado
-                         @ Globo Esporte Paraná
-                    # Campos Gerais e Sul
-                       (BUTTON) Paraná Campos Gerais e Sul
-                         @ Primeira Página
-                         @ Bom Dia Paraná
-                         @ Meio Dia Paraná – Ponta Grossa
-                         @ Boa Noite Paraná
-                         @ Caminhos do Campo
-                         @ Bom Dia Sábado
-                         @ Globo Esporte Paraná
-                    # Norte e Noroeste
-                       (BUTTON) Paraná Norte e Noroeste
-                         @ Primeira Página
-                         @ Bom Dia Paraná
-                         @ Meio Dia Paraná – Maringá
-                         @ Boa Noite Paraná
-                         @ Caminhos do Campo
-                         @ Meio Dia Paraná – Londrina
-                         @ Meio Dia Paraná - Noroeste
-                         @ Bom Dia Sábado
-                         @ Globo Esporte Paraná
-                    # Oeste e Sudoeste
-                       (BUTTON) Paraná Oeste e Sudoeste
-                         @ Primeira Página
-                         @ Bom Dia Paraná
-                         @ Meio Dia Paraná – Foz do Iguaçu
-                         @ Boa Noite Paraná
-                         @ Caminhos do Campo
-                         @ Meio Dia Paraná – Cascavel
-                         @ Bom Dia Sábado
-                         @ Globo Esporte Paraná
-               o Rio Grande do Sul
-                  (BUTTON) sul Rio Grande do Sul
-                    # Primeira Página
-                    # Bom Dia Rio Grande
-                    # Jornal do Almoço
-                    # RBS Notícias
-                    # Campo e Lavoura
-                    # Esporte
-               o Santa Catarina
-                  (BUTTON) sul Santa Catarina
-                    # Primeira Página
-                    # Bom Dia Santa Catarina
-                    # Jornal do Almoço
-                    # NSC Notícias
-                    # Nossa Santa Catarina
-                    # Campo e Negócios
-                    # Tech SC
-                    # Esporte
-     * Telejornais
-        (BUTTON) menu g1 Telejornais
-          + Bom Dia Brasil
-             (BUTTON) Telejornais Bom Dia Brasil
-               o Primeira Página
-               o Redação
-               o História
-               o Vídeos
-          + Fantástico
-             (BUTTON) Telejornais Fantástico
-               o Primeira Página
-               o quadros e séries
-                  (BUTTON) Fantástico quadros e séries
-                    # repórter por um dia
-                    # shows e musicais
-                    # gols do fantástico
-               o história
-               o vídeos
-               o vc no fantástico
-          + G1 em 1 Minuto
-          + Globo Repórter
-             (BUTTON) Telejornais Globo Repórter
-               o Primeira Página
-               o redação
-               o história
-               o receitas
-               o testes
-               o vídeos
-               o vc no globo repórter
-          + Globo Rural
-             (BUTTON) Telejornais Globo Rural
-               o Primeira Página
-               o agro
-               o guia do globo rural
-               o revista globo rural
-               o história
-               o vídeos
-               o vc no globo rural
-          + Hora 1
-             (BUTTON) Telejornais Hora 1
-               o Primeira Página
-               o história
-               o vídeos
-               o vc no hora um
-          + Jornal da Globo
-             (BUTTON) Telejornais Jornal da Globo
-               o Primeira Página
-               o redação
-               o história
-               o vídeos
-               o vc no jg
-          + Jornal Hoje
-             (BUTTON) Telejornais Jornal Hoje
-               o Primeira Página
-               o crônicas
-               o história
-               o vídeos
-               o vc no jh
-          + Jornal Nacional
-             (BUTTON) Telejornais Jornal Nacional
-               o Primeira Página
-               o Brasil em Constituição
-               o jornal nacional 50 anos
-               o redação
-               o história
-               o vídeos
-               o vc no jornal nacional
-          + Pequenas Empresas
-             (BUTTON) Telejornais Pequenas Empresas
-               o Primeira Página
-               o pme
-               o quadros
-                  (BUTTON) Pequenas Empresas quadros
-                    # pegn.tec
-               o contato das empresas
-               o revista pegn
-               o história
-               o vídeos
-               o vc no pegn
-          + Profissão Repórter
-             (BUTTON) Telejornais Profissão Repórter
-               o Primeira Página
-               o equipe
-               o história
-               o vídeos
-               o vc no profissão repórter
-     * GloboNews
-        (BUTTON) menu g1 GloboNews
-          + Primeira Página
-          + jornais
-             (BUTTON) GloboNews jornais
-               o Estúdio i
-               o GloboNews Em Pauta
-               o GloboNews em Ponto
-               o Jornal das Dez
-               o Jornal GloboNews
-               o Conexão GloboNews
-               o GloboNews Mais
-               o Edição das 18
-               o Especial de Domingo
-          + programas
-             (BUTTON) GloboNews programas
-               o cidades e soluções
-               o Central das Eleições
-               o diálogos com mario sergio conti
-               o Fernando Gabeira
-               o globonews documentário
-               o globonews internacional
-               o globonews miriam leitão
-               o Papo de Política
-               o roberto d'avila
-          + podcasts
-             (BUTTON) GloboNews podcasts
-               o as histórias na globonews
-               o em movimento
-               o globonews internacional
-               o hub globonews
-               o papo de política
-          + globonews ao vivo
-          + Converse com outras ideias
-          + canais globo
-          + programação
-          + redes sociais
-             (BUTTON) GloboNews redes sociais
-               o globonews
-               o time globonews
-          + História
-          + --
-          + grupo globo
-          + princípios editoriais
-     * Blogs e Colunas
-     * Podcasts
-        (BUTTON) menu g1 Podcasts
-          + Todos
-          + o assunto
-          + Abuso
-          + À Mão Armada
-          + bem estar
-          + Cadê meu trampo
-          + desenrola, rio
-          + De onde vem o que eu como
-          + educação financeira
-          + Escuta Que O Filho É Teu
-          + Frango com Quiabo
-          + Funciona Assim
-          + g1 ouviu
-          + isso é fantástico
-          + papo de política
-          + Resumão Diário
-          + Prazer, Renata
-          + Bichos na Escuta
-          + Isso Está Acontecendo
-     * Serviços
-        (BUTTON) menu g1 Serviços
-          + App g1
-          + Calculadoras
-          + Loterias
-          + Newsletter
-          + Previsão do Tempo
-          + Climatempo
-     * Vídeos
-     * Newsletter
-     * Webstories
-     * Especial Publicitário
-        (BUTTON) menu g1 Especial Publicitário
-          + A Vida É Pra Já
-          + Bradesco
-          + CBMM
-          + Circuito Sertanejo
-          + Enel
-          + ibp
-          + Na Estrada com quem faz
-          + Nissan
-          + Inteligência Financeira
-          + Brumadinho – Restauração e Desenvolvimento
-          + VAE
-          + Voz dos Oceanos
-     * --
-     * Princípios editoriais
-     * Sobre o g1
-     * App g1
-     * Equipe
-     * Entre em contato
-     * Termos de uso do g1
-     *
-     *
-          + Acesse sua conta
-            ou cadastre-se grátis
-          + grupo globo
-          + sair da conta
+[Em breve] 10 Principais Tendências Globais de Consumo 2023
+
+   Euromonitor International 01 November 2022
+
+[Próximamente] Las 10 tendencias globales de consumo en 2023
+
+   Euromonitor International 01 November 2022
+
+How Inflation in Latin America is Impacting Consumers and Manufacturers of
+Home Care Products
+
+   Paula Ferolla Correia 16 September 2022
+
+Explorando la era de alimentos on-demand
+
+   Rocio Franco 06 September 2022
+
+Das inovações frugais para as ágeis
+
+   Euromonitor International 23 August 2022
+
+Shop Our Reports
+
+Digital Payments in Mobility Index 2022:Where to Play Next?
+
+   Consumer mobility is evolving as urbanisation, sustainability and
+   growing technological savviness are driving demand for travel supported
+   by dynamic payment…
+   View Report
+
+Global Overview of the Agriculture Industry
+
+   The briefing examines how the agriculture industry performs globally
+   and in the largest countries in terms of agricultural output. The
+   report also provides data…
+   View Report
+
+Global Inflation Tracker: Q4 2022
+
+   This report examines inflation levels and drivers globally and in key
+   countries. Global inflation is reaching a peak, although geopolitical
+   risks and…
+   View Report
+   Passport Our premier global market research database with detailed data
+   and analysis on industries, companies, economies and consumers. Track
+   existing and future opportunities to support critical decision-making
+   across all functions within your organisation Learn More
+
+   [emi-footer-logo.png]
+
+   (BUTTON) Our Products
+   Passport Via Shop Reports Consulting Content Licensing
+
+   (BUTTON) How we help our clients
+   Insights Data Science Forecasting Macro Analysis Global Surveys Trend
+   Analysis Market Analysis
+
+   (BUTTON) Our story
+   Careers CSR Press Release Events Corporate Governance Gender Pay Gap
+   Report Modern Slavery Act
+
+   (BUTTON) Help
+   Definitions FAQ Privacy Policy Cookies Terms and Conditions Site Map
+
+   Sign In Cart Contact Us
+   [facebook.png] [twitter.png] [instagram.png] [linkedin.png]
+   [youtube.png]
+
+   © 2022 Euromonitor is privately owned & trademarked. VAT No. GB:
+   239-2559-40 Registered in England No. 1040587
+
+   (BUTTON)

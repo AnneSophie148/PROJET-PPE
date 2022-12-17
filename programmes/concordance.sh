@@ -1,6 +1,5 @@
 fichier_text=$1
-#fichier_text = aspirations
-motif=$2
+mot=$2
 #motif = nostalgia
 
 if [[ $# -ne 2 ]]
@@ -15,7 +14,7 @@ then
   exit
 fi
 
-if [[ -z $motif ]]
+if [[ -z $mot ]]
 then
   echo "pas de motif"
   exit
@@ -40,7 +39,7 @@ echo "
 <tbody>
 "
 
-grep -E -o "(\w+\W+){0,5}\b$motif\b(\W+\w+){0,5}" $contexte | sed -E "s/(.*)($motif)(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\3<\/td><\/tr>/"
+grep -E -o "(\w+\W+){0,5}\b$mot\b(\W+\w+){0,5}" $fichier_text | sed -E "s/(.*)($mot)(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\3<\/td><\/tr>/"
 
 echo "
 </tbody>

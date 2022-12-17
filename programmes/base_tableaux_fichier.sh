@@ -18,7 +18,7 @@ then
 	exit
 fi
 
-mot="nostalgie" # à modifier
+mot="nostalgia" # à modifier
 
 echo $fichier_urls;
 basename=$(basename -s .txt $fichier_urls)
@@ -27,7 +27,7 @@ echo "<html><body>" > $fichier_tableau
 echo "<h2>Tableau $basename :</h2>" >> $fichier_tableau
 echo "<br/>" >> $fichier_tableau
 echo "<table>" >> $fichier_tableau
-echo "<tr><th>ligne</th><th>code</th><th>URL</th><th>encodage</th><th>compte</th><th>aspirations</th><th>dumps</th><td>contextes</td></tr>" >> $fichier_tableau
+echo "<tr><th>ligne</th><th>code</th><th>URL</th><th>encodage</th><th>aspirations</th><th>dumps</th><th>compte</th><th>contextes</th><th>concordances</th></tr>" >> $fichier_tableau
 
 lineno=1;
 while read -r URL; do
@@ -36,7 +36,7 @@ while read -r URL; do
 	# curl -I -L -s $URL : sortie propre pour avoir les en-têtes
 	code=$(curl -ILs $URL | grep -e "^HTTP/" | grep -Eo "[0-9]{3}" | tail -n 1) #L suit les redirections ?; tail -n 1 : on prend les dernières lignes du fichier et dernière ligne qu'on prend = l1
 	charset=$(curl -ILs $URL | grep -Eo "charset=(\w|-)+" | cut -d= -f2) 
-	aspiration=$(curl $URL)
+	aspiration=$(curl -s $URL)
 	echo "$aspiration" > "aspirations/$basename-$lineno.html"
 	
 
@@ -57,9 +57,9 @@ while read -r URL; do
 	if [[ $code -eq 200 ]]
 	then
 		dump=$(lynx -dump -nolist -assume_charset=$charset -display_charset=$charset $URL)
-		echo "$dump" > "dumps-text/$basename-$lineno.txt" 
-		compte=$(echo $dump|egrep -o "nostalgia" | wc -l)
-		contexte=$(echo "$dump"|grep -E -A2 -B2 "nostalgia")
+		compte=$(echo $dump|egrep -o $mot | wc -l)
+		#on va cherche les contextes:
+		contexte=$(echo "$dump"|grep -E -A2 -B2 $mot)
 		echo "$contexte" > "contextes/$basename-$lineno.txt"
 		
 		
@@ -68,15 +68,23 @@ while read -r URL; do
 		then
 			dump=$(echo $dump | iconv -f $charset -t UTF-8//IGNORE)
 		fi
+		echo "$dump" > "dumps-text/$basename-$lineno.txt" 
 	else
 		echo -e "\tcode différent de 200 utilisation d'un dump vide"
 		dump=""
 		charset=""
 	fi
+	 # construction des concordance avec une commande externe
+  bash ./programmes/concordance.sh ./dumps-text/$basename-$lineno.txt $mot > ./concordances/$basename-$lineno.html
 
-	echo "<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td>$aspiration</td><td>$dumps</td><td>$compte</td></tr>" >> $fichier_tableau
+	echo "<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href=\"../aspirations/$basename-$lineno.html\">aspiration</a></td><td><a href=\"../dumps-text/$basename-$lineno.txt\">dump</a></td><td>$compte</td><td><a href=\"../contextes/$basename-$lineno.txt\">contextes</a></td><td><a href=\"../concordances/$basename-$lineno.html\">concordance</a></td></tr>" >> $fichier_tableau
+	
 	echo -e "\t--------------------------------"
 	lineno=$((lineno+1));
 done < $fichier_urls
 echo "</table>" >> $fichier_tableau
 echo "</body></html>" >> $fichier_tableau
+
+ 
+
+

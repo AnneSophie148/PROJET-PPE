@@ -1,247 +1,286 @@
-   Back to Homepage
-   Solutions
-   Solutions
-   Our SolutionVirtual ProgramsCare ManagementActivities
-   Family EngagementDigital SignageEVVForm Builder
-   Benefits
-   Benefits
-   For OwnersFor ManagersFor Care Staff
-   For EnterpriseFor Clients & Families
-   About
-   About
-   Our StoryTestimonialsCase StudiesPartnersContact
-   Who We Serve
-   Activity DirectorsAdult Day CareChild DaycarePACE ProgramsAssisted
-   LivingHome CareNursing HomesMemory CareLearning Disabilities
-   Care HomesDementia CareHousing AssociationsSupported LivingIndependent
-   LivingCCRC
-   Pricing
-   Resources
-   Resources
-   ReminiscenceImplementationContactBlogFAQsPress
+UTF-8 and Unicode
 
-   Book a demo
+   Unicode Transformation Format 8-bit is a variable-width encoding that
+   can represent every character in the Unicode character set. It was
+   designed for backward compatibility with ASCII and to avoid the
+   complications of endianness and byte order marks in UTF-16 and UTF-32.
+   ^[1]
 
-   Login
+   UTF-8 encodes each Unicode character as a variable number of 1 to 4
+   octets, where the number of octets depends on the integer value
+   assigned to the Unicode character. It is an efficient encoding of
+   Unicode documents that use mostly US-ASCII characters because it
+   represents each character in the range U+0000 through U+007F as a
+   single octet.
 
-   Menu
+   UTF-8 is the default encoding for XML and since 2010 has become the
+   dominant character set on the Web.
 
-   Solutions
-   Our Solution
-   Virtual Programs
-   Care Management
-   Activities
-   Family Engagement
-   Digital Signage
-   EVV
-   Form Builder
-   Benefits
-   For Owners
-   For Managers
-   For Care Staff
-   For Enterprise
-   For Clients & Families
-   About
-   Pricing
-   Our Story
-   Testimonials
-   Case Studies
-   Partners
-   Contact
-   Who We Serve
-   Activity Directors
-   Adult Day Care
-   PACE Programs
-   Assisted Living
-   Home Care
-   Care Homes
-   Dementia Care
-   Housing Associations
-   Supported Living
-   Independent Living
-   Nursing Homes
-   Memory Care
-   CCRC
-   Learning Disabilities
-   Resources
-   Reminiscence
-   Implementation
-   Contact
-   Blog
-   FAQs
-   Press
+Standards
 
-   Book a demoSign in
+     * RFC 3629: UTF-8, a transformation format of ISO 10646. November
+       2003.
+     * The Unicode Standard 5.0, November 2006. [purchase from Amazon.com]
+          + In particular, see the informal description of UTF-8 in
+            sections 2.5 and 2.6, pages 30-32, and a much more formal
+            definition in sections 3.9 and 3.10, pages 77-81.
 
-   5 Things To Get You Feeling Nostalgic
-   StoriiCare
-   view all posts
+Articles and background reading
 
-   Home
-   Blog
-   5 Things To Get You Feeling Nostalgic
+     * UTF-8 and Unicode FAQ for Unix/Linux by Markus Kuhn
+     * Forms of Unicode, an excellent overview by Mark Davis
+     * Wikipedia UTF-8 contains a good discussion of why five- and
+       six-octet sequences are now illegal UTF-8
+     * Unicode Transformation Formats [czyborra.com]
+     * The Absolute Minimum Every Software Developer Absolutely,
+       Positively Must Know About Unicode and Character Sets (No
+       Excuses!), an amusing and informative article by Joel Spolsky
 
-5 Things To Get You Feeling Nostalgic
+Character Sets
 
-   Activity Ideas
-   Dementia & Memory Care
-   Family Engagement
-   Posted on
-   June 18, 2020
+   The MIME character set attribute for UTF-8 is UTF-8. Character sets are
+   case-insensitive, so utf-8 is equally valid. [IANA Character Sets].
 
-   Quick Navigation
+   In a modern HTML 5 page, place this tag inside <head> ... </head>:
+<meta charset="UTF-8">
 
-   Nostalgia is a powerful feeling. It provides us with a sense of
-   happiness and sentimental longing when we think about a fond memory
-   from our past. Often when we reflect on old memories it can boost our
-   mood and reduce stress. It has been shown that feelings of nostalgia
-   can also help people feel valued, loved and enhances perceptions of
-   social support when people are feeling lonely.
+   In an XML prolog, the encoding is typically specified as an attribute:
+<?xml version="1.0" encoding="UTF-8" ?>
+     __________________________________________________________________
 
-Listen To Old Music
+   Last modified: Wed Jan 5 12:57:21 PST 2022
 
-   Listening to music from your childhood can often take you back to a
-   time of your youth. It could be a song from your favourite movie,
-   musical or even just a popular song during your school years.
 
-   "Music evokes so many feelings in us, memories, nostalgia, things that
-   are connected to our past"
 
-   - Olga Kurylenko
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-PL33XX4
 
-   Music can reconnect us to a special moment in time - you may find
-   yourself sinking into beloved memories and feeling 18 all over again!
-   Many studies have shown that nostalgia can be used as a mood elevating
-   technique; increasing levels of happiness and strengthening social
-   bonds. A fun way to start a wave of nostalgia is by creating a playlist
-   for life on Storii. Gather all of your old favourite songs that revive
-   fond memories and categorise them on your Storii account. You also have
-   the option to categorise your playlists by decade or by genre - it's
-   entirely up to you. Our next blog post will take you through the steps
-   of how to create a playlist on Storii, so stay tuned.
+   Skip to main content
 
-Look at Old Photographs
+   (BUTTON) Subscribe (BUTTON) Latest Issues (BUTTON) Menu
+   Scientific American
+     * Cart 0
+     * (BUTTON) Sign In (BUTTON) Email *: ____________________Password *:
+       ____________________Forgot password? (BUTTON) Login Loading
+       Not yet registered?
+     * |Newsletters
 
-   Looking at old photos is another way to spark feelings of nostalgia.
-   Photographs can often evoke emotions and allow you to relive your
-   favourite moments. Retronaut is a great resource to find old historic
-   photos which will allow you to reminisce by travelling back to a
-   certain period in time. Alternatively, you can create your own life
-   story and log your own thoughts, memories & moments that matter on
-   Storii. This article (here) will help you organise and digitise your
-   old photographs to store them in one secure, easily accessible place.
+   (BUTTON) Search (BUTTON) Subscribe
+   (BUTTON) Close
+   Search Input ____________________ (BUTTON) Search (BUTTON) Close
+   (BUTTON) Search
+   Advanced Search
+     * COVID
+     * Health
+     * Mind & Brain
+     * Environment
+     * Technology
+     * Space & Physics
+     * Video
+     * Podcasts
+     * Opinion
+     * Store
 
-Watch Old Movies
+     * Subscribe
+     * Current Issue
+     * Cart0
+     * Sign In
+     * Newsletters
 
-   Think back to your old DVD collection, which movies could you watch
-   over and over again? A few of our favourites include Grease, Dirty
-   Dancing and of course the Disney classics. Watching a movie from your
-   childhood or even seeing an old TV commercial can certainly spark that
-   feeling of nostalgia. The BBC's archive of TV nostalgia has some great
-   TV programmes for you to have a look at for free that will certainly
-   take you back.
+     * Share
+     * Latest
 
-Play An Old Fashioned Game
+     *
+     *
+     *
+     *
 
-   This is a fun activity to enjoy with your family that will give you the
-   opportunity to share your love of your favourite childhood games. You
-   could try playing an old fashioned game that was popular before
-   technology took over. A few examples of outdoor games include; Chinese
-   jump rope, hopscotch, hula hooping, roller skating or even a game of
-   rounders. However, if you are wanting to stay indoors some great
-   suggestions are cards, noughts and crosses or hangman.
+   Holiday Flash Sale!
+   (BUTTON) Shop Now
 
-Visit Your Old Neighbourhood
+   Holiday Flash Sale!
+   (BUTTON) Shop Now
+   SA Mind
+   Behavior
 
-   Having a drive or walk around your old neighbourhood will most likely
-   stir some old emotions and memories of growing up. Have a look around
-   the shops you used to visit and your favourite locations. Take in the
-   details and observe how things have changed over the years.
+Why Nostalgia Is Good for You
 
-What gets you feeling nostalgic? Comment below!
+   The bittersweet emotion increases feelings of vitality
+     * By Matthew Hutson on November 1, 2016
+     * أعرض هذا باللغة العربية
 
-   Follow Us
-   Facebook
-   Linkedin
-   Twitter
-   Instagram
+     * Share on Facebook
+     * Share on Twitter
+     * Share on Reddit
+     * Share on LinkedIn
+     * Share via Email
+     * Print
 
-   tags
-   Family
-   Memory Care
-   Reminiscence
+   Why Nostalgia Is Good for You
+   Credit: BRIAN STAUFFER
+   Advertisement
 
-   A home health worker shares a tablet with an elderly woman
+   On holidays, it's natural to feel a longing for times gone by—a
+   childhood spent singing carols or meals spent with now departed loved
+   ones. Recently scientists have explored the bittersweet feeling of
+   nostalgia, finding that it serves a positive function, improving mood
+   and possibly mental health. A new paper illuminates why it works,
+   finding that this sepia-toned sentiment does not cement us in the past
+   but actually raises our spirit and vitality.
 
-Our newsletter
+   In several experiments conducted online and in the laboratory, when
+   subjects were induced to experience wistful reverie via sentimental
+   song lyrics or memories, they reported greater self-continuity, as
+   measured by a validated index that asks participants how much they
+   agree with statements such as “I feel connected with my past” and
+   “important aspects of my personality remain the same over time.”
+   Constantine Sedikides, a psychologist at the University of Southampton
+   in England and the primary author of the paper, which was recently
+   published in Emotion, had shown this effect in a 2015 paper. But here
+   they found that nostalgia boosted self-continuity by increasing a sense
+   of social connectedness. Sentimental recollections often include loved
+   ones, which can remind us of a social web that extends across
+   people—and across time.
 
-Get great curated articles every week.
+   The researchers found this pattern in American, British and Chinese
+   participants. They also went a step further and observed, via
+   questionnaires about other concurrent feelings, that self-continuity
+   brings a feeling of vitality—of “energy and spirit.”
 
-   First Name ____________________
-   Email Address ____________________
-   Subscribe Now
-   Thanks for subscribing!
-   Oops! Something went wrong while submitting the form.
+   Tim Wildschut, one of Sedikides's Southampton collaborators on the
+   paper, notes there are many ways people elicit nostalgia—looking at
+   photographs, cooking certain meals, sharing stories or playing music.
+   He calls the feeling, which we naturally experience several times a
+   week, “a psychological immune response that is triggered when you
+   experience little bumps in the road.” So if you are feeling a bit
+   discombobulated over the holidays, pull out a photo album and spend
+   some time revisiting your past.
 
-similar posts
+   This article was originally published with the title "Embrace the
+   Nostalgia" in SA Mind 27, 6, 8-9 (November 2016)
 
-You Might Also Like
+   doi:10.1038/scientificamericanmind1116-8b
+   [rightsPermsIcon.png] Rights & Permissions
 
-   Back to all articles
+ABOUT THE AUTHOR(S)
 
-Person-centered care: How can it be applied to adult day programs?
+   Matthew Hutson is a freelance science writer based in New York City and
+   author of The 7 Laws of Magical Thinking.
 
-   Posted on
-   October 3, 2022
+Recent Articles by Matthew Hutson
 
-A Beginner's Guide to Reminiscence Therapy and Why It's Important
+     * Transforming Robots Help to Transfer Skills
+     * Tired Adults May Learn Language like Children Do
+     * Researchers Make a Phantom Sixth Finger Grow and Shrink
 
-   Posted on
-   August 9, 2022
+Read This Next
 
-7 Creative Ways to Reduce Chronic Loneliness in Seniors
+   Climate Change
 
-   Posted on
-   July 27, 2022
+Cleaner Jet Fuel Is Poised for Takeoff
 
-See how StoriiCare can help connect your community!
+   Andres Picon and E&E News
+   Public Health
 
-   Book in a time that works for you by clicking the button below. A
-   member of our team will be happy to give you a tour of the platform and
-   answer any questions you may have.
-   Book a demo
+Fauci Responds to Musk's Twitter Attack and Rates World's COVID Response
 
-Get your personalized demo today
+   Max Kozlov and Nature magazine
+   Animals
 
-   Book a demo
-   Newsletter
-   Email address ____________________
-   Subscribe
-   Thanks for subscribing to our newsletter
-   Oops! Something went wrong while submitting the form.
-   Facebook
-   LinkedinIn
-   Twitter
-   Instagram
-   pages
-   System StatusPressPartnersStoriiCareRecord Life StoriesGroup
-   LoginFamily PortalBlogFind Adult Day CareAdult Day Forum
-   Company
-   Terms of ServicePrivacy PolicyAbout usContact
-   Contact
-   +1 650 924 9930+44 141 816 0373+61 3 7035 7936team@storii.com
-   Offices
-   StoriiCare
-   210 S Ellsworth Ave, #317
-   San Mateo, CA
-   94401
-   StoriiCare
-   101 Rose Street South Lane
-   Edinburgh
-   EH2 3JG
-   Copyright © 2022 Storii, Inc. All rights reserved.
+Why Your Dog Might Think You're a Bonehead
 
-   We track sessions with cookies
-   For what?
+   Karen Hopkin
+   Ecology
 
-   Got it!
+How the Moon Devastated a Mangrove Forest
+
+   Joanna Thompson
+   Consciousness
+
+This Year's Most Thought-Provoking Brain Discoveries
+
+   Gary Stix
+   Anatomy
+
+The Clitoris Has Been Lost to Science for Centuries, but It's Making a
+Comeback
+
+   Meghan McDonough
+   Advertisement
+   Scientific American Mind Volume 27, Issue 6
+   In the store
+   Mind
+   Scientific American Mind Volume 27, Issue 6
+   $6.99
+
+Newsletter
+
+Get smart. Sign up for our email newsletter.
+
+   Sign Up
+
+Support Science Journalism
+
+   Discover world-changing science. Explore our digital archive back to
+   1845, including articles by more than 150 Nobel Prize winners.
+   Subscribe Now! Support Science Journalism
+
+   Follow us
+     * instagram
+     * soundcloud
+     * youtube
+     * twitter
+     * facebook
+     * rss
+
+   Scientific american arabic
+   العربية
+
+     * Return & Refund Policy
+     * About
+     * Press Room
+
+     * FAQs
+     * Contact Us
+     * Site Map
+
+     * Advertise
+     * SA Custom Media
+     * Terms of Use
+
+     * Privacy Policy
+     * California Consumer Privacy Statement
+     * Use of cookies/Do not sell my data
+     * International Editions
+
+   Scientific American is part of Springer Nature, which owns or has
+   commercial relations with thousands of scientific publications (many of
+   them can be found at www.springernature.com/us). Scientific American
+   maintains a strict policy of editorial independence in reporting
+   developments in science to our readers.
+
+   © 2022 Scientific American, a Division of Springer Nature America, Inc.
+
+   All Rights Reserved.
+
+   Scroll To Top
+
+   Support science journalism.
+   (BUTTON)
+   Scientific American paper issue and on tablet
+
+   Thanks for reading Scientific American. Knowledge awaits.
+   (BUTTON) See Subscription Options
+
+   Already a subscriber? Sign in.
+
+   Thanks for reading Scientific American. Create your free account or
+   Sign in to continue.
+   Create Account
+
+   See Subscription Options
+
+   Continue reading with a Scientific American subscription.
+   (BUTTON) Subscribe Now
+
+   You may cancel at any time.
+   Sign in.

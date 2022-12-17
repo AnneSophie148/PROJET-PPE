@@ -1,561 +1,1479 @@
-   #Pourquoi la nostalgie ? Terrain, Numéros Terrain, Documents
+   #De l’exil à la nostalgie au travers de la littérature malgache Études
+   océan Indien, Numéros Études océan Indien, Documents
 
    Navigation – Plan du site
 
-   AccueilNuméros65NostalgiePourquoi la nostalgie ?
+Études océan Indien Études océan Indien
 
-Terrain
+   AccueilNuméros40-41DossierDe l’exil à la nostalgie au trave...
 
-   Anthropologie & sciences humaines
-     * Collection Ethnologie de la France
-     * Cahiers d'ethnologie de la France
+     * Logo Inalco
 
    Recherche___________ (BUTTON) Chercher
-   Sommaire - Document suivant
-   65 | septembre 2015 : Nostalgie
-   Nostalgie
-   image Informations sur cette image
+   Sommaire - Document précédent - Document suivant
+   40-41 | 2008
+   De l’éclosion à l’épanouissement de la littérature malgache
+   Dossier
 
-Pourquoi la nostalgie ?*
+De l’exil à la nostalgie au travers de la littérature malgache
 
-   Olivia Angé et David Berliner
-   p. 4-11
-   https://doi.org/10.4000/terrain.15801
-   Résumé | Index | Texte | Bibliographie | Notes | Citation | Auteurs
+   François-Xavier Razafimahatratra
+   p. 161-186
+   https://doi.org/10.4000/oceanindien.1398
+   Plan | Note de la rédaction | Texte | Bibliographie | Notes |
+   Citation | Auteur
 
-Résumés
+Plan
 
-   Français English
-
-   La nostalgie semble être indissociable de notre époque. En Occident, un
-   engouement nostalgique glorifiant les pratiques et les objets d’antan
-   est omniprésent dans des domaines aussi divers que le nationalisme, les
-   politiques patrimoniales, le consumérisme, l’industrie du tourisme, la
-   culture populaire et les mouvements religieux ou écologiques. Ce
-   dossier de Terrain examine les expressions contemporaines multiples de
-   la nostalgie dans divers environnements sociaux et culturels.
-
-   Why nostalgia?
-   Nostalgia seems characteristic of our times. In the West, we find an
-   all embracing nostalgic glorification of the way things were done in
-   the past; it is omnipresent in as varied domains as nationalism,
-   heritage policies, consumerism, tourist industry, popular culture and
-   religious and ecological campaigns. This issue of Terrain examines the
-   multiple contemporaries manifestations of nostalgia in a variety of
-   social and cultural contexts.
+   L’exil dans la littérature malgache
+   L’exil imaginé
+   L’influence de la Bible
+   L’emprisonnement
+   L’exil dans la langue
+   L’exil vécu
+   Le cas des valovotaka
+   Fuir les adversités
+   Conséquence de l’exil
+   La nostalgie dans la poésie malgache
+   Fondement historique de la nostalgie malgache
+   La terre ancestrale et le tombeau familial
+   Le passé dans la nostalgie
+   Nostalgie et organisation sociale
+   La nostalgie des origines
+   La nostalgie et la mort
+   La nostalgie de l’au-delà
    Haut de page
 
-Entrées d’index
+Note de la rédaction
 
-Mot-clé :
-
-   nostalgie, passé, histoire de l’anthropologie, affects, temporalité
-
-Keyword :
-
-   nostalgia, the past, history of anthropology, affects, temporality
-   Haut de page
+   François-Xavier Razafimahatratra est président de l'UREM-HAVATSA
+   France : Union des poètes et écrivains malgaches, branche France.
+   (NDLR)
 
 Texte intégral
 
-   PDF 451k Signaler ce document
-     * * Nous dédions cette introduction et ce volume à Christine
-       Langlois, directrice de rédaction de la re (...)
+   PDF Signaler ce document
 
-   Il y a dans le sentiment nostalgique une mélancolie
-   dont la spécificité est d’être orientée vers le passé.
-   Les objets de l’enfance peuvent constituer des
-   déclencheurs nostalgiques. Simon Moorhouse,
-   Nostalgia Exhibition, Écosse, 2015
-   (Deadline News /Rex, Shutt / Sipa)
+L’exil dans la littérature malgache
 
-   Les nuages orangés du couchant
-   éclairent toute chose du charme de
-   la nostalgie ; même la guillotine. »
-   (Kundera 1991.)
+   Ho tsara mandroso, ho tsara miverina
+   (« Faites bon voyage et revenez-nous bien »)
 
-   1« Réaction contre l’irréversible » (Jankélévitch 1983 : 299), la
-   nostalgie semble être indissociable de notre époque. En Occident, un
-   engouement nostalgique glorifiant les pratiques et les objets d’antan
-   est omniprésent dans des domaines aussi divers que le nationalisme, les
-   politiques patrimoniales, le consumérisme, l’industrie du tourisme, la
-   culture populaire et les mouvements religieux ou écologiques. Plus
-   concrètement, cette rétromania se manifeste dans le succès croissant
-   des marchés aux puces et des antiquités, des aliments biologiques, du
-   vintage, des techniques d’accouchement dites « naturelles », des
-   écomusées, et se retrouve au coeur même des nouvelles technologies, tel
-   Instagram, qui confère instantanément à vos photos un cachet « passé »
-   (Bartholeyns 2014).
+   1Ce souhait prodigué à quelqu’un qui va voyager exprime bien l’idée que
+   le Malgache se fait de l’exil. Nous avons écrit ailleurs que le
+   Malgache est un homme de groupe et n’apprécie pleinement son existence
+   qu’au milieu des siens et sur sa terre natale. Il est si enraciné à sa
+   terre, à sa famille et à ses amis qu’avant même d’être parti, il
+   s’inquiète déjà du retour. La période passée au loin est vécue sans
+   plaisir et teintée de nostalgie. Il n’est donc pas étonnant de
+   rencontrer dans la littérature malgache, non seulement dans la poésie,
+   mais aussi dans les romans, le thème de l’exil. Toutefois, il convient
+   de dissocier l’exil imaginé de l’exil vécu. Nous constatons ce
+   distinguo surtout dans le cadre de la poésie. Dans le premier cas, que
+   nous pouvons appeler exil sans déplacement hors du territoire, le poète
+   n’est pas dans une situation d’exil physique : il est toujours parmi
+   les siens, il est toujours sur sa terre, mais certaines conditions le
+   tiennent à l’écart de la vie sociale du groupe, le privent de sa
+   liberté. Dans le deuxième cas, il y a exil effectif, une séparation de
+   corps, une distanciation.
 
-   2Du désir d’Ulysse de retrouver son Ithaque natale à la médicalisation
-   de la nostalgie (en tant que trouble physique) par Johannes Hofer au
-   xvii^e siècle, le long parcours de cette notion a été abondamment
-   étudié, tant par les psychiatres et les psychanalystes que par les
-   historiens, les critiques littéraires et les philosophes (Starobinski
-   1966). Sans retracer ici cette histoire bien connue, il est important
-   de souligner que le xix^e siècle a vu la nostalgie perdre ses
-   connotations cliniques pour prendre le sens métaphorique du regret pour
-   un endroit perdu et, surtout désormais, pour un temps révolu. En
-   Europe, à partir des évolutions massives induites par la Révolution
-   française, puis par l’industrialisation et l’urbanisation, un sentiment
-   d’accélération temporelle accompagné, chez certains, du désir de
-   retrouver l’ordre social d’autrefois fait naître un lamento sur la
-   disparition des formes passées et les méfaits du présent. Ce sentiment
-   de perte a d’ailleurs nourri un élan de patrimonialisation et de
-   muséification parmi les élites européennes, tout en stimulant un
-   intérêt scientifique et littéraire pour la mémoire et le patrimoine. Le
-   large déploiement d’une conscience patrimoniale a été brillamment
-   analysé par l’historien Pierre Nora (1984-1996) dans ses volumineux
-   Lieux de mémoire par lesquels il rend compte de l’émergence en France
-   d’une posture moderniste nostalgique vis-à-vis du passé. Cependant, le
-   terme « nostalgie » n’entre dans le vocabulaire populaire que durant la
-   seconde moitié du xx^e siècle. Comme le remarque Fred Davis, une
-   culture de la nostalgie est née dans les années 1960 et 1970 aux
-   États-Unis, une époque de grands bouleversements sociaux étayés par la
-   diffusion massive de la culture des médias et de la commercialisation
-   du passé. Parmi ces ruptures, l’auteur insiste sur les dislocations
-   identitaires provoquées par la défense de l’égalité des races et des
-   sexes, l’apologie des drogues, la libération de la sexualité et la
-   dénonciation d’institutions politiques, religieuses et éducatives
-   (Davis 1979 : 106). Aujourd’hui, nombreuses sont les sociétés qui, à
-   travers le monde, sont marquées par la nostalgie, souvent en réaction à
-   l’accélération produite par les effets de la mondialisation.
+L’exil imaginé
 
-   3À bien y regarder, les sciences sociales, en tant que disciplines
-   académiques, se sont érigées sur un discours moderniste structuré par
-   la nostalgie. Comme le montre Aurélien Berlan (2012), les théories
-   d’Émile Durkheim, de Max Weber, de Ferdinand Tönnies et de Georg Simmel
-   proposent une critique de la société industrielle émergente en
-   dénonçant une évolution négative de la tradition vers la modernité. Une
-   telle idéalisation primitiviste a également joué un rôle crucial dans
-   la fondation de l’anthropologie. Ainsi, les premières ethnographies de
-   Franz Boas, de Bronislaw Malinowski, d’Edward Evans-Pritchard et de
-   Marcel Griaule, parmi tant d’autres, ont été alimentées par une
-   fascination pour ces sociétés « primitives » authentiques et en voie de
-   disparition (Rosaldo 1989). David Berliner (2014) a identifié cette
-   posture disciplinaire comme relevant de l’exonostalgie des ethnologues,
-   ce répertoire de discours et d’affects regrettant la perte culturelle
-   des autres, et qui persiste jusqu’à nos jours, sous différentes
-   modalités.
+   2Dans cette catégorie, nous avons retenu trois cas : l’influence de la
+   Bible, l’emprisonnement pour des raisons diverses de certains poètes et
+   écrivains pendant la période coloniale et la dévalorisation, voire
+   l’interdiction d’user la langue maternelle.
 
-   4Longtemps considérée comme l’expression d’un malaise, la nostalgie a
-   souvent été critiquée pour son sentimentalisme et sa propension à
-   falsifier les récits historiques. L’historien David Lowenthal (1989) y
-   voit le vecteur d’une idéalisation déformatrice du passé, généralisée
-   dans la société occidentale contemporaine. Pourtant, peu à peu,
-   notamment à la suite de la redécouverte de la mémoire par les sciences
-   sociales (Berliner 2010a), les anthropologues ont développé une
-   approche phénoménologique visant à saisir la façon dont les acteurs se
-   souviennent de, oublient et réinterprètent leur passé. Trouvant sa
-   place dans ce domaine émergent, la nostalgie est devenue un objet de
-   recherche à part entière. Des qualificatifs tels que « structurelle »
-   (Herzfeld 2005), « en pantoufle » (Appadurai 1996), « coloniale »
-   (Bissell 2005), « impérialiste » (Rosaldo 1989) ou « résistante »
-   (Stewart 1988), pour n’en citer que quelques-uns, lui ont été apposés
-   pour appréhender la complexité de ses manifestations, au croisement de
-   l’individuel, du social et du politique. Bien que la plupart des
-   travaux portent sur les sociétés postsocialistes (Berdahl 1999 ; Boyer
-   2012 ; Todorova & Gille 2012), les chercheurs ont compris que la
-   nostalgie constitue un point d’entrée fascinant pour approcher des
-   questions historiques, politiques et identitaires contemporaines.
+L’influence de la Bible
 
-   5D’un point de vue anthropologique, étudier la nostalgie soulève des
-   questions épistémologiques et théoriques importantes. Quelles formes
-   diverses peut-elle revêtir ? S’agit-il d’un affect (positif ou
-   négatif), d’une pratique sociale ou d’une rhétorique ? Comment la
-   distinguer d’autres modes d’appréhension du passé (telles les
-   réminiscences non nostalgiques) ? La nostalgie suppose-t-elle une
-   temporalité qui lui est propre ? Enfin et surtout, comment la saisir
-   par la description ethnographique ?
+   3Du recensement des écrivains de la première génération, c’est-à-dire
+   de ceux nés au commencement de la colonisation, il apparaît que la
+   plupart d’entre eux ont été formés par les écoles confessionnelles
+   surtout protestantes. L’influence de la Bible paraît donc indéniable à
+   travers l’enseignement professé par les missionnaires. Beaucoup
+   d’expressions opposent la vie terrestre éphémère à la vie céleste
+   éternelle. Nous ne retiendrons que la notion « vallée de larmes » avec
+   ses épreuves opposées à « maison de mon Père »où l’on goûtera à un
+   bonheur infini. Ainsi, quand nous lisons certains poèmes de cette
+   époque, nous ne manquons pas de constater une similarité avec les
+   cantiques traduits ou composés par les missionnaires. Mais, même quand
+   la poésie s’était plus ou moins démarquée de l’influence de la religion
+   chrétienne pour traiter des thèmes profanes, elle a toujours gardé
+   certains thèmes comme celui qui nous intéresse ici, l’exil. L’homme
+   n’est qu’un passant sur terre, sa vraie patrie est ailleurs, auprès de
+   son Créateur. Ce qui va en quelque sorte à l’encontre de la pensée du
+   Malgache qui croit qu’un double du monde terrestre l’attend à sa mort,
+   où il sera accueilli par ceux qui l’avaient précédé, les ancêtres.
+     * 1 Dox, Folihala, Antananarivo, Tranom-printim-pirenena, 1968,
+       p. 194.
+     * 2 Ibid., p. 193.
 
-   6D’abord, il faut clarifier la confusion théorique régnant autour du
-   concept même de nostalgie par un examen minutieux des investissements
-   cognitifs et émotionnels qui la sous-tendent. Craignant qu’elle ne
-   fasse office de notion « fourretout », Gediminas Lankauskas (2015)
-   regrette le flou notionnel résultant de ce qu’il nomme
-   « nostalgification » des mémoires postsocialistes. Aussi, il établit
-   une distinction entre les souvenirs nostalgiques et les souvenirs
-   d’époques révolues dans lesquels la relation au passé s’instaure sur le
-   mode d’une dissociation plutôt que sur celui d’une continuité
-   affective. Dans un article plus ancien, Kathleen Stewart (1988 : 227)
-   insistait déjà sur le fait que la nostalgie constitue avant tout « une
-   pratique culturelle, pas un contenu donné ; ses formes, significations
-   et effets évoluent avec le contexte – en fonction de la perspective du
-   locuteur dans le panorama présent ». Dans la même veine, Dominic Boyer
-   (2012 : 20) souligne que la nostalgie est « indexicale » et
-   « hétéroglossique ». Elle regroupe un ensemble disparate « de
-   références idiosyncrasiques, d’intérêts, et d’affects ».
+   4L’homme sur terre est donc en condition d’exil. Ainsi, Dox
+   (1913-1978), nom de plume de Jean Verdi Salomon Razakandrainy, dans son
+   poème intitulé « Izaho » (Moi)1, se demande : « Nahoana aho no
+   voafantsika eto antany tsy ho taniko ? »(Pourquoi suis-je cloué à ce
+   monde qui n’est pas le mien ?). Et il répond dans un autre poème,
+   « Sambo ho aiza ?… ” (Où va ce navire ?…)2 :
 
-   7Tous s’accordent pourtant à remarquer que l’environnement matériel
-   offre des prises indispensables à l’expression de cet affect. À
-   l’instar de la célèbre madeleine de Proust, les objets peuvent
-   déclencher de fortes réponses mnémoniques, et interviennent à ce titre
-   comme des médiateurs privilégiés dans la relation que les individus
-   établissent avec leur passé. Dans ce volume, l’article d’Olivia Angé
-   sur les attachements nostalgiques construits autour de la consommation
-   du pain révèle les diverses temporalités et les affects éveillés par la
-   manipulation d’objets quotidiens. De même, la contribution de Patrizia
-   Ciambelli et Claudine Vassas portant sur le Musée de l’innocence
-   d’Orhan Pamuk, celle de Gil Bartholeyns à propos de la photographie
-   « rétro » et celle de Sophie Moiroux et Emmanuel de Vienne sur les
-   tableaux d’Amatiwana Trumai explorent la capacité des objets et des
-   pratiques esthétiques à exprimer la nostalgie dans ses formes
-   multiples, le plus souvent inscrites dans des préoccupations
-   sociopolitiques contemporaines.
+     Misy angamba any tany
+     Ho fonenan’ny vinany…
+     Ho tany hafa voninkazo
+     Sy hafa vorona mivazo !
 
-   8Ensuite, la nostalgie constitue une force sociale, un affect qui met
-   en jeu des dimensions performatives et pragmatiques. Publié en 1979,
-   Yearning for yesterday de Fred Davis (1979) est le premier ouvrage à
-   traiter des aspects sociaux de la nostalgie. Prenant à rebours l’idée
-   que les aspirations rétrospectives seraient politiquement régressives
-   et émotionnellement perturbées, Davis révèle le rôle crucial de la
-   nostalgie pour « construire, entretenir et reconstruire nos identités »
-   (ibid. : 31). La littérature récente a effectivement montré que la
-   nostalgie, qu’elle prenne la forme d’affect, de rhétorique ou de
-   pratique, participe à la construction des identités collectives
-   sociales, ethniques et nationales (Bissell 2005 ; Bryant 2008 ;
-   Herzfeld 2005). Dans ce volume, Michèle Baussant analyse le rôle du
-   langage dans l’efficacité sociale des gloses nostalgiques. À partir
-   d’une étude des échanges linguistiques parmi les juifs d’Égypte en
-   exil, elle met en relief l’importance de l’usage de l’arabe dans la
-   formation d’une communauté religieuse fondée sur un lien partagé avec
-   une patrie perdue et idéalisée.
+     Quelque part, peut-être, une terre
+     Où s’abritent les songes…
+     Une terre avec des fleurs inconnues
+     Et d’autres chants d’oiseaux !
 
-   9Dans certains cas, la nostalgie peut alimenter des phénomènes de
-   convergence mémorielle. Cette convergence reste relativement peu
-   étudiée par les anthropologues. Par exemple, à Luang Prabang (rdp
-   Laos), David Berliner a observé la constitution d’une « communauté de
-   perte » à partir de la commémoration du passé indochinois qui réunit
-   les experts occidentaux, les expatriés, les touristes et certains
-   Laotiens de la diaspora, alors que des tensions concernant les
-   politiques de patrimonialisation opposent les experts de l’Unesco et
-   les habitants du lieu (Berliner 2010b). L’expression d’un discours
-   nostalgique dans le contexte de politiques patrimoniales est également
-   illustrée par le texte de Ruy Llera Blanes et d’Abel Paxe portant sur
-   l’impérialisation de la nostalgie dans le nord de l’Angola. Loin de
-   n’être qu’une évasion « politiquement non subversive » (Rethmann 2008)
-   vers un passé révolu, de tels regrets rendent possible une critique
-   morale du présent et proposent des alternatives pour faire face aux
-   changements sociaux. Comme l’écrit Daphne Berdahl (1999 : 201), la
-   nostalgie devient alors une « arme ». De fait, mobilisés pour répondre
-   à des préoccupations sociales et politiques, les discours et les
-   pratiques nostalgiques n’impliquent pas nécessairement le sentiment de
-   mélancolie auquel ils sont habituellement associés. C’est ce que montre
-   Olivia Angé (2012) dans les Andes argentines quand elle examine
-   l’instrumentalisation d’une rhétorique regrettant l’effritement de
-   réciprocités passées dans le cadre du marchandage et des équivalences
-   de troc. Révélant le processus de transmission culturelle en jeu dans
-   ces lamentations, Angé invite à établir une distinction entre les
-   « dispositions nostalgiques » impliquant un investissement émotionnel,
-   et les « dispositifs discursifs nostalgiques » dont l’énonciation
-   stratégique sert les intérêts du locuteur.
+     * 3 Extrait du poème de Ny Avana Ramanantoanina intitulé
+       « Eritreritra » (Méditations), publié dans le (...)
 
-   10Enfin, l’anthropologie éclaire les relations complexes qui existent
-   entre le passé, le présent et l’avenir. Comme l’écrit Svetlana Boym
-   (2001 : xvi), la nostalgie « ne porte pas toujours sur le passé. Elle
-   peut avoir une portée rétroactive ou prospective ». En comparant les
-   récits par lesquels les communautés grecques et turques relatent la
-   division de Chypre, Rebecca Bryant (2008 : 399) a brillamment montré
-   que la peine provoquée par la perte de leur terre natale s’accompagne
-   de « visions de patries à venir ». Souvent, la nostalgie se déploie
-   dans ces horizons d’attentes et d’inquiétudes à l’égard de l’avenir, si
-   bien qu’espoir et utopies apparaissent dans son sillage. Force est de
-   constater que l’espérance n’est jamais bien loin du lamento sur la
-   perte. D’ailleurs, s’il est une question fondamentale soulevée par le
-   présent volume, c’est bien celle de la temporalité. Depuis la fondation
-   de la discipline, les anthropologues se sont intéressés aux dimensions
-   culturelles de la perception du temps. Si la nostalgie implique une
-   posture spécifique envers le passé considéré comme irréversible, il
-   convient de s’interroger sur son universalité. Sans avoir de réponse
-   définitive à cette énigme, nous pouvons néanmoins avancer que toutes
-   les sociétés humaines ont été confrontées à des ruptures et qu’elles
-   ont, dès lors, fait l’expérience d’une distanciation réflexive à
-   l’égard de leur passé, souvent sous la forme d’un regret pour un ordre
-   social perdu. Bien entendu, la nostalgie s’inscrit toujours dans des
-   ontologies temporelles spécifiques et culturellement situées. En tant
-   qu’anthropologues, notre tâche consiste justement à saisir les
-   expressions multiples du regret dans le flux des contingences
-   historiques. Mais l’analyse de ces expressions mémorielles ne nous
-   invite pas seulement à affiner notre compréhension de la temporalité.
-   Alors que les représentations et les pratiques sociales subissent des
-   mutations constantes tout en persistant à travers le temps, l’étude de
-   la nostalgie éclaire également les opérations de continuité et de
-   discontinuité par lesquelles les sociétés se reproduisent et évoluent.
-   Pour l’anthropologue, cet incorrigible nostalgique, examiner cet affect
-   offre un angle de vue privilégié sur la persistance créatrice et la
-   disparition des formes culturelles. Ce regard sur la nostalgie incite
-   de surcroît à dépasser les clivages traditionnels : entre les approches
-   anthropologiques, historiques et psychologiques, entre le continu et le
-   discontinu, entre la persistance et le changement, et surtout, entre le
-   passé, le présent et l’avenir.
+   5Pour terminer, nous pouvons citer ces deux extraits de poèmes. Le
+   premier de Ny Avana Ramanantoanina (1891-1940)3 :
 
-   * Nous dédions cette introduction et ce volume à Christine Langlois,
-   directrice de rédaction de la revue Terrain depuis 1983. Merci à toi,
-   Christine, d’avoir fait de Terrain un périodique prestigieux et
-   singulier, une référence indispensable pour les anthropologues en
-   France et ailleurs. La communauté des anthropologues sera désormais
-   nostalgique de Terrain.
+     Toa sompatra, ho’aho, itony vintana
+     Nametraka antsika eto an-tany!
+     Nahoana raha teny amin’ny kintana ?
+     Izay sambatra hihoatra an’izany ?
+     Nahoana raha teny amin’ny rahona ?
+
+     Que le destin est cruel
+     De nous avoir installés sur cette terre !
+     Pourquoi pas sur une étoile ?
+     Nul bonheur n’en serait comparable
+     Pourquoi par sur un nuage ?
+
+     * 4 Extrait du poème « Izay ho feoko eo am-pialana aina » (Ce que
+       sera ma voix au moment de l’agonie), (...)
+
+   Et le second du poète Samuel Ratany (1901-1926)4 :
+
+     Fa any no misy an’ilay Paradisa,
+     Ary tsy misy mahory na sento
+     Miesora e ! ry hany minitrako sisa,
+     Fa ny any toerana solon’ny eto.
+
+     Là-bas est le Paradis,
+     Là-bas ne sont connus ni les souffrances ni les pleurs
+     Passez ô mes ultimes minutes,
+     Là-bas remplacera ce qui est ici
+
+   6Mais cette forme d’exil, comme nous l’avons dit, n’est pas réelle.
+   Elle n’est que le fruit de l’imagination ou de la conviction
+   philosophico-religieuse de l’homme, car elle n’empêche pas l’homme de
+   vivre sa vie dans sa quotidienneté. Pour certains poètes, l’exil
+   imaginé n’est que la transcription de l’eschatologie décrite par la
+   Bible. Ainsi, ils souscrivent volontiers à l’idée que l’homme n’est
+   qu’un étranger sur terre, un passant, et que la vraie Patrie est
+   ailleurs.
+
+L’emprisonnement
+
+     * 5 Il s’agit de l’insurrection anticoloniale qui a éclaté dans la
+       nuit du 29 au 30 mars 1947. Pour l’a (...)
+
+   7L’emprisonnement nous offre un autre aspect de l’exil imaginé. Lorsque
+   le poète Jacques Rabemananjara (1914-2005) (Taurand 1999) fut arrêté à
+   la suite de l’affaire de 19475, il fut d’abord enfermé à la prison
+   d’Antanimora à Tananarive, où il composa son célèbre poème « Antsa »,
+   avant d’être transféré à la maison de force de Nosy-Lava puis en
+   métropole. Le poète était coupé de ses racines, isolé de ses
+   compatriotes. L’exil, pour le Malgache, est d’être séparé de son
+   groupe, quelle que soit la distance. On interprète « Antsa » comme le
+   testament politique de Jacques Rabemananjara, mais il est avant tout, à
+   notre avis, le cri de détresse de l’exilé qui veut à tout prix
+   maintenir le contact avec sa terre bien-aimée. L’exil est solitude et,
+   dans « Antsa », tout évoque la solitude : « le cercle étroit de la
+   prison », « les murs et toutes les barrières et toutes les consignes »,
+   « la vaine étreinte des horizons », « les confins des tourments » ;
+   « Et sur la piste des savanes, / Nul, nul pâtre à l’œil du voyant / ne
+   vous mènera boire / à la fontaine de mille ans. »
+
+   8Nous ne nous étendrons pas sur ce cas, car d’autres poètes comme lui
+   ont fait par la suite l’expérience de l’emprisonnement pour diverses
+   raisons. À titre d’exemple, Rado (1923), de son vrai nom Georges
+   Andriamanantena, parce qu’il a osé, avec son frère Célestin
+   Andriamanantena, par le biais de leur journal Hehy (Rire), tenir tête à
+   l’administration et, avant lui, le poète et journaliste Ralaiarijaona,
+   auteur du recueil intitulé Kalo-tany (Chants de là-bas), c’est-à-dire
+   de la prison d’Antanimora où il fut incarcéré en 1953.
+
+   9Dans ces différents cas, il n’y a donc pas d’exil physique parce que
+   les intéressés étaient toujours sur leur sol natal ; pourtant, les
+   poètes vivaient ces isolements comme un véritable exil.
+     * 6 La société secrète VVS ou Vy, Vato, Sakelika, (Fer, Pierre,
+       Ramification) se proposait de préparer (...)
+
+   10Mais dans l’emprisonnement, il existe aussi un exil effectif comme le
+   cas de Ny Avana Ramanantoanina. En 1913, il adhéra à la société fondée
+   par des intellectuels, la VVS6, et fut arrêté avec d’autres écrivains,
+   comme Ratsimiseta, Ramangamalefaka et Rodlish, et exilé à Mayotte puis
+   aux Comores. L’exil imaginé de Rabemananjara qui a donné lieu à
+   l’écriture de « Antsa » et d’un autre poème « Antidote » devint exil
+   effectif par son transfert au bagne de Nosilava et dans la prison des
+   Baumettes à Marseille. Quant à Ny Avana, son séjour à Mayotte lui a
+   inspiré des poèmes d’une sensibilité presque inégalée dans la
+   littérature malgache.
+
+L’exil dans la langue
+
+     * 7 Dans Dinitra (Sueurs), Antananarivo, Impr. Spéciale Hehy, 1973,
+       p. 143.
+
+   11D’une certaine manière, l’obligation d’adopter une autre langue, en
+   l’occurrence le français pour le cas malgache, dans l’expression de ses
+   désirs, de ses pensées et de ses sentiments, est perçue comme une façon
+   d’écarter l’homme de sa terre, de rompre le lien qui l’y attache, en
+   créant une distance. Et le fait d’en user contre les interdictions
+   apparaît comme l’expression d’une révolte en imposant son identité. La
+   langue est la seule « chose » que la colonisation n’a pu aliéner. Dans
+   son poème, dont le titre est déjà suffisamment explicite, « Vahiny »
+   (Étranger), Rado écrit7 :
+
+     F’eto an-tanindrazako aho, nefa tenin’olon-kafa
+     no takina mba ho haiko vao mahazo anjara asa
+     hamelomako ankohonana … …
+
+     Je suis au pays de mes ancêtres
+     et pourtant on exige de moi, si je veux trouver un emploi
+     pour subvenir aux besoins de ma famille, de connaître la langue
+     d’autrui… …
+
+   12Certains écrivains optent pourtant pour la langue française au motif,
+   entre autres, que cette langue leur permette de s’épancher et
+   d’exprimer ce qui n’est pas possible en malgache. Or, les oeuvres de
+   grands poètes et écrivains malgaches prouvent le contraire : elles
+   témoignent de la capacité de la langue malgache à exprimer même ce que
+   d’aucuns considèrent comme « inexprimable ». En ce qui concerne les
+   romans, les oeuvres d’Emilson Daniel Andriamalala (1918-1979) ou de
+   Maurice Rasamuel (1886-1954) ne peuvent que confirmer cet état de fait.
+
+   13Sur ce dernier point, le débat reste ouvert. Il y a beaucoup plus de
+   subjectivité que de raisons vraiment fondées.
+
+L’exil vécu
+
+   14À côté de cet exil imaginé existe un exil vécu. La raison en est
+   multiple. Nous nous contenterons ici d’en survoler deux : la quête de
+   subsistance et de savoir et la fuite.
+
+Le cas des valovotaka
+
+   15Si dans la littérature en général, on parle d’exil quand un homme
+   quitte son pays d’origine pour s’installer ailleurs, le sentiment
+   d’exil étreint le Malgache même quand il ne se rend que dans une autre
+   région plus ou moins éloignée de la sienne. Ainsi, un Merina qui est
+   obligé de s’installer hors de sa région, et quelle que soit la douceur
+   du pays qui l’accueille, est sujet à la nostalgie de sa terre natale.
+
+   16Les romans nous font rencontrer ces Merina qui, pour des raisons
+   liées à la recherche de subsistance (dans la plupart des œuvres du
+   romancier Emilson D. Andriamalala), ont quitté leur Imerina natale pour
+   s’installer définitivement dans les contrées lointaines. Après quelques
+   années, ils sont alors appelés valovotaka. Mais où qu’ils se trouvent,
+   ils gardent toujours leurs traditions et leur parler.
+
+Fuir les adversités
+
+     * 8 Paru en feuilleton dans le journal officiel Vaovao
+       Frantsay-Malagasy, à partir du 30 novembre 1906. (...)
+     * 9 Tananarive, Bibliothèque nationale, 1967.
+     * 10 Antananarivo, Libr. Mixte, 1972.
+     * 11 Écrit en 1928, le roman L’Interférence est publié par Hatier,
+       lors de la commémoration du cinquante (...)
+
+   17Dans le roman d’Alphonse Ravoajanahary, Andraozikely
+   (Au-petit-rosier)8, Ravoninjatovo, ne supportant pas de ne pas pouvoir
+   se marier avec celle qu’il aime, décide de tout quitter, son village et
+   ses parents. De même, dans un autre roman du même auteur, Tao anatin’ny
+   sarotra (Au cœur de l’adversité)9, Rafakatro, originaire de l’Imerina,
+   condamné pour un délit dont il n’était pas coupable, décida de se
+   retirer aux confins de la région tanala. Le père de Rivo, dans
+   Taolambalo (Huit os) de Emilson D. Andriamalala10, opta pour l’exil
+   afin de sauvegarder l’existence de son fils et de sa femme. Enfin, dans
+   le roman de Jean-Joseph Rabearivelo, L’Interférence, c’est un conflit
+   politique qui a été la cause de l’exil d’Andriantsitoha11.
+
+   18Mais, voulu ou non, l’exil s’accompagne toujours d’un fond de regret
+   comme l’exprime ce dernier personnage :
+
+     — Que n’ai-je pu emporter jusqu’au tombeau de mes parents et jusqu’à
+     la maison qu’ils m’ont laissée ! Ces liens, en laissant leur bout,
+     m’attachent encore à cette terre !
+
+     * 12 Antananarivo, Libr. Mixte, 1972.
+
+   19La fuite n’est pas toujours une solution au problème qui se pose.
+   L’appel du pays natal reste vivace dans le cœur de chaque exilé.
+   Certains finissent par réintégrer leur pays d’origine, d’autres pas. Le
+   souhait des parents et amis ne se réalise pas toujours, l’exilé peut
+   mourir au cours de son voyage. S’ils ne sont pas en mesure de faire le
+   chemin du retour, la famille s’évertue à les rapatrier afin de les
+   inhumer dans la tombe ancestrale. C’est le thème principal de
+   Taolambalo d’Emilson D. Andriamalala, mais nous voyons aussi
+   transparaître, dans la description faite d’une cérémonie d’exhumation
+   dans Zazavavindrano (La naïade), du même auteur12, la volonté qu’ont
+   les Malgaches de ramener dans son pays natal un parent mort au loin.
+   Dans Andraozikely, c’est le père de Ravoninjatovo qui fait le voyage
+   afin de ramener les corps de son fils et de la fiancée de ce dernier.
+
+Conséquence de l’exil
+
+   20En guise de conclusion à ce court propos, il convient de souligner
+   que l’exil en tant que tel n’est pas ouvertement décrit par le poète.
+   Il s’attache surtout à en exprimer les effets, les sentiments qu’il
+   ressent au moment précis où il est assailli par les souvenirs. Un
+   « rien » suffit à éveiller en lui la nostalgie : la couleur du temps,
+   un vol d’oiseaux, un voyageur de passage… Tout s’efface alors devant
+   lui, il se remémore son village, sa famille et ses amis. Il se lamente
+   ou égrène un collier de questions auxquelles pourtant il n’attend pas
+   de réponses. Comme ce sublime questionnement de l’exilé dans ces vers
+   de Jacques Rabemananjara :
+
+     « Quel temps fait-il là-bas en amont de l’Ivoundre où j’ai planté
+     des flamboyants
+     Et de quel gazouillis bercent-elles le soir les bergers du Kamour,
+     Les sarcelles des mois votifs ! »
+
+   21où il se lance dans une évocation qui, parfois, ne correspond plus à
+   la réalité sur place comme, du même poète, dans Lyre à sept cordes :
+
+     Là-bas, c’est le soleil ! C’est le bel été, caressant et tropique !
+
+     …………………………………………………………………
+
+     Tu t’émerveilleras de voir des oiseaux blancs,
+     plus blancs que neige et nacre, escorter, vigilants,
+     des berges de l’Alaotre aux rives de l’Ikoupe,
+     la génisse nomade aux yeux de pleine lune aussi beaux qu’une coupe.
+     Et vois-tu le long des buissons, les fiers taureaux aux lentes
+     marches
+     graves comme des rois vénérés comme des patriarches !
+     …………………………………………………………..……….. »
+
+   22L’exil peut être bénéfique à la création comme, il peut, vécu
+   longtemps, couper l’écrivain de ses racines. Ses œuvres, dans ce
+   dernier cas, n’ont plus ces particularités qui les identifient au pays
+   d’origine. Le ressourcement est donc une nécessité pour un écrivain qui
+   veut être le porte-parole de sa Patrie.
+
+La nostalgie dans la poésie malgache
+
+   23L’étude thématique des œuvres poétiques d’un pays permet de mettre en
+   évidence les problèmes spécifiques à son type de société ainsi que la
+   façon dont ils sont appréhendés ou vécus, de tracer une esquisse de
+   l’identité non seulement des poètes qui produisent ces œuvres, mais
+   aussi du peuple auxquels ils appartiennent.
+
+   24Nostalgie signifie en malgache embona et/ou hanina. Synonymes, ces
+   termes sont utilisés séparément ou liés sous forme de métabole. Bien
+   qu’il n’y ait pas de gradation, ils ont la même valeur notamment dans
+   le domaine poétique. Toutefois, les poètes malgaches se servent plus
+   souvent du mot hanina comme titre de leurs poèmes. À cette notion de
+   nostalgie vient se confondre parfois celle du souvenir (fahatsiarovana,
+   tsiaro ou tsiahy). Les poèmes intitulés « Tsiahy » ou « Tsiaro » sont
+   relatifs aux embona et hanina, et inversement. En effet, dans la
+   nostalgie, il y a au départ ou quelque part le souvenir et la
+   réminiscence.
+
+Fondement historique de la nostalgie malgache
+
+     * 13 Tananarive, Impr. de l’Imerina, 1928.
+
+   25Le peuple malgache est un peuple, dans sa grande majorité, venu
+   d’ailleurs. L’historien et linguiste Dama-Ntsoha (1885-1963), dans son
+   article intitulé « Signification de l’histoire malgache » (1962),
+   écrit : « Les ancêtres des Malgaches actuels ne rencontrèrent pas dans
+   l’Ile une opposition d’autochtones, l’Ile leur a été donnée comme une
+   Terre promise. »De son côté, le poète Jean-Joseph Rabearivelo écrit
+   dans un de ses premiers recueils, Volumes^13 :
+
+     Une légende obscure est vaine nous rallie
+     Race éteinte d’Emyrne au bois découronné
+     A l’archipel lointain de la Polynésie.
+
+     * 14 Extrait du poème, sélectionné par Régis Rajemisa-Raolison et
+       Flavien Ranaivo (1948 : 14-15).
+
+   26Au lieu de reprendre les éléments de l’histoire du peuplement de
+   l’île, nous nous contenterons de citer un poème de Jacques
+   Rabemananjara intitulé « Paysage »14 :
+
+     Alors, ô paysage aride d’Iarive,
+     Un transport nostalgique attise mes ardeurs ;
+     Je sens m’envelopper le charme d’une rive
+     Où les oiseaux marins, poursuivants des splendeurs,
+     Élèvent leur essor pour des îles de rêve
+     Et laissant derrière eux comme des souvenirs
+     Tomber des sables blancs que leurs pieds sur la grève
+     Ont cueillis le matin avant de partir…
+     Des brises de chez nous mon âme en feu s’imprègne,
+     Les multiples regrets des féeriques tableaux,
+     Des couchants solennels, qui dans l’onde se baignent,
+     Réveillent dans mon coeur le mirage des flots…
+     Je réentends les chants d’adieu sur les carènes,
+     Les vains bruits des mouchoirs agités sur les ports,
+     L’espace frémissant de sanglots des sirènes
+     Et les derniers baisers que l’on échange au bord…
+
+   27Bien actuel ce poème. Pourtant, les mêmes sentiments avaient, sans
+   aucun doute, remué ceux qui, partis des côtes de l’Indonésie, de
+   Malaisie, de l’Inde ou d’une rive inconnue d’Asie, foulèrent un jour
+   lointain le sol malgache. Nous ne pouvons pas dire exactement à quelle
+   époque les Protomalgaches ont mis les pieds sur l’île, mais nous
+   pouvons ressentir les sentiments divers qui les avaient certainement
+   secoués en arrivant : ce qu’ils laissaient derrière eux, un pays qu’ils
+   ne retrouveront plus, les êtres chers, un passé définitivement révolu,
+   une partie d’eux-mêmes. Mais ils étaient encore là-bas bien que leur
+   coeur se fût déjà attaché à la beauté sauvage du nouveau rivage foulé
+   par leurs pieds. Le professeur Prosper Rajaobelina (1913-1975), dans
+   son article sur « La nostalgie dans la poésie malgache » (1948),
+   écrivait : « Les Malgaches sont des déracinés ; leurs ancêtres ont
+   quitté la Malaisie il y a des siècles et l’âme malgache en peine se
+   souvient de ces terres lointaines qui avaient jadis nourri ses
+   aspirations et ses aspirations. »Dédoublés, tiraillés entre les
+   souvenirs de ce qu’ils ont laissé et ce qui les appelle, nous imaginons
+   que, malgré tout, c’est la nostalgie qui, pendant longtemps, va les
+   habiter, un mélange doux amer de regret et de contentement. C’est ce
+   paradoxe qui a donné naissance à ce que nous appelons actuellement la
+   nostalgie, à travers les notions aussi abstraites que any ho any (aux
+   confins, ailleurs, quelque part), any am-pitan-dranomasina any
+   (par-delà la mer), any ambadika any (loin là-bas, de l’autre côté),
+   c’est la mémoire qui s’emballe.
+     * 15 Paris, Présence africaine, 1956, p. 74-75.
+
+   28La nostalgie pourrait donc être considérée, au départ, comme
+   l’expression d’un attachement à un pays perdu — irrémédiablement
+   perdu —, mais non effacé de la mémoire, idéalisé, devenu un pays des
+   souvenirs, des rêves, et, par voie de conséquence, un pays mythique.
+   C’est ce pays, dorénavant situé loin dans l’espace et dans le temps,
+   qui fera l’objet de cet attachement, de l’expression de l’exil,
+   volontairement ou non. Toutefois, très peu de poèmes parlent de cette
+   époque. Les seules références poétiques que nous pouvons évoquer sont
+   dans la tragédie de Jacques Rabemananjara, Les boutriers de l’aurore,
+   qui retrace l’arrivée des boutriers à Madagascar venant du Sud-Est
+   asiatique, peut-être des côtes indiennes. Du même poète, nous lisons
+   dans son recueil Lamba les vers suivants15 :
+
+     La voile de mon boutre hanté par le regret des lointaines genèses…
+     O pirogue toi-même et chargée à craquer au milieu de la baie,
+     porteuse du trésor péremptoire des dieux qu’on embarqua jadis d’un
+     atoll antarctique
+     ma cargaison d’amour glacé d’encens et de gingembre sidéral fleurant
+     l’odeur du pôle et des algues étranges,
+     toute une somme de richesse inconnue encore des mortels !
+
+     * 16 Massif central dominant l’Imerina à 60 km au sud-ouest de
+       Tananarive. Dans la littérature, les Malg (...)
+     * 17 Massif du sud de Fianarantsoa, le second sommet de l’île après
+       le Tsaratanàna, dont le point culmin (...)
+     * 18 Grand village à 20 km au nord de Tananarive, célèbre pour avoir
+       été, depuis le règne du roi Andrian (...)
+     * 19 Lac pittoresque à 18 km à l’ouest d’Antsirabe, constitué par un
+       ancien cratère de volcan. C’est un (...)
+
+   29Bien que « le regret des lointaines genèses », du « boutre obsédé du
+   retour aux pays d’origine » soit atténué, la nostalgie d’un ailleurs
+   s’est accrochée à l’âme malgache, mais orientée vers d’autres lieux
+   devenus plus ou moins mythiques : Ankaratra16, Andringitra17,
+   Ambohimanga18, Tritriva19, par les légendes qui s’y rattachent ou par
+   leurs histoires.
+
+   30Les hain-teny nous en donnent déjà de multiples exemples :
+
+     Midona ny orana any Ankaratra
+     aky tsipelana ny any Anjafy
+     Tomanitomany Razanaboromanga
+     Mitokaka Ratsimatahotody
+     Raha todim-paty koa aza manody
+     Fa raha todim-pitia manodiava
+     Fendrofendron’antitra : Ankaratra ihany ;
+     Sentosenton’ny manina : Ankaratra ihany !
+
+     (Tononkiran’ny Ntaolo)
+     Il tonne dans l’Ankaratra
+     L’orchidée fleurit à Anjafy
+     Pleure, pleure le petit de l’oiseau bleu
+     Ricane qui ne craint le châtiment
+     Châtiment de mort qu’il en soit épargné
+     Châtiment d’amour qu’il soit exécuté
+     Complainte de l’ancien : c’est Ankaratra
+     Soupirs du nostalgique : c’est Ankaratra
+     (Chanson des Anciens)
+
+   31Dans la plupart des hain-teny, Andringitra est associé à Ankaratra.
+   Nous pouvons y trouver le symbole du pays lointain abandonné et du pays
+   habité, séparés par l’océan (ici le vaste marais de Betsimihafa) qui
+   empêche tout rapprochement (Dahle 1962 : 288) :
+
+     Ô ! Andringitra ô !
+     Andringitra anie ka saro-javatra,
+     Tsy Andringitra re no saro-javatra,
+     Fa hianao no tia katsakatsaka.
+     Raha ampanga diso an’Andringitra,
+     Herintaona manakana hianao,
+     Ka tovi-tanana ihany !
+     Ny ranomason’Andringitra,
+     Sy ny ranomason’Ankaratra,
+     Malahelo mba te hihaona,
+     Kanjo eferan’i Betsimihafa.
+     Voatsiary ilaiko aminao izany ;
+     Mananasy tsy mihoatra an’Andringitra.
+
+     O ! Andringitra,
+     Andringitra est redoutable,
+     Ce n’est point Andringitra qui est redoutable,
+     C’est toi qui est trop curieux.
+     Une fougère égarée loin d’Andringitra,
+     Une année entière tu te battras,
+     Les larmes d’Andringitra,
+     Et les pleurs d’Ankaratra,
+     Tristes ils veulent se rencontrer,
+     Mais sont empêchés par Betsimihafa.
+     Ce sont là des graines qui n’existent pas que je cherche auprès de
+     toi ;
+     Un ananas ne dépasse pas Andringitra.
+
+   32Ce désir d’Andringitra et d’Ankaratra de se rencontrer contient
+   l’essentiel de la nostalgie malgache. Sans doute parce que ces deux
+   massifs limitent la vue et éveillent le désir de voir ce qu’il y a
+   au-delà. Mais il est évident que ce n’est pas la seule cause. Dans la
+   mesure où la nostalgie est un sentiment universel, comment peut-elle
+   être affublée de l’adjectif malgache ? Ou, tout au moins, quelle est sa
+   spécificité à travers l’âme malgache ? C’est la question à laquelle il
+   faut répondre. La difficulté réside dans le fait que la nostalgie se
+   définit, d’une manière générale, à travers ses manifestations, ses
+   expressions. Dans son anthologie Takelaka notsongaina (Pages choisies),
+   le professeur Siméon Rajaona nous présente une étude assez complète du
+   embona et du hanina en tant que thèmes récurrents de la poésie
+   malgache. Toutefois, il n’en donne pas une définition précise. Est-ce à
+   dire que la nostalgie est indéfinissable ?
+
+   33Dans son livre Mythologie de la saudade (1997), Eduardo Lourenço
+   écrit : « Les Portugais sont tellement habités par le sentiment de la
+   saudade qu’ils ont renoncé à la définir ». Cette constatation peut
+   aussi s’appliquer au rapport qu’ont les Malgaches avec le embona et le
+   hanina. Le professeur Pierre Vérin (1990) a fait, à juste titre, un
+   rapprochement des deux formes de nostalgie, mais il aurait été tout
+   aussi possible de rapprocher la nostalgie malgache du blues noir
+   américain ou de la sehnsucht (nostalgie en allemand) que Jacques
+   Taurand (1997 : 25), dans son livre sur Michel Manoll, traduit par
+   « désir de revoir ». Les analogies sont dans la forme, dans
+   l’expression de ce frémissement de l’âme. Elles sont distinctes quand
+   on en recherche les origines, lorsque l’on tente de capter les teneurs
+   respectives des nostalgies, ainsi que leur enracinement dans le vécu
+   historique des peuples concernés.
+
+   34Sur le plan historique, la nostalgie malgache se nourrit des
+   événements qui ont brutalement marqué l’histoire de la Grande Ile : les
+   expéditions merina à travers l’île, le choc de l’annexion française en
+   1896 et les changements imposés par la colonisation, la répression de
+   1915 dans l’affaire de la VVS, les massacres lors de l’insurrection de
+   1947, les périodes de grandes épidémies comme la peste, la fièvre
+   jaune, etc. La plupart de ces événements avaient entraîné la séparation
+   des êtres : déportations, exils, fuites, quarantaines, décès et
+   éloignement de la terre natale et de la tombe des ancêtres.
+
+   35La nostalgie peut donc être perçue comme une réaction à ces
+   événements, comme une manière de supporter la fatalité, l’inexorable,
+   l’irréversible. L’un des plus anciens chants sur la nostalgie est sans
+   doute celui dédié à Ratsida. Ratsida était un soldat qui avait
+   participé à l’annexion de l’Ikongo sous le règne du roi Radama I
+   (1810-1828) ou de la reine Ranavalona Ire (1828-1861). Ces deux
+   monarques avaient essayé vainement de conquérir le village de l’Ikongo.
+   Ratsida y avait péri. Son corps ne fut pas retrouvé. Une chanson
+   populaire a été composée en sa mémoire et une stèle dressée à
+   Isoanierana, comme dit la chanson, au sud d’Itsimbazaza. Ce qui est
+   inconcevable pour un Malgache n’est pas de mourir, mais de ne pas
+   intégrer la tombe familiale. La tombe, dans cette chanson, est classée
+   parmi les êtres attachés à Ratsida, comme sa famille, ses amis, ses
+   terres :
+
+     Manao ahoana ny fasany?
+     Ny fasan-dRasida
+     Very fanantenana.
+     Tsy nidiran’ny efa sahirana
+     ……………………………….
+
+     Comment est sa tombe ?
+     La tombe de Ratsida
+     A perdu tout espoir
+     De voir entrer celui qui avait sué eau et sang
+     Pour la bâtir.
+     ……………………………….
+
+   36La plupart des poètes ont chanté, à un moment ou à un autre,
+   l’emprise de la nostalgie. Les situations historiques permettent
+   parfois d’expliquer certains poèmes qui n’avouent pas ouvertement
+   l’objet précis de la nostalgie. Le poète Ny Avana Ramanantoanina peut
+   être considéré comme le chef de file de ceux qui ont manifesté avec
+   beaucoup de passion et de conviction l’attachement au pays des
+   ancêtres. Il a su donner à la nostalgie une valeur de contestation, en
+   y intégrant des messages d’espoir, et en faire un chant d’action. La
+   langue malgache se prête d’ailleurs admirablement à l’expression des
+   sens cachés : double sens, faux sens, contre sens ou mots codés.
+   D’autres poètes excellent dans l’exploration des sources où s’abreuve
+   la nostalgie et pour exprimer le frémissement de l’âme du nostalgique.
+
+   37Comme dans ce poème de Ny Avana intitulé : « Midona moramora » (Il
+   tonne doucement) :
+
+     Midona moramora
+     Ny any Ankaratra any ;
+     Manembona isan’ora
+     Izay mandre izany.
+
+     Manombana ho avy
+     Ny any Ambohimanoa;
+     Ny ranomasoko avy
+     No indray mirotsa-droa.
+
+     Maneri-takariva
+     Ny eny Andringitra eny;
+     Ka dia « Mahatsiahiva »
+     No voalohan-teny.
+
+     Tataovan-draho-manga
+     iarivo indraindray;
+     Ireny miampanga
+     Fa manina izahay
+
+     Il tonne doucement
+     dans l’Ankaratra ;
+     soupire à chaque instant
+     celui qui l’entend.
+
+     Il menace de pleuvoir
+     là-bas à Ambohimanoa ;
+     mes larmes sans le vouloir
+     coulent de mes yeux.
+
+     Il bruine dans le soir
+     là-haut dans l’Andringitra ;
+     « Souviens-toi »
+     est le premier cri d’émoi.
+
+     Des nuages bleus planent
+     sur Iarive parfois
+     ce qui révèle
+     que nous sommes nostalgiques.
+
+     * 20 Dans : Terre promise, Antananarivo, éd. Revue de l’océan Indien,
+       1988, p. 87-88.
+
+   Ou encore, plus récent, ce poème d’Andrianarahinjaka, « Nostalgie »20 :
+
+     Nostalgie !
+     Nostalgie ma demeure
+     et mon voyage.
+
+     Nostalgie, mon voyage,
+     mon beau voyage triste,
+     ma randonnée sans fin
+     vers la contrée d’enfance.
+
+     C’est le royaume enchanté
+     par où rôdent nos songes,
+     pris au renom d’un bonheur
+     toujours à portée de rêve.
+
+     Nostalgie, mon beau navire,
+     ma nef toute flamme,
+     mon long courrier tout feu
+     croisant sur la route du Destin.
+
+     Nostalgie, mon repaysement,
+     mon voyage merveilleux
+     jamais achevé.
+     Nostalgie mon mal à l’âme.
+
+   38Sur le plan psychosociologique, l’enracinement de la nostalgie dans
+   l’âme malgache peut être étudié à partir de la conception malgache de
+   l’attachement à la terre des ancêtres, à la famille et au groupe, ainsi
+   que de la notion de la mort et de l’au-delà.
+
+La terre ancestrale et le tombeau familial
+
+   39L’homme malgache est un sédentaire dans l’âme, par atavisme, un homme
+   fixé sur la terre qui lui a été promise. Le lien existant entre cette
+   terre et la tombe familiale est mémorisé par l’importance de la
+   généalogie. Chaque enfant devrait connaître le lien qui l’attache à ses
+   ascendants, d’où l’obligation pour chacun de revenir sur la terre des
+   ancêtres, où que le hasard l’ait conduit et les impératifs de
+   l’existence, pour se ressourcer. Quand on demande à un Malgache d’où il
+   vient, il donne automatiquement le nom du lieu où se trouve le tombeau
+   de ses ancêtres (Molet 1979). La connaissance de l’emplacement du
+   tombeau permet de situer socialement l’interlocuteur à qui l’on a
+   affaire et de savoir comment se comporter vis-à-vis de lui. Le tombeau
+   est considéré comme une seconde résidence où l’on passera l’éternité.
+   Ne pas avoir une maison est supportable, ne pas avoir une tombe est
+   inimaginable. Il n’y a pas de confusion possible entre la terre des
+   ancêtres et la terre natale, il y a une dizaine d’années encore. Nous
+   pouvons étudier ce problème notamment sur la situation de certaines
+   grandes familles aristocratiques malgaches. Le lieu où s’était installé
+   l’ancêtre devient, au fur et à mesure, que se développe la famille, un
+   village composé de personnes issues de la même souche ancestrale. La
+   tombe des ancêtres est située au milieu du village, comme un centre
+   autour duquel tout doit tourner. Tous les membres de la famille
+   essaient autant que possible de ne pas s’en éloigner. Une famille au
+   moins devrait y rester pour la garder et l’entretenir, afin qu’elle ne
+   devienne comme celle de Ratsida, abandonnée et couverte d’herbes
+   folles :
+
+     Manao ahoana ny taniny ?
+     Ny tanindrazan-dRatsida
+     Lava vero amana ahitra,
+     Ary foana olom-pivory,
+     Fa izy maty nanafika re !
+
+     Comment sont ses terres ?
+     Les terres des ancêtres de Ratsida
+     Sont couvertes d’herbes folles
+     Personne ne s’y rassemble,
+     Car il est mort au combat !
+
+     * 21 Sylvia Hanitra Andriamampianina, Miangaly ou l’Ile en plainte,
+       Tananarive, Foi et Justice, 1994.
+     * 22 Tananarive, Libr. Mixte, 1999.
+
+   40Comme la tombe, la terre a une sensibilité qui l’attache à l’homme.
+   Une jeune romancière21 a donné comme sous-titre de son premier roman
+   Ile en plainte, et pour l’écrivain Andry Andraina, un titre
+   significatif : Mitaraina ny tany (La terre se plaint)22. La terre
+   souffre autant que l’homme de la séparation et des mauvais traitements
+   qui lui sont infligés. La terre est vivante et c’est en tant que telle
+   qu’elle peut susciter la nostalgie. Une réciprocité de sentiments
+   s’impose dans la nostalgie. Il y a dans cette référence à la terre une
+   corrélation avec ce que Lacan appelle « matrice symbolique ». La terre
+   mère, la seule et l’unique, bien qu’on ait suggéré aux Malgaches comme
+   aux autres peuples colonisés de considérer la France comme la mère
+   bien-aimée (reny malala). Esprit de Du Bellay récupéré par la
+   politique.
+
+   41Durant l’époque coloniale, cet attachement à la terre natale
+   s’exaltait à travers l’idéalisation de l’ancienne monarchie ou, pour
+   être plus juste, du temps des ancêtres. C’est le sentiment de se sentir
+   étranger dans son propre pays qui nourrit la nostalgie du poète
+   malgache. Rien ne prouve que le passé est meilleur par rapport au
+   présent, mais ce qui a été enlevé par la force prend une valeur
+   particulière. Le fait est que le présent imposé n’est pas satisfaisant,
+   car, comme dit l’adage : « Le lait qu’on emprunte n’est jamais assez
+   crémeux ». Le pays est bien là sans être là, car on y vit d’une manière
+   différente de celle qu’on aurait voulu. On doit se conformer à des
+   règles nouvelles. L’autochtone se sent étranger dans son propre pays.
+   Le poète Rado, dans son poème intitulé « Vahiny » (Etranger) cité plus
+   haut, l’exprime clairement. Bien que maîtrisant le français, comme tous
+   ceux de son époque, Rado n’écrit que des poèmes dans sa langue natale.
+   Ainsi, comme le pense Ny Avana, la nostalgie n’est pas une vaine
+   contemplation d’un ailleurs, d’un passé révolu, elle est l’expression
+   d’une contestation de la situation présente.
+
+Le passé dans la nostalgie
+
+   42Que représente effectivement ce passé ? Nous devons distinguer le
+   sentiment individuel du sentiment collectif. Dans le premier cas,
+   l’homme ressent la nostalgie de son enfance, du bonheur vécu auprès des
+   siens (grands-parents, parents et amis, etc.), de la vie sans tracas.
+   Les moments parfaits comme le chante Rabearivelo :
+
+     Nankaiza hianao, ry lasa, nankaiza no antsoina
+     nefa ako iray malemy no sisa mba mamaly
+     sy manoina ?…
+     — Manoina sy mitondra ny hiranay omaly
+     efa zary sentosento, mifangaro ranomaso.
+     …………………………………………………
+     O ry lasa, ô ry lasa, ô ry lasa mba andraso :
+     Henoy ny manjo !
+     O ! ny hiranay fahiny, sambo feno voninkazo,
+     nampamerovero saina, nanamanitra ny dia…
+     Dia halazo ?
+     Hery feno namakiana ny onjan-drano izay maria,
+     toky sady niankinana ary koa mba nantenaina
+     fa hampita hatraminao, ry helo-dranom-pifaliana…
+
+     Où tu es, ô passé, où tu es, je t’appelle
+     et seul un faible écho me répond
+     et me revient ?
+     — Me revient en rapportant notre chant d’hier
+     devenu soupir, mouillé de larmes !
+     ……………………………………
+     Ô passé, ô passé, ô passé, attends
+     Comprends ma peine.
+     Oh ! notre chant d’autrefois, un navire orné de fleurs,
+     parfumant l’âme, embaumant le chemin…
+     Va-t-il se faner ?
+     Force intacte après une longue traversée,
+     assurance et soutien, mais sur qui on espérait
+     mener jusqu’à toi, ô baie de bonheur.
+
+   43Ce qui importe le plus c’est que ce passé avait vu tous les membres
+   de la famille encore présents, épargnés par les décès successifs et les
+   départs. Et c’est l’écrivain Rodlish qui nous le rappelle :
+
+     Tsarovana manko ny andro fahiny,
+     niaraha-nifaly sy feno korana
+     ………………………………….
+
+     Je me souviens des jours anciens
+     Quand ensemble nous partagions joies et bonheurs.
+
+   vers auxquels répond le poète Eliza Freda dans « Vetsovetso takariva »
+   (Méditations du soir) :
+
+     O ! ry Kintana, ombay manatrika aho,
+     mila tsy ho very dia, ka iresaho!
+     hianareo no solon-kava-mahatratra
+     hilazako ‘zay mba zavatra mihatra.
+
+     Ô Étoiles, accompagnez-moi
+     J’ai du mal à me distraire, parlez-moi
+     Vous remplacez les parents
+     À qui je racontais mes tourments.
+
+   44Ce dernier vers nous rappelle que ce ne sont pas uniquement les jours
+   heureux qui sont source de nostalgie, mais même les malheurs, les
+   souffrances, rendent douce la nostalgie. La nostalgie de la maisonnée
+   qui réunissait tous les membres de la famille et qui n’est plus que
+   ruine ou abandonnée :
+
+     Le village où l’on s’était réjoui
+     Est las et silencieux.
+     Les bruits des charrettes
+     Seuls quelque part…
+     S’entendent dans le silence.
+
+   45Et avec les années viennent aussi les tracas, les malheurs, les
+   séparations. Le poète se penche sur son passé pour y trouver un
+   semblant de réconfort, y puiser l’énergie nécessaire pour faire face
+   aux problèmes du quotidien. Rien ne ramène plus à ces moments bénis. La
+   nostalgie est le fruit de cette désespérance.
+
+   46Sur un plan plus général, après 60 ans de colonisation, l’homme
+   malgache se réveille et se retrouve dans un monde différent auquel il a
+   du mal à s’adapter, ayant été obligé de porter des vêtements qui ne lui
+   seyaient pas et dont il a pourtant du mal à se défaire. Sur ce point,
+   la nostalgie malgache est plus temporelle que spatiale.
+
+   47Les 60 ans de colonisation semblent être un intermède qui n’a pas
+   vraiment coupé la société nouvelle de l’ancienne. Le retour des exilés
+   de l’affaire de la VVS de Comores, le retour des cendres de la dernière
+   reine Ranavalona iii, le 31 octobre 1938, le retour des parlementaires
+   inculpés à la suite de l’insurrection anticoloniale de 1947, libérés en
+   1960, pour ne citer que ces quelques dates, ont, à chaque fois,
+   réveillé les souvenirs des anciens temps. La notion de retour revient
+   bien souvent dans l’histoire de Madagascar comme des blessures qui
+   incitent à remémorer le passé. Tout change : le mode de vie, les
+   modèles ; la société s’organise autrement, mais le sentiment
+   d’appartenance au monde du passé reste intact.
+
+   48Pendant cette période, l’homme malgache avait caressé l’espoir d’un
+   avenir meilleur, mais la réalité a coupé court à cet espoir. Il doute
+   sur ce que sera son avenir, et, sans avenir, on se raccroche aux
+   souvenirs de son passé. Cet attachement du malgache au passé sera
+   récupéré par les hommes politiques d’une manière ou d’une autre.
+
+Nostalgie et organisation sociale
+
+     * 23 Extrait de la préface du recueil de poèmes Presque songes, par
+       Jacques Rabemananjara (Tananarive, I (...)
+
+   49L’organisation de la société malgache est telle que l’individu
+   n’existe vraiment qu’à travers le groupe. Il est avant tout homme de
+   groupe. Tout ce qu’il entreprend confirme sa place au sein de la
+   société, mais peut aussi l’en exclure ou nuire à la communauté. La
+   nostalgie comme la mélancolie coupe l’individu de cette réalité.
+   Plusieurs expressions synonymes sont utilisées par les Malgache pour
+   désigner le nostalgique : lasam-borona, lasa ambiroa, lasa eritreritra,
+   lasa vinany, (avoir le coeur et l’esprit au loin). Hors du cadre de la
+   société, le Malgache se sent perdu et nostalgique, et éprouve le besoin
+   de retourner auprès des siens ou de revoir son pays. Il lui est
+   difficile de sortir du cercle archétypiquement clos de la famille, du
+   village où se trouve le tombeau familial et, pour certains, de la
+   nation, de l’île dans sa totalité. L’étendue du domaine dans lequel
+   agit la nostalgie est équivalente à la capacité de l’homme à tendre
+   vers l’universel. Pourtant, certains, même avec les contacts qu’ils ont
+   réussi à établir avec le monde extérieur, restent prisonniers de la
+   limite de la terre natale. Nous constatons, par exemple, chez
+   Rabearivelo cet ethnocentrisme qui tend à limiter la nation, le monde,
+   au strict territoire imernien et ne considérer dans ce cadre que ceux
+   qui sont du même groupe statutaire que lui. Même son ami très proche
+   Jacques Rabemananjara est contraint de le reconnaître23 :
+
+     C’est que dans sa ferveur régionaliste, Rabearivelo a pris soin de
+     ne jamais tomber dans le borné ni l’étriqué du folklorisme : si sa
+     passion de la terre merina enferme quelque peu ses créations et les
+     situe dans des frontières précises, il a toujours su, par-delà les
+     barrières, enrichir sa quête d’une chaleur humaine qui traverse et
+     rompt les digues pour s’apparenter au rythme chaud des énergies
+     cosmiques.
+
+   50Les critiques s’adressent à l’homme universel et non à l’individu.
+   Car l’attitude de Rabearivelo vis-à-vis de son groupe statutaire
+   d’origine est celle de la plupart des Malgaches. Quel que soit le
+   sentiment qui le porte à l’universel, de par son éducation et son
+   ouverture d’esprit, il n’en reste pas moins que ce qui importe avant
+   tout pour le Malgache, c’est ce lien qui l’attache, dans le fihavanana
+   (parenté), non seulement aux vivants, mais aussi et surtout aux
+   ancêtres. Sous cet angle, la nostalgie est une expression plus ou moins
+   négative du fihavanana : l’impression d’être tenu à l’écart pour une
+   raison ou une autre.
+
+La nostalgie des origines
+
+   51Dans son livre Le sacré et le profane, Mircea Eliade écrit :
+
+     La nostalgie des origines est donc une nostalgie religieuse. L’homme
+     désire retrouver la présence active des dieux, il désire également
+     vivre dans le Monde frais, pur et “fort”, tel qu’il sortit des mains
+     du Créateur… … C’est la nostalgie de la perfection des
+     commencements.
+
+   52Chez le Malgache, ce qui nous semble le plus important dans cette
+   nostalgie des origines, ce n’est pas tellement de retrouver le
+   Créateur, mais de rejoindre les ancêtres, de devenir un « saint » ou
+   plutôt un « sage » parmi ceux qui l’ont précédé dans l’au-delà. Pour le
+   Malgache, il y a une âme qui reste sur terre.
+
+   53Le roi Andrianampoinimerina avait dit avant de mourir : « C’est ma
+   chair qui va être ensevelie, mais mon âme et mon esprit resteront
+   auprès de vous et de Damalahy » (son fils). De quelle âme s’agit-il
+   ici ? Soulignons que le Malgache distingue trois sortes d’âmes, celle
+   qui s’attache à l’être vivant, celle qui est liée directement au mort
+   (ancien ou récent) et, enfin, celle qui s’est libérée du corps et est
+   devenue un être divin. Dans l’expression d’Andrianampoinimerina, nous
+   opterons pour cette dernière définition. Les premiers missionnaires
+   chargés de la traduction de la Bible avaient d’ailleurs eu quelques
+   difficultés à choisir le terme exact qui exprimerait l’âme dans le sens
+   biblique du terme. En effet, comme le Français, le Malgache dispose
+   d’un lexique très étendu pour désigner ces éléments immatériels qui
+   s’attachent à l’être humain. C’est vers cette âme que tend la
+   nostalgie. Le mot « âme » se rencontre souvent dans la poésie
+   malgache ; elle établit ou rétablit le lien avec les ancêtres. Dans son
+   poème dédié à son amie et poétesse Esther Razanadrasoa, Rabearivelo
+   écrit :
+
+     Dors-tu, ou parles-tu avec nos amis
+     qui t’avaient devancée dans l’Inconnu ?
+     Que divine a dû être votre nouvelle rencontre
+     Au bord du fleuve que nous n’avons pas encore passé !…
+
+   54La nostalgie des origines est plus flagrante chez Rabearivelo bien
+   qu’on la rencontre aussi chez beaucoup de poètes malgaches. Il s’agit
+   d’affirmer la filiation, de perpétuer le souvenir des ancêtres.
+
+   55Les origines ne vont pas plus loin que le temps des ancêtres, au-delà
+   elles plongent dans les mythes.
+
+La nostalgie et la mort
+
+     * 24 « Misy… », Folihala, Antananarivo, Tranom-printim-pirenena,
+       1968, p. 187.
+
+   56Il ne s’agit pas dans la nostalgie d’évoquer la mort comme la
+   destruction du corps, la limite de l’être, mais comme destruction de
+   l’ordre social établi par le manque ou la fêlure qu’elle crée au sein
+   de la société ou chez l’individu. Le poète exprime, en communion avec
+   les autres membres de la société (parents ou amis), le regret du
+   défunt. L’on peut citer, par conséquent, de nombreux poèmes en souvenir
+   des décédés, comme celui de Rabearivelo, « Thrènes », ou de Ny Avana
+   Ramanantoanina, « Ilay fasantsakaiza tiana » (La tombe d’un ami cher),
+   jusqu’aux poètes contemporains comme Rado ou Dox. Voici de Dox un
+   exemple de recueillement sur la tombe des êtres chers24 :
+
+     Misy takariva miavaka
+     Noho ny alahelo aminy…
+     Mampanainga tonom-bavaka,
+     Vetsovetso tsy hita laniny…
+     Izay jinery amin’iny
+     Malava ny fisainana…
+     Mahatsiaro ho mpivahiny
+     Ny fo lanaky ny fiainana.
+     Toa satry hahay miteny
+     Mbamin’ireny bainga ireny
+     Hitafana alahelo…
+     Mandalo fasana ianao :
+     Ny maro tahaka anao ao,
+     Nody vovoka sy avelo…
+
+     Il est d’étranges soirs
+     Par leur mélancolie…
+     Invitant aux prières,
+     À de longues rêveries…
+     Ce qu’on voit à ces instants
+     Éveille des pensées infinies…
+     Le cœur las de la vie
+     Se prend pour un passant.
+     On souhaite que sachent parler
+     Jusqu’à ces mottes de terre
+     Pour échanger les tristesses…
+     Parmi les tombes tu erres :
+     Là sont nombre de tes frères,
+     Devenus ombres et poussières…
+
+   57Même ceux qui n’attachent plus beaucoup d’importance aux rites du
+   famadihana (exhumation, traduit littéralement en français par
+   « retournement des morts ») semblent être encore liés aux traditions.
+   Dans le roman Taolambalo, cité plus haut, E. D. Andriamalala fait dire
+   à son héros (pp. 126-127) :
+
+     Nankahala ny famadihan’ny razana aho, sady sorena tamin’ireny  !…
+     Ary dia nanafatrafatra ny fianakaviana, mba hamela ahy hatory
+     amim-piadanana eo amin’izay toerana hahalavoako, fa tsy
+     hovilavilaina atsy, hasitrika aroa… Kanjo, nony maty Idada, tsy
+     haiko ny hamela azy hitsingidina tao anatu fasika nianjerany, ary
+     dia nanjary hetaheta zary filàna tato anatiko ny hitondra ny
+     taolambalony ho ao am-pasandrazana.
+
+     Fifohazan’ny razambe mandry tsy lavo loha ato amiko nandritra ny
+     arivo taona ve ? Fipoiran’ny maha- Malagasy sisa tsy matin’ny
+     “fandrosoana” tandrefana va ?…
+
+     Asa !… fa nampiraisiko lamba izysy Itompokovavy Ineny, ary teo,
+     ryJoely no nahatsapako fa IRAY Idada sy Ineny. Iray teo amin’ny
+     Fitiavana izy. Iray teo amin’ny fahavelomany. Iray hatramin’ny
+     fahafatesana!… Ary ho iray mandrakizay…
+
+     Fahendrena kidaladala nipoitra tamin’ny tanintsika, tahaka ny
+     nipoiran’ny zava-maniry eo aminy izany, ka izay hafa rehetra
+     mifanohitra aminy, ampidirina ankeriny na an-kafetsena, dia
+     voaozonko faty, na ho ela na ho haingana !
+
+     Je détestais le retournement des morts pratiqué par nos ancêtres, ça
+     m’exaspérait… Aussi, j’ai bien recommandé à ma famille de me laisser
+     dormir en paix là où je m’écroulerai, et ne pas me trimbaler à
+     gauche et à droite pour m’enfouir ailleurs… Cependant, quand mon
+     père mourut, je ne pouvais pas m’imaginer le laisser rouler dans le
+     sable où il était tombé, et c’est devenu une soif, une obsession
+     pour moi que de vouloir ramener ses os dans la tombe familiale.
+
+     Est-ce le réveil de l’ancêtre qui sommeillait depuis des milliers
+     d’années en moi ? Résurgence de ce qui fait de moi un Malgache et
+     que le progrès n’a pas effacé ?…
+
+     Je ne le sais !… En tout cas, je l’ai enveloppé dans le même linceul
+     que feue ma mère, et c’est là, mon cher Joël, que j’ai pris
+     conscience que Père et Mère ne font qu’UN. Un, dans leur Amour. Un
+     dans leur existence. Un jusqu’à la mort !… Et seront Un à jamais…
+
+     C’est une sagesse un peu folle qui a surgi de notre terre, comme les
+     plantes qu’elle recèle, et qui fait que tout ce qu’on impose par la
+     force ou par la ruse, est destiné à disparaître, tôt ou tard !
+
+   58Cette « sagesse » n’est donc pas foncièrement fondée sur des
+   principes raisonnés, mais est en l’homme, sans qu’il ait le pouvoir de
+   la renier. Une tendresse indéfectible relie les vivants aux morts, à
+   tous les morts, récents et anciens, précise Rabearivelo dans l’un de
+   ses poèmes.
+
+   59Il ne s’agit pas uniquement d’évoquer les morts, ceux qui sont
+   devenus des ancêtres, mais aussi de leur demander aide et protection.
+   Vus sous cet angle, les poètes sont par-devers eux des possédés,
+   c’est-à-dire ceux qui peuvent s’adresser directement aux ancêtres et
+   rapporter leurs paroles. Mais une différence est à souligner. Les
+   possédés des cultes ancestraux ne sont que les porte-parole des esprits
+   et, de ce fait, ne s’engagent pas dans ce que dit l’esprit. Ils
+   précisent souvent « hoy izy » (dit-il ou dit-elle), tandis que dans la
+   poésie malgache, on rencontre souvent la formule « hoy aho, ho’aho »
+   (dis-je). Il y a donc une reconnaissance pour soi de ce qui est « dit »
+   ou « écrit ». le possédant ou la possédante (la déesse de la Poésie ou
+   du chant, comme le désigne le poète Randza Zanamihoatra) se confond
+   avec le possédé, le poète. Le présent du poète se confond avec le passé
+   de l’esprit qui l’inspire.
+
+La nostalgie de l’au-delà
+
+   60La notion de paradis est arrivée avec le christianisme. Il ne s’agit
+   pas ici du paradis perdu, mais d’un paradis dont nul n’a encore goûté
+   la perfection et qui existerait. À force d’en entendre parler, l’homme
+   malgache a fini par y croire et créer pour soi une représentation plus
+   vraie que la réalité, que le monde ici-bas. Ainsi deux au-delà se
+   superposent ou se confondent souvent dans la poésie malgache :
+   l’au-delà « païen » et l’au-delà éclairé par la lecture de la Bible et
+   des livres religieux. Ce dernier semble avoir supplanté le premier,
+   sauf dans des cas rares comme chez Rabearivelo qui écoute l’appel du
+   Néant, de l’Inconnu. La nostalgie émaille même les cantiques religieux
+   et plus précisément ceux qui sont écrits pendant la persécution des
+   chrétiens, entre 1836 et 1861, sous la reine Ranavalona I. La plupart
+   des poètes, en parlant pourtant de l’au-delà, ne font pas forcément
+   référence au paradis des chrétiens. Ils évoquent l’inconnu au-delà des
+   nuages.
+
+   61Ny Avana donne une dimension cosmique à la nostalgie par un
+   dépassement de soi, pour l’intégrer dans le tout et par la divinisation
+   ou, pour être dans la conceptualisation malgache, dans
+   l’ancestralisation de l’être.
+
+   62Vue sous cet angle, la nostalgie est dans l’essence même de l’homme
+   malgache. Elle ne peut donc se définir qu’à partir de l’expérience de
+   l’homme. À partir du moment où il s’est rendu compte que la vie après
+   la mort est plus importante (car étant plus longue) que la vie sur
+   terre, il trouve normal que le lieu où se passera cette autre vie
+   future soit le plus confortable
+
+   63possible et pouvant réunir la famille dans l’au-delà. La nostalgie
+   procède donc de la peur de ne pas trouver sa place auprès des siens
+   après la mort, dans l’au-delà et du questionnement sur place de l’homme
+   dans l’univers, comme dans le poème « Izaho » de Dox déjà cité :
+
+     Inona eto an-tany aho, avy aiza no niaviako?
+     …………………………………………………
+     Inona eto an-tany aho? Nofo fotsiny miaina
+     Ka ny fifalian’ny nofo no hazaina dia hazaina ?
+     Kanefa raha ho lo ny nofo, inona no sisa ho amiko ?
+     Moa tsy mahalala aho fa ny nofoko hiraraka…
+     Izaho Nofo… Izaho Fanahy : roa loha tsy mahay misaraka
+     Nahoana aho no voafantsika eto an-tany tsy ho taniko?
+
+     Que suis-je sur cette terre, et d’où je suis venu ?
+     ………………………………………………….
+     Que suis-je sur cette terre ? Un simple corps qui vit
+     N’aspirant qu’à la seule satisfaction de la chair ?
+     Mais quand le corps viendrait à pourrir, que restera-t-il de moi ?
+     Ne sais-je que le corps va tomber en poussière…
+     Moi en tant que Corps… Moi en tant qu’Âme : deux entités
+     inséparables
+     Pourquoi suis-je cloué à ce monde qui n’est pas le mien ?
+
+   64Cet ailleurs peut donc s’imaginer comme un autre monde, celui que le
+   même poète définit dans le poème « Sambo ho aiza », cité plus haut.
+
+   65Pour terminer, parlons des symboles de la nostalgie chez les
+   Malgaches. L’importance donnée à la nostalgie se manifeste dans la
+   multiplicité des symboles y afférant. Le plus courant, le valiha, une
+   sorte de cithare tubulaire, fabriqué à partir d’un morceau de bambou,
+   est l’instrument de prédilection du nostalgique. L’écrivain Flavien
+   Ranaivo (1914-1999) le dit si bien dans le poème « Vêpres
+   imeriniennes » :
+
+     Dans l’ombre s’élèvent
+     Les accords magiques
+     D’un valiha qui s’épanche
+     Nostalgique.
+
+   66Par extension, le bambou d’où est extrait le valiha devient symbole.
+   Rabearivelo le signale par le biais de son poème intitulé « Valiha » :
+   « Ces bambous ne seront plus que des choses chantantes entre les mains
+   des amoureux. »
+
+   67Mais d’autres arbres, propres à la terre malgache sont parfois pris
+   en considération et utilisés par les poètes pour symboliser leur
+   nostalgie. Par exemple, l’arbre voara (figuier), chanté par F.-M.
+   Razanakoto dont la « vue inspire, aux rares passants / de ce lieu plein
+   de mélancolie, / le regret d’une époque abolie. »De même que le
+   ravinala, connu sous le nom évocateur d’« arbre de voyageur »… Aux
+   arbres cités, nous pouvons ajouter certaines plantes qui, par leur
+   discrétion dans la nature, leur fragilité, sont attachées à la
+   nostalgie.
+
+   68De par leur capacité à se déplacer, des animaux entrent dans le
+   bestiaire de la nostalgie, comme les ombimanga (zébus sauvages) :
+   « Zébu perdu loin de la forêt je suis / J’ai la nostalgie des êtres
+   aimés et je soupire. »
+
+   69Il en va de même pour l’arosy (oie de la côte de Coromandel),
+   l’akanga (pintade) et le tsiriry. Ce dernier désigne à la fois une
+   herbe et un petit oiseau (sarcelle), mais, dans les deux cas, il
+   symbolise la nostalgie, comme dans ces vers de Eliza Freda, extraits du
+   poème « Vetsovetso takariva » (Méditations du soir) :
+
+     Singan’olona toa very izany izaho,
+     Ravin-kazo tafasaraka aman-taho,
+     Tapak’ahitra entin-drano ka indrisy !
+     ‘Zay mba toeran-kitodiana toa tsy hisy!
+
+     Zana-borona manintsana elatra aho,
+     Raiki-tahotry ny oram-be mitraho,
+     Tsy mba zatry ny fanalan-keniheny,
+     Ka maniry ny hombomban’ny ela-dreny !
+
+     Solitaire et perdu je suis
+     Une feuille séparée de la branche
+     Un brin d’herbe emporté par le courant
+     Nul endroit où aborder.
+
+     Oisillon perdant ses plumes je suis
+     Effrayé par l’orage qui gronde
+     Pas du tout habitué aux froids des marais
+     Je rêve d’être à l’abri sous les ailes de ma mère.
+
+   70Par ailleurs, nous retrouvons l’expression de la nostalgie à travers
+   la toponymie. La plupart des lieux ayant des noms y faisant référence
+   sont hauts situés, c’est-à-dire à un endroit qui permet de voir une
+   dernière fois l’endroit qu’on quitte et qui fait apprécier le chemin
+   restant à parcourir, comme Manerinerina (qui incite à revenir, à
+   retourner d’où l’on était parti), Ankaratra, Andringitra ou
+   Ambatomiantendro (Au-pic), etc.
+
+   71Enfin, certaines saisons ou heures de la journée éveillent, comme
+   partout ailleurs, chez les poètes malgaches, la nostalgie.
+
+
+   72Nous nous demandons, pour conclure, comment un peuple englué dans le
+   présent comme le peuple malgache, peut encore trouver le temps de
+   penser au passé ou à l’avenir quand sa principale préoccupation est de
+   survivre ? La misère, au lieu de couper l’homme de la nostalgie,
+   l’incite au contraire à penser à des moments plus heureux, à s’évader
+   dans le temps ou dans l’espace à travers le rêve. La misère est donc un
+   moteur à la nostalgie. Une personne qui n’a pas de problème ne rêve que
+   de l’avenir. Si la jeune génération de poètes malgaches n’aborde pas de
+   la même manière que ses aînés le thème de la nostalgie, cela ne
+   signifie pas qu’elle s’en désintéresse. La nostalgie est parfois dans
+   les thèmes de la misère et de l’insatisfaction. Il y a donc un
+   déplacement du cadre et une non-absence.
+
+   73Par ailleurs, il est courant d’entendre dire que le Malgache est un
+   nostalgique. Cette constatation subjective ne permet pas d’inclure la
+   nostalgie dans la particularité de l’homme malgache. La malgachitude
+   est plutôt dans la nature de la nostalgie.
    Haut de page
 
 Bibliographie
 
-   Angé olivia, 2012
-   « Instrumentaliser la nostalgie. Les foires de troc andines
-   (Argentine) », Terrain, n° 59, « L’objet livre », p. 152-167.
-   Disponible en ligne, http://terrain.revues.org/15010 [lien valide en
-   mars 2015].
+   Barthes, R., 1972, Le degré zéro de l’écriture, Paris, Seuil.
 
-   Appadurai arjun, 1996
-   Modernity at large. Cultural dimensions of globalizations, Minneapolis,
-   University of Minnesota Press, coll. « Public words ».
+   Colin, P., 1959, Aspect de l’âme malgache, Paris, éd. de l’Orante.
 
-   Bartholeyns gil, 2014
-   « The instant past. Nostalgia and digital retrophotography », in
-   Katarina Niemeyer (dir.), Contemporary Nostalgia and Media, Londres,
-   Palgrave Macmillan, coll. « Memory studies », p. 51-69.
+   Dahle, L., 1962, Anganon’ny Ntaolo, Tananarive, Impr. Luthérienne, 7^e
+   éd.
 
-   Berdahl daphne, 1999
-   « “(N)Ostalgie” for the present. Memory, longing, and East German
-   things », Ethnos, vol. 64, n° 2, p. 192-211.
+   Dama-Ntsoha, 1962, « La signification de l’histoire malgache »,
+   Écrivains et poètes de Madagascar, n^o 3, nov.
 
-   Berlan aurélien, 2012
-   La Fabrique des derniers hommes. Retour sur le présent avec Tönnies,
-   Simmel et Weber, Paris, La Découverte, coll. « Théorie critique ».
+   Dubois, R., 1979, Olombelona. Essai sur l’existence personnelle et
+   collective à Madagascar, Paris, L’Harmattan.
 
-   Berliner david, 2010a
-   « Anthropologie et transmission », Terrain, n° 55, « Transmettre », p.
-   4-19. Disponible en ligne, http://terrain.revues.org/14035 [lien valide
-   en mai 2015].
+   Eduardo, L., 1997, Mythologie de la saudade, Paris, Chandeigne.
 
-   Berliner david, 2010b
-   « Perdre l’esprit du lieu. Les politiques de l’Unesco à Luang Prabang
-   (RDP Lao) », Terrain, n° 55, « Transmettre », p. 90-105. Disponible en
-   ligne, http://terrain.revues.org/14077 [lien valide en mai 2015].
+   Eliade, M., 1965, Le sacré et le profane, Paris, Gallimard.
 
-   Berliner david, 2014
-   « On exonostalgia », Anthropological Theory, vol. 14, n° 4, p. 373-386.
+   Molet, L., 1979, La conception du monde, du surnaturel et de l’homme en
+   Imerina, Paris, L’Harmattan.
 
-   Bissell william, 2005
-   « Engaging colonial nostalgia », Cultural Anthropology, vol. 20, n° 2,
-   p. 215-248.
+   Rajaobelina, P., 1948, « La nostalgie dans la poésie malgache »,
+   Mémoires de l’Académie malgache, Tananarive, Impr. Moderne de l’Emyrne,
+   p. 67-75.
 
-   Boyer dominic, 2012
-   « From algos to autonomos. Nostalgic Eastern Europe as postimperial
-   mania », in Mariia Nikolaeva Todorova & Zsuzsa Gille (dir.),
-   Post-Communist Nostalgia, Oxford, Berghahn Books, p. 17-28.
+   Rajaona, S., 1972, Takelaka notsongaina, 2 tomes, Fianarantsoa,
+   Ambozontany.
 
-   Boym svetlana, 2001
-   The Future of nostalgia, New York, Basic Books.
+   Rajemisa Raolison, R., 1966, Dictionnaire historique et géographique de
+   Madagascar, Fianarantsoa, Ambozontany.
 
-   Bryant rebecca, 2008
-   « Writing the catastrophe. Nostalgia and its histories in Cyprus »,
-   Journal of Greek modern studies, vol. 26, n° 2, p. 399-422.
+   Rajemisa Raolison, R., 1988, Les poètes malgaches d’expression
+   française, Antananarivo, Impr. Catholique.
 
-   Davis fred, 1979
-   Yearning for yesterday. A sociology of nostalgia, New York, Free Press.
+   Rajemisa-Raolison, R., & Ranaivo, F., 1948 « Anthologie de la poésie
+   française à Madagascar », Mémoires de l’Académie malgache, Tananarive,
+   Impr. Moderne de l’Emyrne, p. 14-15.
 
-   Herzfeld michael, 2005
-   Cultural Intimacy. Social poetics in the nation-state, New York,
-   Routledge.
+   Razafimahatratra, F.-X., 2000, « Quelques aspects de la poésie
+   traditionnelle malgache : le hain-teny », Cri d’os, n^o 31/32.
 
-   Jankélévitch vladimir, 1983 [1974]
-   L’Irréversible et la Nostalgie, Paris, Flammarion, coll. « Champs
-   philosophiques ».
+   Scheler, M., 1970, L’homme du ressentiment, Paris, Gallimard.
 
-   Kundera milan, 1991 [1984]
-   L’Insoutenable Légèreté de l’être. Roman, Paris, Gallimard.
+   Taurand, J., 1997, Michel Manoll ou l’envol de la lumière, Paris,
+   L’Harmattan.
 
-   Lankauskas gediminas, 2015
-   « Missing socialism again? The malaise of nostalgia in post-Soviet
-   Lithuania », in Olivia Angé & David Berliner (dir.), Anthropology and
-   Nostalgia, Oxford, Berghahn Books, p. 35-60.
+   Taurand, J., 1999, « Jacques Rabemananjara ou l’oiseau-roc », Friches,
+   n^o 67.
 
-   Lowenthal david, 1989
-   « Nostalgia tells it like it wasn’t », in Christopher Shaw & Malcolm
-   Chase (dir.), The Imagined Past. History and nostalgia, actes du 20e
-   « History Workshop » (Leeds, 1985), New York, Manchester University
-   Press, p. 18-32.
-
-   Nora pierre (dir.), 1984-1996
-   Les Lieux de mémoire, Paris, Gallimard, coll. « Bibliothèque illustrée
-   des histoires.
-
-   Rethmann petra, 2008
-   « Nostalgie à Moscou », Anthropologie et Sociétés, n° 32, vol. 1-2,
-   « Mondes socialistes et (post)socialistes », p. 85-102.
-
-   Rosaldo renato, 1989
-   « Imperialist nostalgia », Representations, n° 26, numéro spécial,
-   « Memory and counter-memory », p. 107-122.
-
-   Starobinski jean, 1966
-   « Le concept de nostalgie », Diogène, n° 54, p. 92-115.
-   Stewart kathleen, 1988
-   « Nostalgia —a polemic », Cultural Anthropology, vol. 3, n° 3, p.
-   227-241.
-
-   Todorova mariia nikolaeva & zsuzsa Gille (dir.), 2012
-   Post-Communist Nostalgia, Oxford, Berghahn Books.
+   Vérin, P., 1990, Madagascar, Paris, Karthala.
    Haut de page
 
 Notes
 
-   * Nous dédions cette introduction et ce volume à Christine Langlois,
-   directrice de rédaction de la revue Terrain depuis 1983. Merci à toi,
-   Christine, d’avoir fait de Terrain un périodique prestigieux et
-   singulier, une référence indispensable pour les anthropologues en
-   France et ailleurs. La communauté des anthropologues sera désormais
-   nostalgique de Terrain.
+   1 Dox, Folihala, Antananarivo, Tranom-printim-pirenena, 1968, p. 194.
+
+   2 Ibid., p. 193.
+
+   3 Extrait du poème de Ny Avana Ramanantoanina intitulé « Eritreritra »
+   (Méditations), publié dans le journal Ny Lakolosy Volamena, n^o 89,
+   8 déc. 1911.
+
+   4 Extrait du poème « Izay ho feoko eo am-pialana aina » (Ce que sera ma
+   voix au moment de l’agonie), de Samuel Ratany, publié dans le journal
+   Tsarahafatra, n^o 28, 26 avril 1927.
+
+   5 Il s’agit de l’insurrection anticoloniale qui a éclaté dans la nuit
+   du 29 au 30 mars 1947. Pour l’administration, les trois députés
+   malgaches, les docteurs Raseta et Ravoahangy et justement le poète
+   Jacques Rabemananjara, en furent les premiers responsables.
+
+   6 La société secrète VVS ou Vy, Vato, Sakelika, (Fer, Pierre,
+   Ramification) se proposait de préparer l’esprit des Malgaches à la
+   restauration de leur dignité. Les membres de ce groupe d’intellectuels,
+   dont des étudiants en médecine, des écrivains, des hommes d’Église,
+   furent sévèrement condamnés.
+
+   7 Dans Dinitra (Sueurs), Antananarivo, Impr. Spéciale Hehy, 1973,
+   p. 143.
+
+   8 Paru en feuilleton dans le journal officiel Vaovao Frantsay-Malagasy,
+   à partir du 30 novembre 1906. Andraozikely est l’un des deux romans qui
+   inaugurent la naissance de ce genre à Madagascar au début du siècle
+   dernier.
+
+   9 Tananarive, Bibliothèque nationale, 1967.
+
+   10 Antananarivo, Libr. Mixte, 1972.
+
+   11 Écrit en 1928, le roman L’Interférence est publié par Hatier, lors
+   de la commémoration du cinquantenaire de la mort du poète en 1987.
+
+   12 Antananarivo, Libr. Mixte, 1972.
+
+   13 Tananarive, Impr. de l’Imerina, 1928.
+
+   14 Extrait du poème, sélectionné par Régis Rajemisa-Raolison et Flavien
+   Ranaivo (1948 : 14-15).
+
+   15 Paris, Présence africaine, 1956, p. 74-75.
+
+   16 Massif central dominant l’Imerina à 60 km au sud-ouest de
+   Tananarive. Dans la littérature, les Malgaches, frappés par la majesté
+   du massif, y font souvent allusion ; aussi dans plus d’un de leurs
+   hain-teny (poésie traditionnelle malgache), expriment-ils le sentiment
+   que leur inspire sa vue imposante, et la mélancolie que font naître au
+   coeur les répercussions des coups de tonnerre qui semblent s’en
+   détacher : « Midona ny orana any Ankaratra, vaky tsipelana ny any
+   Anjafy ; tomanitomany Razanaboromanga » (Le tonnerre gronde du haut de
+   l’Ankaratra et du coup, éclatent les bourgeons là-bas à Anjafy et
+   Le-petit-de-l’oiseau-bleu pleure, pleure) (Rajemisa-Raolison 1966 :
+   67).
+
+   17 Massif du sud de Fianarantsoa, le second sommet de l’île après le
+   Tsaratanàna, dont le point culminant, le Boby, se situe à près de
+   2660 m.
+
+   18 Grand village à 20 km au nord de Tananarive, célèbre pour avoir été,
+   depuis le règne du roi Andrianampoinimerina (1787-1810), la ville
+   sacrée des rois de l’Imerina (Rajemisa-Raolison 1966 : 29).
+
+   19 Lac pittoresque à 18 km à l’ouest d’Antsirabe, constitué par un
+   ancien cratère de volcan. C’est un lac aux parois abruptes, presque
+   verticales, et dont les eaux vertes et glauques, d’une profondeur
+   insondable, inspirent au milieu d’un silence de mort, un sentiment à la
+   fois grandiose et funèbre. Le lac Tritriva est popularisé par une
+   légende touchante — ayant eu fond véridique — qu’on se raconte encore
+   de nos jours, à propos d’un arbre singulier de sa rive. Du temps
+   d’Andrianampoinimerina, deux fiancés, Rabeniomby et Ravolahanta, à qui
+   leurs parents avaient défendu de se marier, s’y seraient, dit-on, jetés
+   après s’être enroulés dans leur lamba (toge, étole). À partir de cet
+   instant, un arbre singulier aurait poussé au bord des eaux du Tritriva,
+   affectant la forme de deux corps enlacés et dont l’écorce, simplement
+   pincée à l’ongle, laisse couler du sang.
+
+   20 Dans : Terre promise, Antananarivo, éd. Revue de l’océan Indien,
+   1988, p. 87-88.
+
+   21 Sylvia Hanitra Andriamampianina, Miangaly ou l’Ile en plainte,
+   Tananarive, Foi et Justice, 1994.
+
+   22 Tananarive, Libr. Mixte, 1999.
+
+   23 Extrait de la préface du recueil de poèmes Presque songes, par
+   Jacques Rabemananjara (Tananarive, Impr. Officielle, 1960, p. 16).
+
+   24 « Misy… », Folihala, Antananarivo, Tranom-printim-pirenena, 1968,
+   p. 187.
    Haut de page
 
 Pour citer cet article
 
 Référence papier
 
-   Olivia Angé et David Berliner, « Pourquoi la nostalgie ? »,Terrain,
-   65 | 2015, 4-11.
+   François-Xavier Razafimahatratra, « De l’exil à la nostalgie au travers
+   de la littérature malgache », Études océan Indien, 40-41 | 2008,
+   161-186.
 
 Référence électronique
 
-   Olivia Angé et David Berliner, « Pourquoi la nostalgie ? », Terrain [En
-   ligne], 65 | septembre 2015, mis en ligne le 15 septembre 2015,
-   consulté le 17 décembre 2022. URL :
-   http://journals.openedition.org/terrain/15801 ; DOI :
-   https://doi.org/10.4000/terrain.15801
+   François-Xavier Razafimahatratra, « De l’exil à la nostalgie au travers
+   de la littérature malgache », Études océan Indien [En ligne],
+   40-41 | 2008, mis en ligne le 20 mars 2013, consulté le 17 décembre
+   2022. URL : http://journals.openedition.org/oceanindien/1398 ; DOI :
+   https://doi.org/10.4000/oceanindien.1398
    Haut de page
 
-Auteurs
+Auteur
 
-Olivia Angé
-
-   Wageningen University (Pays-Bas), Sociology of Development and Change
-
-Articles du même auteur
-
-     * Le goût d’autrefois
-       Pain au levain et attachements nostalgiques dans la société
-       contemporaine
-       [Texte intégral]
-       Paru dans Terrain, 65 | septembre 2015
-     * Instrumentaliser la nostalgie
-       Les foires de troc andines (Argentine)
-       [Texte intégral]
-       Paru dans Terrain, 59 | septembre 2012
-
-David Berliner
-
-   Université libre de Bruxelles, Laboratoire d’anthropologie des mondes
-   contemporains (LAMC)
-
-Articles du même auteur
-
-     * Pourquoi ne pas faire lire des œuvres de fiction à nos étudiants ?
-       [Texte intégral]
-       Paru dans Terrain, Glissements de terrain
-     * Anthropologie et transmission*
-       [Texte intégral]
-       Paru dans Terrain, 55 | septembre 2010
-     * Perdre l’esprit du lieu
-       Les politiques de l’Unesco à Luang Prabang (rdp Lao)
-       [Texte intégral]
-       Paru dans Terrain, 55 | septembre 2010
+François-Xavier Razafimahatratra
 
    Haut de page
 
 Droits d’auteur
 
-   Licence Creative Commons
-   Terrain est mis à disposition selon les termes de la Licence Creative
-   Commons Attribution - Pas d'Utilisation Commerciale - Pas de
-   Modification 4.0 International.
+   CC-BY-NC-4.0
+
+   Creative Commons - Attribution - Pas d’Utilisation Commerciale 4.0
+   International - CC BY-NC 4.0
+
+   https://creativecommons.org/licenses/by-nc/4.0/
    Haut de page
-   Sommaire - Document suivant
+   Sommaire - Document précédent - Document suivant
 
 Navigation
 
 Index
 
-     * Auteur
-     * Mot-clé
-     * Thème
-     * Lieu d'étude
+     * Auteurs
+     * Mots-clés
+     * Noms de lieux
+     * Domaines
+     * Populations
 
-Numéros thématiques
+Numéros en texte intégral
 
-     * 2022 > 76 | 77
-     * 2021 > 74 | 75 | Hors-série
-     * 2020 > 73
+     * 51-52 | 2014
+       Autour des entités sacrées
+     * 49-50 | 2013
+       Archipels créoles de l’océan Indien
+     * 48 | 2012
+       Langues, savoirs et pouvoirs dans l'océan Indien occidental
+     * 46-47 | 2011
+       Vohémar, cité-État malgache
+     * 45 | 2010
+       Amour et sexualité du côté de l’océan Indien occidental
+     * 44 | 2010
+       Images contemporaines dans les sociétés de l’océan Indien
+       occidental
+     * 42-43 | 2009
+       Plantes et Sociétés
+     * 40-41 | 2008
+       De l’éclosion à l’épanouissement de la littérature malgache
 
 Tous les numéros
 
-Rubriques en ligne
+La revue
 
-     * Questions
-     * Terrains
-     * Portraits
-     * Glissements de terrain
-     * Lectures et débats
-
-À propos
-
-     * La revue
-     * Comité de rédaction
-     * Consignes aux auteurs
-     * Les liens de Terrain
-     * Les soutiens de Terrain
-
-Acheter la revue papier
-
-     * Abonnement
-     * Achat au numéro
+     * Études Océan Indien
+     * Les comités
+     * Le CROIMA
+     * Informations vente
 
 Informations
 
+     * Mentions légales et Crédits
      * Contacts
-     * La lettre électronique de Terrain
-     * Crédits
      * Politiques de publication
-
-Prochains numéros
-
-     * À paraître
-     * Appels en cours
-     * Appels clos
 
 Suivez-nous
 
-     * Twitter
-     * Facebook
-     * Le blog de Terrain
-     * Flux RSS
+     * Actualités Actualités
 
 Lettres d’information
 
-     * La Lettre d’OpenEdition
-
-   Accès abonnés
-
-   Login ____________________
-   Mot de passe ____________________
-   (BUTTON) Se connecter (BUTTON) Annuler
+     * La Lettre d'OpenEdition
 
 Affiliations/partenaires
 
-     * Logo INSHS
-     * Logo MSH Mondes
-     * Logo Hauts-de-Seine
-     * Logo Centre National du Livre
-     * Logo Musée du quai Branly
-     * Logo Université Paris Ouest
-     * Logo FMSH-Diffusion
      * OpenEdition Journals
 
-   ISSN électronique 1777-5450
+   ISSN électronique 2260-7730
 
    Voir la notice dans le catalogue OpenEdition
 
-   Plan du site – Contacts – La lettre électronique de Terrain – Crédits –
-   Flux de syndication
+   Plan du site – Mentions légales et Crédits – Flux de syndication
 
    Politique de confidentialité – Gestion des cookies
 
@@ -568,7 +1486,7 @@ Affiliations/partenaires
    Vous allez être redirigé vers OpenEdition Search
    ____________________
    ( ) Dans tout OpenEdition
-   (*) Dans Terrain
+   (*) Dans Études océan Indien
    (BUTTON) Rechercher
 
      * Français

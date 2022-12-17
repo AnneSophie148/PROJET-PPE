@@ -1,342 +1,242 @@
-   IFRAME: https://gtm-server.healthline.com/ns.html?id=GTM-MB6365D
-
-     * Health Conditions
-          + Health Conditions
-               o Alzheimer's & Dementia
-               o Anxiety
-               o Arthritis
-               o Asthma & Allergies
-               o Breast Cancer
-               o Cancer
-               o Cardiovascular Health
-               o COVID-19
-               o Dermatology & Skincare
-               o Diabetes
-               o Environment & Sustainability
-               o Exercise & Fitness
-               o Eye Health
-               o Headache & Migraine
-               o Health Equity
-               o HIV & AIDS
-               o Human Biology
-               o Inflammatory Bowel Disease
-               o Leukemia
-               o LGBTQIA+
-               o Men's Health
-               o Mental Health
-               o Multiple Sclerosis (MS)
-               o Nutrition
-               o Parkinson's Disease
-               o Psoriasis
-               o Sexual Health
-               o Women's Health
-     * Health Products
-          + Health Products
-               o Nutrition & Fitness
-               o Vitamins & Supplements
-               o CBD
-               o Sleep
-               o Mental Health
-               o At-Home Testing
-               o Men’s Health
-               o Women’s Health
-     * Discover
-          + News
-               o Latest News
-          + Original Series
-               o Medical Myths
-               o Honest Nutrition
-               o Through My Eyes
-               o New Normal Health
-          + Podcasts
-               o How Viagra became a new 'tool' for young men
-               o What makes breast cancer come back?
-               o How to understand chronic pain
-               o What is behind vaccine hesitancy?
-               o The amazing story of hepatitis C, from discovery to cure
-               o New directions in dementia research
-     * Tools
-          + General Health
-               o Drugs A-Z
-               o Health Hubs
-          + Health Tools
-               o BMI Calculators and Charts
-               o Blood Pressure Chart: Ranges and Guide
-               o Breast Cancer: Self-Examination Guide
-               o Sleep Calculator
-          + Quizzes
-               o RA Myths vs Facts
-               o Type 2 Diabetes: Managing Blood Sugar
-               o Ankylosing Spondylitis Pain: Fact or Fiction
-     * Connect
-          + About Medical News Today
-               o Who We Are
-               o Our Editorial Process
-               o Content Integrity
-               o Conscious Language
-          + Newsletters
-               o Sign Up
-          + Follow Us
-
-   (BUTTON)
-     * (BUTTON) Health Conditions
-     * (BUTTON) Health Products
-     * (BUTTON) Discover
-     * (BUTTON) Tools
-     * (BUTTON) Connect
-
-   (BUTTON) Subscribe
-
-Products and Reviews
-
-     * Nutrition & Fitness
-     * Vitamins & supplements
-     * CBD
-     * Sleep
-     * Mental health
-     * At-home testing
-     * Men's Health
-     * Women's Health
+   #alternate
 
    (BUTTON)
 
-Why do we need nostalgia?
+   Old school
 
-   By Maria Cohut, Ph.D. on January 1, 2021
+The power of nostalgia: What science tells us about longing for the past
 
-   Nostalgia and homesickness are part and parcel of the human experience.
-   Most of us associate them with feelings of sadness and sometimes loss,
-   but do they actually play a positive role in the human psyche? Medical
-   News Today investigates.
-   Share on Pinterestkool99/Getty Images
+   “Nostalgia is a resource that people use to move forward.”
+   campers in 1930
 
-   The term “nostalgia” originates from Ancient Greek via New Latin, and
-   it is a composite of the root words “nostos,” meaning “home,” and
-   “algos,” meaning “pain.”
+   Chris Ware/Keystone/FPG/Getty Images
+   Katie MacBride
+   July 4, 2021
 
-   Essentially, it refers to the pain of being far away from home. The
-   first time “nostalgia” came into use was in 17th-century Switzerland,
-   when physician Johannes Hofer identified it as a condition specific to
-   Swiss mercenary soldiers.
+   Under resplendent Douglas Firs, cedars, and Manzanita trees creeps a
+   green shrub with a powerful odor.
 
-   Hofer identified nostalgia as a disease of the mind, and he described
-   its mechanism as below:
+   It’s called mountain misery, or Chamaebatia foliolosa. It’s native to
+   California. It only grows at elevations between 2,000 and 7,000 feet
+   and only on the western side of the Sierra Nevada Mountains — which is
+   precisely where I went to summer camp as a kid.
 
-     “Nostalgia […] is sympathic of an afflicted imagination. Hence, from
-     the living spirits entirely by its own momentum along uncommon
-     routes through the untouched courses of the channels of the brain to
-     the body, and by revisiting the oval tubes of the center brain, it
-     is originated by arousing especially the uncommon and ever-present
-     idea of the recalled native land in the mind.”
+   All I need is a gentle whiff of mountain misery on the warm summer air
+   and I am transported back to idyllic summer days filled with lake
+   swimming, water balloon fights, and drinking orange soda. The feeling
+   isn’t just one of happy recollection: It’s carried by a strong current
+   of wistful longing for a time in the past. It’s nostalgia.
 
-   Some of the symptoms that accompanied this “affliction” included
-   “persistent thinking of home, bouts of weeping, anxiety, irregular
-   heartbeat, anorexia, insomnia, and even smothering sensations.” This is
-   according to a paper published in 2006 by Profs Tim Wildschut and
-   Constantine Sedikides, from the University of Southampton in the United
-   Kingdom, and their colleagues.
+   Nostalgia is powerful: It gets political leaders elected, it’s at the
+   core of billions of dollars of advertising, and was once considered a
+   medical disease. But what is nostalgia and what makes it so powerful?
+   What’s happening in our brains when we’re feeling it and how does it
+   influence our lives?
 
-   Physician J. J. Scheuchzer, who lived and worked around the same time
-   as Hofer, had a similar view of nostalgia. However, he argued that it
-   was not a result of an internal imbalance of the mind, but a condition
-   influenced by external factors.
+   Researchers are finding that nostalgia can be an enormously beneficial,
+   and potentially life-saving emotion. Clay Routledge, a psychological
+   scientist, has spent much of his career studying what gives our lives
+   meaning and has found that nostalgia plays an important role.
 
-   According to him, nostalgia was caused by “a sharp differential in
-   atmospheric pressure causing excessive body pressurization, which in
-   turn drove blood from the heart to the brain, thereby producing the
-   observed affliction of sentiment.”
+   “Nostalgia is one of the self-regulatory tools we use to remind
+   ourselves that we matter,” he tells Inverse.
 
-   Nostalgia and homesickness as ‘disorders’
+What is nostalgia?
 
-   For many centuries, doctors persisted in understanding nostalgia as a
-   state of ill health that required treatment. However, views around its
-   mechanisms and typology, as well as around which demographics it
-   affected, kept shifting over the years.
+   “The simplest definition of nostalgia is people’s reflection on their
+   cherished memories,” Routledge explains. “That varies from person to
+   person, obviously, but there are some commonalities.”
 
-   In a paper from 2008, Profs Wildschut, Sedikides, and their colleagues
-   note that, throughout the 17th and 18th centuries, doctors thought
-   nostalgia only affected the Swiss, since they mostly observed it in the
-   Swiss mercenary soldiers that lent their services to foreign armies.
+   Routledge says nostalgic memories tend to have the following
+   characteristics:
+     * A social component: Nostalgic memories typically involve family
+       members, close friends, or romantic partners.
+     * Personal meaning: The memories might seem trivial to someone else,
+       but because of the personal context, they’re meaningful.
+     * They occurred fairly far in the past.
 
-   Prof. Svetlana Boym writes that, at this time, cures for nostalgia
-   included “leeches, warm hypnotic emulsions, opium” and returning home,
-   to the Alps.
+   In other words, you’re unlikely to feel nostalgic about something that
+   happened yesterday, but you likely have a nostalgic memory or two from
+   a decade ago.
 
-   In the early 19th century, however, physicians had begun to acknowledge
-   it as a widespread condition that they saw as a form of melancholy or
-   depression.
+What nostalgia does to the brain
 
-   Throughout the 20th century, doctors kept changing their minds about
-   the nature of nostalgia, though they mostly associated it with
-   homesickness, an unhelpful psychological mechanism experienced by
-   students and migrants unable to adapt to a new life away from home.
+   A 2016 study used fMRI imaging to monitor participants’ brain activity
+   when they were exposed to nostalgia-inducing stimuli. When nostalgia
+   was triggered, participants’ brains showed activity in two powerful
+   neural networks: the areas of the brain associated with memory and the
+   brain’s reward system.
 
-   In their 2008 article, Profs Wildschut, Sedikides, and their colleagues
-   explain:
+   The more those systems “worked cooperatively,” the researchers found,
+   the more nostalgia people felt.
+   camping car
+   “Nostalgia is one of the self-regulatory tools we use to remind
+   ourselves that we matter.”Shutterstock
 
-     “By the beginning of the 20th century, nostalgia was regarded as a
-     psychiatric disorder. Symptoms included anxiety, sadness, and
-     insomnia. By the mid-20th century, psychodynamic approaches
-     considered nostalgia a subconscious desire to return to an earlier
-     life stage, and it was labeled as a repressive compulsive disorder.
-     Soon thereafter, nostalgia was downgraded to a variant of
-     depression, marked by loss and grief, though still equated with
-     homesickness.”
+   A very specific kind of memory is being activated during nostalgia,
+   Routledge says. “Most of the time when you’re nostalgic, it’s
+   autobiographical; you’re accessing what we call ‘self-relevant
+   memories,” he explains.
 
-   In their 2006 article, they also point out that, for much of the 20th
-   century, some psychologists viewed nostalgia as an “immigrant
-   psychosis,” a “mentally repressive compulsive disorder,” or “a
-   regressive manifestation closely related to the issue of loss, grief,
-   incomplete mourning, and, finally, depression.”
+   Studies have shown that smells, like my trusty mountain misery, can be
+   an especially powerful catalyst for nostalgic memories.
 
-   According to Profs Wildschut, Sedikides, and their colleagues, in the
-   late 20th century, doctors and researchers started to differentiate
-   between nostalgia and homesickness.
+   If you’re hiking in the Sierras, you’re smelling fresh air, dirt, and
+   too many trees and plants to count. All of those scents are sorted and
+   parsed in the body’s olfactory bulb, which extends from your nose to
+   the base of your brain. The olfactory bulb is directly connected to the
+   amygdala, an area of the brain responsible for processing emotion, and
+   the hippocampus, an area of the brain associated with memory.
 
-   They suggest homesickness became conflated with mental health issues,
-   such as separation anxiety, whereas nostalgia began to be associated
-   with idealized images of childhood or past happy times.
+   Smells from childhood are particularly powerful in this respect because
+   very often our first exposure to scents is in childhood. Our brains
+   form particularly strong connections during this process in case
+   recollection of the smell is important for survival.
 
-   What are the benefits of nostalgia?
+Is nostalgia a positive or negative emotion?
 
-   So is nostalgia — and even homesickness — a sign that a person is
-   unable to adapt to a new life, new surroundings, or the realities of
-   adult life? Or does it also play a positive role in the human psyche?
+   In the earliest days of nostalgia study, Routledge says, “it was seen
+   as simply as homesickness.”
 
-   Physicians no longer treat nostalgia as a disorder, but the phenomenon
-   continues to interest researchers.
+   This is where nostalgia gets its name: the word was coined by a Swiss
+   medical student, Johannes Hofer, in his 1688 dissertation. In
+   describing the anxieties of soldiers fighting away from home, he
+   combined the Greek word for homecoming, nostos, with the word for pain,
+   algos.
 
-   Profs Wildschut, Sedikides, and their colleagues sought to learn more
-   about this mental state in a series of studies conducted in 2006.
+     “There’s a tinge of sadness or loss because you know you can’t have
+     that exact thing again.”
 
-   One study, based on the self-reported experiences of the participants,
-   indicated that nostalgia is, by and large, “a positively toned and
-   self-relevant emotion that is often associated with the recall of
-   experiences involving interactions with important others or of
-   momentous life events.”
+   But watch someone find an old-school Gameboy or the opening credits of
+   their favorite childhood TV show, and you’ll likely find them smiling.
+   While homesickness is pure ache, nostalgia is a unique mix of ache and
+   pleasure.
 
-   Nostalgic memories, the researchers found, often contained a mixture of
-   happiness and sadness that ultimately came together to form a
-   constructive narrative:
+   “We call an emotionally ambivalent motion, which means it has its
+   complex right as positive features and negative features,” Routledge
+   explains. “There’s a tinge of sadness or loss because you know you
+   can’t have that exact thing again, or someone in the memory is no
+   longer alive. But that sadness comes with, and is often overwhelmed by
+   positivity.”
 
-     “Although most narratives contained negative as well as positive
-     elements, these elements were often juxtaposed so as to form a
-     redemption sequence — a narrative pattern that progresses from a
-     negative to a positive or triumphant life scene.”
+   That positivity is what can make nostalgia such a useful emotion.
 
-   A second study confirmed that nostalgia helps form a constructive
-   narrative of meaningful events from the past, but it also identified
-   some of the most common triggers of nostalgia.
+Nostalgia as motivation and meaning
 
-   According to the researchers, most participants experienced nostalgia
-   when faced with difficult life situations, such as present worries and
-   anxieties. This suggested that casting their minds back to a happier or
-   more meaningful time helped participants cope with present
-   uncertainties.
+   Routledge and his nostalgia-studying colleagues have found that
+   nostalgia is actually used to help self-regulate stress signals in the
+   brain. Routledge speculates likely what those soldiers were doing when
+   Hofer observed them and coined the term.
 
-   “Chief among the perceived benefits of nostalgia were its capacity to
-   generate positive affect, bolster social bonds, and increase positive
-   self-regard,” Profs Wildschut, Sedikides, and their colleagues write.
+   “These soldiers were stressed and homesick and afraid,” he says, “and
+   revisiting cherished memories from home was a way to cope with that
+   stress.”
 
-   Further research reveals other ways that nostalgia can be beneficial.
-   For example, a 2012 paper reports that this mental state can help
-   increase a person’s willingness to help others, thanks to the fact that
-   it strengthens the sense of social connectedness.
+   His own research supports this theory. “We’ve seen that nostalgia seems
+   to bring online these motivational, or self-regulatory processes in the
+   brain that help us down-regulate or mitigate psychological threats,”
+   Routledge says.
+   post card
+   A vintage souvenir postcard shows crowds at Coney Island Beach and
+   Boardwalk in 1944.Getty/Nextrecord Archives
 
-   According to Dr. Krystine Batcho — professor of psychology at LeMoyne
-   College in Syracuse, NY — nostalgia also helps strengthen a person’s
-   identity, their sense of self.
+   Research suggests the social aspect of nostalgia motivates us to engage
+   in “prosocial” behavior. Nostalgia makes us realize the importance of
+   relationships and, in turn, motivates us to connect with friends and
+   pursue romantic relationships.
 
-   In an interview for the American Psychological Association, she asserts
-   that “nostalgia is an emotional experience that unifies,” that “helps
-   unite our sense of who we are, our self, our identity over time,” and
-   “gives us a sense of who we want to be […] in the future.”
+   It’s also strongly associated with optimism and resiliency.
 
-   Most recently, in June 2020, Dr. Andrew Abeyta — from The State
-   University of New Jersey in Camden — and his colleagues show that
-   indulging in nostalgic thinking can help reduce the negative
-   psychological impact of loneliness.
+   “Nostalgia is a resource that people use to move forward,” Routledge
+   says.
 
-   “Based on the current research, stopping the cycle of loneliness may
-   involve looking to the past for confidence and encouragement,” the
-   researchers conclude.
+   We saw all of these aspects of nostalgia play out during the pandemic.
+   You probably found yourself watching old movies, or listening to old
+   music. When we were in lockdown, we all felt nostalgic for the “before
+   times” when we could see, in person, our family and friends.
 
-   So when our minds fall back on cherished memories of the past, it may
-   be best to allow ourselves this bittersweet experience.
-     * Depression
+   Those feelings were triggered by loneliness and a stressful situation,
+   but they were also motivating — propelling us to believe that if we
+   could just make it through, the reward of those in-person visits would
+   be worth the wait.
+
+   The next time you find yourself daydreaming about that summer you were
+   16 or Christmas morning at your grandmother’s house, know that that
+   swirling mix of comfort and longing is doing something important: It’s
+   helping you understand what you want and motivating you to get there.
+
+   More like this
+   Science
+   Dec. 4, 2022
+   Girl holding paw of a dog
+   We need to start treating grieving for our pets seriously — therapists
+   can help
+   By Tara Yarlagadda
+   Mind and Body
+   Dec. 14, 2022
+   Colorado is the first state to allow psychedelic-assisted therapy; in
+   2020 Oregon passed a bill that...
+   How Colorado’s radical decriminalization efforts may herald a new era
+   for psychedelics
+   By Katie MacBride
+   Mind and Body
+   Dec. 12, 2022
+   Microbiome tests claim to provide a detailed view of the microorganisms
+   that reside in your gut and ...
+   Microbiome home test kits are the wild west of gut health
+   By Katie MacBride
+   LEARN SOMETHING NEW EVERY DAY.
+   ____________________ (BUTTON) Submit
+   By subscribing to this BDG newsletter, you agree to our Terms of
+   Service and Privacy Policy
+   Related Tags
+     * Health
+     * Psychology
      * Mental Health
-     * Psychology / Psychiatry
 
-   Share this article
-   By Maria Cohut, Ph.D. on January 1, 2021
+   Share:
 
-Latest news
+   [ ]
 
-     * Artificial sweetener aspartame linked to anxiety, mice study finds
-     * Alzheimer's: Brain protein offers clues about higher risk in older
-       women
-     * Talquetamab: New drug may offer hope for those with hard-to-treat
-       blood cancer
-     * Researchers identify insulin-mimicking molecule that could treat
-       diabetes
-     * 'Sticky' cholesterol and hypertension may increase heart attack,
-       stroke risk
+   [ ] (BUTTON) (BUTTON)
+   ____________________
+   (BUTTON)
+   Reset
+   (*)
+   Science
+   SpaceClimate CrisisNatureAncient HumansSee All
+   ( )
+   Innovation
+   HorizonsTransportationArtificial IntelligenceSee All
+   ( )
+   Entertainment
+   MultiverseReviewsThe MCUSee All
+   ( )
+   Mind and Body
+   Men's HealthLongevity HacksPublic HealthStrategyMental HealthSee All
+   ( )
+   Gaming
+   Video Game ReviewsWalkthroughsOpen WorldSee All
+   ( )
+   Culture
+   Amplifying Our Voices
+   Gear
+   Inverse Recommends
+     * About
+     * Masthead
+     * Newsletter
+     * Terms
+     * Topics
+     * Privacy
+     * Archive
+     * DMCA
+     * Browse
+     * Advertise
+     * Ethics
+     * Contact
 
-Related Coverage
+   INVERSE © 2022 BDG Media, Inc. All rights reserved.
 
-     * Can scientists 'hack' memory?
-       Is it possible to manipulate memory formation and consolidation?
-       And why would we want to do it? We explore these questions in this
-       Spotlight feature.
-       READ MORE
-     *
-     * Synesthesia: Hearing colors and tasting sounds
-       People with synesthesia experience unique perceptual cross-overs,
-       such as associating letters or sounds to colors. Learn more about
-       it in this…
-       READ MORE
-     * How language shapes our brains...and our lives
-       In this Spotlight, we look at the origins of spoken language, where
-       language is present in the brain, and how the languages we speak
-       shape our world.
-       READ MORE
-     * How can we overcome loneliness?
-       Loneliness is an epidemic and a major risk factor for premature
-       death, recent research suggests. So what can we do to prevent and
-       overcome it?
-       READ MORE
-     * Can pessimism be beneficial?
-       Is your glass always half empty? Do you expect negative outcomes?
-       As a pessimist, you may have more advantages than you think. Read
-       on to learn more.
-       READ MORE
-
-     * About Us
-     * Contact Us
-     * Terms of Use
-     * Privacy Policy
-     * Privacy Settings
-     * Advertising Policy
-
-     * Health Topics
-     * Health Hubs
-     * Medical Affairs
-     * Content Integrity
-     * Newsletters
-     * © 2004-2022 Healthline Media UK Ltd, Brighton, UK, a Red Ventures
-       Company. All rights reserved. MNT is the registered trade mark of
-       Healthline Media. Any medical information published on this website
-       is not intended as a substitute for informed medical advice and you
-       should not take any action before consulting with a healthcare
-       professional. See additional information.
-
-   © 2004-2022 Healthline Media UK Ltd, Brighton, UK, a Red Ventures
-   Company. All rights reserved. MNT is the registered trade mark of
-   Healthline Media. Any medical information published on this website is
-   not intended as a substitute for informed medical advice and you should
-   not take any action before consulting with a healthcare professional.
-   See additional information.
-   AboutCareersAdvertise with us
-
-   OUR BRANDS
-   HealthlineMedical News TodayGreatistPsych Central
+   [p-xPmcrFNGfHkBg.gif]
+   [p?c1=2&amp;c2=17519299&amp;cs_ucfr=0&amp;cv=2.0&amp;cj=1]
+   [tr?id=1636673763227734&amp;ev=PageView&amp;noscript=1]

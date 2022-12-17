@@ -180,7 +180,7 @@ O QUE (NÃO) ACONTECEU
    Está correto? *
      * [ ] Sim
 
-   Website ____________________
+   Name ____________________
    (evf-submit) Quero receber as Newsletters!
    (BUTTON)
    168 Shares
@@ -211,13 +211,13 @@ You may also like these posts
 
      * related-post
 
-Quarentena: sentir-se em casa
-     * related-post
-
-Grosserias se propagam como vírus
+A razão e a empatia pelo coletivo
      * related-post
 
 Afinal, somos todos hipócritas?
+     * related-post
+
+Pensamento flexível-elástico
 
     1.
    Impossível ter sucesso em tudo - Repensando Atitudes

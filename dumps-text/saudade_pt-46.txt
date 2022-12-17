@@ -1,387 +1,456 @@
-   1Library PT
-   1Library PT
-   ____________________ (BUTTON)
-
-   Upload
-   [ ]
-     * Loading...
-
-   [ ]
-   ____________________ (BUTTON)
-   [ ]
-
-2 – Saudade
-
-   No documento O Amor na Cultura Portuguesa - Camões e António Ferreira -
-   (páginas 54-61)
-
-   Servem de mote ao tema da saudade, que de seguida tratamos, as palavras
-   de Hernâni Cidade:
-
-   A saudade e o morrer de amor (outra face do mesmo prisma de terna
-   afectividade e da mesma designação apaixonada) são realmente as
-   sensações que vibram nas melhores obras da literatura portuguesa,
-   naquelas que lhe dão renome. Elas perturbam o meigo livro de Bernardim
-   Ribeiro e os livros que estilisticamente derivam dele, como a
-   Consolação de Israel, de Samuel Usque, e as Saudades da
-
-   55
-
-   Terra, de Gaspar Frutuoso. Perfumam as Rimas de Camões e os Episódios e
-   as
-
-   Prosopopeias d’Os Lusíadas. Perfumam as Cartas da Religiosa Portuguesa,
-   e as criações humanas de Almeida Garrett, a Joaninha dos olhos verdes e
-   as figuras todas de Frei Luís de Sousa. Não faltam no Cancioneiro do
-   povo; nem já faltavam, na sua face arcaica, nos reflexos cultos da musa
-   popular que possuímos, isto é, nos cantares de amor e de amigo dos
-   trovadores galaico-portugueses, no período que se prolongou até os dias
-   de Pedro e Inês… (Cidade 2003: 188).
-
-   Sentimento vivido em diversas culturas, mas apenas definido e explicado
-   em português, o universo da Saudade pode definir-se como uma sensação
-   de ansiedade ou desejo premente de ver o ente amado, uma dor de não o
-   ter presente, algo que comporta uma energia de amor e outras concepções
-   que, em nenhuma outra língua, podem ser descritas. Somente a alma do
-   povo português, sabe expressar, intensamente, a constância do amor
-   ausente. É um sentimento que traduz o desejo ardente e, ao mesmo tempo,
-   sofrido, de voltar a usufruir de um bem que nos era querido e foi
-   retirado, é ânsia de estar com alguém ou algo de quem nos separámos,
-   forçados. É, enfim, um amontoado de sentimentos onde se distinguem a
-   tristeza, o desejo, a solidão, a apatia. (Gomes 1976: 7-27).
-   [INS: :INS]
-
-   Tratando-se de um sentimento espiritual, a Saudade exterioriza-se, em
-   termos históricos, no âmbito da espiritualidade nacional de expressão
-   cristã, muito embora tenha trazido do passado um legado de cariz pagão.
-   O homem, reunindo cristão e pagão, formará assim um todo, na sua
-   verdadeira e invencível natureza: ele, como ser irrepetível que é,
-   vivendo uma só vida na terra, onde se prepara para a vida eterna e
-   intemporal, sofrerá no universo da Saudade (Idem, 118-119).
-
-   A Saudade tem a sua origem no amor associado à ausência, sendo que,
-   quanto mais ardente for esse amor e mais longa a ausência, mais intenso
-   será o sentimento saudoso. É a Saudade uma dolorosa paixão da alma,
-   logo tão subtil, que se torna imperceptível, deixando-nos numa
-   indefinível e dolorosa satisfação. É um sofrimento que dá prazer e uma
-   felicidade que faz sofrer, é recatada e mensageira de um amor sublime,
-   puro e genuíno. É enfim, um delicado sintoma da chama do amor (Cidade
-   2003: 189).
-
-   O romantismo literário deu uma enorme contribuição para a tipificação
-   de certos valores da cultura na multiplicidade cultural europeia e, no
-   caso nacional, o romantismo filosófico alemão influenciou certos
-   filósofos portugueses, desconhecendo-se, ao certo, a influência das
-   ideias de Nietszche nas reflexões poéticas, metafísicas e cósmicas de
-   Teixeira de Pascoais. Também D. Carolina Micaellis contribuiu
-   grandemente para uma aproximação do tema da Saudade ao romantismo
-   alemão, a sehnsucht, grosseiramente
-
-   56
-
-   caracterizada como ânsia do infinito, fonte do absoluto, que coloca na
-   existência humana, a elevação do transcendente, inerente à sua essência
-   (Ibidem, 173).
-
-   Segundo Pascoaes (1987: 160), a alma e o corpo da Saudade estão na
-   força criadora, assente no desejo e na força da imortalidade, gerada na
-   memória. Saudade é a própria natureza, ligada à paixão lusa, é a eterna
-   recordação da esperança.
-
-   O sentimento saudoso transforma as realidades que se movem, padecem e
-   amam. A sua energia de esperança criadora age sobre a essência criada,
-   libertando-a da morte e da inércia. A Esperança é uma luz, alegria
-   divina que atravessa as sombras e tudo sublima. Pela via da Saudade, o
-   mundo converte-se em amor, enternecimento e emoção, ascende ao divino
-   numa oração…Por esse facto, o povo e os poetas, nascidos na Saudade,
-   transmitem à natureza a mais intensa manifestação da emoção, que vai
-   reflectir-se nos sentimentos mais profundos e contraditórios do ser
-   humano. O amor torna-se assim penoso e o sofrimento torna-se terno. A
-   nossa ligação lírica com a natureza funde-se com estes sentimentos e aí
-   desaparecem toda a escuridão e luz, não há mais vida nem morte. É enfim
-   o sentimento indefinível da Saudade que inspira os poetas lusos. (Idem,
-   167-168).
-   [INS: :INS]
-
-   De acordo com o poeta, ao revelar a Saudade, delineada por Virgílio,
-   uma outra fase da existência sentimental do ser humano é descoberta por
-   Camões, o que torna compreensível, presentemente, a fraternidade
-   universal camoniana. A Saudade une o indivíduo ao cosmos, pois a
-   recordação liga-o ao passado e a fé ao futuro. O ser humano, o mais
-   divino ser existente na natureza, compreende todas as realidades e
-   molda-as ao seu desejo de perfeição.
-
-   A Criação recebe o Criador através do homem e pela acção saudosa da
-   alma fortalece-se e eleva-se ao divino. Deste modo, a paixão lusa, só
-   pela natural força da Saudade, explica e alcança o Existente. É a
-   partir deste conhecimento que surge um formato único e moralmente
-   elevado do Panteísmo, denominado Saudosismo, materialização da névoa
-   amorosa em que se erguem, na imortalidade, os cantos dos poetas
-   lusitanos (Idem, 170).
-
-   O movimento saudosista criado por Pascoaes, tinha como objectivos
-   restituir à cultura nacional a sua elevação perdida, substituindo as
-   interferências externas à cultura portuguesa pelo culto das produções
-   culturais nacionais, que reflectissem a alma lusitana. Neste contexto,
-   a Saudade vai ser o tema eleito por Pascoais para ilustrar a alma
-   lusíada.
-
-   57
-
-   Propondo a Saudade como núcleo estruturador do espírito lusitano,
-   Pascoaes irá reformular profundamente o tema da psicologia da
-   identidade lusíada, no domínio dos sentimentos e das emoções,
-   definindo-a como “o desejo do ser ou da coisa amada”, acompanhado pela
-   dor da ausência. De acordo com o poeta, a Saudade é um sentimento
-   antagónico, que vai unir o mundo físico ao místico, o pretérito ao
-   presente. É um sentimento nobre, que está subjacente à dimensão heróica
-   de Portugal. Assim sendo, devolver à Saudade a sua supremacia na vida
-   nacional, seria reconquistar para o povo luso o seu valor, há muito,
-   desaparecido. Todavia, a Saudade em Pascoaes, para além da sua
-   ascendência literária, revela um inovador grupo de meditações de cariz
-   etnocultural, baseada em concepções e pensamentos acerca das origens
-   raciais e culturais do povo. (Leal 2000: 25-30).
-
-   O poeta define a Saudade como um estado emocional e afectivo da alma
-   pátria. Ela representa o desejo e a esperança, é a silhueta do
-   Encoberto despertada, afastando o nevoeiro do lendário amanhecer. Após
-   Alcácer-Quibir, a Saudade, enlutada, chorou, mas agora, revelou-se
-   exultante e sorriu cheia de fé pois, ao revelar-se, revelou o sonho
-   lusitano da Renascença, o elevado destino imposto a Portugal pela
-   Tradição e pela Herança (Pascoaes 1998: 119):
-
-   Mais importante do que ter sido ou ter tido império, mais decisivo do
-   que haver usufruído riquezas mortas, ou até ter sido actores de uma
-   gesta científica que podíamos ter tido num grau e esplendor que não
-   tivemos, é para Pascoaes o haver interiorizado como alma da nossa alma
-   o sentimento obscuro mas iluminante dessa visão positiva da vida como
-   sonho que se sabe sonho mas que no interior desse sentimento se
-   recupera como criadora saudade, desejo de um desejo que jamais tomará a
-   forma de uma possessão idolátrica, subtraindo-nos assim, de raiz, à
-   tentação moderna por excelência, a de Fausto: saber, poder para reinar
-   sobre a natureza e os outros. É nesse sentido que Pascoaes nos outorga
-   e se outorga o estatuto de povo-saudoso, quer dizer, de povo que
-   apercebe em tudo quanto toca a sombra da ilusão e da morte, mas a uma e
-   a outra exige a promessa da vida (Lourenço 2006: 102).
-
-   Nos poetas da Saudade coexiste um profundo sentimento da Eternidade e
-   do Infinito, que encerra o amor do amante pela mulher amada. Comporta,
-   além disso, o amor do povo português pela sua Pátria e por Deus. A alma
-   amante espiritualiza a recordação do ser amado, identifica-a com ela
-   própria, ao mesmo tempo que a envolve com a sua própria essência
-   eterna. Do sangue e da terra nasce a melancolia lusitana das memórias
-   concretizadas de uma Divindade, que não existe mais, mas que dá forma à
-   Saudade (Pascoaes 1987: 164).
-
-   58
-
-   O sentimento da Saudade influi, sobremaneira, nas formas inferiores da
-   natureza, com as quais nos ligamos à Família, à Pátria, à Humanidade e
-   a Deus (Soares 2007: 280-283) Devido ao seu poder saudosista, de
-   lembrança e de esperança, o ser humano eleva-se da própria miséria e
-   contingência à contemplação do Reino Espiritual. Vemos Deus pelos olhos
-   da Saudade e assim reconstruímos espiritualmente a sua figura sagrada
-   (Pascoaes 1998: 122-123).
-
-   A Saudade humanizada e compreendendo a natureza, avultando numa só
-   imagem feminina, voluptuosa e virginal, é o símbolo eterno da Realidade
-   conjugada com a Verdade; quer dizer, do Universo e de Deus. Platão, que
-   descobriu a Verdade, como Aristóteles, a Realidade, foi o primeiro a
-   conceber este símbolo divino, porque ele foi o primeiro lírico da
-   Terra, a primeira força musical que reuniu as notas dispersas da
-   Natura, recriando-as na perfeita harmonia que vibra de estrela e de
-   alma em alma… É o canto das esferas, a visão lírica das cousas,
-   iluminando-as, contornando-as, definindo-as numa só Forma, que é a sua
-   impecável fisionomia de conjunto; - o corpo da Realidade transparecendo
-   a alma da Verdade, o infinito Universo numa infinita irradiação de Deus
-   (Pascoaes 1987: 172).
-
-   Camões foi um dos poetas que mais cantou a Saudade no Amor. A ausência
-   da amada desencadeia no sujeito o sentimento de nostalgia, por vezes
-   devido à sua morte precoce, como é o caso de Dinamene. A perda trágica
-   e irreversível do ser amado mergulha o poeta numa solidão imensa e
-   dolorosa, pois não se conforma com o seu desaparecimento. O eu lírico
-   desenvolve-se em lamentações sentimentalistas, concentrando-se na sua
-   própria dor, numa atitude antropocêntrica, em que sobressai o
-   individualismo, já que ele valoriza mais a sua própria dor do que a da
-   sua amada.
-
-   Imerso na sua dor sente-se exausto, devido aos pensamentos atormentados
-   que o afligem e entrega-se a saudosas recordações. Saudades antigas
-   voltam a visitar o poeta, que assiste à inexorável passagem do tempo,
-   sem nada poder fazer, pois aquilo que ele tanto amou, não existe mais.
-   Revolta-se contra o poder de forças maiores e que o impossibilitam de
-   ser feliz (Saraiva s/d:188-193).
-
-   Que me quereis, perpétuas saudades? Com que esperança ainda m’
-   enganais? Que o tempo que se vai não torna mais, E se torna não tornam
-   as idades.
-
-   Razão é já, ó anos!, que vos vades, Porque estes tão ligeiros que
-   passais, Nem todos para um gosto são iguais, Nem sempre são conformes
-   as vontades.
-
-   Aquilo a que já quis é tão mudado Que quási é outra coisa; porque os
-   dias Têm o primeiro gosto já danado
-
-   59 Não mas deixa a Fortuna e o Tempo errado,
-
-   Que do contentamento são espias.
-
-   (Camões 2005: 110)
-
-   O tema da Saudade, sentimento sem objecto, é cantado por Camões, de uma
-   forma pungente, onde coabitam, permanentemente, a solidão e a angústia
-   de viver, manifestações líricas da alma lusitana. O ser amado é chamado
-   pelo nome desse sentimento sem objecto, expressando, desta forma, a
-   intensidade do sofrimento e da Saudade que existe no amor ausente
-   (Valverde 1981: 88. 89))
-
-   Cantiga
-
-   A este cantar velho
-
-   Saudade minha Quando vos veria?
-
-   Voltas
-
-   0
-
-   [A que vista alongado Pelo que desejo
-
-   5 Tudo longe vejo,
-
-   Mais longe este quando… Em quanto mais ando, Mais me foge o dia: Quando
-   vos veria?]
-
-   1
-
-   10 este tempo vão, Esta vida escassa, Pêra todos passa, Sópera mim não.
-   Os dias se vão 15 Sem ver este dia, Quando vos veria.
-
-   2
-
-   Vede esta mudança Se está bem perdida Em tão curta vida 20 tão longa
-   esperança! Se este bem se alcança, Tudo sofreria,
-
-   Quando nos veria?
-
-   3
-
-   Saudosa dor, 25 eu bem vos entendo; Mas não me defendo,
-
-   60 Porque ofendo Amor.
-
-   Se fôsseis maior, Em maior valia 30 vos estimaria
-
-   4
-
-   Minha saudade, Caro penhor meu, A quem direi eu Tamanha verdade? 35 Na
-   minha vontade, De noite e de dia
-
-   (Camões s/d: 90)
-
-   A Saudade apaixonada e a melancolia transformada em amor imprimiram em
-   Camões um profundo sentimento da Natureza, pois todos os elementos que
-   a compõem surgem da sua inspiração.
-
-   O poder criativo de Camões imprimiu uma expressão sublime ao sentimento
-   da Saudade. Tal como Shakespeare divagou pelo íntimo do ser humano,
-   Camões penetrou na essência das coisas. Após Shakespeare, a humanidade
-   torna-se shakesperiana, mas depois de Camões o mundo é camoniano. É o
-   poder dos grandes génios, cujo aparecimento transforma e perturba o
-   Existente (Pascoaes 1987: 97).
-
-   61
-
-III- A Expressão do Amor e da Saudade na Lírica de Camões
-
-   No documento O Amor na Cultura Portuguesa - Camões e António Ferreira -
-   (páginas 54-61)
-   [INS: :INS]
-
-Outline
-
-     * 1 – Amor
-     * 2 – Saudade (Você está aqui )
-     * Camões
-
-Documentos relacionados
-
-   PARA O DIÁLOGO COM O GOVERNO ESTADUAL
-
-PARA O DIÁLOGO COM O GOVERNO ESTADUAL
-
-   Embora o governo do Estado da Bahia tenha ampliado consideravelmente a
-   oferta de vagas na rede pública de ensino, inclusive em alguns bairros
-   com vagas ociosas, este ainda não
-    113   0   3
-   WARLESON PERES O IDEAL E O REAL NOS ESTÁGIOS CURRICULARES
-   SUPERVISIONADOS NA UFJF
-
-WARLESON PERES O IDEAL E O REAL NOS ESTÁGIOS CURRICULARES SUPERVISIONADOS NA
-UFJ...
-
-   Assim, este trabalho investiga ainda, a gestão desses setores
-   institucionais responsáveis pela orientação pedagógica, bem como
-   daqueles responsáveis pela orientação
-    131   0   1
-   RENATA MIRANDA DE FREITAS ALENCAR O PERCURSO DA ACESSIBILIDADE DOS
-   SERVIDORES COM DEFICIÊNCIA NA UFJF
-
-RENATA MIRANDA DE FREITAS ALENCAR O PERCURSO DA ACESSIBILIDADE DOS SERVIDORES
-CO...
-
-   A elaboração de uma comissão de acessibilidade na UFJF, propósito final
-   deste trabalho, foi descrita com intuito de se ter um grupo dentro da
-   instituição que
-    125   0   4
-   Che Guevara e o trotskismo na América Latina — Outubro Revista
-
-Che Guevara e o trotskismo na América Latina — Outubro Revista
-
-   Não só reproduzia as mesmas versões stalinistas sobre Trotski,
-   divulgadas na União Soviética, como tentava acusar Eusebio Mujal,
-   antigo membro do PC cubano e íntimo colaborador do
-    14   0   0
-   Atividade - O Peixe que Não Queria Ir à Escola
-
-Atividade - O Peixe que Não Queria Ir à Escola
-
-   f) Tomam medidas para encorajar a frequência escolar regular e a
-   redução das taxas de abandono escolar. Os Estados Partes tomam as
-   medidas adequadas para velar por que a disciplina
-    6   0   3
-   Eduardo Coutinho o Homem Que Caiu Na Real
-
-Eduardo Coutinho o Homem Que Caiu Na Real
-
-   viii Para José Carlos Avellar, “o homem com a câmera aqui sabe que a
-   imagem estabelece hoje com as pessoas comuns uma relação de poder que
-   deforma, sabe que a única possibilidade de
-    109   0   1
-   O que é cultura popular
-
-O que é cultura popular
-
-   Ja e tempo de nos indagarmos sobre 0 sentido mais profunda dessa
-   expressao e sobre a conve- niencia de a continuarmos usando como r6tulo
-   identificador de nao se sabe muito bem 0 que..
-    39   0   0
-   O que é o OpenVPN
-
-O que é o OpenVPN
-
-   O termo VPN esteve associado no passado a serviços remotos de
-   conectividade, como o a rede de O termo VPN esteve associado no passado
-   a serviços remotos de conectividade, como o a rede
-    17   0   9
-
-   1Library PT
-   PT-BR | EN
-   Service Guest Post
-   Sobre nós
-   Política
-   Termos de uso
-   Contacte nos
-   Copyright 1Library PT © . 2022
+   #Papeis da Academia » Feed Papeis da Academia » Feed de comentarios
+   alternate alternate alternate
+
+   logo
+   logo
+     * Benvida da directiva
+     * O ano no que todo mudou, tamén para o audiovisual
+          + O audiovisual na pandemia: adaptación, temores e retos de
+            futuro
+          + Mamen Quintas, produtora
+          + Paula Cons, directora
+          + Lidia Fraga, guionista
+          + Xúlio Abonjo, actor
+          + Alicia Dapena, técnica de vestiario
+          + Milo Baños, distribuidor e exhibidor
+          + Ángel Sánchez, director de festival
+          + Manuel Precedo, cineclubista
+          + O impulso dos novos formatos e modelos de distribución
+     * O que vai vir en 2021
+          + Estreas en salas e festivais: seguindo adiante entre a
+            incertidume
+          + Estreas de televisión: a ficción galega continúa a
+            internacionalizarse
+          + Outras estreas: innovación e variedade fóra da ficción
+          + Proxectos de ficción: os vindeiros pasos de nomes consolidados
+          + Proxectos de series: os ‘thrillers’ e os ‘biopics’ dominan
+          + Proxectos de documental: miradas arredor do social
+          + Outros proxectos: divulgación, investigación, cooperación
+          + Incentivos ao sector audiovisual: ata agora e de aquí en
+            adiante
+     * Papeis anteriores
+
+
+
+   Co patrocinio de:
+
+
+
+Mellor Ensaio Escrito Audiovisual Internacional – II Premios María Luz
+Morales de Ensaio Audiovisual
+
+Autor: Fernando Redondo Neira
+
+     II Premios #MaríaLuzMorales | Falamos con… Fernando Redondo (Ames,
+     1971) que gañou o premio ao mellor Ensaio Escrito Audiovisual
+     Internacional con 'Latexos de Saudade no Cinema'. No traballo propón
+     unha análise de senllos filmes moi diferentes entre si, 'Dublineses'
+     (John Huston, 1987) e 'A cidade das estrelas. La La Land' (Damien
+     Chazelle, 2016), pero que comparten unha mesma expresión
+     cinematográfica da saudade. ➡ Podedes ler a peza aquí:
+     https://bit.ly/2MzbtaX[📽 Chiripa]
+     Posted by Academia Galega do Audiovisual on Monday, August 27, 2018
+     __________________________________________________________________
+
+Latexos de saudade no cinema﻿
+
+   Un filme musical de Hollywood de 2016, de amplo recoñecemento público,
+   A cidade das estrelas. La La Land.  (Damien Chazelle) remata cunha
+   secuencia na que se pón en imaxes a renuncia, a resignación e unha
+   fonda melancolía. Case trinta anos antes, John Huston dirixía,
+   cumpridos xa os 82, nunha cadeira de rodas e axudándose cunha mascariña
+   de osíxeno, Dublineses (The Deads, 1987), que remataba co relato dun
+   amor de xuventude, perdido no tempo, confinado para sempre na morte e
+   que reclamaba do interlocutor de tal relato reflexións, tamén, de
+   morte, acompañado todo dunha lúcida consciencia do tempo que pasa. De
+   que nos están a falar ambas as dúas secuencias? É quizais a saudade o
+   que une os finais de senllos relatos fílmicos que rematan con esta
+   última invocación a un sentimento de perda, de ausencia, de baleiro?
+
+   Para sabermos de que falamos cando falamos de saudade, cómpre ir case
+   de maneira obrigada ao que deixou escrito Ramón Piñeiro: “Un eco de
+   algo, sentimento sen obxecto, o puro decorrer espontáneo do sentimento
+   ceibe de toda relación co pensamento e a vontade” (1). O cerco
+   conceptual, tratando de acoutar ata onde chega o despregue semántico da
+   saudade, vai parar finalmente aquí: “É o sentimento de soidade
+   ontolóxica do home, a voz da intimidade humana” (2). Ao seu carón van
+   comparecendo sentimentos afíns, como os da morriña, a melancolía, a
+   añoranza ou a soidade. A nota máis constante da saudade será, ao cabo,
+   a relacionada co amor e coa ausencia. Será, daquela, a saudade a
+   conciencia doorosa dunha vida que se desexou vivir? Dúas películas tan
+   distintas entre si como as mencionadas tratan disto, e disto vai a
+   maneira de pechar ambos os dous relatos.
+
+   Se seguimos o fío do pensamento do que vai tirando Piñeiro, atopamos
+   nalgún tramo a figura de Teixeira de Pascoaes, E de aquí xorde
+   necesariamente o alento poético que desprende o sentimento da saudade,
+   da que interesa suliñar o que el chama “índole musical do Ser”, e que
+   tan certeiramente ven exposto na obra de Rosalía de Castro, ben
+   coñecida polo pensador portugués. Polos vieiros da poesía e da música é
+   posible, xa que logo, ir alén do que a percepción primeira do real nos
+   dá a saber. Cabería dicir algo semellante do cinema, para xunguilo así
+   a esa cadea na que se xuntan a saudade, a poesía, a música e o
+   coñecemento? Non o menciona Pascoaes, mais atendamos ao seguinte: “O
+   son é luz ouvida, como a luz é son visível; (…) E há apenas luz e son,
+   inteligência e coraçao, (…) A música é o encanto do homem, porque sendo
+   ela no remoto de todas as cousas, aspiramos a ouvi-la de perto, como
+   definiçao dos nossos sentimentos e do sentir universal, da própria
+   vida. A nosa intimidade e a das cousas são a mesma intimidade” (3). O
+   son (incluído, por suposto, o musical) e a luz como metáforas do acceso
+   ao coñecemento e, en consecuencia, como alusión a unha forma posible de
+   experimentar a transcendencia. Pascoaes sinala que interromper ese
+   tránsito sería como ingresar nun presente duradoiro. Engade que o
+   presente do vivir é ficticio e que o home, no canto de ser presente, é
+   un ausente no pasado e no futuro (4).
+
+   Cando Gretta Conroy escoita en Dublineses “The Lass of Aughrim”, a
+   canción arrecada para si todo o protagonismo e estende sobre a
+   secuencia que aquí comeza a emoción que desprende, e que vai ligar
+   tempos e lugares distintos, vai reabrir feridas da alma e convocar
+   emocións que permanecían durmidas. En La La Land, cando Mia senta co
+   seu marido no club de jazz e descobre quen é o pianista, desprégase
+   toda unha realidade alternativa, unha vivencia imaxinada na que
+   comprobamos, en efecto, que a música faise cargo da variabilidade das
+   emocións, como tamén vai levantar toda unha arquitectura temporal nova
+   coa que reconstruír a cadea de acontecementos.
+
+Xentes de Dublín e de Los Ángeles
+
+   Rematada a cea de Epifanía na casa das irmás Morkan, Gretta quédase
+   paralizada, concentrada na canción que está a escoitar mentres o marido
+   a observa dende abaixo. Encadrada nun plano amplo e nun ennobrecedor
+   contrapicado, permanece absorta, con expresión que denota un estado de
+   ausencia do momento presente, coa arrebatada atención de quen está a
+   experimentar unha intensa emoción. Así o ratifica o cambio no xesto ao
+   rematar a canción, que, nun primeiro plano ben revelador, sinala a
+   volta á realidade, sexa de onde queira que retornara, se do mundo da
+   ensoñación ou da lembranza. De volta ao hotel, na noite, nunha viaxe en
+   carro de cabalos por Dublín, os planos xerais cos que se vai trazando
+   este itinerario alternan cos do interior do coche, onde case unicamente
+   fala Gabriel, consciente de que a súa muller segue no abismo ao que a
+   levou aquela canción. Xa na habitación onde se hospedan, el fai o
+   intento último por traela de volta ao momento presente ou, cando menos,
+   por saber da razón do seu ensimesmamento, que se debe, tal como Gretta
+   recoñece, a unha evocación do pasado: a canción aquela, “The lass of
+   Aughrim” cantábaa un rapaz, Michael Furey, do que estivo namorada na
+   súa mocidade, e que foi despedila, estando gravemente enfermo, a
+   véspera de marchar ela estudar á cidade. Pouco despois ía chegarlle a
+   noticia da súa morte. Feita a confesión, esgotada pola intensidade
+   emocional do recordo, acouga durmida. De seguido, Gabriel, achégase á
+   fiestra para ver Dublín baixo a neve mentres reflexiona sobre a
+   natureza verdadeira dunha paixón que el asegura non ter experimentado
+   nunca, sobre os mortos que, como Michael Furey, seguen nos recordos dos
+   vivos, e os mortos do futuro, como a súa tía, que, segundo intúe,
+   pronto se irán, véndose el mesmo no velorio.
+
+   As  panorámicas coas que acompañar unha viaxe nunha noite de inverno,
+   os planos medios e curtos dunha parella que se emociona e que recorda,
+   que escoita e que reflexiona, levan o devir cara un emotivo discurso
+   que, non consumíndose nun puro sentir, fai posible tamén un xeito de
+   razoar que pón en cuestión todo o relato que o filme viña
+   desenvolvendo, o dunha reunión festeira na que se asiste a unha
+   cortesía formal que non rexeita mesmo posicionamentos políticos e
+   relixiosos, que, tratándose da Irlanda daqueles anos, seguro que daban
+   pé a acendidas discusións. Todo vai quedar sepultado, como os mortos
+   sobre cuxas tumbas non deixa de nevar aquela noite, pola fonda emoción
+   final espertada por unha inocente melodía. Igualmente, Rosalía de
+   Castro acode á música como mecanismo activador da memoria.
+
+   A poeta de Padrón ten feito abondosas referencias ao son das campás,
+   que espertan o, no seu caso, reiterado e fondo sentimento de soidade.
+   As da igrexa de Bastavales son, por suposto, as que primeiro
+   recordamos, mais tamén mencionará, por exemplo, ás da catedral
+   compostelá:  “no espaço silencioso/ soando malencónicas/ as túas
+   badaladas/ non sei qué despertares me recordan” (5). Na película de
+   Huston, boa parte da materia narrativa sobre a que discorre esta
+   reunión xira arredor da música e os músicos, profesoras e alumnas de
+   piano, tenores e cantantes afeccionadas; mais tamén unha declamación,
+   que, co debido ritmo e entoación, busca conmover aos invitados. Quen
+   mais impresionada se mostre será, precisamente, Gretta, adiantando aquí
+   ese xesto de turbada ausencia que logo retomará e que o seu marido vai
+   advertir, interrogándose en silencio que pode significar. Cando unha
+   das irmás Morkan recorde con sentida emoción a voz clara e cálida dun
+   tenor a quen ninguén escoitou e case ninguén coñece, de novo Gretta vai
+   adoptar a mesma actitude de melancolía e ausencia, que só abandonará
+   cando a avisen de que o pudding está listo para servir. Ambas as dúas
+   mulleres van permanecer coa mirada perdida, cara o seu ser máis íntimo,
+   na evocación de imaxes e sons mentais que para unha son os daquela voz
+   que non pode esquecer e, para a outra, a do rapaz morto aos dezaseis
+   anos.
+
+   A canción da despedida, “The lass of Aughrim” chama polo ben perdido,
+   maniféstase co xesto de emoción arrebatada, de recordo que devén en dor
+   pero non remata nel. Tamén alude á intensidade dunha experiencia
+   arriquecedora, a un sentimento verdadeiro que no seu agromar nos fala
+   dunha vida plena. Pois, como ben sinala Gabriel, mais vale isto que
+   pasar pola vida co ánimo e o espírito adurmiñados. O que o filme nos
+   presenta pódese pór en relación co rexistro poético que nos deixou
+   Rosalía no poema construído sobre a idea do “cravado cravado no
+   corazón”,  que cando o arrincou “soupén só que non sei que me faltaba/
+   en donde o cravo faltou/ e seica… seica tiven soidades”. Este mesmo
+   cravo da saudade vaino empregar Antonio Machado naquel poema que comeza
+   co “Yo voy soñando caminos/de la tarde (…)”, onde a tarde ven cargada
+   con esa significación tan característica do solpor como punto final de
+   algo, quizais do percurso dunha existencia que non permite a volta
+   atrás nin a recuperación dunha felicidade que xa non vai retornar. Pois
+   ben, nese solpor da vida é cando asoma o cravo que o mesmo magoa se o
+   tes que se o arrincaches, pero que sempre é, primeiramente, metáfora do
+   latexar da vida: “En el corazón tenía/la espina de una pasión/ logré
+   arrancármelo un día/ya no siento el corazón” (6).
+
+   Aquel espazo da ausencia, que nunca ocupou cravo algún, é o que sente
+   sobre si o personaxe de Gabriel, quen descobre de súpeto que nunca
+   experimentou un sentimento semellante ao da súa dona: o que Gretta tivo
+   e perdeu, o que el nunca desfrutou e que agora bota en falta. A voz
+   interior do seu pensamento mentres contempla, absorto agora el, a neve
+   a través da fiestra, vainos informando do baleiro que no seu caso non
+   remite á perda, senón a carencia. O contraplano deste mirar reflexivo
+   correspóndese, como cabe esperar, coas rúas de Dublín na noite, mais,
+   de volta dun mirar seu ao ceo, o que se mostran son paisaxes nevadas de
+   Irlanda, cemiterios, ríos desbordados, árbores espidas no inverno, como
+   tamén nos fan observar o baile na festa á que asistiu e o velorio que
+   aínda non tivo lugar da tía anciá. Todas elas son imaxes mentais,
+   pasaxes da imaxinación e o pensamento que xorden da emoción que acaba
+   de nacer nel. E as ruínas que entrevemos nunha escuridade interrompida
+   polas folerpas da neve anuncian a sombra que seremos, e na que xa andan
+   os que, a contrario que Gretta, non levan consigo a pegada dun
+   sentimento vivo, por moito que veña motivado pola lembranza dos mortos.
+   A xeito dun contraplano certamente arriscado e, dende logo, metafórico,
+   as reflexións de Gabriel parecen responder as preguntas coas que
+   Rosalía de Castro remata o poema que comeza cun melancólico (e despois
+   machadiano) “Era ó caer da tarde” (a tarde, outra vez): “¿Quen se
+   lembra dos mortos,/si inda non poden recordarse os vivos?” (7).
+
+   Emerxe aquí a saudade por un amor que non puido ser e que se traslada
+   ao espectador a través do relato de Gretta, prescindindo dun posible
+   flashback co que ben se puido pór en imaxes e que, ao cabo, se queda na
+   pura oralidade, mais evocando a potente imaxe de Michael Furey
+   tremendo, enfermo baixo a choiva na noite, compoñendo así na mente de
+   cada quen esa poderosa iconografía romántica de quen se deixa morrer
+   por amor. Velaí outra ausencia, destavolta  a da imaxes que se nos
+   agocha aínda que xorde na mente de cada espectador, ao contrario da
+   reflexión de Gabriel, a quen escoitamos ao tempo que vemos o froito do
+   seu pensamento. Aínda que non o sabía ata este momento, tamén el
+   acubilla na súa alma unha forma posible de saudade, a de non ter vivido
+   nin experimentado nin sentido esa ferida que xa acompaña para sempre á
+   súa compañeira, por moito que se mantivera adurmiñada á espera de que
+   unha simple canción a espertara de novo.
+
+   Gabriel acaba descubríndose a si mesmo como preso desta saudade que a
+   súa muller lle pón diante dos ollos, se é permitida tal redundancia,
+   pois vaise manifestar a través dunha serie de visións que achegan a
+   visualidade que lle faltara ao relato de Gretta. E xa que a percepción
+   participa de todo proceso de coñecemento ou de revelación, pois é isto
+   exactamente ao que asistimos, a unha revelación, vale a pena salientar
+   un fragmento do monólogo de Gabriel: “Canto tempo levas pechada no
+   corazón a imaxe dos ollos do teu amante cando che dixo que non desexaba
+   vivir?”. Santos Zunzunegui xunguiu esta secuencia a outras moitas que o
+   cine, ao longo da súa historia, ten dedicado a darlle forma á
+   melancolía, se por tal entendemos un sentimento de tristura que pode ir
+   gradualmente da levidade do decaemento anímico á aflición fonda, e que,
+   ademais, non se esgota neste deixarse derrotar por unha pena estéril e
+   fatal. Pola contra, tamén conduce cara un pensamento lúcido e
+   distanciado co que asentar dita melancolía en certo razoamento lóxico
+   que axude a recoñecela, a asumila e comprendela. Así acontece no caso
+   de Gabriel: triste e melancólico, efectivamente, máis tamén reflexivo,
+   mantendo esa distancia do observador que, na planificación fílmica,
+   nolo mostra observando a noite dende a ventá da habitación, unindo o
+   que ve (a neve sobre Dublín), ao que sente (a falta dunha vivencia
+   amorosa que el non experimentou) e ao que pensa (a transitoriedade de
+   todo o humano, esa sombra que el será tamén). A melancolía é, por
+   tanto, sentimento, mais acompañado dun decatarse das cousas, capaz de
+   abranguer rexións amplas e diversas do existir, como ben o soubo
+   explicar Zunzunegui ao fío deste soliloquio final: “En la mente de
+   Gabriel, pasado, presente y futuro se funden de la misma manera que lo
+   hacen espacios contiguos con otros muy lejanos. Toda la extensión del
+   mundo es movilizada por la conciencia melancólica de Conroy (…)” (8).
+
+   Teixeira de Pascoaes aseguraba que a Saudade era Atlántica, non
+   Mediterránea, pensando, sen dúbida, na tradición cultural greco-latina
+   da que buscaba diferenciarse, mais tamén afirmaba a súa universalidade,
+   polo que haberá que aceptar que este sentimento cómpre situalo,
+   asimesmo, á beira do Pacífico, polo Océano que está a carón da
+   California onde transcorre a acción de A cidade das estrelas. La La
+   Land. Un mesmo pouso melancólico, entre a tristura e a reflexión, deixa
+   aboiando no ar o desenlace deste filme, como acontecía en Dublineses.
+   Porén, a diferencia do título de Huston, o de Chazelle si pón en imaxes
+   o que naquel era só relato oral: a saudade dunha vida que non puido
+   ser. En todo o demais, hai semellanzas ben evidentes. De primeiras, a
+   música como dinamizadora de emocións que, para o caso, deveñen en
+   imaxes. Recreación de sentimentos que, no desenvolverse das notas, van
+   saíndo á superficie para dar entrada á melancolía e a tristura, como
+   tamén a unha lúcida e asumida resignación. O relato imaxinado do que
+   nunca aconteceu vaise despregando sobre o fluxo no que discorre o tema
+   musical tocado ao piano.
+
+   A secuencia de clausura adopta a forma dun número musical, onde a
+   melodía e os bailes transitan, sen aparente contradición, entre a
+   triste realidade dun amor frustrado e a leda fantasía dunha vida plena
+   de felicidade. Ou dito á maneira de Rosalía de Castro: que da dor tamén
+   se deriva o pracer. Atopamos isto no libro En las orillas del Sar, no
+   poema que empeza con “Ya duermen en su tumba las pasiones” e que logo
+   continúa cos versos que seguen: “Yo sólo sé que es un placer que duele,
+   / Que es un dolor que atormentando halaga / Llama que de la vida se
+   alimenta / Mas sin la cual la vida se apagara” (9). Sitúamonos  moi
+   preto do que os filósofos deron en chamar o sentimento do sublime, algo
+   tamén moi propio da expresión romántica do sentir humano. Eugenio Trías
+   explíca así: “El sentimiento de lo sublime se alumbra, pues, en plena
+   ambigüedad y ambivalencia entre dolor y placer” (10). De seguido, Trías
+   alude á distancia coa que observar o obxeto da dor, a mesma da
+   expresión poética como tamén da rememoración de feitos do pasado,
+   incluso sendo inventados coma neste caso. A ambivalencia da que nos
+   fala é a que podemos atribuírlle a unha melodía tocada ao piano que o
+   mesmo nos apena que nos alegra, aínda que esta ledicia se corresponda
+   cunha vivencia do pasado da que xa non desfrutamos. Disto só pode
+   derivarse a melancolía, estado de tristura que se fai acompañar dunha
+   compoñente de reflexión (que, á súa vez, tamén precisa dunha certa
+   distancia emocional) e que, ao cabo, ven a parar á saudade, esa sorte
+   de felicidade perdida que aínda alenta no interior de quen a sente.
+
+   A protagonista, Mia, acode a un club de jazz acompañada do seu marido.
+   Unha vez dentro descobre que á fronte da banda que ocupa o escenario
+   está Sebastian, o seu antigo amor. O cruce de miradas que se dedican
+   lévana a ela ao limite das bágoas mentres el se queda paralizado co
+   micrófono na man, ata que reacciona cun “Benvidos s Seb’s”, senta
+   diante do piano e aínda agardará uns segundos, absorto no teclado,
+   antes de acometer as primeiras notas. A cámara vaise acercando primeiro
+   a un e logo ao outro, baixan as luces e quedan rodeados da plena
+   escuridade, a propia dun cine onde vai comezar unha película, que será
+   a dunha vida desexada mais non vivida, co engadido das outras
+   películas, as do cinema familiar que constrúen a memoria, que inventan
+   vivencias que nunca serán verdadeiras, onde vemos aquilo que non pasou,
+   a casa que non compartiron, os éxitos respectivos que non celebraron
+   xuntos, o fillo que non tiveron… Todo, froito da imaxinación de Mia,
+   que se traslada a este relato visual no que se encadea un feixe de
+   recordos inventados, memoria falseada e doorosamente sentida, expresión
+   fílmica dunha radical subxectividade que ela non vai compartir con
+   ninguén máis que co privilexiado espectador.
+   A ledicia imaxinada transcorre de a cabalo das notas máis alegres deste
+   tema último tocado ao piano por Sebastian. E transcorre, asemade, na
+   alegría dun número musical coreografado con entusiasmo por un corpo de
+   baile no que destacan as cores altamente saturadas do vestiario,
+   movéndose por escenarios igualmente ateigados de brillo e luminosidade.
+   Xa que nos vimos movendo no terreo do romanticismo literario, e no dos
+   sentimentos de melancolía e saudade, tristura e pesar fondo e lúcido do
+   propio existir, neste segmento de La La Land, o que se pón en imaxes é,
+   certamente, un romanticismo bastante estereotipado, aquel que deriva
+   dun deixarse levar por un intenso sentimento de entrega ao ser amado. É
+   este un romanticismo que busca alentar as emocións do espectador co
+   recurso, sempre eficaz, de situar á parella protagonista nunha tarde
+   (de novo a tarde) de outono paseando a carón do Sena ou vivindo a súa
+   felicidade –de película nunca mellor dito- sobre un escenario no que
+   destacan, ao fondo, a torre Eiffel, o Arco de Triunfo ou o Sacré
+   Coeur.
+
+   Asistimos aquí, ademais, a unha deconstrución dos feitos realmente
+   acontecidos, como o bico que Seb lle dá a Mia nada máis ser despedido
+   do club no que ela o vira por primeira vez. As cousas ben puideron
+   suceder destoutra maneira, tal e como se verifica nesta posta en escena
+   do sempre fráxil devir dos destinos humanos, tan graficamente expostos
+   no xirar do coche para coller unha estrada alternativa. Logo, esta
+   secuencia última complétase cun moi significativo segmento construído
+   con supostos filmes familiares, xurdidos tamén do que Mia se imaxina
+   mentres escoita, no momento presente do que en verdade está
+   acontecendo, ese tema musical tocado ao piano. A xestión visual da
+   memoria faise aquí botando man do recurso ao antigo súper 8 do cine
+   familiar, sendo neste caso, máis ben, unha memoria inventada,
+   imaxinada, desexada e que conduce, á súa vez, a unha melancólica
+   saudade.
+
+   Desta particular modalidade fílmica, o cinema familiar, pode asegurarse
+   que non só posúe a capacidade de representar o tempo, senón que tamén o
+   contén, ou cando menos produce unha intensa sensación de estármonos a
+   percorrer a liña que comunica o pasado co presente. Como álbum familiar
+   fílmico, este segmento da secuencia final de La La Land cumpre a
+   función que lle asignamos a toda colección de imaxes do ámbito
+   doméstico: preservar a memoria, revivir os momentos de felicidade. Se
+   ben o pensamos, a memoria inventada pola fantasía de Mia e activada
+   polo tema musical que está escoitando, non se diferencia moito da
+   memoria verdadeira, que é tamén unha construción á que contribúe
+   decisivamente a súa materialización nas imaxes. Para Paul Ricoeur é
+   neste ámbito da memoria onde cómpre situar a nosa conciencia do pasado,
+   entendida como continuidade temporal da persoa, e dende onde podemos
+   dirixirnos cara ese pasado co obxecto de recordalo cunha intensidade
+   maior (11). Esta é a maneira na que actúan precisamente as películas
+   familiares. Por iso a conciencia imaxinante de Mia precisa tamén delas,
+   pois permítenlle construírse esta materialización visual dunha
+   experiencia inexistente, esta distancia reflexiva da que se provee
+   tamén a saudade, que non se limita a un estéril sentimento de
+   señardade. Sentada naquel club de jazz, a protagonista está asistindo á
+   película da súa vida, a que ela mesma conforma na súa imaxinación
+   reemplazando o realmente vivido polo desexado.
+
+   Malia que as películas familiares deberían limitarse aos feitos
+   constatados dos que semellan ser garantes, tampouco se escapan desa
+   compoñente de ensoño e fantasía. Roger Odin sinala que tamén poden
+   presentarse como un desquite fronte ao esquecemento, pois na recreación
+   do acontecido tendemos a introducir na diéxese todo aquilo que nos
+   gustaría ter vivido (12). Para o caso de La La Land, o desquite hai que
+   entendelo como fórmula para combater a nostalxia do que non nos foi
+   dado experimentar.
+   Esta secuencia final ábrese e péchase coa linguaxe muda das miradas, a
+   de cando se descobren o un ao outro no local e a de cando ela se vai e
+   se despiden, de novo en silencio, con outro emparellamento da visión,
+   indo do plano ao contraplano que lle corresponde. Como arrebatada
+   expresión de emocións que volven, de sentimentos que non morreron
+   aínda, o relato que presenta a secuencia enmarcada neste dobre cruce de
+   miradas remite a parámetros propios dunha estética romántica. Falamos,
+   por exemplo, do que antes chamamos radical subxectividade, unha mirada
+   interior capaz de xerar imaxes inventadas do pasado; unha expresión da
+   intimidade que podemos ir buscar á pintura romántica. Para Rafael
+   Argullol, esta arte xurde desa mirada interior, principio ordenador que
+   moldea a realidade e que concibe a paisaxe, sobre todo, como estados da
+   subxectividade (13). A isto responde o que Mia imaxina ou falsamente
+   rememora, como tamén a paisaxe que ve Gabriel en Dublineses a través da
+   fiestra, que nos fai ver ou que nos fai crer que ve: o resultado deste
+   mesmo estado de subxectividade ou de mirada interior. Dous filmes con
+   senllos finais que dotan dunha visualidade sonora, a que lle achega a
+   potencia evocadora da música, para mergullarse no máis íntimo do Ser.
+     __________________________________________________________________
+
+Notas
+
+    1. Ramón Piñeiro (2001). Filosofía da Saudade. A Coruña: La Voz de
+       Galicia/Galaxia. P. 36.
+    2. Ibídem. P. 42.
+    3. Teixeira de Pascoaes (1988), A saudade e o saudosismo(dispersos e
+       opúsculos). Lisboa: Assirio & Alvim. P. 236.
+    4.  Ibídem. P. 244.
+    5.  Rosalía de Castro (1992). Follas Novas. Santiago de Compostela:
+       Librería Galí. P. 53.
+    6.  Antonio Machado (1988). Poesías completas. Madrid: Espasa Calpe.
+       P. 85. Este poema fai parte do libro Soledades, que se editou na
+       súa configuración definitiva en 1907 co título de Soledades.
+       Galerías. Otros poemas. O conto de James Joyce, “Os mortos” está
+       incluído no volume Dublineses, que viu a luz en 1906, ano no que
+       vai nacer John Huston, quen filmou, con adaptación do seu fillo
+       Tony, o relato joyceano no ano no que ía morrer, en 1987.
+    7.  Op. Cit. P. 60.
+    8.  Santos Zunzunegui (2017). Bajo el signo de la melancolía. Cine,
+       desencanto y aflicción. Madrid: Cátedra. P 170.
+    9.  Rosalía de Castro (1985). En las orillas del Sar. Madrid: CEGAL.
+       P. 43.
+   10.  Eugenio Trías (2006). Lo bello y lo siniestro. Barcelona: Planeta.
+       P. 37.
+   11.  Paul Ricoeur (1998). La lectura del tiempo pasado. Memoria y
+       olvido. Madrid: UAM/Arrecife. P. 16
+   12.  Roger Odin (2010). “El cine doméstico en la institución familiar”,
+       en Efrén Cuevas (Edt.). La casa abierta. El cine doméstico y sus
+       reciclajes contemporáneos. Madrid: DocumentaMadrid / Ocho y Medio.
+       P. 47.
+   13.  Rafael Argullol (2006). La atracción del abismo. Un itinerario por
+       el paisaje romántico. Barcelona: Acantilado. P. 68.
+
+Unha produción da
+
+   Coordinación e edición web: María Yáñez
+   Textos: María Villamarín, Cibrán Tenreiro
+   Retratos: Tamara de la Fuente  (Foto da cabeceira: Jaime Olmedo /
+   Movistar+)
+   Dirección AGA: Miguel Mariño
+   Xerente e Administración AGA: Marisela Lens
+   Comunicación AGA: Miriam Rodríguez Debasa, Saúl Rivas González
+
+
+
+   Co patrocinio de:

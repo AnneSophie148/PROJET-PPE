@@ -1,350 +1,533 @@
-   If you are seeing this message, that means JavaScript has been disabled
-   on your browser, please enable JS to make this app work.
+   #alternate Edit this page Wikipedia (en)
 
-   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-5RD8FD
+Rosy retrospection
 
-   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-PWNBGVS
+   From Wikipedia, the free encyclopedia
+   Jump to navigation Jump to search
+   Psychological phenomenon for which past is judged far better than
+   present
+   This article needs additional citations for verification. Please help
+   improve this article by adding citations to reliable sources. Unsourced
+   material may be challenged and removed.
+   Find sources: "Rosy retrospection" – news · newspapers · books ·
+   scholar · JSTOR (July 2019) (Learn how and when to remove this template
+   message)
 
-   (BUTTON) Open Menu
-    Home Health Money Travel Food Style
-   (BUTTON)
-   [789da85838ff6290ea2fc1fb7753e8b6.png]
-   #ZoomerDaily
-   (BUTTON)
-   [1a4e69f97a98d5d2dd16889a78644848.png]
-   Policy & Perspective
-   (BUTTON)
-   [786e4ff3f167e9ade6b0ae4163f0765e.png]
-   Arts & Entertainment
-   (BUTTON)
-   [fe202f7c32b322266e30c2e5e8cd8f47.png]
-   Book Club
-   (BUTTON)
-   [53ae73b92d2caeb0cfc6623a87c26f8c.png]
-   Classifieds
-   (BUTTON)
-   [facf9333bb0d8a0051a586ef5c2c2052.png]
-   Stars & Royals
-   (BUTTON)
-   [2812d8cf342ec0b65f1d23d9b629ff70.png]
-   Sex & Love
+   Rosy retrospection refers to the psychological phenomenon of people
+   sometimes judging the past disproportionately more positively than they
+   judge the present. The Romans occasionally referred to this phenomenon
+   with the Latin phrase "memoria praeteritorum bonorum", which translates
+   into English roughly as "the past is always well remembered".^[1] Rosy
+   retrospection is very closely related to the concept of nostalgia. The
+   difference between the terms is that rosy retrospection could be
+   understood as a cognitive bias, whereas the broader phenomenon of
+   nostalgia is not usually seen as based on a biased perspective.
 
-Subscribe
+   Although rosy retrospection is a cognitive bias, which distorts a
+   person's view of reality to some extent, some people theorize that it
+   may in part serve a useful purpose in increasing self-esteem and a
+   person's overall sense of well-being. For example, Terence Mitchell and
+   Leigh Thompson mention this possibility in a chapter entitled "A Theory
+   of Temporal Adjustments of the Evaluation of Events"^[2] in a book of
+   collected research reports from various authors entitled "Advances in
+   Managerial Cognition and Organizational Information Processing".^[3]
 
-   NewslettersMagazine
+   Simplifications and exaggerations of memories (such as occurs in rosy
+   retrospection) may also make it easier for people's brains to store
+   long-term memories, as removing details may reduce the burden of those
+   memories on the brain and make the brain require fewer neural
+   connections to form and engrain memories.^[citation needed] Mnemonics,
+   psychological chunking, and subconscious distortions of memories may in
+   part serve a similar purpose: memory compression by way of
+   simplification. Data compression in computers works on similar
+   principles: compression algorithms tend to either (1) remove
+   unnecessary details from data or (2) reframe the details in a simpler
+   way from which the data can subsequently be reconstructed as needed, or
+   (3) both. Much the same can be said of human memories and the human
+   brain's own process of memorization. Another reason could be that
+   humans fear the unknown so that we often assume a situation will be
+   worse than it ends up being.
 
-Everything Zoomer
+   In English, the idiom "rose-colored glasses" or "rose-tinted glasses"
+   is also sometimes used to refer to the phenomenon of rosy
+   retrospection. Usually this idiom occurs as some variation of the
+   phrase "seeing things through rose-tinted glasses" or some other
+   roughly similar phrasing.^[citation needed]
 
-   AboutPrivacy PolicyTerms of ServiceAdvertiseContact Us
-   (BUTTON) Close Menu
-   (BUTTON) Toggle navigation
-     * Home
-     * Health
-          + Longevity
-          + Diet & Nutrition
-          + Zoomer Fitness
-          + Zoomer Yoga
-     * Money
-          + Real Estate
-          + Personal Finance
-          + Work & Retirement
-          + Budget
-          + Investing
-     * Travel
-          + Zooming: Travel Hub
-          + Zoomer Golf
-          + Savvy Tips
-          + Destinations
-          + Best of Canada
-          + Bucket List
-     * Food
-          + Recipes
-          + Libations
-          + Celeb Chefs
-          + Entertaining
-     * Style
-          + Fashion
-          + Beauty
-          + Home & Garden
-          + Shopping
-     * Book Club
-     * Classifieds
+   Rosy retrospection is also related to the concept of declinism, such as
+   people saying "things were better in the old days" or "back in my
+   day...". Declinism is particularly the predisposition, caused by
+   cognitive biases such as rosy retrospection, to view the past more
+   favourably and the future more negatively.^[4]^[5]^[6]
+   [ ]
+
+Contents
+
+     * 1 Research
+     * 2 See also
+     * 3 References
+     * 4 Further reading
+
+Research[edit]
+
+   In one group of experiments, three groups going on different vacations
+   were interviewed before, during, and after their vacations. Most
+   followed the pattern of initially positive anticipation, followed by
+   mild disappointment thereafter. Generally, most subjects reviewed the
+   events more favorably some time after the events had occurred than they
+   did while experiencing them.^[7]
+
+See also[edit]
+
+     * Emotion and memory
+     * List of cognitive biases
+     * Hindsight bias
+     * Memory
+     * Optimism bias
+     * Positivity effect
+     * Reference class forecasting
+     * Nostalgia
+     * Declinism
+     * Pollyanna principle
+
+References[edit]
+
+    1. ^ "The Meaning of Nostalgia". Psychology Today. Retrieved
+       2017-04-22.
+    2. ^ "A Theory of Temporal Adjustments of the Evaluation of Events"
+       (PDF). MIT. Retrieved 2017-04-22.
+    3. ^ "Rosy Retrospection: A Psychological Phenomenon". Southeastern
+       University. 2016-02-23. Retrieved 2017-04-22.
+    4. ^ The Oxford Dictionary of American Political Slang edited by Grant
+       Barrett, p. 90.
+    5. ^ Etchells, Pete (January 16, 2015). "Declinism: is the world
+       actually getting worse?". The Guardian. Retrieved 20 December 2016.
+    6. ^ Steven R. Quartz, The State Of The World Isn't Nearly As Bad As
+       You Think, Edge Foundation, Inc., retrieved 2016-02-17
+    7. ^ Terence R. Mitchell; Leigh Thompson; Erika Peterson; Randy Cronk
+       (1997). "Temporal Adjustments in the Evaluation of Events: The
+       "Rosy View"". Journal of Experimental Social Psychology. 33 (4):
+       421–448. doi:10.1006/jesp.1997.1333. PMID 9247371.
+
+Further reading[edit]
+
      *
 
-     * NewsletterSubscribe
+   Mitchell, T.; Thompson, L. (1994). "A theory of temporal adjustments of
+   the evaluation of events: Rosy Prospection & Rosy Retrospection" (PDF).
+   In Stubbart, C.; Porac, J.; Meindl, J. (eds.). Advances in managerial
+   cognition and organizational information-processing. Vol. 5. Greenwich,
+   CT: JAI press. pp. 85–114. ISBN 978-1-55938-447-6. Archived (PDF) from
+   the original on 2015-12-02.
+     * v
+     * t
+     * e
 
-   (BUTTON)
-   Everything Zoomer
-     * Home
-     * Health
-          + Longevity
-          + Diet & Nutrition
-          + Zoomer Fitness
-          + Zoomer Yoga
-     * Money
-          + Real Estate
-          + Personal Finance
-          + Work & Retirement
-          + Budget
-          + Investing
-     * Travel
-          + Zooming: Travel Hub
-          + Zoomer Golf
-          + Savvy Tips
-          + Destinations
-          + Best of Canada
-          + Bucket List
-     * Food
-          + Recipes
-          + Libations
-          + Celeb Chefs
-          + Entertaining
-     * Style
-          + Fashion
-          + Beauty
-          + Home & Garden
-          + Shopping
-     * Book Club
-     * Classifieds
-     *
+   Biases
+   Cognitive biases
+     * Actor–observer
+     * Acquiescence
+     * Ambiguity
+     * Anchoring
+     * Attentional
+     * Attribution
+     * Authority
+     * Automation
+     * Belief
+     * Blind spot
+     * Choice-supportive
+     * Confirmation
+     * Compassion fade
+     * Congruence
+     * Courtesy
+     * Cultural
+     * Distinction
+     * Dunning–Kruger
+     * Egocentric
+          + Curse of knowledge
+     * Emotional
+     * Extrinsic incentives
+     * Fading affect
+     * Framing
+     * Frequency
+     * Correspondence
+     * Halo effect
+     * Hindsight
+     * Horn effect
+     * Hostile attribution
+     * Impact
+     * Implicit
+     * In-group
+     * Mere-exposure effect
+     * Negativity
+     * Normalcy
+     * Omission
+     * Optimism
+     * Out-group homogeneity
+     * Outcome
+     * Overton window
+     * Precision
+     * Present
+     * Pro-innovation
+     * Response
+     * Restraint
+     * Self-serving
+     * Social comparison
+     * Social influence bias
+     * Status quo
+     * Time-saving
+     * Trait ascription
+     * Turkey illusion
+     * von Restorff effect
+     * Zero-risk
+     * In animals
 
-     * NEWSLETTERSubscribe
+   Statistical biases
 
-Way Back When? The ’90s Nostalgia Boom and Why We All Long for a Simpler Time
+     * Estimator
+     * Forecast
+     * Healthy user
+     * Information
+          + Psychological
+     * Lead time
+     * Length time
+     * Non-response
+     * Observer
+     * Omitted-variable
+     * Participation
+     * Recall
+     * Sampling
+     * Selection
+     * Self-selection
+     * Social desirability
+     * Spectrum
+     * Survivorship
+     * Systematic error
+     * Systemic
+     * Verification
+     * Wet
 
-   Mike Crisolago | December 5th, 2019
-   (BUTTON)
-   (BUTTON)
-   90s nostalgia
+   Other biases
 
-   Photo: Mark Piovesan via iStock / Getty Images Plus
+     * Academic
+     * Funding
+     * FUTON
+     * Inductive
+     * Infrastructure
+     * Inherent
+     * In education
+     * Media
+          + False balance
+          + Vietnam War
+          + Norway
+          + South Asia
+          + Sweden
+          + United States
+          + Arab–Israeli conflict
+          + Ukraine
+     * Net
+     * Political bias
+     * Publication
+     * Reporting
+     * White hat
 
-   The word “nostalgia” evokes images of everything from classic cars to
-   Woodstock to bellbottoms, all the way back to the golden age of
-   Hollywood. Think James Dean in Rebel Without a Cause, not James Van Der
-   Beek in Dawson’s Creek. But the ’90s began 30 years ago, meaning that
-   nostalgia for that decade today is akin to nostalgia for the 1970s in
-   the year 2000. And no one made a fuss about that.
+   Bias reduction
 
-   Yes, the 1990s are officially nostalgic because, just as Paul Simon
-   sang, “Every generation throws a hero up the pop charts,” every
-   generation also tints their pop culture with rosy reminiscences. Now,
-   it’s the millennial generation’s turn.
+     * Cognitive bias mitigation
+     * Debiasing
+     * Heuristics in judgment and decision-making
 
-   The ’90s nostalgia kick began in the early 2010s but gained serious
-   traction in recent years, fuelled by total pop culture recall like the
-   resurgence of the hit sitcom Friends — thanks to Netflix — including
-   50-year-old Jennifer Aniston, who crashed Instagram in October when she
-   joined the social media platform with a photo of her and
-   the Friends cast, setting a world record by amassing one million
-   followers in just over five hours. She currently stands at 21 million
-   followers and counting.
-   90s nostalgia Jennifer Aniston’s first Instagram post, a current photo
-   of the cast of “Friends.” Clockwise from front: Jennifer Aniston, Lisa
-   Kudrow, Courteney Cox, Matt LeBlanc, David Schwimmer and Matthew Perry.
-   Photo: Jennifer Aniston/Instagram
+   Lists: General · Memory
 
+     * v
+     * t
+     * e
 
-   Of course, millennials make up close to 65 per cent of Instagram’s user
-   base, which explains why ‘90s nostalgia accounts flourish, offering
-   users a regular fix of the decade’s cultural headliners, from the
-   Britney Spears/Justin Timberlake romance to Kirk Cobain candids to
-   Dennis Rodman’s outlandish hairstyles and, of course, photos of the
-   Friends cast.
+   Human memory
 
-   Meanwhile, hit ’90s shows like Full House, Boy Meets World and Beverly
-   Hills 90210 landed reboots as bands like Backstreet Boys, the Spice
-   Girls, Smashing Pumpkins and Hootie and the Blowfish returned to
-   touring. Even Canuck rocker Alanis Morissette, 45, announced she’ll hit
-   the road in 2020 to mark the 25th anniversary of Jagged Little Pill,
-   her seminal 1995 album, alongside fellow ’90s mainstays Liz Phair and
-   the band Garbage. McDonald’s, meanwhile, brought back ’90s-era Happy
-   Meal toys, lip gloss sales surged  and ‘90s themed board games are hot
-   holiday gift items in 2019.
+   Basic concepts
 
-The 1990s as Nostalgia? As If!
+     * Encoding
+     * Storage
+     * Recall
 
-   Rapper Vanilla Ice, 52, who dropped his hit album To the Extreme in
-   1990, told Rolling Stone last year that he considers the 1990s the
-   “last truly great decade,” adding, “How would you look back at 2000 to
-   2017 and remember anything? How would you see somebody wearing some
-   gear and say, ‘Hey, that’s gotta be from 2014?’ There’s no music there,
-   there’s no pop culture, there’s no fashion that defines the
-   generation.”
+     * Attention
+     * Consolidation
+     * Neuroanatomy
 
-   In a similar vein, Bustle’s Sophie Atkinson says, “We’re emotionally
-   invested in the entertainment from [the ’90s] because back then, with
-   limited access to every album/TV show/film ever, the ones you did own
-   meant absolutely everything to us.”
+   Types
 
-   In 1998, when she was 13, Toronto-based journalist and editor Randi
-   Bergman filled a time capsule with personal items of the era —
-   everything from Spice Girls stickers to Titanic movie ticket stubs to
-   candy wrappers and photos of celebrity crushes. She opened the capsule
-   in 2017 and created a viral hit when she shared the contents on
-   Instagram, following it up with a podcast about nostalgia and now
-   a website, Capsule 98.  It’s dedicated to “the formative objects,
-   places and experiences that shape who we are,” regardless of generation
-   or decade.
-   90s nostalgia A mixtape of popular songs from 1998 that Randi Bergman
-   included in her time capsule. It includes “As Long As You Love Me” by
-   her favourite group at the time, Backstreet Boys. Photo: Randi
-   Bergman/Instagram
+   Sensory
+     * Echoic
+     * Eidetic
+     * Eyewitness
+     * Haptic
+     * Iconic
+     * Motor learning
+     * Visual
 
+   Short-term
+     * "The Magical Number Seven, Plus or Minus Two"
+     * Working memory
 
-   The 34-year-old suggests one reason for the boom in ’90s nostalgia is
-   that millennials fully indulge it online in a way that previous
-   generations, who didn’t have the internet when they were in their 20s
-   and 30s, never could.
+   Long-term
+     * Active recall
+     * Autobiographical
+     * Explicit
+          + Declarative
+          + Episodic
+          + Semantic
+     * Flashbulb
+     * Hyperthymesia
+     * Implicit
+     * Meaningful learning
+     * Personal-event
+     * Procedural
+     * Rote learning
+     * Selective retention
+     * Tip of the tongue
 
-   “Another reason that I know is because of the direness of how
-   everybody’s thinking of the world right now and the fact that things
-   are very down,” she says in an interview. “Maybe people are nostalgic
-   for an easier, simpler time, pre-social media. That could be part of it
-   too.”
+   Forgetting
 
-I Want It That Way
+     * Amnesia
+          + anterograde
+          + childhood
+          + post-traumatic
+          + psychogenic
+          + retrograde
+          + selective
+          + transient global
+     * Decay theory
+     * Forgetting curve
+     * Interference theory
+     * Memory inhibition
+     * Motivated forgetting
+     * Repressed memory
+     * Retrieval-induced forgetting
+     * Weapon focus
 
-   Bergman may be on to something. In 2013, University of Surrey
-   psychologist Erica Hepper told the New York Times that feelings of
-   nostalgia actually peak in young adults and again in old age while
-   slumping somewhat in the years in between.  “Nostalgia helps us deal
-   with transitions,” Hepper said. “The young adults are just moving away
-   from home and or starting their first jobs, so they fall back on
-   memories of family Christmases, pets and friends in school.”
+   Memory errors
 
-   For millennials, like other generations, nostalgia serves as a safety
-   blanket, a source of comfort and a means of temporary escape from the
-   demands of adulthood. The word “nostalgia” itself is a combination of
-   two Greek words that mean “homecoming” and “pain.” Or, in other words,
-   homesick.
+     * Confabulation
+     * Cryptomnesia
+     * Hindsight bias
+     * Imagination inflation
+     * Memory biases
+     * Memory conformity
+     * Misattribution of memory
+     * Misinformation effect
+     * Source-monitoring error
 
-   But Bergman adds that nostalgia also serves another purpose, serving as
-   a kind of online shorthand.
+   False memory
 
-   “For example, take a meme — put a picture of some classic ’90s thing
-   and put some new frame of reference on it, and it instantly makes
-   sense. Whereas someone like my sister [who is 10 years older] … it
-   doesn’t immediately resonate to her the same way.”
+     * Deese–Roediger–McDermott paradigm
+     * False memory syndrome
+     * Memory implantation
+          + Lost in the mall technique
+     * Recovered-memory therapy
 
-   Another Canadian millennial, Lee Davis, 24, takes the idea of nostalgia
-   as communication to the next level with HideSeek, a pop-up he
-   co-founded that currently resides in Montreal and courts millennials
-   “wanting highly interactive experiences that are also very shareable
-   and Instagramable.”
+   Research methods
 
-   HideSeek is unique in the nostalgia business in that it isn’t pegged to
-   specific pop-culture references. Guests tour rooms outfitted with
-   elements relatable to all generations: rooms themed around items like
-   crayons, boxes of classic kids’ cereals, a Slinky salon, a shopping
-   cart to push your pals around in and even a ball pit. In addition, some
-   rooms contain oversized items, their massive scale creating a childlike
-   sensation for visitors.
-   90s nostalgia Visitors enjoy the Salon Slinky at HideSeek. Photo:
-   HideSeek/Instagram
+     * Exceptional memory
+     * Indirect tests of memory
+     * Memory disorder
 
+   In groups
 
-   “That’s what we really focused on — less about specific nostalgic
-   memories and more to create an experience that lets you feel like a
-   kid,” Davis says. His idea of nostalgia is centred on the notion of
-   “play,” evoking memories of recess or after school sports.
+     * Collective memory
+          + Politics of memory
+     * Cultural memory
+     * Memory and social interactions
+     * Memory conformity
+     * Transactive memory
 
-   “Nostalgia’s just so powerful,” he adds. “And I can just see it from
-   the customers’ reactions. When they see something that reminds them of
-   their past or it makes them feel like kids, they get this warm, gushy
-   feeling.”
+   Other topics
 
-   Davis says people of all ages, including grandparents with their
-   grandkids, enjoy HideSeek, including “two grandmas [who came] in, and
-   they took a photo in the shopping cart and in the ball pit, and it went
-   pretty viral.” But his customer base remains millennials, many of whom
-   come in search of an escape from the daily grind. “They say, ‘Oh my
-   god, I get to go to a one-hour experience that’s going to let me feel
-   like a kid again? I get to step outside from my normal day-to-day
-   routine?’”
-   90s nostalgia It’s not just millennials who enjoy the ball pit at
-   HideSeek. Photo: HideSeek/Instagram
+     * Aging
+     * Art of memory
+          + chunking
+          + mnemonic
+     * Effects of alcohol
+     * Effects of exercise
+     * Emotion
+     * Memory improvement
+     * Sleep
+     * Trauma
 
-Beyond ’90s Nostalgia
+   In society
 
-   At the same time, millennial nostalgia extends beyond the 1990s to
-   feeling  fondness for a time they didn’t even experience.
+     * Memory sport
+          + World Memory Championships
+     * Shas Pollak
 
-   In fact, a 2013 study out of Cornell University showed that “music
-   transmitted from generation to generation shapes autobiographical
-   memories, preferences, and emotional responses, a phenomenon we call
-   ‘cascading reminiscence bumps.’” The study used specific examples of
-   millennials in their 20s listening to the music their parents enjoyed
-   at the same age.
+   Related
 
-   Elaine Wren regularly witnesses a similar nostalgic phenomenon in
-   action. The 52-year-old Toronto native works as the show manager for
-   Steve Michaels, an Elvis Presley tribute performer, and has worked with
-   Beatles tribute performers as well. She regularly sees three
-   generations of family members attend the concerts, adding, “If the
-   grandparent or parents were invested in that time period and that
-   music, it seems to have been passed on generation to generation. That’s
-   the only way they can experience what their older relatives experienced
-   … They see it through their eyes.”
-   90s nostalgia Elvis Presley tribute performer Steve Michaels as the
-   King of Rock ‘n’ Roll. Photo: Steve Michaels as ELVIS/Facebook
+     * Absent-mindedness
+     * Atkinson–Shiffrin memory model
+     * Context-dependent & state-dependent memory
+     * Childhood memory
+     * Exosomatic memory
+     * Free recall
+     * Intermediate-term memory
+     * Involuntary memory
+          + flashbacks
+     * Levels of Processing model
+     * Metamemory
+     * Muscle memory
+     * Priming
+          + intertrial
+     * Prospective & retrospective memory
+     * The Seven Sins of Memory
 
+   People
 
-   For Wren, “Nostalgia kicks in when you’re trying to keep a feeling
-   alive, keep a memory alive. I think nostalgia’s more of a feeling. It’s
-   sometimes not even [attached to] a time frame.” And like nostalgic
-   millennials, Wren says that many of the older audience members she
-   speaks to “miss the simplicity of ‘back then,’ and these shows take
-   them back to that world that they miss.”
+   Researchers
+     * Richard C. Atkinson
+     * Robert A. Bjork
+     * Stephen J. Ceci
+     * Susan Clancy
+     * Hermann Ebbinghaus
+     * Sigmund Freud
+     * Patricia Goldman-Rakic
+     * Ivan Izquierdo
+     * Marcia K. Johnson
+     * Eric Kandel
+     * Elizabeth Loftus
+     * Geoffrey Loftus
+     * James McGaugh
+     * Eleanor Maguire
+     * George Armitage Miller
+     * Brenda Milner
+     * Lynn Nadel
+     * Henry L. Roediger III
+     * Daniel Schacter
+     * Richard Shiffrin
+     * Arthur P. Shimamura
+     * Larry Squire
+     * Susumu Tonegawa
+     * Anne Treisman
+     * Endel Tulving
+     * Robert Stickgold
 
-How Looking Back Allows Us to Move Forward
+   Patients
+     * HM
+     * KC
+     * Clive Wearing
 
-   In reality, both baby boomers and millennials yearn for a simpler time.
-   The only difference is the decade for which they long. Generational
-   preferences aside, though, it turns out that nostalgia is actually good
-   for you.
+   Other
+     * Jonathan Hancock
+     * Paul R. McHugh
+     * Dominic O'Brien
+     * Ben Pridmore
+     * Cosmos Rossellius
+     * Andriy Slyusarchuk
 
-   Clay Routledge, a psychology professor and author of Nostalgia: A
-   Psychological Resource, told New Orleans Public Radio in 2017 that
-   while people turn to nostalgia in times of stress,  it actually makes
-   them more optimistic about the future. He adds that studies “show this
-   both in terms of people reporting that they’re more optimistic about
-   the future, more inspired but also behaviourally, too, in terms of
-   people actually going out and wanting to interact with and meet people
-   after they’ve engaged in nostalgia.”
+     *  Psychology portal
+     *  Philosophy portal
 
-   So ultimately, while decades and generations move on, the human impulse
-   to revisit our past for a nostalgic boost remains constant. And that’s
-   a good thing, regardless of what you actually consider nostalgia.
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Rosy_retrospection&oldid=11
+   08798518"
 
-   “I feel like everybody connects to nostalgia in a different way,
-   whether you’re 90 or you’re 10,” Bergman says. “I think about it all
-   the time — what are the things now that we take for granted or that are
-   so commonplace? And we’re just going to one day be like, ‘Oh, I miss
-   Netflix binging.’ Who knows? That could be nostalgic.”
+   Categories:
+     * Cognitive biases
+     * Memory biases
+     * Nostalgia
 
-   RELATED:
+   Hidden categories:
+     * Articles with short description
+     * Short description is different from Wikidata
+     * Articles needing additional references from July 2019
+     * All articles needing additional references
+     * Articles containing Latin-language text
+     * All articles with unsourced statements
+     * Articles with unsourced statements from July 2019
 
-   Nostalgia: A Tale of Christmas Past at Eaton’s Toyland
+Navigation menu
 
-   Nostalgia: A Wartime Recipe for Woolton Pie
+Personal tools
 
-   Nostalgia: A Throwback to When Papers Were Delivered by Erstwhile,
-   Ink-Stained Kids
+     * Not logged in
+     * Talk
+     * Contributions
+     * Create account
+     * Log in
 
-   Nostalgia: 50 Years Later, A Look Back At Woodstock
-   (BUTTON)
-   (BUTTON)
+Namespaces
 
-   EXPLORE  HealthMoneyTravelFoodStyleBook
-   ClubClassifieds#ZoomerDailyPolicy & Perspective
-   Arts & EntertainmentStars & RoyaltySex & Love
+     * Article
+     * Talk
 
-   CONNECT  FacebookTwitterInstagram
+   [ ] English
 
-   SUBSCRIBE  Terms of Subscription ServiceE-NewslettersSubscribe to
-   Zoomer Magazine
+Views
 
-   BROWSE  AboutMastheadContact UsAdvertise with UsPrivacy Policy
+     * Read
+     * Edit
+     * View history
 
-   EverythingZoomer.com is part of the ZoomerMedia Digital Network
+   [ ] More
+
+   ____________________ Search Go
+
+Navigation
+
+     * Main page
+     * Contents
+     * Current events
+     * Random article
+     * About Wikipedia
+     * Contact us
+     * Donate
+
+Contribute
+
+     * Help
+     * Learn to edit
+     * Community portal
+     * Recent changes
+     * Upload file
+
+Tools
+
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Cite this page
+     * Wikidata item
+
+Print/export
+
+     * Download as PDF
+     * Printable version
+
+Languages
+
+     * Español
+     * Italiano
+     * Pälzisch
+     * Português
+
+   Edit links
+
+     * This page was last edited on 6 September 2022, at 09:27 (UTC).
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       License 3.0; additional terms may apply. By using this site, you
+       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       registered trademark of the Wikimedia Foundation, Inc., a
+       non-profit organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Mobile view
+     * Developers
+     * Statistics
+     * Cookie statement
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

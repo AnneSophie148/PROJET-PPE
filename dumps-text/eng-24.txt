@@ -1,906 +1,590 @@
-   (BUTTON) Skip to main content
+   IFRAME: https://gtm-server.healthline.com/ns.html?id=GTM-MB6365D
 
-   IFRAME:
-   https://www.googletagmanager.com/ns.html?id=GTM-TFKV632&gtm_auth=NsJH3T
-   s1-89I8lZURwQYmw&gtm_preview=env-1&gtm_cookies_win=x
+     * Health Conditions
+          + Featured
+               o Breast Cancer
+               o IBD
+               o Migraine
+               o Multiple Sclerosis (MS)
+               o Rheumatoid Arthritis
+               o Type 2 Diabetes
+               o Sponsored Topics
+          + Articles
+               o Acid Reflux
+               o ADHD
+               o Allergies
+               o Alzheimer's & Dementia
+               o Bipolar Disorder
+               o Cancer
+               o Crohn's Disease
+               o Chronic Pain
+               o Cold & Flu
+               o COPD
+               o Depression
+               o Fibromyalgia
+               o Heart Disease
+               o High Cholesterol
+               o HIV
+               o Hypertension
+               o IPF
+               o Osteoarthritis
+               o Psoriasis
+               o Skin Disorders and Care
+               o STDs
+     * Discover
+          + Wellness Topics
+               o Nutrition
+               o Fitness
+               o Skin Care
+               o Sexual Health
+               o Women's Health
+               o Mental Well-Being
+               o Sleep
+          + Original Series
+               o Fresh Food Fast
+               o Diagnosis Diaries
+               o You’re Not Alone
+               o Present Tense
+          + Video Series
+               o Youth in Focus
+               o Healthy Harvest
+               o No More Silence
+               o Future of Health
+     * Plan
+          + Health Challenges
+               o Mindful Eating
+               o Sugar Savvy
+               o Move Your Body
+               o Gut Health
+               o Mood Foods
+               o Align Your Spine
+          + Find Care
+               o Primary Care
+               o Mental Health
+               o OB-GYN
+               o Dermatologists
+               o Neurologists
+               o Cardiologists
+               o Orthopedists
+          + Lifestyle Quizzes
+               o Weight Management
+               o Am I Depressed? A Quiz for Teens
+               o Are You a Workaholic?
+               o How Well Do You Sleep?
+          + Tools & Resources
+               o Health News
+               o Find a Diet
+               o Find Healthy Snacks
+               o Drugs A-Z
+               o Health A-Z
+     * Connect
+          + Find Your Bezzy Community
+               o Breast Cancer
+               o Inflammatory Bowel Disease
+               o Psoriatic Arthritis
+               o Migraine
+               o Multiple Sclerosis
+               o Psoriasis
+          + Follow us on social media
+     * Shop
+          + Products by Condition
+               o Insomnia
+               o Stress Relief
+               o Back Pain
+               o Neck Pain
+               o Sleep Apnea
+               o Hot Sleepers
+               o Allergies
+               o Pain Relief
+          + Product Reviews
+               o Vitamins & Supplements
+               o Sleep
+               o Mental Health
+               o Nutrition
+               o Gift Guides
+               o CBD
+               o Men’s Health
+               o Women’s Health
 
-   IFRAME:
-   https://www.googletagmanager.com/ns.html?id=GTM-N279F7B&gtm_auth=jfKETt
-   lWamfZ4l02YiFCQw&gtm_preview=env-1&gtm_cookies_win=x
+   (BUTTON)
+     * (BUTTON) Health Conditions
+     * (BUTTON) Discover
+     * (BUTTON) Plan
+     * (BUTTON) Connect
+     * (BUTTON) Shop
 
-     * (BUTTON) Download Article
-       Download Article
-          + Download PDF
-          + ReadCube
-          + EPUB
-          + XML (NLM)
-       (BUTTON)
-     * (BUTTON)
-       Share on
-          +
-          +
-          +
-       (BUTTON)
-     * (BUTTON)
-       Export citation
-          + EndNote
-          + Reference Manager
-          + Simple TEXT file
-          + BibTex
-       (BUTTON)
+   (BUTTON) Subscribe
 
-     * total views
+Mental Well-Being
+
+     * Life
+     * Youth in Focus
+     * Mind & Body
+     * Self-Care
+     * Conditions
+     * Therapy
+     * Maternal Wellness
+     * Parenting
+     * Crisis Support
+
+   (BUTTON)
+
+Those Happy Golden Years: Coping with Memories That Bring More Pain Than
+Peace
+
+   Medically reviewed by Matthew Boland, PhD — By Crystal Raypole on July
+   14, 2021
+     * Nostalgia and depression
+     * Benefits of nostalgia
+     * How to cope
+     * Finding support
+     * Takeaway
+
+   woman sitting with elbow on thigh looking at smartphone Share on
+   PinterestJoscha Malburg/EyeEm/GettyImages
+
+   Nostalgia refers to those wistful, sentimental feelings that surface
+   when you recall significant experiences, relationships, places, and
+   other bits of the past.
+
+   Often, nostalgia inspires positive emotions — a sense of meaningfulness
+   or life purpose, social connection, and optimism. But it can have a
+   downside, too — a lingering aftertaste with an unpleasant bite.
+
+   Longing for the past (something you can’t reclaim) can fuel
+   dissatisfaction with the present. Nostalgic depression, then, can
+   describe a yearning colored with deeper tones of hopelessness or
+   despair.
+
+   Experts don’t consider nostalgic depression a specific subtype of
+   depression. All the same, fixating on rosy memories of happier times
+   and better days can affect your mood and motivation to make the most of
+   your life in the present.
+
+Once upon a time
+
+   Experts did consider nostalgia a mental health condition at one point.
+   Physician Johannes Hofer first used the term in the late 1600s to
+   describe the anxiety, homesickness, disordered eating, insomnia, and
+   other symptoms experienced by Swiss mercenaries during their time
+   fighting away from home.
+
+   By the 1800s, nostalgia was considered more of a melancholic depression
+   tinged with homesickness and loss.
+   In the late 1900s, sociologist Fred Davis began to draw clear
+   distinctions between nostalgia and homesickness. Others took his work
+   further, highlighting nostalgia’s possible consequences and potential
+   benefits.
+
+   The link between nostalgia and depression
+
+   A glimpse of a familiar face, the refrain of a long-forgotten song, a
+   faint fragrance that pulls at your memory — any of these can inspire a
+   deep and pervasive longing for people, places, and things that are no
+   longer part of your life.
+
+   You can’t always trust those glowing snapshots, though.
+
+   You see, memory fragments are just that: fragments. As the flowing
+   sands of time wear them down, you’re left with an incomplete picture of
+   the past.
+
+   The pieces that remain usually aren’t entirely accurate, either. Your
+   brain has a tendency to apply Instagram-worthy filters to your
+   memories, which can render them softer and more appealing than the
+   actual event.
+
+   Say you’re riding your bike along the river. A chorus of frogs
+   harmonizes with the soothing rush of water, and the evening breeze
+   cooling your face carries the scent of rain. These sensations provoke a
+   wisp of memory: biking past a similar river on your way home from high
+   school, with nothing to do except grab a snack and retreat to the
+   privacy of your bedroom.
+
+   “If only life were that simple now,” you think wistfully. “School and
+   homework were so much easier than work and everything else I have to
+   do.”
+
+   What you might not remember:
+     * regular conflicts with your parents
+     * difficulties to keep your grades high enough to earn a scholarship
+       to a college far from home
+     * pain of your first heartbreak
+
+   So, why does that matter? What’s wrong with remembering the good times?
+
+   Often, nothing. Still, getting caught up in an idealized rewrite can
+   leave you comparing your present day to a past you didn’t actually
+   enjoy all that much.
+
+   This yearning can eventually factor into emotional distress, including
+   symptoms of depression.
+
+Worry and rumination
+
+   Nostalgia might cast a longer shadow if you have a habit of worrying or
+   often find yourself fixating on dark and unwanted thoughts.
+
+   A 2012 study explored potential negative effects of nostalgia in a
+   sample of over 200 adults. The participants, most of whom were
+   university students, answered questions about their:
+     * mood, including if they experienced anxiety or depression
+     * tendency to worry
+     * nostalgic memories, which they were asked to describe using visual
+       imagery and other sensory details
+
+   According to the results, participants who tended to worry more often
+   also reported stronger feelings of depression and anxiety after talking
+   about their past.
+
+Sadness or regret
+
+   Looking back on the distant past can provoke symptoms of depression
+   when you believe the present doesn’t measure up.
+
+   If you failed to achieve things you hoped to accomplish, your bright
+   enthusiasm for the future may have long since sputtered out. Maybe you
+   wish you could return to your youth, when you envisioned life as a
+   sprawling blank canvas to fill with your dreams.
+
+   You might even feel guilt, as part of your depression symptoms, for
+   letting loved ones (or yourself) down by making promises you couldn’t
+   keep.
+
+   Research from 2020 exploring the effects of nostalgia on well-being
+   called nostalgia a “mixed emotion,” one that can have both positive and
+   negative effects.
+
+   Through several diary studies, researchers found evidence to suggest
+   that nostalgia can sometimes create a cycle of distress:
+     * You might notice spontaneous nostalgia as you go about your day,
+       especially after unpleasant events, like a fight with your partner
+       or a bad day at work.
+     * As a result, you might focus even more on the past and fixate on
+       negative thoughts. Eventually, you could begin to feel sad, even
+       somewhat depressed.
+     * This distress can, in turn, prompt further nostalgia.
+
+   What’s more, existing feelings of depression or sadness can lay yet
+   another filter over the past. In other words, if you tend to get
+   nostalgic when you’re already feeling down, your memories might further
+   darken your mood.
+
+Loneliness and loss
+
+   Nostalgia often surfaces when thinking of loved ones, both those you
+   haven’t encountered in some time and those you no longer spend time
+   with.
+
+   If you lost a friend or loved one and feel like you never got real
+   closure, this nostalgia may feel even more distressing.
+
+   Anticipatory nostalgia, or a longing for someone or something you
+   haven’t yet lost, can also trigger anxiety and preemptive sadness.
+
+   You might notice this feeling during a romantic weekend with your
+   partner or a casual day relaxing with your best friends. Despite
+   enjoying yourself, you know every day can’t be the same and find
+   yourself missing them well before they’re gone.
+
+   The upside of nostalgia
+
+   All that being said, nostalgia isn’t always negative. In fact, experts
+   have associated it with several positive aspects of emotional
+   well-being:
+     * A stronger, more positive self-identity. Your life experiences help
+       shape your personality and define your sense of self. Looking back
+       on the past can help you realize how you’ve grown over time.
+     * Life purpose. Thinking of important goals you have accomplished and
+       important experiences can remind you that life has value and
+       meaning — even if it didn’t turn out exactly how you predicted.
+     * Belonging and connection. Nostalgia may sometimes contribute to
+       feelings of loneliness, but 2020 research also suggested it can
+       help you feel more connected to others. Thinking of the people you
+       love, for example, can help you remember just how much you treasure
+       those relationships.
+     * Motivation and inspiration. Recalling “better” days could help
+       motivate you to regain that contentment, inspiring you to work
+       toward goals and improve circumstances you aren’t happy with.
+
+   Nostalgia could even inspire you to get help for depression.
+
+   In a 2020 study, researchers created two different announcements for
+   the campus counseling center for 148 university students living with
+   depression. One announcement was specifically designed to trigger
+   feelings of nostalgia.
+
+   The students who watched the nostalgic announcement reported
+   experiencing more positive emotions afterward. They also showed more
+   interest in reaching out to the counseling center to get support.
+
+   Coping tips
+
+   If looking back on the past leaves you feeling distressed in the
+   future, these strategies can help.
+
+Keep things in perspective
+
+   You might recall happy moments with your friends and think, “I’ll never
+   feel so close to anyone again.” Or, when thinking of an apartment you
+   loved, you might think, “I’ll never live in such a nice place again.”
+
+   Instead of letting the filtered past sway you, try probing your
+   memories a little deeper for a more realistic picture.
+
+   Yes, you and your friends did have a lot of fun — doing things you
+   don’t have much interest in now. Plus, when you really consider your
+   bond, you realize it wasn’t nearly as strong as the ones you have now.
+
+   And, sure, that apartment was lovely, with great light and spacious
+   rooms. Of course, you could hear every move your upstairs neighbors
+   made, and your shower was almost never the right temperature (two
+   problems you don’t have in your current apartment).
+
+Mindfulness
+
+   Taking time for mindfulness may benefit you when nostalgic thoughts
+   provoke worry and rumination, drawing your mood into a downward spiral.
+
+   Mindfulness, or consciously focusing your awareness on the here and
+   now, can help you remember that any negative feelings coming up are
+   just passing thoughts, and they have no power over your life now.
+
+   You might recall your child’s first words and steps fondly, wishing you
+   could still pick them up and cuddle with a bedtime story. When you find
+   yourself mourning those long-ago moments, try reframing them. Instead,
+   marvel at the fact that they can now read to you (and do so much more).
+
+   Sitting with your memories, and any thoughts they bring up, can also
+   help you find deeper meaning in the past.
+
+   Instead of drawing comparisons between “now” and “then,” harnessing
+   your nostalgia can help you cultivate gratitude for defining life
+   events or people who truly changed your life.
+
+   Working toward greater mindfulness? Give these tips a try.
+
+Seek out fulfilling relationships
+
+   When nostalgia leads to yearning for lost friends and loved ones, you
+   can challenge feelings of loneliness by turning toward the important
+   people in your present.
+
+   New relationships might not replace the bonds that mattered so much.
+   They can, however, remind you that you do have love and companionship,
+   and that others value you, just as you value them.
+
+   It’s also worth taking the chance to reach out to those people you miss
+   most. Time changes nearly everyone, so you might find your friends,
+   like you, have become entirely different people. Still, that doesn’t
+   mean you can’t reconnect and perhaps even find something new to share.
+
+   Seeking support
+
+   A mental health professional might not diagnose nostalgic depression,
+   but they can offer support when nostalgia leads to lingering emotional
+   distress.
+
+   Depression often affects your energy, not to mention your relationships
+   with others. Connecting with a therapist is always a good idea when
+   ruminating on thoughts of the past makes it difficult to thrive in the
+   present.
+
+   Some evidence suggests spontaneous nostalgia, or the recollections that
+   come up in daily life, tends to have more of a negative impact than the
+   nostalgic feelings that come up when someone asks you to recall a
+   meaningful time in your life.
+
+   Therapy can help when you notice:
+     * anxiety or frequent worries
+     * frequent rumination
+     * guilt or shame
+     * loss of motivation
+     * persistent sadness, hopelessness, or despair
+     * feelings of unworthiness or self-doubt
+
+   A therapist can offer guidance by helping you:
+     * recognize potential triggers for these feelings
+     * create strategies to counter rumination
+     * explore strategies to cope with nostalgia productively
+     * identify symptoms of anxiety, depression, or other underlying
+       mental health concerns
+
+   Not sure where to start? Check out our guide to finding the right
+   therapist.
+
+   The bottom line
+
+   Life only moves in one direction: forward.
+
+   Nostalgic musings can give rise to lingering sadness that takes hold,
+   creating a roadblock that grounds you in the past. But they can also
+   serve as a compass, guiding you to the future you desire.
+     __________________________________________________________________
+
+   Crystal Raypole has previously worked as a writer and editor for
+   GoodTherapy. Her fields of interest include Asian languages and
+   literature, Japanese translation, cooking, natural sciences, sex
+   positivity, and mental health. In particular, she’s committed to
+   helping decrease stigma around mental health issues.
+
+   Last medically reviewed on July 14, 2021
+
+How we reviewed this article:
+
+   (BUTTON)
+   Sources
+   (BUTTON)
+   History
+   Healthline has strict sourcing guidelines and relies on peer-reviewed
+   studies, academic research institutions, and medical associations. We
+   avoid using tertiary references. You can learn more about how we ensure
+   our content is accurate and current by reading our editorial policy.
+     * Abeyta AA, et al. (2020). Combating loneliness with nostalgia:
+       Nostalgic feelings attenuate negative thoughts and motivations
+       associated with loneliness.
+       frontiersin.org/articles/10.3389/fpsyg.2020.01219/full
+     * Batcho K. (2019). Speaking of psychology: Does nostalgia have a
+       psychological purpose?
+       apa.org/research/action/speaking-of-psychology/nostalgia
+     * Batcho KI. (2020). When nostalgia tilts to sad: Anticipatory and
+       personal nostalgia.
+       frontiersin.org/articles/10.3389/fpsyg.2020.01186/full
+     * Bridge DJ, et al. (2012). Neural correlates of reactivation and
+       retrieval-induced distortion.
+       jneurosci.org/content/32/35/12144
+     * Newman DB, et al. (2020). Nostalgia and well-being in daily life:
+       An ecological validity perspective.
+       ncbi.nlm.nih.gov/pmc/articles/PMC7513922
+     * Hussain SA, et al. (2020). Effect of nostalgia as a motivational
+       force for depressed students to seek professional psychological
+       help.
+       tandfonline.com/doi/abs/10.1080/07448481.2020.1754838?journalCode=v
+       ach20
+     * Oba K, et al. (2016). Memory and reward systems coproduce
+       ʼnostalgicʼ experiences in the brain.
+       ncbi.nlm.nih.gov/pmc/articles/PMC4927028
+     * Routledge C, et al. (2011). The past makes the present meaningful:
+       Nostalgia as an existential resource.
+       psycnet.apa.org/record/2011-15473-001
+     * Routledge C, et al. (2013). Nostalgia as a resource for
+       psychological health and well-being.
+       psycnet.apa.org/record/2013-38800-004
+     * Sedikides C, et al. (2008). Nostalgia: Past, present, and future.
+       researchgate.net/publication/313213209_Nostalgia_past_present_and_f
+       uture
+     * Verplanken B. (2012). When bittersweet turns sour: Adverse effects
+       of nostalgia on habitual worriers.
+       psych.hanover.edu/Research/exponnetresults/Verplanken%20(2012).pdf
+     * Wildschut T, et al. (2008). Nostalgia — From cowbells to the
+       meaning of life.
+       thepsychologist.bps.org.uk/volume-21/edition-1/nostalgia-cowbells-m
+       eaning-life
+
+   Our experts continually monitor the health and wellness space, and we
+   update our articles when new information becomes available.
+
+   Current Version
+
+   Jul 15, 2021
+
+   Edited By
+
+   Kelly Morrell
+
+   Medically Reviewed By
+
+   Matthew Boland, PhD
+
+   Copy Edited By
+
+   Copy Editors
+
+   Share this article
+   Medically reviewed by Matthew Boland, PhD — By Crystal Raypole on July
+   14, 2021
+
+Read this next
+
+     * Meditation Won’t Cure Your Depression, but It Can Be a Big Help
+       Medically reviewed by Timothy J. Legg, PhD, PsyD
+       Meditation won't cure depression overnight, but it can be more
+       beneficial than you think.
+       READ MORE
      *
-
-   View Article Impact
-
-SHARE ON
-
-     *
-     *
-     *
-     *
-     *
-
-Edited by
-
-Jeffrey D. Green
-
-   Virginia Commonwealth University, United States
-
-Reviewed by
-
-Sandra Garrido
-
-   The MARCS Institute for Brain, Behaviour and Development, Western
-   Sydney University, Australia
-
-Tim Wildschut
-
-   University of Southampton, United Kingdom
-
-TABLE OF CONTENTS
-
-     *
-          + Abstract
-          + Introduction
-          + Methods
-          + Results
-          + Discussion
-          + Data Availability Statement
-          + Ethics Statement
-          + Author Contributions
-          + Conflict of Interest
-          + References
-          + Appendix
-
-     * (BUTTON) Export citation
-          + EndNote
-          + Reference Manager
-          + Simple TEXT file
-          + BibTex
-
-   Check for updates
-
-People also looked at
-
-BRIEF RESEARCH REPORT article
-
-   Front. Psychol., 29 May 2020
-   Sec. Personality and Social Psychology
-   https://doi.org/10.3389/fpsyg.2020.01186
-
-When Nostalgia Tilts to Sad: Anticipatory and Personal Nostalgia
-
-   Krystine I. Batcho^*
-     * Le Moyne College, Syracuse, NY, United States
-
-   Contemporary research has showcased many benefits of nostalgia, but its
-   bittersweet character and historical reputation as unhealthy raise the
-   possibility of less favorable impacts. In recent studies, daily diary
-   data highlighted nostalgia’s mixed valence and suggested that nostalgia
-   is more strongly associated with negative feelings. Variables that
-   influence the adaptive or maladaptive dimensions of nostalgia have not
-   yet been fully explored. Recently, a focus on when nostalgia is
-   experienced relative to past and future was introduced in the construct
-   of anticipatory nostalgia, missing the present prematurely before it
-   has become past. Distinct from personal nostalgia, anticipatory
-   nostalgia was found to be characterized by difficulty enjoying the
-   present and a tendency toward sadness and worry. The present study
-   examines the distinctive dynamics at play in anticipatory and personal
-   nostalgia by exploring the relationship between each type of
-   dispositional nostalgia and reported experience with happy and sad
-   stories. The Nostalgia Inventory, the Survey of Anticipatory Nostalgia,
-   and a brief form of the PANAS were completed by 144 undergraduates (110
-   women), who rated their exposure and reactions to happy and sad
-   stories. Reported frequency of exposure to happy and sad stories was
-   related to dispositional happiness and sadness. Personal and
-   anticipatory nostalgia did not differ in frequency of exposure to happy
-   and sad stories, but they did differ in reactivity to and learning from
-   sad stories. Findings highlight the importance of the timing of
-   nostalgia, consistent with the distinction between nostalgia for the
-   past and nostalgia for what is still present.
-
-Introduction
-
-   In contrast to nostalgia’s dark origins in medical history as a disease
-   construct, contemporary researchers have largely rediscovered nostalgia
-   as a healthy psychological phenomenon. Empirical evidence has
-   contradicted historical arguments that nostalgia reflects an inability
-   to accept the loss of the past or serves as an obstacle to living in
-   the present or moving forward (Werman, 1977; Kaplan, 1984, 1987).
-   Presumed maladaptive qualities have been replaced by documented
-   beneficial functions, including strengthened social connectedness,
-   continuity of self, enhanced self-esteem, adaptive coping strategies,
-   meaning in life, and comfort in the face of threatened mortality
-   (Batcho, 1998, 2013; Wildschut et al., 2006, 2010; Batcho et al., 2008;
-   Routledge et al., 2008; Zhou et al., 2008; Iyer and Jetten, 2011;
-   Cheung et al., 2013; Stephan et al., 2014; Sedikides et al., 2015).
-
-   However, recent research has revived questions about possible
-   unfavorable aspects of nostalgia by highlighting its distinctive
-   bittersweet nature (Larsen et al., 2001; Larsen and McGraw, 2011, 2014;
-   Hepper et al., 2012). While most studies have found that nostalgia
-   increases positive affect, instances of elevated negative affect,
-   including sadness, have been identified (Zinchenko, 2011; Stephan et
-   al., 2012; Newman et al., 2019). The extent to which nostalgia is
-   uplifting and helpful or bitter and counterproductive might depend upon
-   personality traits or contextual variables (Barrett et al., 2010;
-   Köneke, 2010; Wildschut et al., 2010, 2019; Hart et al., 2011; Iyer and
-   Jetten, 2011; Seehusen et al., 2013; Abeyta et al., 2014; Garrido,
-   2018). One largely unexplored variable is the timing of nostalgia
-   (Batcho, 2020). As an experience that unfolds over time, nostalgia’s
-   impact might depend upon the cognitive appraisal that directs the
-   feelings and thoughts generated during a nostalgic episode.
-
-   When nostalgia focuses on loss that has not yet occurred, the sadness
-   of anticipated loss is premature and the experience becomes a
-   paradoxical phenomenon of enjoying the present while missing it as if
-   already relegated to the past. Dubbed anticipatory nostalgia, such
-   premature nostalgia has been introduced as a construct in its own right
-   (Batcho and Shikh, 2016; Bergs et al., 2019). A form of nostalgia by
-   definition, it can be distinguished from personal nostalgia. Personal
-   nostalgia is missing what has been lost, whereas anticipatory nostalgia
-   involves missing what has not yet been lost. Anticipatory nostalgia
-   depends upon mentally creating an imagined future that gives rise to
-   missing what will be “someday past,” yet still present. By engaging
-   abstract construal, anticipatory nostalgia might engender psychological
-   distance from the present, decreasing direct involvement in the current
-   concrete reality (Nussbaum et al., 2003).
-
-   Anticipatory nostalgia should not be confused with anticipated
-   nostalgia. Anticipated nostalgia is the prediction or expectation that
-   one will feel nostalgic for an aspect of the present in the future, not
-   feeling nostalgic in the present. Predicting future nostalgia is an
-   interesting cognitive process but not identical to the emotional
-   phenomenon of feeling nostalgic before the future loss occurs. A person
-   can expect to miss a loved one when they leave or die someday, but the
-   expectation doesn’t necessarily include the emotional component of
-   nostalgic missing. Expecting future nostalgia has been shown to predict
-   nostalgia after an important life transition. The finding of a greater
-   likelihood of expecting future nostalgia for more positive experiences
-   is not surprising, as people would be likely to expect to miss
-   enjoyable or valued events. Expecting future nostalgia was associated
-   with greater savoring of the experience, and post-transition nostalgia
-   was associated with benefits, including enhanced self-esteem, social
-   connectedness, and meaning in life (Cheung et al., 2019).
-
-   By contrast, it is not clear whether anticipatory nostalgia, premature
-   missing of what is still present, shares the benefits of nostalgia for
-   the past. Despite eliciting the sadness of loss, anticipatory nostalgia
-   might also allow reappraisal of the present. In spite of or because of
-   the sadness, anticipating loss during adversity might encourage
-   effective coping by strengthening appreciation of what is good in the
-   present and providing the comfort of knowing that difficulties will not
-   last. Initial empirical investigations to identify the benefits or
-   disadvantages of anticipatory nostalgia assessed anticipatory nostalgia
-   as a dispositional trait, that is, as the tendency of individuals to
-   experience it generally. The early studies supported the viability of
-   anticipatory nostalgia as a construct distinguishable from personal
-   nostalgia (Batcho and Shikh, 2016). Unlike dispositional personal
-   nostalgia, dispositional anticipatory nostalgia was characterized by a
-   greater tendency for people and experiences to cause worry and sadness
-   and was more likely to occur in adverse circumstances.
-
-   The present study extends the early research by exploring the
-   relationship between nostalgia and experience with stories. A
-   substantial amount of the existing research on nostalgia has examined
-   memories. Like memories, stories entail the past inherently by
-   recounting what has happened in the past. Stories differ from memories
-   in that the content of stories does not necessarily originate from an
-   individual’s own experience. Empirical research exploring stories is
-   voluminous and well-established, but has focused primarily on
-   identifying features of stories, context, and cognitive processing that
-   influence retention and emotional and behavioral impacts (Habermas and
-   Diel, 2010; Dunlop et al., 2011; McGinty et al., 2013; Berger et al.,
-   2019; Landrum et al., 2019). Not yet adequately explored is the
-   enduring or cumulative influence of emotional stories, especially those
-   that convey personal meaning. Qualitative analyses have shown that
-   personally relevant stories can exert a powerful lasting influence
-   (Pratt and Fiese, 2004; Kiser et al., 2010). In their memoirs, members
-   of the resistance during World War II explained how stories encountered
-   during childhood generated nostalgia and played pivotal roles in their
-   dedication to the resistance, even to the point of enduring hardships
-   and risking death (Batcho, 2018).
-
-   The present work introduced a focus on accumulated exposure to stories
-   over time. In an investigation of the relationship between overall
-   exposure to stories and personal and anticipatory nostalgia,
-   participants estimated and shared their experience with happy and sad
-   stories. If experiencing nostalgia prematurely is less adaptive than
-   missing what is already past, anticipatory nostalgia will be aligned
-   with unfavorable reactions to stories, whereas personal nostalgia will
-   be associated with positive reactions. In particular, exposure to happy
-   and sad stories was examined to explore whether dispositional
-   anticipatory nostalgia is associated with greater exposure, reactivity,
-   or attraction to sad stories. If the association of anticipatory
-   nostalgia with sadness reflects an overall sad disposition,
-   anticipatory nostalgia would be expected to correlate with greater
-   exposure to or recall of sad stories. If anticipatory nostalgia
-   develops in response to sad experiences, reported exposure to sad
-   stories would be expected to correlate with anticipatory nostalgia.
-   However, prior research has not examined the possibility of cognitive
-   benefits. If anticipating future loss entails helpful cognitive
-   processing, anticipatory nostalgia will be associated with greater
-   likelihood of learning from sad stories.
-
-Methods
-
-Participants
-
-   A sample of 144 undergraduates, 110 women and 34 men, ranging in age
-   from 18 to 39 years (Mdn = 20, SD = 2.65), completed the study. In
-   accordance with ethical norms of the American Psychological
-   Association, participants were offered either a small stipend or
-   optional extra credit for a course for their participation. The offer
-   of a stipend helped recruit students majoring in different disciplines.
-
-Material and Procedure
-
-   All procedures and material for the study were reviewed and approved by
-   the college Institutional Review Board for compliance with ethical
-   guidelines. In small groups in a laboratory room, participants
-   completed paper forms of the Nostalgia Inventory, the Survey of
-   Anticipatory Nostalgia, selected items from Watson and Clark’s (1994)
-   Positive and Negative Affect Schedule-Expanded Form (PANAS-X), and a
-   survey of experience with happy and sad stories constructed for this
-   study.
-
-   The Nostalgia Inventory assessed personal nostalgia as a dispositional
-   trait (Batcho, 1995, 1998, 2007). Consistent with Stern’s (1992)
-   definition of nostalgia as the longing for one’s past, respondents rate
-   the extent to which they miss each of 20 items from when they were
-   younger on a 9-point scale (1 = Not at all, 9 = Very much). The
-   inventory is reported to have a split-half reliability of 0.78 and
-   1-week test-retest reliability of 0.84 (Batcho, 1995), an acceptable
-   level of internal consistency of 0.86 as measured by Cronbach’s alpha
-   (Batcho et al., 2008), and test-retest reliability of 0.82 over a
-   4-week interval (Batcho et al., 2011). Consistent with prior research,
-   the Nostalgia Inventory yielded an acceptable level of internal
-   consistency of 0.88 as measured by Cronbach’s alpha and a split-half
-   reliability of 0.81 in this study.
-
-   The Survey of Anticipatory Nostalgia focuses on future loss rather than
-   the past (e.g., “society will change”). Given a 9-point scale (1 =
-   rarely/not very, 9 = very often/very much), respondents were
-   instructed: “Sometimes we realize that something won’t last forever. It
-   can be an activity, a thing, or time with a person or group. Using the
-   scale below, CIRCLE a number to estimate how often or to what extent
-   you feel like you already miss each of the items before the change has
-   happened.” The survey is reported to have a split-half reliability of
-   0.83, 4-week test-retest reliability of 0.71, and internal consistency
-   as measured by Cronbach’s alpha of 0.87 (Batcho and Shikh, 2016).
-   Consistent with prior research, internal consistency as measured by
-   Cronbach’s alpha was 0.88, and split-half reliability measured 0.79 in
-   this study.
-
-   As in prior research (Batcho and Shikh, 2016), mean ratings on the
-   Nostalgia Inventory correlated moderately with mean ratings on the
-   Survey of Anticipatory Nostalgia, r[(][142][)] = 0.52, p < 0.001.
-
-   The Survey of Experience with Stories (Appendix) included eight items
-   asking participants to rate their experience with stories on a 9-point
-   scale (1 = rarely/not at all, 9 = very often/very much). Participants
-   rated how often they had been exposed to happy and to sad stories in
-   general, how happy and how sad happy and sad stories made them feel,
-   how often they choose happy and sad stories, and how often they benefit
-   or learn from happy and sad stories. Participants were asked to
-   describe the earliest happy and sad story they remember, as well as
-   additional happy and sad stories. They were instructed: “You might have
-   read it or it might have been told to you, read to you, depicted in a
-   video or film, or have been a news story. You might have thought it was
-   a true story or a fictional one.”
-
-   Consistent with prior research (Batcho and Shikh, 2016), six items were
-   selected (cheerful, happy, joyful, sad, blue, and downhearted) from the
-   PANAS-X (Watson and Clark, 1994). Given the dispositional or trait
-   instruction, participants rated the extent to which they had felt each
-   item “in general, that is, on the average” on a 5-point scale (1 = very
-   slightly or not at all, 5 = extremely).
-
-Results
-
-Gender
-
-   Men and women did not differ in average personal nostalgia scores, t(1,
-   142) = −1.768, p = 0.084, η[p]^2 = 0.029, but women (M = 6.00, SD =
-   1.18) scored higher in anticipatory nostalgia than did men (M = 5.24,
-   SD = 1.20), t(1, 142) = −3.29, p = 0.001, η[p]^2 = 0.071.
-
-Nostalgia and Positive and Negative Affect
-
-   Ratings of PANAS-X items of generalized affect yielded additional
-   evidence for anticipatory nostalgia as a distinct construct. Ratings
-   from the three items cheerful, happy, and joyful were averaged to yield
-   a composite measure of a tendency toward happiness. Ratings from the
-   three items sad, blue, and downhearted were averaged to serve as a
-   measure of sadness. Personal nostalgia was not correlated with
-   happiness, r[(][142][)] = 0.06, p = 0.476, or sadness, r[(][142][)] =
-   0.12, p = 0.136, whereas anticipatory nostalgia correlated
-   significantly with sadness, r[(][142][)] = 0.21, p = 0.012, but not
-   with happiness, r[(][142][)] = 0.14, p = 0.087.
-
-Stories
-
-Nostalgia and Experience With Happy and Sad Stories
-
-   The relationship of personal and anticipatory nostalgia to exposure and
-   reactions to happy and sad stories was explored in correlational
-   analyses, with gender and dispositional sadness and happiness
-   controlled (Table 1). Frequency of exposure to happy and sad stories
-   was assessed in two ways. Participants were asked to rate overall
-   exposure by rating how often they encountered happy and sad stories.
-   They also recalled happy and sad stories in open-ended essays, and the
-   number of stories reported served as an additional measure of exposure.
-   Participants were free to recall as many stories as they could without
-   a time limit. Subjective estimates and recall entail different
-   cognitive processes. Consistent with such differences, the ratings and
-   number of stories recalled were not correlated for happy stories,
-   r[(][142][)] = 0.01, p = 0.922, or sad stories, r[(][142][)] = 0.11, p
-   = 0.197, and served as independent measures. Neither type of nostalgia
-   correlated significantly with either indicator of frequency of exposure
-   to happy and sad stories, suggesting that people prone to personal or
-   anticipatory nostalgia have not experienced happy and sad stories more
-   or less often. Attraction to or preference for sad or happy stories was
-   assessed by asking participants to rate how often they choose happy and
-   sad stories. Neither type of nostalgia correlated significantly with
-   story choice, suggesting that proneness to personal or anticipatory
-   nostalgia does not reflect an underlying bias or preference for happy
-   or sad material.
-   TABLE 1
-   www.frontiersin.org
-
-   Table 1. Partial correlations of personal and anticipatory nostalgia
-   with exposure and reactions to stories with gender and dispositional
-   happiness and sadness controlled.
-
-   However, ratings suggested that they react differently to happy and sad
-   stories emotionally and cognitively. Emotionally, personal and
-   anticipatory nostalgia both correlated with sadness induced by sad
-   stories, but only personal nostalgia correlated significantly with
-   happiness elicited by happy stories. Results suggested that personal
-   and anticipatory nostalgia differed in cognitive engagement with
-   stories. Personal nostalgia correlated with learning from happy
-   stories, whereas anticipatory nostalgia correlated with learning from
-   sad stories. Consistent with prior findings of an association between
-   anticipatory nostalgia and a tendency to be made sad by people and
-   events, these results suggested that people prone to anticipatory
-   nostalgia may be less reactive to happy stories. Present findings
-   suggested that people prone to anticipatory nostalgia process sad
-   stories in more productive ways, whereas people prone to personal
-   nostalgia are more reactive to happy stories and process happy stories
-   in beneficial ways.
-
-Contributions of Nostalgia and Stories to Mood
-
-   The contributions of nostalgia and stories to dispositional mood were
-   explored further in linear regression analyses (Table 2). The composite
-   happiness ratings were examined in a linear regression analysis, with
-   gender and mean ratings from the Nostalgia Inventory and the Survey of
-   Anticipatory Nostalgia independent variables. The role of stories was
-   explored with the inclusion of mean ratings of frequency of exposure to
-   happy and sad stories, degree of happiness (sadness) induced by happy
-   (sad) stories, and learning from happy and sad stories.
-   TABLE 2
-   www.frontiersin.org
-
-   Table 2. Summary of regression analyses on dispositional mood.
-
-   In a significant model, F(9, 133) = 5.53, p < 0.001, Adjusted R^2 =
-   0.223, gender, personal nostalgia, and anticipatory nostalgia were not
-   significant. Dispositional happiness was predicted by the frequency of
-   exposure to happy, but not sad stories. Similarly, happiness was
-   predicted by the degree to which happy stories induce happiness, but
-   not by the degree to which sad stories induce sadness, consistent with
-   an affect-specific effect. The absence of significant effects of
-   learning from happy or sad stories was consistent with a distinction
-   between affective and cognitive impacts.
-
-   A parallel analysis was conducted with the composite sadness ratings as
-   the dependent variable. In a significant model, F(9, 133) = 1.92, p =
-   0.05, Adjusted R^2 = 0.055, gender, personal nostalgia, and
-   anticipatory nostalgia were not significant. Dispositional sadness was
-   predicted by the frequency of exposure to sad, but not happy stories.
-   However, sadness was not predicted by the sadness elicited by sad
-   stories, happiness induced by happy stories, or learning from sad or
-   happy stories.
-
-Limitations
-
-   This study introduced a focus on stories as a vehicle for comparing
-   emotional and cognitive reactions to cumulative meaningful experiences
-   associated with personal and anticipatory nostalgia. Not allowing
-   causal relationships to be determined, this exploratory study
-   encourages future research based on experimental designs to identify
-   variables responsible for the differences between personal and
-   anticipatory nostalgia. Further research is needed also to explore
-   participant variables in samples characterized by broader demographic
-   and diversity constituents.
-
-   A fuller understanding of adaptive functions of nostalgia would be
-   advanced with studies that identify the nature and content of the
-   stories participants prone to personal or anticipatory nostalgia were
-   exposed to and remember. Similarly, future work is needed to determine
-   how those prone to nostalgia learn or benefit from happy or sad
-   stories. Qualitative analyses of the impactful stories can yield
-   insights into the nature of the lessons acquired.
-
-Discussion
-
-   The present findings reinforced the importance of when nostalgia is
-   felt relative to past and future. Results are consistent with the view
-   of anticipatory nostalgia as distinguishable from personal nostalgia
-   and worthy of further research as a distinct phenomenon. Stories were
-   shown to be effective material for elucidating the roles of emotional
-   and cognitive processes in personal and anticipatory nostalgia.
-   Exploring reactions to stories can clarify the adaptive and maladaptive
-   functions of nostalgia within a meaningful practical context. Access to
-   24 h news cycles and online venues have expanded the influence of the
-   content and format of stories. The current findings highlight the
-   importance of future research to understand the impact of immersion in
-   a story-rich environment.
-
-   The present study suggests the possibility of a cumulative contribution
-   of experience with stories to emotional well-being. Greater exposure to
-   happy stories correlated with higher levels of dispositional happiness,
-   and greater exposure to sad stories correlated with higher levels of
-   dispositional sadness. The overall pattern of relationships is
-   interesting. While dispositional happiness was related to the degree to
-   which stories elicited happiness, sadness was related to experience
-   with sad stories regardless of the degree of sadness the stories
-   elicited. The present findings suggest that the emotional impact of a
-   story depends in part upon the emotional and cognitive reactivity of
-   the listener or viewer.
-
-   Pertinent to the current study, personal and anticipatory nostalgia
-   were distinguished by different ways of interacting with stories. There
-   was no evidence that differential exposure to happy and sad stories
-   accounted for the distinction. Personal and anticipatory nostalgia both
-   correlated with being made sad by sad stories, suggesting that
-   participants prone to anticipatory nostalgia are not more sensitive to
-   sad stories. However, only personal nostalgia was associated with being
-   made happy by happy stories, suggesting that anticipatory nostalgia may
-   be associated with less reactivity to happy stories. Furthermore,
-   personal nostalgia was related to greater likelihood of learning from
-   happy stories, whereas anticipatory nostalgia was associated with
-   greater likelihood of learning from sad stories.
-
-   Prior research differentiated personal and anticipatory nostalgia by
-   their relationships to happiness and sadness. Personal and anticipatory
-   nostalgia both include missing, longing or yearning. In personal
-   nostalgia, we enjoy valued aspects of our past again, thereby enjoying
-   them twice. In anticipatory nostalgia, we have only the present to
-   enjoy them. In fact, we feel the sadness of missing them twice, once in
-   the actual present and once in the imagined future. Envisioning what
-   the future might bring can be accompanied by sadness missing the
-   present and worry about what will come next. In prior research,
-   participants prone to anticipatory nostalgia had reported a greater
-   tendency for people and experiences to cause them worry and sadness,
-   but anticipatory nostalgia did not predict generalized sadness.
-   Consistent with prior research, anticipatory nostalgia did not
-   contribute to generalized sadness in this study, suggesting that people
-   prone to anticipatory nostalgia are not generally unhappy.
-
-   Given that personal and anticipatory nostalgia are both emotional
-   constructs, theorists are justified in comparing their emotional
-   facets. The present findings highlight the wisdom of considering also
-   the cognitive dynamics in the relationship of nostalgia to the impact
-   of stories. Rather than generally unhappy, people prone to anticipatory
-   nostalgia may be more likely to benefit from sad stories by learning
-   ways of coping with current or future problems and anxiety. Their
-   inclination to imagine the future as present may reflect conceptual
-   thinking that enables them to apply lessons from stories to their own
-   lives. It remains for future investigations to identify the variables
-   or conditions underlying the emotional and cognitive dynamics that
-   distinguish personal from anticipatory nostalgia.
-
-   The present findings encourage further research to determine the
-   long-term effects of being immersed in happy or sad stories. The
-   relationship of learning from sad stories with anticipatory nostalgia
-   suggests that benefiting from stories may be facilitated by an ability
-   to imagine how the survival or resolution of sadness in a story might
-   apply to an individual’s own life. Just as the sadness of future loss
-   can be experienced before it is actualized, in adverse times, imagining
-   when difficulties will have been overcome can be a source of
-   consolation. But looking ahead brings the sad realization that the good
-   of the present might be gone too. Future research is needed to
-   determine if anticipatory nostalgia can be constructive in certain
-   circumstances or applied therapeutically to remind people that time and
-   the opportunity to be engaged in the present is fleeting. Sad stories
-   may provide opportunities to deal with adversity safely from a
-   distance, as anticipatory nostalgia allows loss to be confronted from a
-   temporal distance.
-
-   In a digital age, children are growing up with expanding opportunities
-   for exposure to stories with negative content presented in graphic
-   media without the comforting presence of adults who can contribute
-   meaningful perspective. The cumulative impact over time is not yet
-   known, but the present findings suggest greater dispositional sadness
-   with increasing exposure to sad stories. Current findings highlight the
-   importance of identifying ways of cultivating traits or
-   cognitive-emotional resources to buffer adverse outcomes. While sadness
-   might be considered a maladaptive affective dimension of anticipatory
-   nostalgia, the benefits of learning from sad material may suggest there
-   are untapped adaptive cognitive functions of anticipatory nostalgia.
-
-Data Availability Statement
-
-   The datasets for this article are not publicly available because
-   participants were not so instructed. Requests to access the datasets
-   should be directed to KB, batcho@lemoyne.edu.
-
-Ethics Statement
-
-   The studies involving human participants were reviewed and approved by
-   Le Moyne College Institutional Review Board. The patients/participants
-   provided their written informed consent to participate in this study.
-
-Author Contributions
-
-   The author confirms being the sole contributor of this work and has
-   approved it for publication.
-
-Conflict of Interest
-
-   The authors declare that the research was conducted in the absence of
-   any commercial or financial relationships that could be construed as a
-   potential conflict of interest.
-
-References
-
-   Abeyta, A. A., Routledge, C., Roylance, C., Wildschut, T., and
-   Sedikides, C. (2014). Attachment-related avoidance and the social and
-   agentic content of nostalgic memories. J. Soc. Person. Relat. 32,
-   406–413. doi: 10.1177/0265407514533770
-
-   PubMed Abstract | CrossRef Full Text | Google Scholar
-
-   Barrett, F. S., Grimm, K. J., Robins, R. W., Wildschut, T., Sedikides,
-   C., and Janata, P. (2010). Music-evoked nostalgia: affect, memory, and
-   personality. Emotion 10, 390–403. doi: 10.1037/a0019006
-
-   PubMed Abstract | CrossRef Full Text | Google Scholar
-
-   Batcho, K. I. (1995). Nostalgia: a psychological perspective. Percept.
-   Mot. Skills 80, 131–143. doi: 10.2466/pms.1995.80.1.131
-
-   PubMed Abstract | CrossRef Full Text | Google Scholar
-
-   Batcho, K. I. (1998). Personal nostalgia, world view, memory, and
-   emotionality. Percept. Mot. Skills 87, 411–432. doi:
-   10.2466/pms.1998.87.2.411
-
-   PubMed Abstract | CrossRef Full Text | Google Scholar
-
-   Batcho, K. I. (2007). Nostalgia and the emotional tone and content of
-   song lyrics. Am. J. Psychol. 120, 361–381.
-
-   PubMed Abstract | Google Scholar
-
-   Batcho, K. I. (2013). Nostalgia: retreat or support in difficult times?
-   Am. J. Psychol. 126, 355–367.
-
-   PubMed Abstract | Google Scholar
-
-   Batcho, K. I. (2018). The role of nostalgia in resistance: a
-   psychological perspective. Qual. Res. Psychol. 2018:1499835. doi:
-   10.1080/14780887.2018.1499835
-
-   CrossRef Full Text | Google Scholar
-
-   Batcho, K. I. (2020). “Nostalgia: the paradoxical bittersweet emotion,”
-   in Nostalgia Now: Cross-Disciplinary Perspectives on the Past in the
-   Present, ed. M. H. Jacobsen (Abingdon: Routledge), 31–46. doi:
-   10.4324/9780429287602-1
-
-   CrossRef Full Text | Google Scholar
-
-   Batcho, K. I., DaRin, M. L., Nave, A. M., and Yaworsky, R. R. (2008).
-   Nostalgia and identity in song lyrics. Psychol. Aesthet. Creat. Arts 2,
-   236–244. doi: 10.1037/1931-3896.2.4.236
-
-   PubMed Abstract | CrossRef Full Text | Google Scholar
-
-   Batcho, K. I., Nave, A. M., and DaRin, M. L. (2011). A retrospective
-   survey of childhood experiences. J. Happiness Stud. 12, 531–545. doi:
-   10.1007/s10902-010-9213-y
-
-   CrossRef Full Text | Google Scholar
-
-   Batcho, K. I., and Shikh, S. (2016). Anticipatory nostalgia: missing
-   the present before it’s gone. Pers. Individ. Differ. 98, 75–84. doi:
-   10.1016/j.paid.2016.03.088
-
-   CrossRef Full Text | Google Scholar
-
-   Berger, C. R., Ha, Y., and Chen, M. (2019). Story appraisal theory:
-   from story kernel appraisals to implications and impact. Commun. Res.
-   46, 303–332. doi: 10.1177/0093650216641186
-
-   PubMed Abstract | CrossRef Full Text | Google Scholar
-
-   Bergs, Y., Mitas, O., Smit, B., and Nawijn, J. (2019). Anticipatory
-   nostalgia in experience design. Curr. Issues Tour. 2019:1669539. doi:
-   10.1080/13683500.2019.1669539
-
-   CrossRef Full Text | Google Scholar
-
-   Cheung, W. Y., Hepper, E. G., Reid, C. A., Green, J. D., Wildschut, T.,
-   and Sedikides, C. (2019). Anticipated nostalgia: looking forward to
-   looking back. Cogn. Emot. 2019:1649247. doi:
-   10.1080/02699931.2019.1649247
-
-   PubMed Abstract | CrossRef Full Text | Google Scholar
-
-   Cheung, W. Y., Wildschut, T., Sedikides, C., Hepper, E. G., Arndt, J.,
-   and Vingerhoets, A. J. (2013). Back to the future: Nostalgia increases
-   optimism. Pers. Soc. Psychol. Bull. 39, 1484–1496. doi:
-   10.1177/0146167213499187
-
-   PubMed Abstract | CrossRef Full Text | Google Scholar
-
-   Dunlop, S. M., More, E., and Romer, D. (2011). Where do youth learn
-   about suicides on the Internet, and what influence does this have on
-   suicidal ideation? J. Child Psychol. Psychiatry 52, 1073–1080. doi:
-   10.1111/j.1469-7610.2011.02416.x
-
-   PubMed Abstract | CrossRef Full Text | Google Scholar
-
-   Garrido, S. (2018). The influence of personality and coping style on
-   the affective outcomes of nostalgia: is nostalgia a healthy coping
-   mechanism or rumination? Pers. Individ. Differ. 120, 259–264. doi:
-   10.1016/j.paid.2016.07.021
-
-   CrossRef Full Text | Google Scholar
-
-   Habermas, T., and Diel, V. (2010). The emotional impact of loss
-   narratives: event severity and narrative perspectives. Emotion 10,
-   312–323. doi: 10.1037/a0018001
-
-   PubMed Abstract | CrossRef Full Text | Google Scholar
-
-   Hart, C. M., Sedikides, C., Wildschut, T., Arndt, J., Routledge, C.,
-   and Vingerhoets, A. J. J. M. (2011). Nostalgic recollections of high
-   and low narcissists. J. Res. Pers. 45, 238–242. doi:
-   10.1016/j.jrp.2011.01.002
-
-   CrossRef Full Text | Google Scholar
-
-   Hepper, E. G., Ritchie, T. D., Sedikides, C., and Wildschut, T. (2012).
-   Odyssey’s end: lay conceptions of nostalgia reflect its original
-   Homeric meaning. Emotion 12, 102–119. doi: 10.1037/a0025167
-
-   PubMed Abstract | CrossRef Full Text | Google Scholar
-
-   Iyer, A., and Jetten, J. (2011). What’s left behind: identity
-   continuity moderates the effect of nostalgia on well-being and life
-   choices. J. Pers. Soc. Psychol. 101, 94–108. doi: 10.1037/a0022496
-
-   PubMed Abstract | CrossRef Full Text | Google Scholar
-
-   Kaplan, H. A. (1987). The psychopathology of nostalgia. Psychoanal.
-   Rev. 74, 465–486.
-
-   PubMed Abstract | Google Scholar
-
-   Kaplan, L. J. (1984). Adolescence: The Farewell to Childhood. New York,
-   NY: Simon & Schuster.
-
-   Google Scholar
-
-   Kiser, L. J., Baumgardner, B., and Dorado, J. (2010). Who are we, but
-   for the stories we tell: family stories and healing. Psychol. Trauma 2,
-   243–249. doi: 10.1037/a0019893
-
-   PubMed Abstract | CrossRef Full Text | Google Scholar
-
-   Köneke, V. (2010). Nostalgia: More Bitter than Sweet. Munich: GRIN,
-   doi: 10.3239/9783640942107
-
-   CrossRef Full Text | Google Scholar
-
-   Landrum, R. E., Brakke, K., and McCarthy, M. A. (2019). The pedagogical
-   power of storytelling. Scholarsh. Teach. Learn. Psychol. 5, 247–253.
-
-   Google Scholar
-
-   Larsen, J. T., and McGraw, A. P. (2011). Further evidence for mixed
-   emotions. J. Pers. Soc. Psychol. 100, 1095–1110. doi: 10.1037/a0021846
-
-   PubMed Abstract | CrossRef Full Text | Google Scholar
-
-   Larsen, J. T., and McGraw, A. P. (2014). The case for mixed emotions.
-   Soc. Pers. Psychol. Compass 8, 263–274. doi: 10.1111/spc3.12108
-
-   PubMed Abstract | CrossRef Full Text | Google Scholar
-
-   Larsen, J. T., McGraw, A. P., and Cacioppo, J. T. (2001). Can people
-   feel happy and sad at the same time? J. Pers. Soc. Psychol. 81,
-   684–696. doi: 10.1037/0022-3514.81.4.684
-
-   PubMed Abstract | CrossRef Full Text | Google Scholar
-
-   McGinty, E. E., Webster, D. W., and Barry, C. L. (2013). Effects of
-   news media messages about mass shootings on attitudes toward persons
-   with serious mental illness and public support For gun control
-   policies. Am. J. Psychiatry 170, 494–501. doi:
-   10.1176/appi.ajp.2013.13010014
-
-   PubMed Abstract | CrossRef Full Text | Google Scholar
-
-   Newman, D. B., Sachs, M. E., Stone, A. A., and Schwarz, N. (2019).
-   Nostalgia and well-being in daily life: an ecological validity
-   perspective. J. Pers. Soc. Psychol. 118, 325–347. doi:
-   10.1037/pspp0000236
-
-   PubMed Abstract | CrossRef Full Text | Google Scholar
-
-   Nussbaum, S., Trope, Y., and Liberman, N. (2003). Creeping
-   dispositionism: the temporal dynamics of behavior prediction. J. Pers.
-   Soc. Psychol. 84, 485–497. doi: 10.1037/0022-3514.84.3.485
-
-   PubMed Abstract | CrossRef Full Text | Google Scholar
-
-   Pratt, M. W., and Fiese, B. H. (eds) (2004). Family Stories and the
-   Life Course: Across Time and Generations. New Jersey: Lawrence Erlbaum
-   Associates.
-
-   Google Scholar
-
-   Routledge, C., Arndt, J., Sedikides, C., and Wildschut, T. (2008). A
-   blast from the past: the terror management function of nostalgia. J.
-   Exp. Soc. Psychol. 44, 132–140. doi: 10.1016/j.jesp.2006.11.001
-
-   CrossRef Full Text | Google Scholar
-
-   Sedikides, C., Wildschut, T., Routledge, C., and Arndt, J. (2015).
-   Nostalgia counteracts self-discontinuity and restores self-continuity.
-   Eur. J. Soc. Psychol. 45, 52–61. doi: 10.1002/ejsp.2073
-
-   PubMed Abstract | CrossRef Full Text | Google Scholar
-
-   Seehusen, J., Cordaro, F., Wildschut, T., Sedikides, C., Routledge, C.,
-   Blackhart, G. C., et al. (2013). Individual differences in nostalgia
-   proneness: the integrating role of the need to belong. Pers. Individ.
-   Differ. 55, 904–908. doi: 10.1016/j.paid.2013.07.020
-
-   CrossRef Full Text | Google Scholar
-
-   Stephan, E., Sedikides, C., and Wildschut, T. (2012). Mental travel
-   into the past: differentiating recollections of nostalgic, ordinary,
-   and positive events. Eur. J. Soc. Psychol. 42, 290–298. doi:
-   10.1002/ejsp.1865
-
-   PubMed Abstract | CrossRef Full Text | Google Scholar
-
-   Stephan, E., Wildschut, T., Sedikides, C., Zhou, X., He, W., Routledge,
-   C., et al. (2014). The mnemonic mover: Nostalgia regulates avoidance
-   and approach motivation. Emotion 14, 545–561. doi: 10.1037/a0035673
-
-   PubMed Abstract | CrossRef Full Text | Google Scholar
-
-   Stern, B. B. (1992). Historical and personal nostalgia in advertising
-   text: the Fin de siecle effect. J. Advertising 21, 11–22. doi:
-   10.1080/00913367.1992.10673382
-
-   CrossRef Full Text | Google Scholar
-
-   Watson, D., and Clark, L. A. (1994). The PANAS-X: Manual for the
-   Positive and Negative Affect Schedule – Expanded Form. Iowa: The
-   University of Iowa Press.
-
-   Google Scholar
-
-   Werman, D. S. (1977). Normal and pathological nostalgia. J. Am.
-   Psychoanal. Assoc. 25, 387–398. doi: 10.1177/000306517702500205
-
-   PubMed Abstract | CrossRef Full Text | Google Scholar
-
-   Wildschut, T., Sedikides, C., and Alowidy, D. (2019). Hanin: Nostalgia
-   among Syrian refugees. Eur. J. Soc. Psychol. 49, 1368–1384. doi:
-   10.1002/ejsp.2590
-
-   PubMed Abstract | CrossRef Full Text | Google Scholar
-
-   Wildschut, T., Sedikides, C., Arndt, J., and Routledge, C. (2006).
-   Nostalgia: content, triggers, functions. J. Pers. Soc. Psychol. 91,
-   975–993. doi: 10.1037/0022-3514.91.5.975
-
-   PubMed Abstract | CrossRef Full Text | Google Scholar
-
-   Wildschut, T., Sedikides, C., Routledge, C., Arndt, J., and Cordaro, F.
-   (2010). Nostalgia as a repository of social connectedness: the role of
-   attachment-related avoidance. J. Pers. Soc. Psychol. 98, 573–586. doi:
-   10.1037/a0017597
-
-   PubMed Abstract | CrossRef Full Text | Google Scholar
-
-   Zhou, X., Sedikides, C., Wildschut, T., and Gao, D. (2008).
-   Counteracting loneliness: on the restorative function of nostalgia.
-   Psychol. Sci. 19, 1023–1029. doi: 10.1111/j.1467-9280.2008.02194.x
-
-   PubMed Abstract | CrossRef Full Text | Google Scholar
-
-   Zinchenko, A. V. (2011). Nostalgia: dialogue between memory and
-   knowing. J. Russ. East Eur. Psychol. 49, 84–97. doi:
-   10.2753/rpo1061-0405490306
-
-   CrossRef Full Text | Google Scholar
-
-Appendix
-
-Survey of Experience With Stories
-
-   In general, how often have you been exposed to happy stories?
-
-   In general, how often have you been exposed to sad stories?
-
-   How happy do happy stories usually make you feel?
-
-   How sad do sad stories usually make you feel?
-
-   When you choose to watch a show or movie, read a story or read a news
-   item online, how often do you choose a happy one?
-
-   When you choose to watch a show or movie, read a story or read a news
-   item online, how often do you choose a sad one?
-
-   How often do you think you benefit or learn from a happy story?
-
-   How often do you think you benefit or learn from a sad story?
-
-   Keywords: personal nostalgia, anticipatory nostalgia, stories,
-   personality, emotion
-
-   Citation: Batcho KI (2020) When Nostalgia Tilts to Sad: Anticipatory
-   and Personal Nostalgia. Front. Psychol. 11:1186. doi:
-   10.3389/fpsyg.2020.01186
-
-   Received: 14 February 2020; Accepted: 07 May 2020;
-   Published: 29 May 2020.
-
-   Edited by:
-   Jeffrey D. Green, Virginia Commonwealth University, United States
-
-   Reviewed by:
-   Tim Wildschut, University of Southampton, United Kingdom
-   Sandra Garrido, Western Sydney University, Australia
-
-   Copyright © 2020 Batcho. This is an open-access article distributed
-   under the terms of the Creative Commons Attribution License (CC BY).
-   The use, distribution or reproduction in other forums is permitted,
-   provided the original author(s) and the copyright owner(s) are credited
-   and that the original publication in this journal is cited, in
-   accordance with accepted academic practice. No use, distribution or
-   reproduction is permitted which does not comply with these terms.
-
-   *Correspondence: Krystine I. Batcho, batcho@lemoyne.edu
-
-This article is part of the Research Topic
-
-   Current Issues in Nostalgia Research
-   View all 13 Articles
-
-People also looked at
-
-   Download
+     * Types of Depression and How to Recognize Them
+       Medically reviewed by Karin Gepp, PsyD
+       There are many types of depression. They share some symptoms but
+       affect people differently. We’ll go over types of depression and
+       how to recognize…
+       READ MORE
+     * Think Your Depression’s Getting Worse? Here’s How to Tell — and How
+       to Get Support
+       Medically reviewed by Alex Klein, PsyD
+       Depression symptoms get worse for a variety of reasons. Find out
+       what might be going on and what you can do to find relief.
+       READ MORE
+     * How to Hack Your Hormones for a Better Mood
+       Medically reviewed by Vara Saripalli, Psy.D.
+       Certain hormones may help you feel happier. We'll break down what
+       they are and how to increase them naturally.
+       READ MORE
+     * 7 Physical Symptoms That Prove Depression Is Not Just ‘In Your
+       Head’
+       Medically reviewed by Timothy J. Legg, PhD, PsyD
+       Depression hurts. And while we often pair this mental illness with
+       emotional pain like sadness, crying, and feelings of hopelessness,
+       research shows…
+       READ MORE
+     * Interactions Between Prozac and Alcohol
+       Wondering if you can drink while taking Prozac? Find out how the
+       drug interacts with alcohol and learn other helpful info about your
+       medication.
+       READ MORE
+     * What to Know About Ketamine Therapy for Depression
+       Medically reviewed by Nicole Washington, DO, MPH
+       Ketamine offers a new, fast-acting approach to relieving
+       treatment-resistant depression. Learn the research-backed benefits
+       and how to try it.
+       READ MORE
+     * Unipolar Depression Explained — Plus Tips to Get Support
+       Medically reviewed by Nicole Washington, DO, MPH
+       Unipolar depression often refers to major depression, also called
+       clinical depression. Learn the signs and how it compares to bipolar
+       disorder.
+       READ MORE
+     * New Study Debunks Old Theory That Depressed People Are Just More
+       Realistic
+       New research raises doubts about a decades-old theory that
+       depressed people are more realistic.
+       READ MORE
+     * Task Force Recommends Depression, Anxiety Screenings for Children
+       A federal task force is recommending children between the ages of 8
+       and 18 be screened for anxiety while children 12 to 18 be screened
+       for depression
+       READ MORE
+
+     * About Us
+     * Contact Us
+     * Privacy Policy
+     * Privacy Settings
+     * Advertising Policy
+     * Health Topics
+
+     * Medical Affairs
+     * Content Integrity
+     * Newsletters
+     * © 2005-2022 Healthline Media a Red Ventures Company. All rights
+       reserved. Our website services, content, and products are for
+       informational purposes only. Healthline Media does not provide
+       medical advice, diagnosis, or treatment. See additional
+       information.
+
+   © 2005-2022 Healthline Media a Red Ventures Company. All rights
+   reserved. Our website services, content, and products are for
+   informational purposes only. Healthline Media does not provide medical
+   advice, diagnosis, or treatment. See additional information.
+   AboutCareersAdvertise with us
+
+   OUR BRANDS
+   HealthlineMedical News TodayGreatistPsych Central

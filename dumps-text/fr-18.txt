@@ -1,228 +1,331 @@
-UTF-8 and Unicode
+   #alternate
 
-   Unicode Transformation Format 8-bit is a variable-width encoding that
-   can represent every character in the Unicode character set. It was
-   designed for backward compatibility with ASCII and to avoid the
-   complications of endianness and byte order marks in UTF-16 and UTF-32.
-   ^[1]
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5GC8WFJ
 
-   UTF-8 encodes each Unicode character as a variable number of 1 to 4
-   octets, where the number of octets depends on the integer value
-   assigned to the Unicode character. It is an efficient encoding of
-   Unicode documents that use mostly US-ASCII characters because it
-   represents each character in the range U+0000 through U+007F as a
-   single octet.
+   Aller au contenu principal
 
-   UTF-8 is the default encoding for XML and since 2010 has become the
-   dominant character set on the Web.
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5GC8WFJ
 
-Standards
+   rechercher
+   Rechercher
+   Philosophie magazine : les grands philosophes, la préparation au bac
+   philo, la pensée contemporaine
 
-     * RFC 3629: UTF-8, a transformation format of ISO 10646. November
-       2003.
-     * The Unicode Standard 5.0, November 2006. [purchase from Amazon.com]
-          + In particular, see the informal description of UTF-8 in
-            sections 2.5 and 2.6, pages 30-32, and a much more formal
-            definition in sections 3.9 and 3.10, pages 77-81.
+   Menu du compte de l'utilisateur
+   S’abonner Boutique Newsletters Se connecter
 
-Articles and background reading
+   Navigation principale
+     * Le fil
+     * Archives
+     * En kiosque
+     * Dossiers
+     * Philosophes
+     * Lexique
+     * Citations
+     * Bac philo
 
-     * UTF-8 and Unicode FAQ for Unix/Linux by Markus Kuhn
-     * Forms of Unicode, an excellent overview by Mark Davis
-     * Wikipedia UTF-8 contains a good discussion of why five- and
-       six-octet sequences are now illegal UTF-8
-     * Unicode Transformation Formats [czyborra.com]
-     * The Absolute Minimum Every Software Developer Absolutely,
-       Positively Must Know About Unicode and Character Sets (No
-       Excuses!), an amusing and informative article by Joel Spolsky
+   [INS: :INS]
+   [INS: :INS]
+   [INS: :INS]
+   [INS: :INS]
 
-Character Sets
+La nostalgie
 
-   The MIME character set attribute for UTF-8 is UTF-8. Character sets are
-   case-insensitive, so utf-8 is equally valid. [IANA Character Sets].
+   publié le 31 août 2012 1 min
 
-   In a modern HTML 5 page, place this tag inside <head> ... </head>:
-<meta charset="UTF-8">
+   Elle marque la fin du voyage, mais aussi le début de l’errance, des
+   regrets…, du temps où la vie avait un sens. Ulysse en est le plus bel
+   exemple.
+   85
 
-   In an XML prolog, the encoding is typically specified as an attribute:
-<?xml version="1.0" encoding="UTF-8" ?>
+   Lorsqu’elle n’est que le mal du pays, la nostalgie paraît soluble dans
+   l’espoir. Les larmes d’Ulysse prisonnier des sorcières sécheront avec
+   le retour à Ithaque. Le chant du cygne est un chant de joie quand, avec
+   la mort, on retrouve le divin natal. Le sentiment d’être déchiré
+   s’estompe quand on rencontre sa moitié. Les gémissements de l’âme en
+   exil, disperdue, grisée par les sortilèges de la matière, redeviennent
+   une mélodie quand sonne l’heure du retour à l’unité. Autrement dit,
+   tant qu’il est possible de revenir à Ithaque, tant qu’elle ne désespère
+   pas de dissiper l’absence, la nostalgie n’est qu’un mal provisoire, une
+   promesse de bonheur qui transforme la Bible en cadastre et la mémoire
+   en horizon, un faux problème dont la solution revient à retrouver – ou
+   recréer – l’endroit qu’on a perdu : vous allez voir, ce sera mieux
+   avant.
+
+   Malheureusement, c’est impossible, ou pire, ça ne dure pas ; l’espoir
+   est trompeur, l’extase fugace et le retour décevant. Parce qu’elle est
+   une maladie du temps dont, à cet égard aucun lieu ni palais n’atténue
+   l’amertume, la nostalgie a toujours un coup d’avance. Plus que la
+   souffrance de la perte, la nostalgie – étymologiquement la « douleur du
+   retour » – désigne la déception des retrouvailles. Qu’arrive-t-il à
+   Ulysse, une fois qu’il est rentré chez lui après vingt ans d’absence ?
+   Est-il enfin heureux ? Au contraire : «… il est distrait, taciturne, il
+   ne mange plus la soupe de l’épouse, imagine Jankélévitch ; la ride de
+   la conscience soucieuse jette une ombre sur son front et ternit
+   l’innocence de son bonheur. […] Ulysse regrette l’instant où il a
+   confusément entrevu Ithaque, l’instant où l’île de son espoir hésitait
+   encore entre l’inexistence et l’existence. » Rien de nouveau sous le
+   soleil ; tout a changé, comme d’habitude. Ithaque n’est plus ce qu’elle
+   était, Pénélope a vieilli, le petit chien est mort et plus personne ne
+   demande à Ulysse de raconter ses aventures… La nostalgie, c’est la fin
+   de l’histoire.
+
+   Le nostalgique veut tellement revenir chez lui que, quand il rentre à
+   la maison, il se demande où il est. Une fois qu’il a goûté au remède
+   qu’il espérait, la tristesse d’avoir vécu remplace, en lui, la bonne
+   vieille douleur d’attendre. Aux larmes du vagabond penché sur le rivage
+   succède l’humeur noire du chef de famille qui regrette, en silence, les
+   heures où il pleurait, mais où sa vie avait un sens. Jankélévitch
+   encore : « La terre promise est éternellement compromise. » Il n’y a
+   jamais de grand retour puisque nul n’est jamais vraiment parti : la
+   patrie perdue n’est que le prête-nom d’une mémoire sans souvenirs.
+   Quand elle arrive à son terme, la nostalgie n’en est qu’à ses débuts.
+   La nostalgie n’est pas la peur de mourir, mais la peur de continuer à
+   vivre. Avec la fin du voyage commence l’errance.
+
+   Quand elle accepte d’être immotivée, la nostalgie prend la forme
+   littéraire ou musicale d’une quête dont, surmontant les disparitions,
+   l’enjeu est d’affirmer l’éternité précaire, l’éternelle nouveauté, de
+   ce qui a eu lieu.
+
+   À l’inverse, quand elle est sinistre, inattentive, satisfaite et non
+   joyeuse, la sexualité masculine est l’image par excellence d’une
+   nostalgie qui se prend pour un souvenir. À quoi jouent les hommes qui
+   font l’amour sans amour ? À s’unir pour de faux. Que singent les
+   grognements ? L’animal que l’homme n’est plus. Où vont les
+   va-et-vient ? Nulle part. Avec le personnage de Josef, de retour à
+   Prague après un exil de trente ans, qui voit « une maison vide » entre
+   les jambes écartées d’Irena, Kundera montre, dans L’Ignorance, qu’un
+   homme ne retourne pas davantage dans la patrie perdue qu’il n’occupe le
+   ventre d’une femme en le pénétrant. Comme en témoigne Georges Bataille,
+   dont l’histoire de l’œil passe de l’œil à l’œuf, puis à l’anus, puis au
+   testicule, puis à la vulve qui, enserrant l’œil d’un prêtre, rappelle
+   l’œil d’où nous étions partis, « l’amour physique est sans issue » :
+   quand on baise, on tourne en rond. Si Sodome est livrée à la
+   fornication, ce n’est pas de s’être détournée de Dieu mais, au
+   contraire, de le chercher à l’envi dans les saccades et les hoquets de
+   ceux qui, faute de prier, feignent sans relâche de retourner au
+   paradis.
+
+Sur le même sujet
+
+   Article
+   3 min
+
+20 ans, un bel âge ?
+
+   Pierre-Henri Tavoillot 27 août 2012
+
+   C’est étrange : on regrette souvent ses 20 ans, mais on n’en profite
+   guère quand on les a. « Si jeunesse savait, si vieillesse pouvait »,
+   dit l’adage. Paul Nizan allait même plus loin, au début de son fameux
+   roman Aden Arabie (1931), en dénonçant une nostalgie illusoire :
+   « J’avais 20 ans. Je ne laisserai personne dire que c’est le plus bel
+   âge de la vie. » Pourquoi ?
      __________________________________________________________________
 
-   Last modified: Wed Jan 5 12:57:21 PST 2022
+   Bac philo
+   3 min
 
-     *
-          + A la une
-          + Bien-être
-          + Art de vivre
-          + Environnement
-          + Argent
-          + Culture Pop
-          + Vie digitale
-          + Mode Beauté
+L’existence et le temps
 
-   10 anecdotes de stars autour des fêtes de fin d'année
-   News
-   10 anecdotes de stars autour des fêtes de fin d'année
-   13 décembre 2022
-   L'esprit de Noël a-t-il un réel impact sur notre cerveau ?
-   News
-   L'esprit de Noël a-t-il un réel impact sur notre cerveau ?
-   06 décembre 2022
-   Repas de Noël : 10 sujets de conversation à esquiver pour éviter les
-   embrouilles
-   News
-   Repas de Noël : 10 sujets de conversation à esquiver pour éviter les
-   ...
-   06 décembre 2022
-   Maman ou femme : comment trouver l'équilibre ?
-   News
-   Maman ou femme : comment trouver l'équilibre ?
-   22 novembre 2022
-   Rétroplanning de Noël : 10 étapes pour préparer les fêtes sereinement
-   News
-   Rétroplanning de Noël : 10 étapes pour préparer les fêtes sereinement
-   22 novembre 2022
-   Est-il mauvais pour le moral de regarder la télévision ?
-   News
-   Est-il mauvais pour le moral de regarder la télévision ?
-   08 novembre 2022
-   10 conseils pour une famille recomposée réussie
-   News
-   10 conseils pour une famille recomposée réussie
-   08 novembre 2022
-   Ils n'ont jamais montré leurs enfants pour préserver leur famille
-   News
-   Ils n'ont jamais montré leurs enfants pour préserver leur famille
-   03 novembre 2022
-   Déco thérapie : quand la décoration permet d'aller mieux
-   News
-   Déco thérapie : quand la décoration permet d'aller mieux
-   25 octobre 2022
-   Hypersensibilité : 10 signes pour la déceler
-   News
-   Hypersensibilité : 10 signes pour la déceler
-   25 octobre 2022
-   Fatigue physique ou mentale : comment les discerner ?
-   News
-   Fatigue physique ou mentale : comment les discerner ?
-   11 octobre 2022
-   Ces personnalités qui ont ralenti le rythme pour se consacrer à leur
-   famille
-   News
-   Ces personnalités qui ont ralenti le rythme pour se consacrer à leur
-   ...
-   11 octobre 2022
-   Trahison : 10 étapes pour pardonner
-   News
-   Trahison : 10 étapes pour pardonner
-   11 octobre 2022
-   Psycho
+   Nicolas Tenaillon 01 août 2012
 
-La nostalgie est-elle une émotion positive ou négative ?
+   L’existence, c’est le fait d’être. Elle se distingue de l’essence qui
+   désigne ce qu’une chose est. À l’exception de Dieu dont l’existence est
+   éternelle, le propre de l’existence est d’être finie, limitée dans le
+   temps. L’existence s’oppose alors à la mort. Le temps, lui, désigne une
+   période qui s’écoule entre deux événements. Il se caractérise par le
+   changement (et c’est pourquoi Platon le définit comme une « image
+   mobile de l’éternité ») et l’irréversibilité (on ne peut pas remonter
+   le temps sauf dans la fiction, par exemple celle de La Machine à
+   explorer le temps de H. G. Wells). Le fait, pour l’homme, de savoir que
+   son existence est finie l’invite à méditer sur le sens de l’existence.
+   Les philosophies qui centrent leur réflexion sur l’existence sont dites
+   existentialistes. L’existentialisme chrétien (Pascal, Kierkegaard…)
+   voit dans le tragique d’une existence perçue comme finie l’occasion
+   d’une conversion à Dieu. L’existentialiste athée (Sartre) estime que la
+   finitude n’est pas un obstacle à la liberté et que l’homme construit
+   peu à peu son essence par ses choix et ses actes.
+     __________________________________________________________________
 
-   Chargement en cours
-   Fouler de nouveau un lieu familier peut faire apparaître de la
-   nostalgie.
-   Feuilleter des photos peut faire surgir un état de nostalgie positif !
-   Chargement en cours
-   Fouler de nouveau un lieu familier peut faire apparaître de la
-   nostalgie.
-   Fouler de nouveau un lieu familier peut faire apparaître de la
-   nostalgie.
-   1/2
-   © Adobe Stock, Rido
-   A lire aussi
-   Omar Da Fonseca (beIN SPORTS) : "Je ne sais pas si je serai consultant
-   pour la prochaine Coupe du monde 2026"
-   article
-   Omar Da Fonseca (beIN SPORTS) : "Je ne sais pas si je serai consultant
-   pour la prochaine Coupe du monde 2026"
-   article
-   "Beaucoup de lâcheté" de la part de Johnny Hallyday... Les propos très
-   surprenants de Laeticia !
-   diaporama
-   10 facteurs qui favorisent les aphtes
+   Article
+   2 min
 
-   Alexandra Arquey, Jellyfish France
+Rilke, de poésie et de chair
 
-   Regardez-vous souvent derrière vous ? Le fait de se raccrocher à des
-   émotions du passé amène à ressentir de la nostalgie. Fréquemment perçue
-   comme étant négative, cette émotion aurait-elle finalement des effets
-   positifs sur le mental ?
+   Cédric Enjalbert 03 avril 2013
 
-   Qu'est-ce que la nostalgie ?
+   «Je n’ai pas de toit qui m’abrite, et il pleut dans mes yeux…», composé
+   de textes de Rilke et présenté jusqu’au 25 mai au Théâtre du
+   Lucernaire, suit les errances d’un jeune poète déchiré entre les
+   sollicitations de la vie urbaine et ses errances rêveuses. Où l'on
+   explore le phénomène de la perception.
+   Rilke, de poésie et de chair
+     __________________________________________________________________
 
-   L'étymologie de ce mot définit à elle seule cet état d'âme si
-   particulier. Le terme nostalgie est formé à partir de deux mots grecs,
-   nóstos signifiant retour et álgos traduisible par douleur. C'est une
-   émotion généralement passagère, associée à des souvenirs heureux de
-   votre vie. De fait, elle se distingue de la mélancolie. Cette dernière
-   apparaît comme étant un sentiment plus présent et plus noir. La
-   mélancolie s'apparente davantage à de la tristesse et à une déprime.
-   Cet état s'avère souvent plus long et plus récurrent que la nostalgie.
+   Article
+   11 min
 
-   Comment se caractérise la nostalgie ?
+Tristan Garcia : Tolkien et le mythe du désenchantement
 
-   Être nostalgique n'est pas un état exceptionnel. Il se rencontre chez
-   tous les individus, adultes comme enfants. Cette émotion peut se
-   déclencher en visionnant des photos de votre enfance, en percevant un
-   parfum familier, en évoquant vos souvenirs avec une tierce personne, en
-   écoutant une chanson ou encore en goûtant un plat aux saveurs bien
-   définies dans votre esprit. La nostalgie se caractérise donc par un
-   sentiment de regret du passé, souvent joyeux, par un manque, par
-   l'éloignement d'un lieu, d'une personne, d'une période de votre vie.
+   Tristan Garcia 28 juillet 2022
 
-   Si la nostalgie fait appel à des regrets, ce n'est pas pour autant que
-   cette émotion demeure systématiquement négative, bien au contraire !
+   Avatar de la mythique Avalon, l’île vers laquelle cingle Frodo à la fin
+   du Seigneur des anneaux est pour le philosophe Tristan Garcia la
+   métaphore de ce que nos sociétés ont le sentiment d’avoir perdu en
+   accédant à la modernité : un monde d’avant (la révolution industrielle,
+   la laïcisation et l’individualisme), d’où la nostalgie d’une société
+   « enchantée » et fantasmée. Mais de quoi cette nostalgie est-elle le
+   nom ?
+   Tristan Garcia : Tolkien et le mythe du désenchantement
+     __________________________________________________________________
 
-   La nostalgie peut-elle être négative et positive ?
+   Article
+   6 min
 
-   Si les souvenirs de vos années sur les bancs de l'école font apparaître
-   un sentiment de joie et de douceur ponctué par un "C'était bien !", il
-   y a de fortes chances pour que vous ressentiez de la nostalgie
-   positive. S'ils font apparaître une pensée du type "Ma vie était bien
-   plus belle à ce moment-là !", l'émotion que vous allez ressentir sera
-   davantage de la nostalgie négative. Elle ne se transformera cependant
-   pas nécessairement en mélancolie !
+Fin de vie : pourquoi tant de lois ?
 
-   L'état émotionnel dans lequel vous vous trouvez au moment où vos
-   souvenirs apparaissent vont forcément conditionner la nature de la
-   nostalgie ressentie.
+   Batiste Morisson 13 septembre 2022
 
-   La nostalgie c'est quoi ? - #CulturePrimepar France Culture
+   L’une des ambitions affichées du quinquennat d’Emmanuel Macron est
+   d’amender la loi sur la fin de vie pour aller vers une plus grande
+   liberté du patient. Le chef de l’État doit donner le détail, mardi 13
+   septembre prochain, de la convention citoyenne qui se tiendra sur ce
+   sujet délicat. Comment expliquer que la loi ne cesse d’être assouplie
+   depuis 1999 ?
+   Fin de vie : pourquoi tant de lois ?
+     __________________________________________________________________
 
-   La nostalgie peut-elle être bénéfique ?
+   Article
+   6 min
 
-   De façon générale, la nostalgie ne génère pas de grande tristesse. Elle
-   peut avoir un effet rassurant, comme une bulle dans laquelle vous allez
-   vous plonger pour y trouver du réconfort et de la chaleur si vous vivez
-   un moment actuel un peu anxiogène.
+Michel Butor. « Je suis en quelque sorte en sursis »
 
-   La nostalgie peut également se partager. Évoquer des souvenirs communs
-   entre amis ou membres d'une même famille donnera l'impression
-   d'appartenir à une même tribu et renforcera le lien déjà présent. Cette
-   émotion permet de connecter le passé au présent en établissant une
-   douce continuité qui se savoure et non qui blesse ou rend triste. La
-   nostalgie peut aussi vous envoyer un message et vous faire prendre
-   conscience d'un besoin. Si vous pensez un peu trop souvent à vos
-   vacances prises il y a 6 mois, il est peut-être temps de récidiver...
+   Michel Butor 19 juillet 2012
 
-   Publicité
+   À 85 ans, lors d’une conférence émouvante, l’écrivain Michel Butor
+   médite sur la nature du temps : celui qu’il a vécu et celui qui lui
+   reste à vivre. Nous ne sommes pas seulement serviteurs ou victimes du
+   temps, mais aussi ses créateurs. Voilà la grande leçon de l’œuvre de
+   Michel Butor. L’auteur de La Modification et de L’Emploi du temps était
+   l’invité d’honneur du dernier festival Philosophia consacré au temps (à
+   Saint-Émilion du 27 au 29 mai 2011). Au cœur de la salle des
+   Dominicains, ex-cloître des Jacobins, dans ce lieu où se recoupent
+   histoire religieuse, révolutionnaire, et culture du vin, il a livré
+   avec le philologue Carlo Ossola, professeur au Collège de France,
+   pendant près de deux heures, une éblouissante conférence sur notre
+   capacité, nous qui sommes dans le temps, à répliquer par des actes de
+   création. Jeux avec la mémoire et avec le récit, improvisation
+   musicale, anticipation de l’avenir, modification de nos calendriers ou
+   prophétie de la fin des temps, nous ne cessons de jouer avec chronos et
+   d’inventer des outils qui nous permettent d’arrêter le flux en
+   l’attachant à de l’espace – ce qu’il appelle à la suite du critique
+   russe Mikhaïl Bakhtine (1895-1975) des « chronotopes ». Envisageant la
+   perspective de la fin des temps, l’écrivain-philosophe a conclu par un
+   témoignage sur sa propre expérience de l’accélération et son espoir de
+   survivre, dans et par les autres. Voici en guise de conclusion les
+   temps forts de cette « leçon ». En partenariat avec le Festival
+   Philosophia.
+   Michel Butor. « Je suis en quelque sorte en sursis »
+     __________________________________________________________________
 
-Noël
+   Article
+   5 min
 
-   10 conseils déco pour créer l'esprit magique de Noël
+“Les Compagnons d’Ulysse” : l’homme, une bête parmi les bêtes
 
-   10 conseils déco pour créer l'esprit magique de Noël
+   Catherine Portevin 31 mai 2021
 
-La recette du jour
+   Michel Serres projetait de consacrer un grand ouvrage aux Fables de La
+   Fontaine. Sa mort en 2019 l’en aura empêché. Les éditions Le Pommier
+   ont toutefois pu rassembler les textes qu’il avait consacrés à l’auteur
+   du XVIIe siècle, à partir des notes trouvées dans son ordinateur, et en
+   faire un livre posthume, La Fontaine (Le Pommier, 2021). Nous vous
+   proposons une première lecture du fabuliste par le philosophe : Les
+   Compagnons d’Ulysse, fable où des humains changés en bête refusent de
+   reprendre leur forme originelle.
+   “Les Compagnons d’Ulysse” : l’homme, une bête parmi les bêtes
+     __________________________________________________________________
 
-   Bûche pâtissière au café
+   Article
+   9 min
 
-   Bûche pâtissière au café
+“Ulysse” de Joyce, une joyeuse odyssée des corps
 
-   Vos réactions doivent respecter nos CGU.
+   Jean-Marie Pottier 02 février 2022
 
-Liens commerciaux
+   Le classique de la littérature anglophone Ulysse, écrit par James
+   Joyce, fête ses cent ans. De Derrida à Martha Nussbaum, nombreux sont
+   les philosophes qui ont été séduits, voire fascinés, par cette œuvre
+   monumentale et déboussolante. Retour sur un classique inclassable.
+   “Ulysse” de Joyce, une joyeuse odyssée des corps
+     __________________________________________________________________
 
-   Publicité
+   Article issu du magazine n°39 avril 2010 Lire en ligne
+
+   [INS: :INS]
+
+À Lire aussi
+
+   Emil Cioran. L’esthète du néant
+   Par Aurélien Peigné
+   mai 2011
+
+   Dostoïevski. Le génie fiévreux
+   Dostoïevski. Le génie fiévreux
+   Par Marion Rousset
+   septembre 2008
+
+   Baguette tradition, la nostalgie du futur
+   août 2012
+
+    1. Accueil-Le Fil
+    2. Articles
+    3. La nostalgie
+
+   Philosophie magazine n°165 - décembre 2022
+   Philosophie magazine : les grands philosophes, la préparation au bac
+   philo, la pensée contemporaine
+   Décembre 2022/Janvier 2023 Philosophe magazine 165
+   Lire en ligne
+   Philosophie magazine : les grands philosophes, la préparation au bac
+   philo, la pensée contemporaine
+
+   Réseaux sociaux
+     * Facebook
+     * Instagram
+     * Instagram bac philo
+     * Linkedin
+     * Twitter
+
+   Liens utiles
+     * À propos
+     * Contact
+     * Éditions
+     * Publicité
+     * Crédits
+     * CGU/CGV
+     * Mentions légales
+     * Confidentialité
+
+   À lire
+   L’enseignement de la philosophie à l’épreuve du relativisme des élèves
+   Dimitri El Murr : “Il n’y a pas de mépris du corps chez Platon”
+   “Alice au pays des merveilles”, la folle logique de Lewis Carroll
+
+   Magazine
+     * Tous les articles
+     * Articles du fil
+     * Bac philo
+     * Contributeurs
+     * Votre avis nous intéresse
+
+   (BUTTON) Fermer×
+
+   ______________________________
+
+   (Rechercher) Rechercher
+
+   (BUTTON) Fermer×
+   (BUTTON) ×

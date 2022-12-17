@@ -1,351 +1,602 @@
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-PWSD3LW
+   #Pourquoi la nostalgie ? Terrain, Numéros Terrain, Documents
+
+   Navigation – Plan du site
+
+   AccueilNuméros65NostalgiePourquoi la nostalgie ?
+
+Terrain
+
+   Anthropologie & sciences humaines
+     * Collection Ethnologie de la France
+     * Cahiers d'ethnologie de la France
+
+   Recherche___________ (BUTTON) Chercher
+   Sommaire - Document suivant
+   65 | septembre 2015 : Nostalgie
+   Nostalgie
+   image Informations sur cette image
+
+Pourquoi la nostalgie ?*
+
+   Olivia Angé et David Berliner
+   p. 4-11
+   https://doi.org/10.4000/terrain.15801
+   Résumé | Index | Texte | Bibliographie | Notes | Citation | Auteurs
+
+Résumés
+
+   Français English
+
+   La nostalgie semble être indissociable de notre époque. En Occident, un
+   engouement nostalgique glorifiant les pratiques et les objets d’antan
+   est omniprésent dans des domaines aussi divers que le nationalisme, les
+   politiques patrimoniales, le consumérisme, l’industrie du tourisme, la
+   culture populaire et les mouvements religieux ou écologiques. Ce
+   dossier de Terrain examine les expressions contemporaines multiples de
+   la nostalgie dans divers environnements sociaux et culturels.
+
+   Why nostalgia?
+   Nostalgia seems characteristic of our times. In the West, we find an
+   all embracing nostalgic glorification of the way things were done in
+   the past; it is omnipresent in as varied domains as nationalism,
+   heritage policies, consumerism, tourist industry, popular culture and
+   religious and ecological campaigns. This issue of Terrain examines the
+   multiple contemporaries manifestations of nostalgia in a variety of
+   social and cultural contexts.
+   Haut de page
+
+Entrées d’index
+
+Mot-clé :
+
+   nostalgie, passé, histoire de l’anthropologie, affects, temporalité
+
+Keyword :
+
+   nostalgia, the past, history of anthropology, affects, temporality
+   Haut de page
+
+Texte intégral
+
+   PDF 451k Signaler ce document
+     * * Nous dédions cette introduction et ce volume à Christine
+       Langlois, directrice de rédaction de la re (...)
+
+   Il y a dans le sentiment nostalgique une mélancolie
+   dont la spécificité est d’être orientée vers le passé.
+   Les objets de l’enfance peuvent constituer des
+   déclencheurs nostalgiques. Simon Moorhouse,
+   Nostalgia Exhibition, Écosse, 2015
+   (Deadline News /Rex, Shutt / Sipa)
+
+   Les nuages orangés du couchant
+   éclairent toute chose du charme de
+   la nostalgie ; même la guillotine. »
+   (Kundera 1991.)
+
+   1« Réaction contre l’irréversible » (Jankélévitch 1983 : 299), la
+   nostalgie semble être indissociable de notre époque. En Occident, un
+   engouement nostalgique glorifiant les pratiques et les objets d’antan
+   est omniprésent dans des domaines aussi divers que le nationalisme, les
+   politiques patrimoniales, le consumérisme, l’industrie du tourisme, la
+   culture populaire et les mouvements religieux ou écologiques. Plus
+   concrètement, cette rétromania se manifeste dans le succès croissant
+   des marchés aux puces et des antiquités, des aliments biologiques, du
+   vintage, des techniques d’accouchement dites « naturelles », des
+   écomusées, et se retrouve au coeur même des nouvelles technologies, tel
+   Instagram, qui confère instantanément à vos photos un cachet « passé »
+   (Bartholeyns 2014).
+
+   2Du désir d’Ulysse de retrouver son Ithaque natale à la médicalisation
+   de la nostalgie (en tant que trouble physique) par Johannes Hofer au
+   xvii^e siècle, le long parcours de cette notion a été abondamment
+   étudié, tant par les psychiatres et les psychanalystes que par les
+   historiens, les critiques littéraires et les philosophes (Starobinski
+   1966). Sans retracer ici cette histoire bien connue, il est important
+   de souligner que le xix^e siècle a vu la nostalgie perdre ses
+   connotations cliniques pour prendre le sens métaphorique du regret pour
+   un endroit perdu et, surtout désormais, pour un temps révolu. En
+   Europe, à partir des évolutions massives induites par la Révolution
+   française, puis par l’industrialisation et l’urbanisation, un sentiment
+   d’accélération temporelle accompagné, chez certains, du désir de
+   retrouver l’ordre social d’autrefois fait naître un lamento sur la
+   disparition des formes passées et les méfaits du présent. Ce sentiment
+   de perte a d’ailleurs nourri un élan de patrimonialisation et de
+   muséification parmi les élites européennes, tout en stimulant un
+   intérêt scientifique et littéraire pour la mémoire et le patrimoine. Le
+   large déploiement d’une conscience patrimoniale a été brillamment
+   analysé par l’historien Pierre Nora (1984-1996) dans ses volumineux
+   Lieux de mémoire par lesquels il rend compte de l’émergence en France
+   d’une posture moderniste nostalgique vis-à-vis du passé. Cependant, le
+   terme « nostalgie » n’entre dans le vocabulaire populaire que durant la
+   seconde moitié du xx^e siècle. Comme le remarque Fred Davis, une
+   culture de la nostalgie est née dans les années 1960 et 1970 aux
+   États-Unis, une époque de grands bouleversements sociaux étayés par la
+   diffusion massive de la culture des médias et de la commercialisation
+   du passé. Parmi ces ruptures, l’auteur insiste sur les dislocations
+   identitaires provoquées par la défense de l’égalité des races et des
+   sexes, l’apologie des drogues, la libération de la sexualité et la
+   dénonciation d’institutions politiques, religieuses et éducatives
+   (Davis 1979 : 106). Aujourd’hui, nombreuses sont les sociétés qui, à
+   travers le monde, sont marquées par la nostalgie, souvent en réaction à
+   l’accélération produite par les effets de la mondialisation.
+
+   3À bien y regarder, les sciences sociales, en tant que disciplines
+   académiques, se sont érigées sur un discours moderniste structuré par
+   la nostalgie. Comme le montre Aurélien Berlan (2012), les théories
+   d’Émile Durkheim, de Max Weber, de Ferdinand Tönnies et de Georg Simmel
+   proposent une critique de la société industrielle émergente en
+   dénonçant une évolution négative de la tradition vers la modernité. Une
+   telle idéalisation primitiviste a également joué un rôle crucial dans
+   la fondation de l’anthropologie. Ainsi, les premières ethnographies de
+   Franz Boas, de Bronislaw Malinowski, d’Edward Evans-Pritchard et de
+   Marcel Griaule, parmi tant d’autres, ont été alimentées par une
+   fascination pour ces sociétés « primitives » authentiques et en voie de
+   disparition (Rosaldo 1989). David Berliner (2014) a identifié cette
+   posture disciplinaire comme relevant de l’exonostalgie des ethnologues,
+   ce répertoire de discours et d’affects regrettant la perte culturelle
+   des autres, et qui persiste jusqu’à nos jours, sous différentes
+   modalités.
+
+   4Longtemps considérée comme l’expression d’un malaise, la nostalgie a
+   souvent été critiquée pour son sentimentalisme et sa propension à
+   falsifier les récits historiques. L’historien David Lowenthal (1989) y
+   voit le vecteur d’une idéalisation déformatrice du passé, généralisée
+   dans la société occidentale contemporaine. Pourtant, peu à peu,
+   notamment à la suite de la redécouverte de la mémoire par les sciences
+   sociales (Berliner 2010a), les anthropologues ont développé une
+   approche phénoménologique visant à saisir la façon dont les acteurs se
+   souviennent de, oublient et réinterprètent leur passé. Trouvant sa
+   place dans ce domaine émergent, la nostalgie est devenue un objet de
+   recherche à part entière. Des qualificatifs tels que « structurelle »
+   (Herzfeld 2005), « en pantoufle » (Appadurai 1996), « coloniale »
+   (Bissell 2005), « impérialiste » (Rosaldo 1989) ou « résistante »
+   (Stewart 1988), pour n’en citer que quelques-uns, lui ont été apposés
+   pour appréhender la complexité de ses manifestations, au croisement de
+   l’individuel, du social et du politique. Bien que la plupart des
+   travaux portent sur les sociétés postsocialistes (Berdahl 1999 ; Boyer
+   2012 ; Todorova & Gille 2012), les chercheurs ont compris que la
+   nostalgie constitue un point d’entrée fascinant pour approcher des
+   questions historiques, politiques et identitaires contemporaines.
+
+   5D’un point de vue anthropologique, étudier la nostalgie soulève des
+   questions épistémologiques et théoriques importantes. Quelles formes
+   diverses peut-elle revêtir ? S’agit-il d’un affect (positif ou
+   négatif), d’une pratique sociale ou d’une rhétorique ? Comment la
+   distinguer d’autres modes d’appréhension du passé (telles les
+   réminiscences non nostalgiques) ? La nostalgie suppose-t-elle une
+   temporalité qui lui est propre ? Enfin et surtout, comment la saisir
+   par la description ethnographique ?
+
+   6D’abord, il faut clarifier la confusion théorique régnant autour du
+   concept même de nostalgie par un examen minutieux des investissements
+   cognitifs et émotionnels qui la sous-tendent. Craignant qu’elle ne
+   fasse office de notion « fourretout », Gediminas Lankauskas (2015)
+   regrette le flou notionnel résultant de ce qu’il nomme
+   « nostalgification » des mémoires postsocialistes. Aussi, il établit
+   une distinction entre les souvenirs nostalgiques et les souvenirs
+   d’époques révolues dans lesquels la relation au passé s’instaure sur le
+   mode d’une dissociation plutôt que sur celui d’une continuité
+   affective. Dans un article plus ancien, Kathleen Stewart (1988 : 227)
+   insistait déjà sur le fait que la nostalgie constitue avant tout « une
+   pratique culturelle, pas un contenu donné ; ses formes, significations
+   et effets évoluent avec le contexte – en fonction de la perspective du
+   locuteur dans le panorama présent ». Dans la même veine, Dominic Boyer
+   (2012 : 20) souligne que la nostalgie est « indexicale » et
+   « hétéroglossique ». Elle regroupe un ensemble disparate « de
+   références idiosyncrasiques, d’intérêts, et d’affects ».
+
+   7Tous s’accordent pourtant à remarquer que l’environnement matériel
+   offre des prises indispensables à l’expression de cet affect. À
+   l’instar de la célèbre madeleine de Proust, les objets peuvent
+   déclencher de fortes réponses mnémoniques, et interviennent à ce titre
+   comme des médiateurs privilégiés dans la relation que les individus
+   établissent avec leur passé. Dans ce volume, l’article d’Olivia Angé
+   sur les attachements nostalgiques construits autour de la consommation
+   du pain révèle les diverses temporalités et les affects éveillés par la
+   manipulation d’objets quotidiens. De même, la contribution de Patrizia
+   Ciambelli et Claudine Vassas portant sur le Musée de l’innocence
+   d’Orhan Pamuk, celle de Gil Bartholeyns à propos de la photographie
+   « rétro » et celle de Sophie Moiroux et Emmanuel de Vienne sur les
+   tableaux d’Amatiwana Trumai explorent la capacité des objets et des
+   pratiques esthétiques à exprimer la nostalgie dans ses formes
+   multiples, le plus souvent inscrites dans des préoccupations
+   sociopolitiques contemporaines.
+
+   8Ensuite, la nostalgie constitue une force sociale, un affect qui met
+   en jeu des dimensions performatives et pragmatiques. Publié en 1979,
+   Yearning for yesterday de Fred Davis (1979) est le premier ouvrage à
+   traiter des aspects sociaux de la nostalgie. Prenant à rebours l’idée
+   que les aspirations rétrospectives seraient politiquement régressives
+   et émotionnellement perturbées, Davis révèle le rôle crucial de la
+   nostalgie pour « construire, entretenir et reconstruire nos identités »
+   (ibid. : 31). La littérature récente a effectivement montré que la
+   nostalgie, qu’elle prenne la forme d’affect, de rhétorique ou de
+   pratique, participe à la construction des identités collectives
+   sociales, ethniques et nationales (Bissell 2005 ; Bryant 2008 ;
+   Herzfeld 2005). Dans ce volume, Michèle Baussant analyse le rôle du
+   langage dans l’efficacité sociale des gloses nostalgiques. À partir
+   d’une étude des échanges linguistiques parmi les juifs d’Égypte en
+   exil, elle met en relief l’importance de l’usage de l’arabe dans la
+   formation d’une communauté religieuse fondée sur un lien partagé avec
+   une patrie perdue et idéalisée.
+
+   9Dans certains cas, la nostalgie peut alimenter des phénomènes de
+   convergence mémorielle. Cette convergence reste relativement peu
+   étudiée par les anthropologues. Par exemple, à Luang Prabang (rdp
+   Laos), David Berliner a observé la constitution d’une « communauté de
+   perte » à partir de la commémoration du passé indochinois qui réunit
+   les experts occidentaux, les expatriés, les touristes et certains
+   Laotiens de la diaspora, alors que des tensions concernant les
+   politiques de patrimonialisation opposent les experts de l’Unesco et
+   les habitants du lieu (Berliner 2010b). L’expression d’un discours
+   nostalgique dans le contexte de politiques patrimoniales est également
+   illustrée par le texte de Ruy Llera Blanes et d’Abel Paxe portant sur
+   l’impérialisation de la nostalgie dans le nord de l’Angola. Loin de
+   n’être qu’une évasion « politiquement non subversive » (Rethmann 2008)
+   vers un passé révolu, de tels regrets rendent possible une critique
+   morale du présent et proposent des alternatives pour faire face aux
+   changements sociaux. Comme l’écrit Daphne Berdahl (1999 : 201), la
+   nostalgie devient alors une « arme ». De fait, mobilisés pour répondre
+   à des préoccupations sociales et politiques, les discours et les
+   pratiques nostalgiques n’impliquent pas nécessairement le sentiment de
+   mélancolie auquel ils sont habituellement associés. C’est ce que montre
+   Olivia Angé (2012) dans les Andes argentines quand elle examine
+   l’instrumentalisation d’une rhétorique regrettant l’effritement de
+   réciprocités passées dans le cadre du marchandage et des équivalences
+   de troc. Révélant le processus de transmission culturelle en jeu dans
+   ces lamentations, Angé invite à établir une distinction entre les
+   « dispositions nostalgiques » impliquant un investissement émotionnel,
+   et les « dispositifs discursifs nostalgiques » dont l’énonciation
+   stratégique sert les intérêts du locuteur.
+
+   10Enfin, l’anthropologie éclaire les relations complexes qui existent
+   entre le passé, le présent et l’avenir. Comme l’écrit Svetlana Boym
+   (2001 : xvi), la nostalgie « ne porte pas toujours sur le passé. Elle
+   peut avoir une portée rétroactive ou prospective ». En comparant les
+   récits par lesquels les communautés grecques et turques relatent la
+   division de Chypre, Rebecca Bryant (2008 : 399) a brillamment montré
+   que la peine provoquée par la perte de leur terre natale s’accompagne
+   de « visions de patries à venir ». Souvent, la nostalgie se déploie
+   dans ces horizons d’attentes et d’inquiétudes à l’égard de l’avenir, si
+   bien qu’espoir et utopies apparaissent dans son sillage. Force est de
+   constater que l’espérance n’est jamais bien loin du lamento sur la
+   perte. D’ailleurs, s’il est une question fondamentale soulevée par le
+   présent volume, c’est bien celle de la temporalité. Depuis la fondation
+   de la discipline, les anthropologues se sont intéressés aux dimensions
+   culturelles de la perception du temps. Si la nostalgie implique une
+   posture spécifique envers le passé considéré comme irréversible, il
+   convient de s’interroger sur son universalité. Sans avoir de réponse
+   définitive à cette énigme, nous pouvons néanmoins avancer que toutes
+   les sociétés humaines ont été confrontées à des ruptures et qu’elles
+   ont, dès lors, fait l’expérience d’une distanciation réflexive à
+   l’égard de leur passé, souvent sous la forme d’un regret pour un ordre
+   social perdu. Bien entendu, la nostalgie s’inscrit toujours dans des
+   ontologies temporelles spécifiques et culturellement situées. En tant
+   qu’anthropologues, notre tâche consiste justement à saisir les
+   expressions multiples du regret dans le flux des contingences
+   historiques. Mais l’analyse de ces expressions mémorielles ne nous
+   invite pas seulement à affiner notre compréhension de la temporalité.
+   Alors que les représentations et les pratiques sociales subissent des
+   mutations constantes tout en persistant à travers le temps, l’étude de
+   la nostalgie éclaire également les opérations de continuité et de
+   discontinuité par lesquelles les sociétés se reproduisent et évoluent.
+   Pour l’anthropologue, cet incorrigible nostalgique, examiner cet affect
+   offre un angle de vue privilégié sur la persistance créatrice et la
+   disparition des formes culturelles. Ce regard sur la nostalgie incite
+   de surcroît à dépasser les clivages traditionnels : entre les approches
+   anthropologiques, historiques et psychologiques, entre le continu et le
+   discontinu, entre la persistance et le changement, et surtout, entre le
+   passé, le présent et l’avenir.
+
+   * Nous dédions cette introduction et ce volume à Christine Langlois,
+   directrice de rédaction de la revue Terrain depuis 1983. Merci à toi,
+   Christine, d’avoir fait de Terrain un périodique prestigieux et
+   singulier, une référence indispensable pour les anthropologues en
+   France et ailleurs. La communauté des anthropologues sera désormais
+   nostalgique de Terrain.
+   Haut de page
+
+Bibliographie
+
+   Angé olivia, 2012
+   « Instrumentaliser la nostalgie. Les foires de troc andines
+   (Argentine) », Terrain, n° 59, « L’objet livre », p. 152-167.
+   Disponible en ligne, http://terrain.revues.org/15010 [lien valide en
+   mars 2015].
+
+   Appadurai arjun, 1996
+   Modernity at large. Cultural dimensions of globalizations, Minneapolis,
+   University of Minnesota Press, coll. « Public words ».
+
+   Bartholeyns gil, 2014
+   « The instant past. Nostalgia and digital retrophotography », in
+   Katarina Niemeyer (dir.), Contemporary Nostalgia and Media, Londres,
+   Palgrave Macmillan, coll. « Memory studies », p. 51-69.
+
+   Berdahl daphne, 1999
+   « “(N)Ostalgie” for the present. Memory, longing, and East German
+   things », Ethnos, vol. 64, n° 2, p. 192-211.
+
+   Berlan aurélien, 2012
+   La Fabrique des derniers hommes. Retour sur le présent avec Tönnies,
+   Simmel et Weber, Paris, La Découverte, coll. « Théorie critique ».
+
+   Berliner david, 2010a
+   « Anthropologie et transmission », Terrain, n° 55, « Transmettre », p.
+   4-19. Disponible en ligne, http://terrain.revues.org/14035 [lien valide
+   en mai 2015].
+
+   Berliner david, 2010b
+   « Perdre l’esprit du lieu. Les politiques de l’Unesco à Luang Prabang
+   (RDP Lao) », Terrain, n° 55, « Transmettre », p. 90-105. Disponible en
+   ligne, http://terrain.revues.org/14077 [lien valide en mai 2015].
+
+   Berliner david, 2014
+   « On exonostalgia », Anthropological Theory, vol. 14, n° 4, p. 373-386.
+
+   Bissell william, 2005
+   « Engaging colonial nostalgia », Cultural Anthropology, vol. 20, n° 2,
+   p. 215-248.
+
+   Boyer dominic, 2012
+   « From algos to autonomos. Nostalgic Eastern Europe as postimperial
+   mania », in Mariia Nikolaeva Todorova & Zsuzsa Gille (dir.),
+   Post-Communist Nostalgia, Oxford, Berghahn Books, p. 17-28.
+
+   Boym svetlana, 2001
+   The Future of nostalgia, New York, Basic Books.
+
+   Bryant rebecca, 2008
+   « Writing the catastrophe. Nostalgia and its histories in Cyprus »,
+   Journal of Greek modern studies, vol. 26, n° 2, p. 399-422.
+
+   Davis fred, 1979
+   Yearning for yesterday. A sociology of nostalgia, New York, Free Press.
+
+   Herzfeld michael, 2005
+   Cultural Intimacy. Social poetics in the nation-state, New York,
+   Routledge.
+
+   Jankélévitch vladimir, 1983 [1974]
+   L’Irréversible et la Nostalgie, Paris, Flammarion, coll. « Champs
+   philosophiques ».
+
+   Kundera milan, 1991 [1984]
+   L’Insoutenable Légèreté de l’être. Roman, Paris, Gallimard.
+
+   Lankauskas gediminas, 2015
+   « Missing socialism again? The malaise of nostalgia in post-Soviet
+   Lithuania », in Olivia Angé & David Berliner (dir.), Anthropology and
+   Nostalgia, Oxford, Berghahn Books, p. 35-60.
+
+   Lowenthal david, 1989
+   « Nostalgia tells it like it wasn’t », in Christopher Shaw & Malcolm
+   Chase (dir.), The Imagined Past. History and nostalgia, actes du 20e
+   « History Workshop » (Leeds, 1985), New York, Manchester University
+   Press, p. 18-32.
+
+   Nora pierre (dir.), 1984-1996
+   Les Lieux de mémoire, Paris, Gallimard, coll. « Bibliothèque illustrée
+   des histoires.
+
+   Rethmann petra, 2008
+   « Nostalgie à Moscou », Anthropologie et Sociétés, n° 32, vol. 1-2,
+   « Mondes socialistes et (post)socialistes », p. 85-102.
+
+   Rosaldo renato, 1989
+   « Imperialist nostalgia », Representations, n° 26, numéro spécial,
+   « Memory and counter-memory », p. 107-122.
+
+   Starobinski jean, 1966
+   « Le concept de nostalgie », Diogène, n° 54, p. 92-115.
+   Stewart kathleen, 1988
+   « Nostalgia —a polemic », Cultural Anthropology, vol. 3, n° 3, p.
+   227-241.
+
+   Todorova mariia nikolaeva & zsuzsa Gille (dir.), 2012
+   Post-Communist Nostalgia, Oxford, Berghahn Books.
+   Haut de page
+
+Notes
+
+   * Nous dédions cette introduction et ce volume à Christine Langlois,
+   directrice de rédaction de la revue Terrain depuis 1983. Merci à toi,
+   Christine, d’avoir fait de Terrain un périodique prestigieux et
+   singulier, une référence indispensable pour les anthropologues en
+   France et ailleurs. La communauté des anthropologues sera désormais
+   nostalgique de Terrain.
+   Haut de page
+
+Pour citer cet article
+
+Référence papier
+
+   Olivia Angé et David Berliner, « Pourquoi la nostalgie ? »,Terrain,
+   65 | 2015, 4-11.
+
+Référence électronique
+
+   Olivia Angé et David Berliner, « Pourquoi la nostalgie ? », Terrain [En
+   ligne], 65 | septembre 2015, mis en ligne le 15 septembre 2015,
+   consulté le 16 décembre 2022. URL :
+   http://journals.openedition.org/terrain/15801 ; DOI :
+   https://doi.org/10.4000/terrain.15801
+   Haut de page
+
+Auteurs
+
+Olivia Angé
+
+   Wageningen University (Pays-Bas), Sociology of Development and Change
+
+Articles du même auteur
+
+     * Le goût d’autrefois
+       Pain au levain et attachements nostalgiques dans la société
+       contemporaine
+       [Texte intégral]
+       Paru dans Terrain, 65 | septembre 2015
+     * Instrumentaliser la nostalgie
+       Les foires de troc andines (Argentine)
+       [Texte intégral]
+       Paru dans Terrain, 59 | septembre 2012
+
+David Berliner
+
+   Université libre de Bruxelles, Laboratoire d’anthropologie des mondes
+   contemporains (LAMC)
+
+Articles du même auteur
+
+     * Pourquoi ne pas faire lire des œuvres de fiction à nos étudiants ?
+       [Texte intégral]
+       Paru dans Terrain, Glissements de terrain
+     * Anthropologie et transmission*
+       [Texte intégral]
+       Paru dans Terrain, 55 | septembre 2010
+     * Perdre l’esprit du lieu
+       Les politiques de l’Unesco à Luang Prabang (rdp Lao)
+       [Texte intégral]
+       Paru dans Terrain, 55 | septembre 2010
+
+   Haut de page
+
+Droits d’auteur
+
+   Licence Creative Commons
+   Terrain est mis à disposition selon les termes de la Licence Creative
+   Commons Attribution - Pas d'Utilisation Commerciale - Pas de
+   Modification 4.0 International.
+   Haut de page
+   Sommaire - Document suivant
+
+Navigation
+
+Index
+
+     * Auteur
+     * Mot-clé
+     * Thème
+     * Lieu d'étude
+
+Numéros thématiques
+
+     * 2022 > 76 | 77
+     * 2021 > 74 | 75 | Hors-série
+     * 2020 > 73
+
+Tous les numéros
+
+Rubriques en ligne
+
+     * Questions
+     * Terrains
+     * Portraits
+     * Glissements de terrain
+     * Lectures et débats
+
+À propos
+
+     * La revue
+     * Comité de rédaction
+     * Consignes aux auteurs
+     * Les liens de Terrain
+     * Les soutiens de Terrain
+
+Acheter la revue papier
+
+     * Abonnement
+     * Achat au numéro
+
+Informations
+
+     * Contacts
+     * La lettre électronique de Terrain
+     * Crédits
+     * Politiques de publication
+
+Prochains numéros
+
+     * À paraître
+     * Appels en cours
+     * Appels clos
+
+Suivez-nous
+
+     * Twitter
+     * Facebook
+     * Le blog de Terrain
+     * Flux RSS
+
+Lettres d’information
+
+     * La Lettre d’OpenEdition
+
+   Accès abonnés
+
+   Login ____________________
+   Mot de passe ____________________
+   (BUTTON) Se connecter (BUTTON) Annuler
+
+Affiliations/partenaires
+
+     * Logo INSHS
+     * Logo MSH Mondes
+     * Logo Hauts-de-Seine
+     * Logo Centre National du Livre
+     * Logo Musée du quai Branly
+     * Logo Université Paris Ouest
+     * Logo FMSH-Diffusion
+     * OpenEdition Journals
+
+   ISSN électronique 1777-5450
+
+   Voir la notice dans le catalogue OpenEdition
+
+   Plan du site – Contacts – La lettre électronique de Terrain – Crédits –
+   Flux de syndication
+
+   Politique de confidentialité – Gestion des cookies
+
+   Nous adhérons à OpenEdition Journals – Édité avec Lodel – Accès réservé
 
    (BUTTON)
-   Nos Pensées Nos Pensées La Mente es Maravillosa
-   (BUTTON) (BUTTON)
 
-    1.
-    2. Culture
-    3. Cinéma, séries et psychologie
+   Rechercher dans OpenEdition Search
 
-Films sur la nostalgie
-
-   7 minutes
-   Qu'est-ce qui rend un film nostalgique ? La possibilité de se déplacer
-   dans des lieux communs ? Jouer avec des éléments que nous connaissions
-   tous ? Pour le savoir, jetons un coup d'œil à ces films célèbres et
-   nostalgiques.
-   Films sur la nostalgie Films sur la nostalgie
-   Cristina Roda Rivera Cristina Roda Rivera Cristina Roda Rivera
-
-   Rédigé et vérifié par Psychologue Cristina Roda Rivera.
-
-   Dernière mise à jour : 25 novembre, 2022
-
-   Un film est-il susceptible de devenir nostalgique ? Comme vous
-   l’imaginez, c’est évidemment possible, tout comme une chanson. Nous
-   pouvons toujours nous souvenir de ce film de science-fiction que nous
-   avons vu avec notre père ou de celui retransmit la première fois que
-   nous allâmes au cinéma. Cependant, il y a des films qui évoquent la
-   nostalgie elle-même. Ils cherchent à éveiller ces sentiments en nous.
-   On peut dire que dans ces films l’intrigue importe moins que la force
-   des émotions, l’impact du ressenti sur notre mémoire.
-
-   Les couleurs, la musique, les amours brisées, les histoires qui allient
-   fantaisie et réalité qui enveloppent notre âme, faisant de la nostalgie
-   non seulement une intrigue ou un sentiment cinématographique, mais un
-   sentiment personnel.
-
-Before Sunrise (1995), de Richard Linklater
-
-   Before Sunrise est le premier volet d’une trilogie sur l’amour et les
-   relations qui se complète de deux autres films : Before Sunset (2004)
-   et Before Nightfall (Before Midnight, 2013). L’idée du film naquit
-   d’une expérience de son réalisateur qui, lors d’un voyage, rencontra
-   une femme avec qui il eut une conversation profonde toute la nuit, et
-   qu’il ne revit jamais.
-
-   Le film commence lorsque Jesse (Ethan Hawke), un jeune américain
-   voyageant à travers l’Europe, rencontre Céline, une étudiante
-   française, dans le train Budapest-Paris. Attiré par leur conversation,
-   il lui propose de descendre avec lui à la gare de Vienne pour continuer
-   à faire connaissance jusqu’au départ de son vol de retour aux
-   États-Unis le lendemain matin. La jeune fille accepte et ils déambulent
-   tous les deux dans la ville pendant quelques heures qui marqueront sa
-   vie à jamais.
-
-   Before Sunrise dissèque la première phase de l’amour. Comment nous nous
-   découvrons devant l’autre qui nous attire. A partir de cette idée,
-   Linklater créa une histoire sur deux jeunes qui tombent éperdument
-   amoureux dans un train. Le film se clôt sur les images d’une ville
-   solitaire où subsistent les traces des amants, ces bouteilles dans le
-   parc comme « produits de comportement » d’une observation
-   comportementale. La nostalgie apparaît avec l’aube.
-
-   Le film propose une narration sur le temps de l’amour qui défend que
-   les émotions ne sont pas rationnelles et que la logique de la pensée ne
-   peut leur être imposée.
-
-   IFRAME: https://www.youtube.com/embed/at3hf6am2OQ?feature=oembed
-
-Les lois de la frontière (2021), de Daniel Monzón
-
-   Les lois de la frontière est une adaptation du roman de Javier Cercas,
-   réalisant un film divertissant sans détails particulièrement
-   remarquables au début, qui gagne en profondeur à mesure que l’on
-   approche de la fin. Le film se déroule à Gérone en 1978, alors que
-   l’Espagne vient de se réveiller d’une dictature de 40 ans.
-
-   Dans les premières scènes apparaît Nacho (Marco Ruiz), un jeune homme
-   au caractère calme qui se fait agresser et insulter par des voyous. Au
-   début du film, on voit déjà comment le garçon ne peut échapper à cette
-   souffrance. La vie de Nacho aurait pu être marquée par un traumatisme
-   s’il n’avait pas été curieusement “sauvé” par de petits “défoncés et
-   voleurs”.
-
-   En effet, tout le monde ne parvient pas à se trouver dans un cours de
-   “coaching”. Ainsi, Nacho rencontrera un groupe dans lequel pour la
-   première fois il saura ce que sont l’action, l’humour, la nuit, les
-   danses ou le sexe. Ses amis sont de jeunes acteurs qui remplissent
-   l’écran de leur forte présence et de leur charisme. Deux exemples sont
-   Begoña Vargas et Chechu Salgado, comme Tere et Zarco. Ces deux
-   personnages sauvent Nacho de son existence solitaire et dure.
-
-   IFRAME: https://www.youtube.com/embed/6DHZYaaHkdM?feature=oembed
-
-Le fabuleux destin d’Amélie Poulain (2001) de Jean-Pierre Jeunet
-
-   Le fabuleux destin d’Amélie Poulain sonne comme un disque d’Edith Piaf.
-   Il vous effleure comme une brise fraîche de mi-octobre. Les couleurs
-   rouges et vertes de Bruno Delbonnel offrent une photo parfaite pour les
-   nostalgiques. Amélie se vit comme une expérience synesthésique.
-
-   Il se peut que Le fabuleux destin d’Amélie Poulain soit l’une des
-   dernières œuvres que nous ayons vues avant d’entrer dans la sphère du
-   frénétique et de l’immédiat. Mobile, réseaux sociaux. Beaucoup de monde
-   et très peu d’amis. Manque de contact réel et intime avec les autres.
-
-   Amélie est une comédie fantastique sur une jeune femme qui orchestre
-   discrètement la vie des gens qui l’entourent, créant un monde créé
-   exclusivement pour elle. Tourné dans plus de 80 lieux parisiens, le
-   film a séduit critiques et public.
-
-   C’est un film de gestes, d’art et d’expérimentation cinématographique.
-   Tout tourne autour de la protagoniste. Sa façon d’appliquer du parfum
-   ou d’enlever la saleté d’un trésor caché (ce qui rendit beaucoup
-   d’entre nous nerveux de ne pas nettoyer immédiatement). Le fabuleux
-   destin d’Amélie Poulain a été la première et la dernière influenceuse
-   capable de créer de la mode et de l’art avec sa façon de marcher, de
-   regarder et de faire rebondir les pierres.
-
-   Joué par Audrey Tautou, qui dégage une ambiance bon enfant, mais a une
-   séquence espiègle très en phase avec son sourire narquois qui empêche
-   le film d’être trop léger.
-
-   Des milliers de filles copièrent son style, non pas à cause des
-   vêtements, mais à cause de sa manière lente et mystérieuse. C’était
-   définitivement quelqu’un d’original. Cependant, ce qui est original,
-   c’est d’être soi-même, pas de copier une autre personne (bien qu’étant
-   jeune, ces audaces sont excusées). Voir le spectacle du monde dans les
-   petits détails, dans la gentillesse, dans les liens forts.
-
-   Aussi fantastique que soit le monde d’Amélie, le film raconte comment
-   deux cœurs battant aux extrémités opposées de la ville peuvent se
-   rencontrer et battre à l’unisson. Seulement 21 ans se sont écoulés, et
-   la nostalgie de retrouver quelqu’un comme Amélie, si occupée avec
-   elle-même et son entourage, grandit plus que jamais.
-
-   IFRAME: https://www.youtube.com/embed/FBh0Bt5fmEo?feature=oembed
-
-Edward aux mains d’argent (1990) de Tim Burton
-
-   Première collaboration entre Johnny Depp et Tim Burton, Edward aux
-   mains d’argent est un conte de fées moderne et magique aux accents
-   gothiques et une banlieue de costumes et de murs pastel. Un autre monde
-   créé pour stimuler notre imagination, avec une histoire qui nourrit les
-   sentiments les plus forts de la mémoire de cet amour perdu et frustré.
-
-   Avec l’esprit illustratif surréaliste de Burton, les performances
-   déterminantes de la carrière de Depp et Ryder et une histoire pleine de
-   simplicité, de complexité et de magie intangible qui résiste à
-   l’épreuve du temps, Edward aux mains d’argent est l’un des plus grands
-   films jamais réalisés. Un vrai classique.
-
-   L’histoire raconte l’histoire d’un scientifique (Vincent Price), qui
-   construit un être humain animé. C’est son chef-d’œuvre : l’incroyable
-   Edward (Johnny Depp). Cependant, le scientifique meurt avant de finir
-   d’assembler Edward. Malheureusement, il ne lui donne pas de membres
-   humains.
-
-   Le résultat est qu’Edward vivra toujours avec des ciseaux au bout des
-   bras, au lieu des mains. Peg ( Dianne Wiest ), vendeuse de banlieue
-   aimante, découvre Edward et le ramène à la maison, où il tombe amoureux
-   de la fille adolescente de Peg ( Winona Ryder ). Cependant, malgré sa
-   gentillesse et son talent artistique, les mains d’Edward font de lui un
-   paria de la société.
-
-   IFRAME: https://www.youtube.com/embed/r6IwTHOKLGc?feature=oembed
-
-Cinéma Paradiso (1989) de Giuseppe Tornatore
-
-   S’il y a un film sur la nostalgie, c’est Cinema Paradiso. L’hommage au
-   cinéma sous forme de film est une pure nostalgie de l’ancien écran. A
-   cause de la nécessité de se déplacer pour aller au cinéma du coin, pour
-   regarder une histoire pendant qu’une autre se déroule probablement. Une
-   image parfaite d’une époque où le cinéma était la seule source de rire
-   et de joie.
-
-   La scène des “baisers censurés” est peut-être l’une des scènes qui
-   capture le mieux la nostalgie d’un temps révolu. On dit que le monde ne
-   se regarde qu’une seule fois, dans l’enfance, et que le reste n’est que
-   mémoire. Et cela arrive au protagoniste.
-
-   “Cinema Paradiso” de Giuseppe Tornatore se déroule en Sicile dans les
-   dernières années avant la télévision. Il a deux personnages principaux
-   : le vieil Alfredo (Philippe Noiret), qui dirige la cabine de
-   projection, et le jeune Salvatore (Salvatore Cascio), qui fait de la
-   pirogue sa maison loin d’un foyer sans amour.
-
-   Le garçon regarde avec étonnement alors qu’Alfredo se débat avec la
-   machine qui projette les images de ses rêves sur l’écran. Au début,
-   Alfredo essaie de chasser Salvatore. Mais finalement il le considère
-   presque comme son fils. Salvatore considère certainement le vieil homme
-   comme son père et le cinéma comme sa mère.
-
-   L’histoire est racontée comme un flashback. Cela commence avec un
-   réalisateur de premier plan (Jacques Perrin) apprenant à Rome que le
-   vieil Alfred est mort et entreprend un voyage sentimental vers sa ville
-   natale. Là, il se souviendra de son premier et grand amour. Il verra le
-   film que le vieil Alfredo lui laissa en cadeau posthume et qui
-   constitue la scène la plus nostalgique que l’on puisse voir au cinéma.
-
-   IFRAME: https://www.youtube.com/embed/_jTIO5h1qx4?feature=oembed
-
-Cela pourrait vous intéresser …
-
-   Cela pourrait vous intéresser ...
-   Différences entre mélancolie et nostalgie
-   Différences entre mélancolie et nostalgie Différences entre mélancolie
-   et nostalgie
-   Nos Pensées Nos Pensées
-   Lisez-le dans Nos Pensées
-   Différences entre mélancolie et nostalgie
-
-   Les différences entre mélancolie et nostalgie sont subtiles, mais elles
-   existent. Sachez pourquoi elles ne sont pas les mêmes choses.
-     __________________________________________________________________
-
-   Le contenu de Nos Pensées est uniquement destiné à des fins
-   informatives et éducatives. Il ne remplace pas un diagnostic, un
-   conseil ou un traitement professionnel. Si vous avez le moindre doute,
-   il est conseillé de consulter un spécialiste de confiance.
-   Cristina Roda Rivera Cristina Roda Rivera Cristina Roda Rivera
-
-   Rédigé et vérifié par Psychologue Cristina Roda Rivera.
-
-   Dernière mise à jour : 25 novembre, 2022
-   Pelade et stress : comment sont-ils liés ?
-   Pelade et stress : comment sont-ils liés ? Pelade et stress : comment
-   sont-ils liés ?
-   Pelade et stress : comment sont-ils liés ?
-     __________________________________________________________________
-
-   Pourquoi ne finissons-nous jamais avec l'insatisfaction ? (adaptation
-   hédonique)
-   Pourquoi ne finissons-nous jamais avec l'insatisfaction ? (adaptation
-   hédonique) Pourquoi ne finissons-nous jamais avec l'insatisfaction ?
-   (adaptation hédonique)
-   Pourquoi ne finissons-nous jamais avec l'insatisfaction ? (adaptation
-   hédonique)
-     __________________________________________________________________
-
-   La solitude qui nous pousse à collectionner des objets
-   La solitude qui nous pousse à collectionner des objets La solitude qui
-   nous pousse à collectionner des objets
-   La solitude qui nous pousse à collectionner des objets
-     __________________________________________________________________
-
-   Comment arrêter de trop penser
-   Comment arrêter de trop penser Comment arrêter de trop penser
-   Comment arrêter de trop penser
-     __________________________________________________________________
-
-     * (BUTTON)
-     * (BUTTON)
-     * (BUTTON)
-     * (BUTTON)
-     * (BUTTON)
-     __________________________________________________________________
-
-   ARTICLES INTÉRESSANTS
-   Sami Blood : se sentir stigmatisé par ses origines
-   Sami Blood : se sentir stigmatisé par ses origines Sami Blood : se
-   sentir stigmatisé par ses origines
-   Cinéma, séries et psychologieSami Blood : se sentir stigmatisé par ses
-   origines
-   The good nurse : La véritable histoire de l'ange de la mort
-   The good nurse : La véritable histoire de l'ange de la mort The good
-   nurse : La véritable histoire de l'ange de la mort
-   Cinéma, séries et psychologieThe good nurse : La véritable histoire de
-   l'ange de la mort
-   Les 10 meilleurs films de Keanu Reeves
-   Les 10 meilleurs films de Keanu Reeves Les 10 meilleurs films de Keanu
-   Reeves
-   Cinéma, séries et psychologieLes 10 meilleurs films de Keanu Reeves
-   The Watcher, la série qui réveille beaucoup de nos peurs
-   The Watcher, la série qui réveille beaucoup de nos peurs The Watcher,
-   la série qui réveille beaucoup de nos peurs
-   Cinéma, séries et psychologieThe Watcher, la série qui réveille
-   beaucoup de nos peurs
-   Les meilleurs films sur le sport
-   Les meilleurs films sur le sport Les meilleurs films sur le sport
-   Cinéma, séries et psychologieLes meilleurs films sur le sport
-   La rencontre émouvante entre Michael J. Fox et Christopher Lloyd
-   La rencontre émouvante entre Michael J. Fox et Christopher Lloyd La
-   rencontre émouvante entre Michael J. Fox et Christopher Lloyd
-   Cinéma, séries et psychologieLa rencontre émouvante entre Michael J.
-   Fox et Christopher Lloyd
-   The Undoing : la perfection n'existe pas
-   The Undoing : la perfection n'existe pas The Undoing : la perfection
-   n'existe pas
-   Cinéma, séries et psychologieThe Undoing : la perfection n'existe pas
-   Tout commence aujourd'hui : le meilleur film pour expliquer
-   l'importance des écoles publiques
-   Tout commence aujourd'hui : le meilleur film pour expliquer
-   l'importance des écoles publiques Tout commence aujourd'hui : le
-   meilleur film pour expliquer l'importance des écoles publiques
-   Cinéma, séries et psychologieTout commence aujourd'hui : le meilleur
-   film pour expliquer l'importance des écoles publiques
-   (BUTTON) En voir plus...
-   Subscribe to our newsletter
-
-   Select from the 0 categories from which you would like to receive
-   articles.
+   Vous allez être redirigé vers OpenEdition Search
    ____________________
-   ____________________Enter a valid email
-   (BUTTON) Subscribe now
-   [ ] I accept the terms, conditions and the privacy policy.
-   Nos Pensées Nos Pensées Nos Pensées
-   Nos Pensées est également disponible en:
-     * Português
-     * Türkçe
-     * English
-     * Deutsch
-     * 日本語
-     * Italiano
-     * Español
-     * Suomi
+   ( ) Dans tout OpenEdition
+   (*) Dans Terrain
+   (BUTTON) Rechercher
+
      * Français
-     * Polski
-     * Dansk
-     * Norsk bokmål
-     * Svenska
-     * Nederlands
-     * 한국어
+          + English
 
+     * Partager
+          + Facebook
+          + Twitter
+          + Google+
+
+   ">
+   (BUTTON)
+
+     * Accueil
+     * Catalogue des 605 revues
+
+   OpenEdition Search
+   (BUTTON) Tout OpenEdition
+
+   (BUTTON) Français
+     * English
+
+   Portail de ressources électroniques en sciences humaines et sociales
+   OpenEdition
+   Nos plateformes
+   OpenEdition Books OpenEdition Journals Hypotheses Calenda
+   Bibliothèques et institutions
+   OpenEdition Freemium
+   Nos services
+   OpenEdition Search La lettre d'OpenEdition
    Suivez-nous
-     *
-     *
-     *
-     __________________________________________________________________
-
-   Autres sites
-     * logo icon lmem logo icon lmem logo icon lmem
-     * logo icon lmem logo icon lmem logo icon lmem
-     * logo icon lmem logo icon lmem logo icon lmem
-     * logo icon lmem logo icon lmem logo icon lmem
-     * logo icon lmem logo icon lmem logo icon lmem
-     * logo icon lmem logo icon lmem logo icon lmem
-     __________________________________________________________________
-
-   MContigo MContigo
-
-   Nos Pensées Blog sur la psychologie et la philosophie, articles et
-   reflexions sur le bonheur, la peur et d&#039;autres aspects de la
-   psychologie.
-   © 2012 – 2022 . Tous les droits réservés.
-     __________________________________________________________________
-
-     * Politique des cookie
-     * Politique de confidentialité
-     * Termes et conditions d’usage

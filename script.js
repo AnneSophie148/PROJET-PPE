@@ -1,16 +1,17 @@
-const tabs = document.querySelectorAll('[data-tab-target]')
-const tabContents = document.querySelectorAll('[data-tab-content]')
+const tabs = document.querySelectorAll('.tabs li');
+const tabContentBoxes = document.querySelectorAll('#tab-content > div')
 
-tabs.forEach(tab => {
+tabs.forEach(tab) => {
   tab.addEventListener('click', () => {
-    const target = document.querySelector(tab.dataset.tabTarget)
-    tabContents.forEach(tabContent => {
-      tabContent.classList.remove('active')
-    })
-    tabs.forEach(tab => {
-      tab.classList.remove('active')
-    })
-    tab.classList.add('active')
-    target.classList.add('active')
+    tabs.forEach(item => item.classList.remove('is-active'))
+    tab.classList.add('is-active');
+    
+    const target = tab.dataset.target;
+    tabContantBoxes.forEach(box => {
+    	if (box.getAttribute('id') === target) {
+        box.classList.remove('is-hidden');
+    	} else {
+    		box.classList.add('is-hidden');
+    		}
+    	})
   })
-})

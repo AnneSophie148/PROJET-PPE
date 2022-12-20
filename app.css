@@ -1,0 +1,6 @@
+/* app.css */
+
+ .has-display-none {
+    display: none;
+    visibility: hidden;
+}

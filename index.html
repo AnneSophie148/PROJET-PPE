@@ -1,10 +1,8 @@
-<!DOCTYPE html>
 <html>
-
   <head>
     <meta charset="UTF-8" />
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css" />
     <script src="script.js" defer></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css" />
     <style>
 			h1 {
 				margin: 0 0 20px 0; 
@@ -14,111 +12,67 @@
 				margin: 0 0 10px 0; 
 			}
 		</style>
+    
 </head>
 
 <body style="has-background-white-bis;">
   <section class="section column is-half is-offset-one-quarter" style="has-background-white-bis">
     <div class="tabs">
       <ul>
-        <li data-tab-target="#home" class="active tab"><a>Accueil</a></li>
-        <li data-tab-target="#nuages" class="tab"> <a>Nuages de mots </a></li>
-        <li data-tab-target="#tableaux" class="tab"> <a>Tableaux</a></li>
-        <li data-tab-target="#codes" class="tab"><a>Codes</a></li>
-        <li data-tab-target="#about" class="tab"><a>A propos de nous</li>
+        <li class="is-active" data-target="Accueil">
+          <a>Accueil</a>
+        </a></li>
+        <li data_target="nuages"><a>Nuages de mots</a></li>
+        <li data-target="tableaux"><a>Tableaux</a></li>
+        <li data-target="codes"><a>Codes</a></li>
       </ul>
     </div>
-    <h1 class="is-size-1 has-background-warning-light">Programmation et projet encadré.</h1>
-
-
-<h2> Bienvenu sur la page initiale de notre projet PPE  </h2>
-  <h3> Choix du mot "Nostalgie" 
-  </h3>
-<p> Notre projet PPE consiste à l'étude du mot "nostalgie" en français, anglais, portugais et mandarin.
+    <div class="px-2" id="tab-content"
+      <div id="Accueil">
+        <h1 class="is-size-1 has-background-warning-light">Programmation et projet encadré.</h1>
+        <h2> Bienvenu sur la page initiale de notre projet PPE  </h2>
+        <h3> Choix du mot "Nostalgie" 
+        </h3>
+        <p> Notre projet PPE consiste à l'étude du mot "nostalgie" en français, anglais, portugais et mandarin.
   L'idée nous est venu du portugais, étant deux personnes de langue maternelle portugaise au sein du groupe, nous avons pensé au mot portugais "saudade" dont la traduction en français est ambigue. 
   L'une des traductions possibles du mot est "nostalgie", toutefois ce mot existe également en portugais mais ne signifie pas exactement la même chose. 
   Il semble avoir une connotation de tristesse qu'on ne retrouve pas dans le mot "saudade". 
   Nous avons donc choisi d'étudier cet angle en analysant en portugais les mots "nostalgia" et "saudade", puis de nous pencher vers la traduction anglaise "nostalgia" et "homesickeness", vers le français "nostalgie" et le mandarin 乡愁 xiāngchóu.
- 
+        </p>
+      </div>
+    </div>
+
+    <div id="nuages" class="is-hidden">
+      <h3> Nuages de mots</h3>
+      <p> test</p>
+    </div>
+
+    <div id="tableaux" class="is-hidden">
+      <h3> Les tableaux</h3>
+      <p> test</p>
+      tableau nostalgia en portugais : 
+      <a href="./tableaux/tableau_pt.HTML"> tableau.HTML portugais </a>
 
 
+      tableau saudade en portugais : 
+      <a href="./tableaux/tableau_saudade_pt.HTML"> tableau.HTML saudade </a>
 
-  <div id="nuages" data-tab-content>
-    <div class="box">
-      <img src="images/image-fr.png" width="35%"/>  
-     <h2 class="title">Les nuages de mots</h2>
-     <p>voici les nuages de mots</p>
+      tableau nostalgie en français : 
+      <a href="./tableaux/tableau_fr.HTML"> tableau.HTML français </a>
 
-     <div id="tableaux" data-tab-content>
-      <p><div class="columns">
-          <div class="column">
-           
-          </div>
-          <div class="column is-two-thirds">
-      
-   
-              <div class="container">
-              <h1 class="title">
-              Les tableaux pour chaque langues
+      tableau nostalgia en anglais : 
+      <a href="./tableaux/tableau_eng.HTML"> tableau.HTML anglais </a>
 
-  tableau nostalgia en portugais : 
-  <a href="./tableaux/tableau_pt.HTML"> tableau.HTML portugais </a>
-  
-  
-  tableau saudade en portugais : 
-  <a href="./tableaux/tableau_saudade_pt.HTML"> tableau.HTML saudade </a>
-  
-  tableau nostalgie en français : 
-  <a href="./tableaux/tableau_fr.HTML"> tableau.HTML français </a>
-  
-  tableau nostalgia en anglais : 
-  <a href="./tableaux/tableau_eng.HTML"> tableau.HTML anglais </a>
-  
-  tableau 乡愁 (écriture simplifiée) et 鄉愁 (écriture traditionnelle) en chinois : 
-  <a href="./tableaux/tableau_ch.HTML"> tableau.HTML </a>
-  
-              </h1>
-              </div>
-              </div>
-              </section>
+      tableau 乡愁 (écriture simplifiée) et 鄉愁 (écriture traditionnelle) en chinois : 
+      <a href="./tableaux/tableau_ch.HTML"> tableau.HTML </a>
+    </div>
 
-              <div id="codes" data-tab-content>
-                <div class="box">
-                  <img src="images/image-fr.png" width="35%"/>  
-                 <h2 class="title">Les scripts</h2>
-                 <p>voici les scripts sur lesquels nous avons travaillés</p>
-            
-                 <div id="tableaux" data-tab-content>
-                  <p><div class="columns">
-                      <div class="column">
-                       
-    
-              <div id="about" data-tab-content>
-                <p><div class="columns">
-                  <div class="column">
-                   
-                  </div>
-                  <div class="column is-two-thirds">
-              
-     
-                      <div class="container">
-                      <h1 class="title">
-                      Qui sommes nous ?
-                      </h1>
-                      
-                      </div>
-                      </div>
-                      </section>
-                  
-                       
-                      
+    <div id="codes" class="is-hidden">
+      <h3> Les scripts</h3>
+      <p> test</p>
+    </div>
 
-  
   </p>
 </body>
 
 </html>
-
-
-      
-   
-

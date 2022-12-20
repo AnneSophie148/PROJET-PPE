@@ -1,7 +1,10 @@
+<!DOCTYPE html>
 <html>
+
   <head>
     <meta charset="UTF-8" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css" />
+    <script src="script.js" defer></script>
     <style>
 			h1 {
 				margin: 0 0 20px 0; 
@@ -17,13 +20,15 @@
   <section class="section column is-half is-offset-one-quarter" style="has-background-white-bis">
     <div class="tabs">
       <ul>
-        <li class="is-active" data-tab="1"><a>Accueil</a></li>
-        <li data-tab="2"></li> <a>  Nuages de mots</a></li>
-        <li data-tab="3"> <a>Tableaux</a></li>
-        <li data-tab="4"><a>Codes</a></li>
+        <li data-tab-target="#home" class="active tab"><a>Accueil</a></li>
+        <li data-tab-target="#nuages" class="tab"> Nuages de mots </a></li>
+        <li data-tab-target="#tableaux" class="tab"> <a>Tableaux</a></li>
+        <li data-tab-target="#codes" class="tab"><a>Codes</a></li>
+        <li data-tab-target="#about" class="tab">A propos de nous</li>
       </ul>
     </div>
     <h1 class="is-size-1 has-background-warning-light">Programmation et projet encadré.</h1>
+
 
 <h2> Bienvenu sur la page initiale de notre projet PPE  </h2>
   <h3> Choix du mot "Nostalgie" 
@@ -37,8 +42,24 @@
 
 
 
+  <div id="nuages" data-tab-content>
+    <div class="box">
+      <img src="images/image-fr.png" width="35%"/>  
+     <h2 class="title">Les nuages de mots</h2>
+     <p>voici les nuages de mots</p>
 
-          
+     <div id="tableaux" data-tab-content>
+      <p><div class="columns">
+          <div class="column">
+           
+          </div>
+          <div class="column is-two-thirds">
+      
+      <section class="hero is-primary">
+          <div class="hero-body">
+              <div class="container">
+              <h1 class="title">
+              Les tableaux pour chaque langues
 
   tableau nostalgia en portugais : 
   <a href="./tableaux/tableau_pt.HTML"> tableau.HTML portugais </a>
@@ -56,8 +77,50 @@
   tableau 乡愁 (écriture simplifiée) et 鄉愁 (écriture traditionnelle) en chinois : 
   <a href="./tableaux/tableau_ch.HTML"> tableau.HTML </a>
   
+              </h1>
+              </div>
+              </div>
+              </section>
+
+              <div id="codes" data-tab-content>
+                <div class="box">
+                  <img src="images/image-fr.png" width="35%"/>  
+                 <h2 class="title">Les scripts</h2>
+                 <p>voici les scripts sur lesquels nous avons travaillés</p>
+            
+                 <div id="tableaux" data-tab-content>
+                  <p><div class="columns">
+                      <div class="column">
+                       
+    
+              <div id="about" data-tab-content>
+                <p><div class="columns">
+                  <div class="column">
+                   
+                  </div>
+                  <div class="column is-two-thirds">
+              
+              <section class="hero is-primary">
+                  <div class="hero-body">
+                      <div class="container">
+                      <h1 class="title">
+                      Qui sommes nous ?
+                      </h1>
+                      
+                      </div>
+                      </div>
+                      </section>
+                  
+                       
+                      
+
   
   </p>
 </body>
 
 </html>
+
+
+      
+   
+

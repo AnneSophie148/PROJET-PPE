@@ -1,0 +1,1122 @@
+ <!DOCTYPE html>
+<!--[if IE 8]>
+	<html class="ie ie8" lang="pt-BR"> <![endif]-->
+<!--[if IE 9]>
+	<html class="ie ie9" lang="pt-BR"> <![endif]-->
+<!--[if gt IE 9]><!-->
+<html lang="pt-BR"> <!--<![endif]-->
+<head><meta charset="UTF-8"><script>if(navigator.userAgent.match(/MSIE|Internet Explorer/i)||navigator.userAgent.match(/Trident\/7\..*?rv:11/i)){var href=document.location.href;if(!href.match(/[?&]nowprocket/)){if(href.indexOf("?")==-1){if(href.indexOf("#")==-1){document.location.href=href+"?nowprocket=1"}else{document.location.href=href.replace("#","?nowprocket=1#")}}else{if(href.indexOf("#")==-1){document.location.href=href+"&nowprocket=1"}else{document.location.href=href.replace("#","&nowprocket=1#")}}}}</script><script>class RocketLazyLoadScripts{constructor(){this.triggerEvents=["keydown","mousedown","mousemove","touchmove","touchstart","touchend","wheel"],this.userEventHandler=this._triggerListener.bind(this),this.touchStartHandler=this._onTouchStart.bind(this),this.touchMoveHandler=this._onTouchMove.bind(this),this.touchEndHandler=this._onTouchEnd.bind(this),this.clickHandler=this._onClick.bind(this),this.interceptedClicks=[],window.addEventListener("pageshow",(e=>{this.persisted=e.persisted})),window.addEventListener("DOMContentLoaded",(()=>{this._preconnect3rdParties()})),this.delayedScripts={normal:[],async:[],defer:[]},this.allJQueries=[]}_addUserInteractionListener(e){document.hidden?e._triggerListener():(this.triggerEvents.forEach((t=>window.addEventListener(t,e.userEventHandler,{passive:!0}))),window.addEventListener("touchstart",e.touchStartHandler,{passive:!0}),window.addEventListener("mousedown",e.touchStartHandler),document.addEventListener("visibilitychange",e.userEventHandler))}_removeUserInteractionListener(){this.triggerEvents.forEach((e=>window.removeEventListener(e,this.userEventHandler,{passive:!0}))),document.removeEventListener("visibilitychange",this.userEventHandler)}_onTouchStart(e){"HTML"!==e.target.tagName&&(window.addEventListener("touchend",this.touchEndHandler),window.addEventListener("mouseup",this.touchEndHandler),window.addEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.addEventListener("mousemove",this.touchMoveHandler),e.target.addEventListener("click",this.clickHandler),this._renameDOMAttribute(e.target,"onclick","rocket-onclick"))}_onTouchMove(e){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler),e.target.removeEventListener("click",this.clickHandler),this._renameDOMAttribute(e.target,"rocket-onclick","onclick")}_onTouchEnd(e){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler)}_onClick(e){e.target.removeEventListener("click",this.clickHandler),this._renameDOMAttribute(e.target,"rocket-onclick","onclick"),this.interceptedClicks.push(e),e.preventDefault(),e.stopPropagation(),e.stopImmediatePropagation()}_replayClicks(){window.removeEventListener("touchstart",this.touchStartHandler,{passive:!0}),window.removeEventListener("mousedown",this.touchStartHandler),this.interceptedClicks.forEach((e=>{e.target.dispatchEvent(new MouseEvent("click",{view:e.view,bubbles:!0,cancelable:!0}))}))}_renameDOMAttribute(e,t,n){e.hasAttribute&&e.hasAttribute(t)&&(event.target.setAttribute(n,event.target.getAttribute(t)),event.target.removeAttribute(t))}_triggerListener(){this._removeUserInteractionListener(this),"loading"===document.readyState?document.addEventListener("DOMContentLoaded",this._loadEverythingNow.bind(this)):this._loadEverythingNow()}_preconnect3rdParties(){let e=[];document.querySelectorAll("script[type=rocketlazyloadscript]").forEach((t=>{if(t.hasAttribute("src")){const n=new URL(t.src).origin;n!==location.origin&&e.push({src:n,crossOrigin:t.crossOrigin||"module"===t.getAttribute("data-rocket-type")})}})),e=[...new Map(e.map((e=>[JSON.stringify(e),e]))).values()],this._batchInjectResourceHints(e,"preconnect")}async _loadEverythingNow(){this.lastBreath=Date.now(),this._delayEventListeners(),this._delayJQueryReady(this),this._handleDocumentWrite(),this._registerAllDelayedScripts(),this._preloadAllScripts(),await this._loadScriptsFromList(this.delayedScripts.normal),await this._loadScriptsFromList(this.delayedScripts.defer),await this._loadScriptsFromList(this.delayedScripts.async);try{await this._triggerDOMContentLoaded(),await this._triggerWindowLoad()}catch(e){}window.dispatchEvent(new Event("rocket-allScriptsLoaded")),this._replayClicks()}_registerAllDelayedScripts(){document.querySelectorAll("script[type=rocketlazyloadscript]").forEach((e=>{e.hasAttribute("src")?e.hasAttribute("async")&&!1!==e.async?this.delayedScripts.async.push(e):e.hasAttribute("defer")&&!1!==e.defer||"module"===e.getAttribute("data-rocket-type")?this.delayedScripts.defer.push(e):this.delayedScripts.normal.push(e):this.delayedScripts.normal.push(e)}))}async _transformScript(e){return await this._littleBreath(),new Promise((t=>{const n=document.createElement("script");[...e.attributes].forEach((e=>{let t=e.nodeName;"type"!==t&&("data-rocket-type"===t&&(t="type"),n.setAttribute(t,e.nodeValue))})),e.hasAttribute("src")?(n.addEventListener("load",t),n.addEventListener("error",t)):(n.text=e.text,t());try{e.parentNode.replaceChild(n,e)}catch(e){t()}}))}async _loadScriptsFromList(e){const t=e.shift();return t?(await this._transformScript(t),this._loadScriptsFromList(e)):Promise.resolve()}_preloadAllScripts(){this._batchInjectResourceHints([...this.delayedScripts.normal,...this.delayedScripts.defer,...this.delayedScripts.async],"preload")}_batchInjectResourceHints(e,t){var n=document.createDocumentFragment();e.forEach((e=>{if(e.src){const i=document.createElement("link");i.href=e.src,i.rel=t,"preconnect"!==t&&(i.as="script"),e.getAttribute&&"module"===e.getAttribute("data-rocket-type")&&(i.crossOrigin=!0),e.crossOrigin&&(i.crossOrigin=e.crossOrigin),n.appendChild(i)}})),document.head.appendChild(n)}_delayEventListeners(){let e={};function t(t,n){!function(t){function n(n){return e[t].eventsToRewrite.indexOf(n)>=0?"rocket-"+n:n}e[t]||(e[t]={originalFunctions:{add:t.addEventListener,remove:t.removeEventListener},eventsToRewrite:[]},t.addEventListener=function(){arguments[0]=n(arguments[0]),e[t].originalFunctions.add.apply(t,arguments)},t.removeEventListener=function(){arguments[0]=n(arguments[0]),e[t].originalFunctions.remove.apply(t,arguments)})}(t),e[t].eventsToRewrite.push(n)}function n(e,t){let n=e[t];Object.defineProperty(e,t,{get:()=>n||function(){},set(i){e["rocket"+t]=n=i}})}t(document,"DOMContentLoaded"),t(window,"DOMContentLoaded"),t(window,"load"),t(window,"pageshow"),t(document,"readystatechange"),n(document,"onreadystatechange"),n(window,"onload"),n(window,"onpageshow")}_delayJQueryReady(e){let t=window.jQuery;Object.defineProperty(window,"jQuery",{get:()=>t,set(n){if(n&&n.fn&&!e.allJQueries.includes(n)){n.fn.ready=n.fn.init.prototype.ready=function(t){e.domReadyFired?t.bind(document)(n):document.addEventListener("rocket-DOMContentLoaded",(()=>t.bind(document)(n)))};const t=n.fn.on;n.fn.on=n.fn.init.prototype.on=function(){if(this[0]===window){function e(e){return e.split(" ").map((e=>"load"===e||0===e.indexOf("load.")?"rocket-jquery-load":e)).join(" ")}"string"==typeof arguments[0]||arguments[0]instanceof String?arguments[0]=e(arguments[0]):"object"==typeof arguments[0]&&Object.keys(arguments[0]).forEach((t=>{delete Object.assign(arguments[0],{[e(t)]:arguments[0][t]})[t]}))}return t.apply(this,arguments),this},e.allJQueries.push(n)}t=n}})}async _triggerDOMContentLoaded(){this.domReadyFired=!0,await this._littleBreath(),document.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this._littleBreath(),window.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this._littleBreath(),document.dispatchEvent(new Event("rocket-readystatechange")),await this._littleBreath(),document.rocketonreadystatechange&&document.rocketonreadystatechange()}async _triggerWindowLoad(){await this._littleBreath(),window.dispatchEvent(new Event("rocket-load")),await this._littleBreath(),window.rocketonload&&window.rocketonload(),await this._littleBreath(),this.allJQueries.forEach((e=>e(window).trigger("rocket-jquery-load"))),await this._littleBreath();const e=new Event("rocket-pageshow");e.persisted=this.persisted,window.dispatchEvent(e),await this._littleBreath(),window.rocketonpageshow&&window.rocketonpageshow({persisted:this.persisted})}_handleDocumentWrite(){const e=new Map;document.write=document.writeln=function(t){const n=document.currentScript,i=document.createRange(),r=n.parentElement;let o=e.get(n);void 0===o&&(o=n.nextSibling,e.set(n,o));const s=document.createDocumentFragment();i.setStart(s,0),s.appendChild(i.createContextualFragment(t)),r.insertBefore(s,o)}}async _littleBreath(){Date.now()-this.lastBreath>45&&(await this._requestAnimFrame(),this.lastBreath=Date.now())}async _requestAnimFrame(){return document.hidden?new Promise((e=>setTimeout(e))):new Promise((e=>requestAnimationFrame(e)))}static run(){const e=new RocketLazyLoadScripts;e._addUserInteractionListener(e)}}RocketLazyLoadScripts.run();</script>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="pingback" href="https://escolaeducacao.com.br/xmlrpc.php" />
+<meta name='robots' content='max-image-preview:large' />
+
+<title>A palavra “saudade” só existe mesmo na língua portuguesa?</title><link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Roboto%3A400%2C500%7CRubik%3A400%2C500%2C700&#038;display=swap" /><style id="" media="print" onload="this.media='all'">@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/rubik/v23/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4iFV0Uw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/rubik/v23/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYiFV0Uw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/rubik/v23/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-FV0Uw.ttf) format('truetype');
+}
+</style><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto%3A400%2C500%7CRubik%3A400%2C500%2C700&#038;display=swap" /></noscript><style id="rocket-critical-css">h1{overflow-wrap:break-word}ul{overflow-wrap:break-word}p{overflow-wrap:break-word}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}article,header,main,nav,section{display:block}a{background-color:transparent}b{font-weight:700}h1{font-size:2em;margin:.67em 0}img{border:0}svg:not(:root){overflow:hidden}button,input{color:inherit;font:inherit;margin:0}button{overflow:visible}button{text-transform:none}button,input[type=submit]{-webkit-appearance:button}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}input[type=search]{-webkit-appearance:textfield;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box}input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration{-webkit-appearance:none}*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}:after,:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}html{font-size:10px}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857143;color:#333;background-color:#fff}button,input{font-family:inherit;font-size:inherit;line-height:inherit}a{color:#444;text-decoration:none}img{vertical-align:middle}.h1,h1{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}.h1,h1{margin-top:20px;margin-bottom:10px}.h1,h1{font-size:36px}p{margin:0 0 10px}ul{margin-top:0;margin-bottom:10px}ul ul{margin-bottom:0}.container{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.row{margin-left:-15px;margin-right:-15px}.col-sm-10{position:relative;min-height:1px;padding-left:15px;padding-right:15px}@media (min-width:768px){.col-sm-10{float:left}.col-sm-10{width:83.33333333%}.col-sm-push-1{left:8.33333333%}}input[type=search]{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}input[type=search]{-webkit-appearance:none}.btn{display:inline-block;margin-bottom:0;font-weight:400;text-align:center;vertical-align:middle;touch-action:manipulation;background-image:none;border:1px solid transparent;white-space:nowrap;padding:6px 12px;font-size:14px;line-height:1.42857143;border-radius:4px}.clearfix:after,.clearfix:before,.container:after,.container:before,.row:after,.row:before{content:" ";display:table}.clearfix:after,.container:after,.row:after{clear:both}@-ms-viewport{width:device-width}@media (max-width:767px){.hidden-xs{display:none!important}}:root{--publisher-system-font:-apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen-Sans","Ubuntu","Cantarell","Helvetica Neue",sans-serif;--publisher-primary-color:#0080ce;--publisher-menu-height:calc(1px - 1px);--wp-adminbar-height:calc(1px - 1px)}body{font:14px/1.7 Lato,sans-serif;color:#5f6569;-webkit-text-size-adjust:100%;text-rendering:optimizeLegibility;font-size-adjust:auto}.site-header .site-branding .logo,h1{color:#2d2d2d}h1{line-height:1.3}h1{font-size:34px}.container,.content-wrap{max-width:var(--publisher-site-width);width:100%}@media only screen and (max-width:668px){.layout-1-col{margin-top:20px!important}}body.page-layout-2-col{--publisher-site-width:var(--publisher-site-width-2-col);--publisher-site-width-content:var(--publisher-site-width-2-col-content-col);--publisher-site-width-primary:var(--publisher-site-width-2-col-primary-col);--publisher-site-width-secondary:0}a{text-decoration:none}input[type=search]{height:36px;width:100%;padding:6px 12px;font-size:14px;line-height:1.42857143;color:#555;background-color:#fff;background-image:none;border:1px solid #ccc;border-radius:0;-webkit-box-shadow:inset 0 1px 1px rgba(0,0,0,.075);box-shadow:inset 0 1px 1px rgba(0,0,0,.075)}.btn,button,input[type=submit]{border:none;color:#fff;border-radius:0;outline:0;height:auto;line-height:1.4;padding:8px 12px;vertical-align:middle;text-transform:uppercase!important;max-width:100%;white-space:normal}.entry-content .btn{color:#fff}ul.menu{padding:0;margin:0;list-style:none}ul.menu a{text-decoration:none}ul.menu ul{list-style:none;padding:0;margin:0}ul.menu>li{float:left}ul.menu li>a{position:relative}ul.menu li.menu-item-has-children>a:after{display:inline-block;font-family:FontAwesome;font-style:normal;font-weight:400;line-height:26px;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;content:'\f107';margin-left:6px;font-size:13px}ul.menu .mega-menu{z-index:-1;display:none;visibility:hidden}.site-header .content-wrap{overflow:visible!important}.site-header .site-branding{margin:0}.site-header .site-branding .logo{margin:0;line-height:0;font-size:50px}.site-header .site-branding .logo img{max-width:100%}.site-header .site-branding .logo .site-title{display:none}.site-header .menu-action-buttons{position:absolute;top:0;bottom:0;right:0;width:35px;z-index:99}.site-header .menu-action-buttons.width-1{width:40px}.site-header .menu-action-buttons>div{min-width:37px;display:inline-block;float:right;height:100%;text-align:right;position:relative}.site-header .menu-action-buttons>div.close{opacity:1}.site-header .menu-action-buttons .search-container{z-index:1}.site-header .search-container .search-handler{position:absolute;right:3px;top:50%;margin-top:-15px;z-index:100;width:37px;height:26px;line-height:26px;text-align:center;display:inline-block;font-size:15px;color:#434343}.site-header .search-container .search-box{display:none;position:absolute;right:0;top:0;padding:0 36px 0 0;z-index:99;height:100%;width:100%;text-align:center}.site-header .search-container .search-box .search-form .search-field{border:none;width:100%;height:45px;background:0 0;line-height:45px;font-size:14px;color:#434343}.site-header .search-container .search-box .search-form input[type=submit]{display:none}.main-menu>li{margin-right:10px}.main-menu>li>a{line-height:48px;display:inline-block;padding:0 12px}.main-menu.menu>li>a:before{content:'';display:block;width:20%;height:3px;position:absolute;bottom:0;left:50%;transform:translateX(-50%);visibility:hidden}.main-menu.menu>li.current-menu-parent>a:before{width:100%;visibility:visible}.top-menu>li{line-height:25px;margin-right:15px}.top-menu.menu li{position:relative}.top-menu.menu li>a{color:#707070}.menu .mega-menu{width:100%;position:absolute;left:0;top:102%;top:calc(100% + 1px);z-index:100;background-color:#fff;-wbkit-box-shadow:0 8px 14px rgba(0,0,0,.2);-moz-box-shadow:0 8px 14px rgba(0,0,0,.2);box-shadow:0 8px 14px rgba(0,0,0,.2);text-align:left}.mega-menu.mega-type-link-list{list-style:none;padding:0}.mega-menu.mega-type-link-list .mega-links{list-style:none;padding:0;margin:0;text-align:left}.mega-menu.mega-type-link-list .mega-links>li{display:inline-block;padding:10px 12px}.mega-menu.mega-type-link-list .mega-links>.menu-item{margin-bottom:0}.menu .mega-menu{top:107%;top:calc(100% + 3px)}.site-header.header-style-8 .search-container .search-handler{margin-top:-14px}.site-header.header-style-8 .main-menu.menu{height:79px;overflow-y:hidden;margin-bottom:-1px}.site-header.header-style-8 .main-menu.menu{height:67px}.site-header.header-style-8 .main-menu.menu .mega-menu{top:101%;top:calc(100% + 1px)}.site-header.header-style-8 .main-menu-container.menu-actions-btn-width-1{padding-right:40px}.site-header.header-style-8 .menu-action-buttons>div{line-height:66px}.site-header.header-style-8 .search-container .search-box .search-form .search-field{height:66px}.site-header.header-style-8 .header-inner{padding:0;position:relative}.site-header.header-style-8.full-width{border-bottom:1px solid #eee}.site-header.header-style-8 .main-menu.menu>li{float:left;display:inline-block;margin:0 10px 0 0}.site-header.header-style-8 .main-menu.menu>li>a{padding:0 7px}.site-header.header-style-8 .site-branding{width:20%;float:left;padding-right:20px}.site-header.header-style-8 .main-menu-container{width:80%;float:right}.site-header.header-style-8 .main-menu>li>a{line-height:66px}.site-header.header-style-8 .site-branding .logo{line-height:58px;display:table;width:100%}.site-header.header-style-8 .site-branding .logo.img-logo a{display:table-cell;vertical-align:middle;line-height:62px;height:62px;padding:0 10px 0 0;position:relative;z-index:100}.site-header.header-style-8 .site-branding .logo img{vertical-align:middle;margin:0;max-height:100%;display:table-cell;max-width:100%;table-layout:fixed}.site-header.header-style-8 .site-branding .logo,.site-header.header-style-8 .site-branding .logo img{max-height:58px;padding:0}.site-header.header-style-8 .main-menu.menu>li.current-menu-parent>a:before{height:2px;bottom:-1px}.site-header.header-style-8 .main-menu.menu>li.menu-item-has-children>a:after{position:absolute;width:100%;left:0;margin:0;text-align:center;bottom:0;color:rgba(0,0,0,.21)}.site-header.header-style-8.full-width .content-wrap{max-width:100%!important}@media only screen and (max-width:992px){.main-menu>li{margin-right:10px}.site-header.header-style-8 .main-menu.menu>li{margin:0 7px 0 0}.site-header.header-style-8 .main-menu.menu>li>a{padding:0 7px}.main-menu>li>a{padding:0 4px}}.rh-header{display:none;min-width:300px;position:relative}.rh-header .rh-container{background-color:#222}@media only screen and (max-width:700px){body .site-header{display:none}.rh-header{display:block}}.rh-header .menu-container{position:absolute;top:0;right:0}.rh-header .menu-container .menu-handler{color:#fff;width:54px;height:54px;text-align:center;display:inline-block;font-size:18px;background-color:rgba(255,255,255,.05);position:relative;border-left:1px solid rgba(0,0,0,.07);float:right}.rh-header .menu-container .menu-handler .lines{display:inline-block;width:22px;height:2px;background:#ecf0f1;position:relative;margin-top:25.5px}.rh-header .menu-container .menu-handler .lines:after,.rh-header .menu-container .menu-handler .lines:before{display:inline-block;width:22px;height:2px;background:#ecf0f1;position:absolute;left:0;content:''}.rh-header .menu-container .menu-handler .lines:before{top:8px}.rh-header .menu-container .menu-handler .lines:after{top:-8px}.rh-cover .search-form{margin-top:35px;position:relative}.rh-cover .search-form input[type=search]{margin:0;background:rgba(255,255,255,.2);color:#fff;border:none;border-radius:3px;box-shadow:none;float:none;webkit-backface-visibility:hidden;backface-visibility:hidden}.rh-cover .search-form input[type=submit]{content:"\f002";position:absolute;right:0;top:0;display:inline-block;font:normal normal normal 14px/1 FontAwesome;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;color:#fff;font-size:16px;background:0 0!important}.rh-cover .search-form ::-webkit-input-placeholder{color:#fff}.rh-cover .search-form ::-moz-placeholder{color:#fff}.rh-cover .search-form :-ms-input-placeholder{color:#fff}.rh-cover .search-form :-moz-placeholder{color:#fff}.rh-header .logo-container{padding:0 0 0 15px;line-height:54px;height:54px}.rh-header .logo-container.rh-img-logo{font-size:0}.rh-header .logo-container img{max-height:80%;max-width:80%}.rh-header .logo-container a{color:#fff}.rh-cover{position:fixed;top:0;left:-99%;z-index:9999;width:100%;visibility:hidden;overflow:auto;background:#191919;height:101%;height:calc(100% + 1px)}.noscroll{overflow:hidden}@media (max-width:767px){body{background-color:#f3f3f3!important}.main-wrap{background-color:#fff;overflow:auto;margin:auto;width:100%}}.rh-cover:before{height:60px;content:'';width:100%;position:absolute;background-color:#fff;opacity:.08;box-shadow:0 0 32px 0 #000;z-index:-1}.rh-cover .rh-close{width:20px;height:20px;position:absolute;right:25px;display:inline-block;top:21px;z-index:10}.rh-cover .rh-close:after,.rh-cover .rh-close:before{content:'';width:2px;height:18px;position:absolute;left:50%;margin-left:-1px;top:50%;margin-top:-10px;opacity:.65;background:#fff;transform:rotate(45deg);border-radius:5px}.rh-cover .rh-close:after{-webkit-transform:rotate(-45deg);-moz-transform:rotate(-45deg);transform:rotate(-45deg)}.rh-cover .rh-panel{padding:27px;position:absolute;top:0;left:0;width:100%}.rh-cover .rh-p-h{line-height:60px;margin:-27px -27px 20px;padding:0 23px;font-size:14px;color:#fff;height:60px;position:relative}.rh-header.light .rh-container{background:#fff;border-bottom:1px solid #e5e5e5}.rh-header.light .logo-container a{color:#2c2c2c}.rh-header.light .menu-container .menu-handler .lines,.rh-header.light .menu-container .menu-handler .lines:after,.rh-header.light .menu-container .menu-handler .lines:before{background:#2c2c2c}.topbar{height:35px;overflow:hidden}.topbar .topbar-inner{padding:4px 0}.topbar.topbar-style-1 .section-menu{height:26px}.topbar.topbar-style-1 .section-menu{max-width:80%}.topbar.topbar-style-1 .section-menu:first-child:last-child{max-width:100%}.site-header.full-width .topbar{border-bottom:1px solid #efefef;border-bottom:1px solid rgba(0,0,0,.07)}body{background:#fff;text-decoration-skip:ink}.main-wrap{margin:0 auto}.content-wrap,.main-wrap,main.content-container{position:relative}.main-wrap .container{width:100%}body.full-width .main-wrap{width:100%}@media only screen and (max-width:480px){.col-sm-10{padding-left:15px!important;padding-right:15px!important}}.content-wrap{margin:0 auto;padding:0;min-width:300px}.container{width:100%}.term-badges .term-badge{display:inline-block;line-height:0}.term-badges a{color:#8b8b8b;padding:0 0 4px}.term-badges.floated a{padding:2px 7px;color:#fff;margin-right:3px;margin-bottom:3px;display:inline-block;line-height:1.7;max-width:150px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;vertical-align:top}.term-badges.floated{position:absolute;top:0;left:0;z-index:1;line-height:0;font-size:0}.search-field::-ms-clear{display:none}.search-form input[type=search]{float:left;height:38px;line-height:38px;margin-right:8px;font-size:12px;box-shadow:none}.search-form input[type=submit]{height:38px}.post-meta{padding-top:2px;font-style:inherit}.post-meta .time{margin-right:10px}.post-meta>span:last-child{margin-right:0!important}.container{margin-right:auto!important;margin-left:auto!important}.mega-links>.menu-item{margin-bottom:30px}.mega-links>.menu-item{min-height:0}.single-post-content .term-badges.floated a{max-width:auto}.entry-content{font-size:14px;line-height:1.6;color:#4a4a4a;padding-bottom:20px}.entry-content p{margin-bottom:17px}.continue-reading-container{display:none}@media only screen and (max-width:700px){.continue-reading-content.close{overflow:hidden;position:relative;margin-bottom:10px;max-height:170px;width:100%}.continue-reading-content.close:after{content:' ';position:absolute;width:100%;height:100%;bottom:0;left:0;background:linear-gradient(transparent 35%,#fff);z-index:99}.continue-reading-container{display:block;text-align:center;position:relative;z-index:300;bottom:25px;border-bottom:1px solid #e7e7e7;padding-bottom:20px;letter-spacing:1.4px}.continue-reading-btn.btn{color:#fff;line-height:42px;height:auto;padding:0 42px;box-shadow:0 3px 12px 0 rgba(0,0,0,.37);border-radius:23px}}.back-top{color:#fff;width:40px;height:40px;position:fixed;bottom:10px;right:10px;text-align:center;line-height:42px;z-index:9999;opacity:0;visibility:hidden;font-size:16px;-webkit-box-shadow:0 1px 2px 0 rgba(0,0,0,.09);-moz-box-shadow:0 1px 2px 0 rgba(0,0,0,.09);box-shadow:0 1px 2px 0 rgba(0,0,0,.09)}.search-container{position:relative}@media only screen and (max-width:1000px){.container{width:100%}.content-wrap{padding:0}}@media only screen and (max-width:668px){body{padding:0}}.bs-irp{position:relative;width:320px;margin:10px 0 15px 0;border-color:rgba(0,0,0,.06);border-style:solid;border-width:0;border-bottom-width:1px;padding-bottom:20px}.bs-irp.left{float:left;margin-right:30px}.bs-irp.bs-irp-thumbnail-1-full{width:100%;margin-left:0;margin-right:0;float:none;padding-bottom:0;clear:both;border-top-width:1px;padding-top:3px}@media only screen and (max-width:530px){.bs-irp.left{float:none;width:100%;max-width:100%;margin:21px 0 21px 0}}.post-meta.single-post-meta,.post-meta.single-post-meta a{color:#3a3a3a}.post-meta.single-post-meta .post-author-avatar,.post-meta.single-post-meta .time{float:none;margin:0 12px 0 0;white-space:nowrap;line-height:26px;display:inline-block}.post-meta.single-post-meta>a+span:before{content:' ';display:inline-block;width:9px;margin-right:12px;height:1px;background:rgba(0,0,0,.23);vertical-align:middle}.post-meta.single-post-meta b{color:#4d4d4d;margin-left:2px}.post-meta.single-post-meta .post-author-name{text-transform:capitalize!important;max-width:150px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;display:inline-block;vertical-align:middle}.post-meta.single-post-meta .post-author-a,.post-meta.single-post-meta .time{color:rgba(0,0,0,.44)}.single-post-title{line-height:1.3}.single-featured{text-align:center;display:block;margin:0 0 20px;line-height:0;position:relative}.single-post-share{list-style:none;padding:0;font-size:0}.single-post-share.top-share{margin-bottom:10px}.single-post-share .post-share-btn{background:#fff;border:1px solid #e2e2e2;line-height:30px;display:inline-block;padding:0 5px;border-radius:30px;font-size:12px;color:#4d4d4d;margin-right:8px;margin-bottom:9px;vertical-align:top}.single-post-share .post-share-btn .bf-icon,.single-post-share .post-share-btn .text{line-height:30px;vertical-align:top}.single-post-share .post-share-btn .text{font-size:12px}.single-post-share .post-share-btn .bf-icon{font-size:15px;margin:0 3px}.single-post-share .share-handler{float:left;position:relative}.share-handler-wrap{overflow:hidden;height:33px}.share-handler-wrap.bs-pretty-tabs-initialized{height:auto!important}.post-share .post-share-btn-group{overflow:hidden;float:right;margin-bottom:10px}.single-post-share .social-item{margin:0 6px 4px 0;float:left}.single-post-share .social-item a{line-height:30px;min-width:30px;display:inline-block;padding:0 0;border-radius:30px;font-size:14px;color:#fff;overflow:hidden;text-align:center}.single-post-share .social-item a .bf-icon{line-height:30px;vertical-align:top;color:#fff;display:inline-block}.single-post-share .social-item a .bf-icon{font-size:16px}.single-post-share .social-item.whatsapp .bf-icon{font-size:16px;font-weight:700}.single-post-share .social-item.facebook a{background-color:#2d5f9a;color:#133d6d}.single-post-share .social-item.twitter a{background-color:#53c7ff;color:#2e86b1}.single-post-share .social-item.whatsapp a{background-color:#00e676;color:#02a252}.single-post-share .social-item .bf-icon{vertical-align:middle}.single-post-share .social-item.whatsapp{display:none}@media only screen and (max-width:780px){.single-post-share .social-item.whatsapp{display:inline-block}}@media only screen and (max-width:540px){.post-share .post-share-btn-group{float:left}.share-handler-wrap{clear:both}}@media only screen and (max-width:420px){.single-post-share .post-share-btn{margin-bottom:4px!important}}.post-share .share-handler:after,.post-share .share-handler:before{border:solid 6px transparent;content:" ";height:0;width:0;position:absolute;top:50%;right:-12px;border-left-color:#d7d7d7;margin-top:-6px}.post-share .share-handler:after{border:solid 5px transparent;border-left-color:#fff;right:-10px;margin-top:-5px}.post-share .post-share-btn,.post-share .social-item a{border-radius:3px;padding:0 5px}.post-share.style-13 .post-share-btn,.post-share.style-13 a,.post-share.style-13 span{border-radius:0!important}.post-share.style-13 .post-share-btn,.post-share.style-13 .social-item a{padding:0 10px;min-width:44px;min-height:44px;line-height:44px!important}.post-share.style-13 .post-share-btn>*,.post-share.style-13 .social-item i{line-height:44px!important}.post-share.style-13 .social-item .icon i{font-size:22px}.post-share.style-13 .post-share-btn{min-height:42px;line-height:42px!important}.post-share.style-13 .post-share-btn>*{line-height:42px!important}.single-post-share .social-item{margin-bottom:8px}.post-template-13 .single-container{padding-right:40px;padding-left:40px}.post-tp-13-header{padding:0}.post-tp-13-header .post-meta-wrap{margin:15px 0;padding:0;text-align:center}.post-tp-13-header .post-meta-wrap .post-meta{padding:0}.post-tp-13-header .single-featured{margin:0 -40px 20px}.post-tp-13-header .term-badges{position:relative;text-align:center;top:auto;left:auto;right:auto;margin-bottom:15px}.post-tp-13-header .single-post-title{margin:0 0 15px;text-align:center}.post-tp-13-header .single-post-share{margin:15px 0 10px;text-align:center}.post-tp-13-header .single-post-share .share-handler-wrap{display:inline-block}@media only screen and (max-width:780px){.post-template-13 .single-container{padding-right:0;padding-left:0}.post-tp-13-header .single-featured{margin:0 0 20px}}:root{--publisher-spacing:20;--publisher-spacing-half:calc(var(--publisher-spacing) / 2);--publisher-spacing-80-percent:calc(var(--publisher-spacing) * 0.83);--publisher-spacing-60-percent:calc(var(--publisher-spacing) * 0.66)}.col-sm-10,.container{padding-left:calc(var(--publisher-spacing-half) * 1px);padding-right:calc(var(--publisher-spacing-half) * 1px)}.row{margin-left:calc(var(--publisher-spacing-half) * -1px);margin-right:calc(var(--publisher-spacing-half) * -1px)}.single-container{margin-bottom:calc(var(--publisher-spacing) * 1px)}.layout-1-col{margin-top:calc(var(--publisher-spacing-80-percent) * 1px)}.main-section{margin-bottom:calc(var(--publisher-spacing-half) * 1px)}.topbar{height:32px!important}.topbar .topbar-inner{padding:0!important}.topbar.topbar-style-1 .section-menu{height:32px!important;position:relative}.topbar .top-menu>li{line-height:32px!important}.entry-content p,.post-meta,.site-header .topbar,.term-badges,h1{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}a{text-decoration:none}.single-container{margin-bottom:38px!important}.term-badges.floated a{padding:3px 7px 1px}.single-post-content .term-badges a{border-radius:3px}.back-top{border-radius:3px}@media screen and (max-width:600px){.rh-header .logo-container img{vertical-align:bottom!important}}</style>
+<meta name="description" content="Clique e entenda se, como dizem por aí, a palavra &quot;saudade&quot; é mesmo exclusiva da língua portuguesa." />
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<link rel="canonical" href="https://escolaeducacao.com.br/seria-a-saudade-exclusiva-dos-falantes-da-lingua-portuguesa/" />
+<meta property="og:locale" content="pt_BR" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="A palavra “saudade” só existe mesmo na língua portuguesa?" />
+<meta property="og:description" content="Clique e entenda se, como dizem por aí, a palavra &quot;saudade&quot; é mesmo exclusiva da língua portuguesa." />
+<meta property="og:url" content="https://escolaeducacao.com.br/seria-a-saudade-exclusiva-dos-falantes-da-lingua-portuguesa/" />
+<meta property="og:site_name" content="Escola Educação" />
+<meta property="article:publisher" content="https://www.facebook.com/escolaeducacaobrasil" />
+<meta property="article:published_time" content="2022-06-21T16:19:30+00:00" />
+<meta property="article:modified_time" content="2022-06-21T14:41:46+00:00" />
+<meta property="og:image" content="https://escolaeducacao.com.br/wp-content/uploads/2022/06/seria-a-saudade-exclusiva-dos-falantes-da-lingua-portuguesa.jpg" />
+<meta property="og:image:width" content="1920" />
+<meta property="og:image:height" content="1080" />
+<meta name="twitter:card" content="summary_large_image" />
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://escolaeducacao.com.br/#website","url":"https://escolaeducacao.com.br/","name":"Escola Educa\u00e7\u00e3o","description":"Escola Edu\u00e7\u00e3o \u00e9 um portal de conte\u00fado voltado ao compartilhamento de informa\u00e7\u00e3o como: cursos, livros, dicas, dentre outros.","potentialAction":[{"@type":"SearchAction","target":"https://escolaeducacao.com.br/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"pt-BR"},{"@type":"ImageObject","@id":"https://escolaeducacao.com.br/seria-a-saudade-exclusiva-dos-falantes-da-lingua-portuguesa/#primaryimage","inLanguage":"pt-BR","url":"https://escolaeducacao.com.br/wp-content/uploads/2022/06/seria-a-saudade-exclusiva-dos-falantes-da-lingua-portuguesa.jpg","width":1920,"height":1080,"caption":"Foto: Canva."},{"@type":"WebPage","@id":"https://escolaeducacao.com.br/seria-a-saudade-exclusiva-dos-falantes-da-lingua-portuguesa/#webpage","url":"https://escolaeducacao.com.br/seria-a-saudade-exclusiva-dos-falantes-da-lingua-portuguesa/","name":"A palavra \u201csaudade\u201d s\u00f3 existe mesmo na l\u00edngua portuguesa?","isPartOf":{"@id":"https://escolaeducacao.com.br/#website"},"primaryImageOfPage":{"@id":"https://escolaeducacao.com.br/seria-a-saudade-exclusiva-dos-falantes-da-lingua-portuguesa/#primaryimage"},"datePublished":"2022-06-21T16:19:30+00:00","dateModified":"2022-06-21T14:41:46+00:00","author":{"@id":"https://escolaeducacao.com.br/#/schema/person/7977fbe041bd8548c78e2d80d22e068b"},"description":"Clique e entenda se, como dizem por a\u00ed, a palavra \"saudade\" \u00e9 mesmo exclusiva da l\u00edngua portuguesa.","inLanguage":"pt-BR","potentialAction":[{"@type":"ReadAction","target":["https://escolaeducacao.com.br/seria-a-saudade-exclusiva-dos-falantes-da-lingua-portuguesa/"]}]},{"@type":"Person","@id":"https://escolaeducacao.com.br/#/schema/person/7977fbe041bd8548c78e2d80d22e068b","name":"Ag\u00eancia Texty","image":{"@type":"ImageObject","@id":"https://escolaeducacao.com.br/#personlogo","inLanguage":"pt-BR","url":"https://secure.gravatar.com/avatar/2c9e019a875ba552fa182110d750240d?s=96&d=mm&r=g","caption":"Ag\u00eancia Texty"}}]}</script>
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//cdn.pn.vg' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Feed para Escola Educação &raquo;" href="https://escolaeducacao.com.br/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Escola Educação &raquo;" href="https://escolaeducacao.com.br/comments/feed/" />
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link data-minify="1" rel='preload' href='https://escolaeducacao.com.br/wp-content/cache/min/1/wp-content/plugins/feedburner-form/control/fbstyle.css?ver=1670864133' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')" type='text/css' media='all' />
+<link rel='preload' href='https://escolaeducacao.com.br/wp-includes/css/dist/block-library/style.min.css?ver=5.9.2' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')" type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link data-minify="1" rel='preload' href='https://escolaeducacao.com.br/wp-content/cache/min/1/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=1670864133' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')" type='text/css' media='all' />
+<link rel='preload' href='https://escolaeducacao.com.br/wp-content/themes/publisher/includes/libs/better-framework/assets/css/slick.min.css?ver=3.15.0' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')" type='text/css' media='all' />
+<link rel='preload' href='https://escolaeducacao.com.br/wp-content/plugins/better-wp-embedder/assets/css/bwpe.min.css?ver=1.1.0' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')" type='text/css' media='all' />
+<link data-minify="1" rel='preload' href='https://escolaeducacao.com.br/wp-content/cache/min/1/wp-content/themes/publisher/includes/libs/better-framework/assets/css/bs-icons.css?ver=1670864133' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')" type='text/css' media='all' />
+<link rel='preload' href='https://escolaeducacao.com.br/wp-content/plugins/blockquote-pack-pro/css/blockquote-pack.min.css?ver=1.3.3' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')" type='text/css' media='all' />
+<link rel='preload' href='https://escolaeducacao.com.br/wp-content/plugins/smart-lists-pack-pro/css/smart-lists-pack.min.css?ver=1.4.2' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')" type='text/css' media='all' />
+<link rel='preload' href='https://escolaeducacao.com.br/wp-content/themes/publisher/includes/libs/better-framework/assets/css/pretty-photo.min.css?ver=3.15.0' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')" type='text/css' media='all' />
+<link rel='preload' href='https://escolaeducacao.com.br/wp-content/themes/publisher/css/theme-libs.min.css?ver=7.11.0' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')" type='text/css' media='all' />
+<link data-minify="1" rel='preload' href='https://escolaeducacao.com.br/wp-content/cache/min/1/wp-content/themes/publisher/includes/libs/better-framework/assets/css/font-awesome.min.css?ver=1670864133' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')" type='text/css' media='all' />
+<link rel='preload' href='https://escolaeducacao.com.br/wp-content/themes/publisher/style-7.11.0.min.css?ver=7.11.0' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')" type='text/css' media='all' />
+<link rel='preload' href='https://escolaeducacao.com.br/wp-content/themes/publisher-child/style.css?ver=1.0.0' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')" type='text/css' media='all' />
+<link rel='preload' href='https://escolaeducacao.com.br/wp-content/themes/publisher/includes/styles/seo-news/style.min.css?ver=7.11.0' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')" type='text/css' media='all' />
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://escolaeducacao.com.br/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js' defer></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://escolaeducacao.com.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js' defer></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://escolaeducacao.com.br/wp-content/themes/publisher/includes/libs/better-framework/assets/js/html5shiv.min.js?ver=3.15.0' id='bf-html5shiv-js'></script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://escolaeducacao.com.br/wp-content/themes/publisher/includes/libs/better-framework/assets/js/respond.min.js?ver=3.15.0' id='bf-respond-js'></script>
+<![endif]-->
+<link rel="https://api.w.org/" href="https://escolaeducacao.com.br/wp-json/" /><link rel="alternate" type="application/json" href="https://escolaeducacao.com.br/wp-json/wp/v2/posts/129947" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://escolaeducacao.com.br/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://escolaeducacao.com.br/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 5.9.2" />
+<link rel='shortlink' href='https://escolaeducacao.com.br/?p=129947' />
+<link rel="alternate" type="application/json+oembed" href="https://escolaeducacao.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fescolaeducacao.com.br%2Fseria-a-saudade-exclusiva-dos-falantes-da-lingua-portuguesa%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://escolaeducacao.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fescolaeducacao.com.br%2Fseria-a-saudade-exclusiva-dos-falantes-da-lingua-portuguesa%2F&#038;format=xml" />
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" async defer data-pin-color="" data-pin-hover="true" src="https://escolaeducacao.com.br/wp-content/cache/min/1/wp-content/plugins/pinterest-pin-it-button-on-image-hover-and-post/js/pinit.js?ver=1670864133"></script><meta name="facebook-domain-verification" content="762zxt44qe1hbatrfg1r9ac1fmko8g" />
+<script type="rocketlazyloadscript" async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script type="rocketlazyloadscript">
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-5093303690767088",
+          enable_page_level_ads: true
+     });
+</script>
+<script type="rocketlazyloadscript" src="//cdn.pn.vg/sites/8e50e046-c913-4cf0-81ea-d3f5c0953ca4.js" async></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/vs3digital-escolaeducacao/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+</script>
+<link rel="shortcut icon" href="https://escolaeducacao.com.br/wp-content/uploads/2018/03/favicon-16x16.png"> <link rel="apple-touch-icon" href="https://escolaeducacao.com.br/wp-content/uploads/2018/03/favicon-57x57.png"> <link rel="apple-touch-icon" sizes="114x114" href="https://escolaeducacao.com.br/wp-content/uploads/2018/03/favicon-114x114.png"> <link rel="apple-touch-icon" sizes="72x72" href="https://escolaeducacao.com.br/wp-content/uploads/2018/03/favicon-72x72.png"> <link rel="apple-touch-icon" sizes="144x144" href="https://escolaeducacao.com.br/wp-content/uploads/2018/03/favicon-144x144.png"><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress." />
+<script type="application/ld+json">{
+    "@context": "http://schema.org/",
+    "@type": "Organization",
+    "@id": "#organization",
+    "logo": {
+        "@type": "ImageObject",
+        "url": "https://escolaeducacao.com.br/wp-content/uploads/2018/03/logo-escolaeducacao-mobile.png"
+    },
+    "url": "https://escolaeducacao.com.br/",
+    "name": "Escola Educa\u00e7\u00e3o",
+    "description": "Escola Edu\u00e7\u00e3o \u00e9 um portal de conte\u00fado voltado ao compartilhamento de informa\u00e7\u00e3o como: cursos, livros, dicas, dentre outros."
+}</script>
+<script type="application/ld+json">{
+    "@context": "http://schema.org/",
+    "@type": "WebSite",
+    "name": "Escola Educa\u00e7\u00e3o",
+    "alternateName": "Escola Edu\u00e7\u00e3o \u00e9 um portal de conte\u00fado voltado ao compartilhamento de informa\u00e7\u00e3o como: cursos, livros, dicas, dentre outros.",
+    "url": "https://escolaeducacao.com.br/"
+}</script>
+<script type="application/ld+json">{
+    "@context": "http://schema.org/",
+    "@type": "BlogPosting",
+    "headline": "Seria a palavra \"saudade\" exclusiva dos falantes da l\u00edngua portuguesa?",
+    "description": "Saudade: sentimento muito conhecido e muito dif\u00edcil de ser descrito. Em muitas outras l\u00ednguas, s\u00e3o diversas as formas de descrever e expressar a saudade, por\u00e9m, a l\u00edngua portuguesa aparentemente veio a ser a \u00fanica capaz de traduzir esse sentimento pa",
+    "datePublished": "2022-06-21",
+    "dateModified": "2022-06-21",
+    "author": {
+        "@type": "Person",
+        "@id": "#person-AgnciaTexty",
+        "name": "Ag\u00eancia Texty"
+    },
+    "image": "https://escolaeducacao.com.br/wp-content/uploads/2022/06/seria-a-saudade-exclusiva-dos-falantes-da-lingua-portuguesa.jpg",
+    "interactionStatistic": [
+        {
+            "@type": "InteractionCounter",
+            "interactionType": "http://schema.org/CommentAction",
+            "userInteractionCount": "0"
+        }
+    ],
+    "publisher": {
+        "@id": "#organization"
+    },
+    "mainEntityOfPage": "https://escolaeducacao.com.br/seria-a-saudade-exclusiva-dos-falantes-da-lingua-portuguesa/"
+}</script>
+<style type='text/css' media='screen'>/*  Panel Options Custom CSS  */
+.bulir.bulir-before-header,.bulir.bulir-before-header:before{background-color:#f8f8f8}.bulir.bulir-before-header{padding-top:30px !important;padding-bottom:30px !important}.bulir.bulir-after-footer{padding-top:0px !important;padding-bottom:0px !important}:root{--publisher-site-width-2-col:1130px;--publisher-site-width-1-col:1130px;--publisher-site-width-2-col-content-col:69%;--publisher-site-width-2-col-primary-col:31%}@media (max-width: 1220px){.page-layout-1-col .bs-sks,.page-layout-2-col .bs-sks{display:none !important}}:root{--publisher-site-width-3-col:1130px;--publisher-site-width-3-col-content-col:52%;--publisher-site-width-3-col-primary-col:31%;--publisher-site-width-3-col-secondary-col:17%}@media (max-width: 1220px){.page-layout-3-col .bs-sks{display:none !important}}:root{--publisher-spacing:50}:root{--publisher-primary-color:#4285f4}.main-bg-color,.main-menu.menu .sub-menu li.current-menu-item:hover > a:hover,.main-menu.menu .better-custom-badge,.off-canvas-menu .menu .better-custom-badge,ul.sub-menu.bs-pretty-tabs-elements .mega-menu.mega-type-link .mega-links > li:hover > a,.widget.widget_nav_menu .menu .better-custom-badge,.widget.widget_nav_menu ul.menu li > a:hover,.widget.widget_nav_menu ul.menu li.current-menu-item > a,.rh-header .menu-container .resp-menu .better-custom-badge,.bs-popular-categories .bs-popular-term-item:hover .term-count,.widget.widget_tag_cloud .tagcloud a:hover,span.dropcap.dropcap-square,span.dropcap.dropcap-circle,.better-control-nav li a.better-active,.better-control-nav li:hover a,.main-menu.menu > li:hover > a:before,.main-menu.menu > li.current-menu-parent > a:before,.main-menu.menu > li.current-menu-item > a:before,.main-slider .better-control-nav li a.better-active,.main-slider .better-control-nav li:hover a,.site-footer.color-scheme-dark .footer-widgets .widget.widget_tag_cloud .tagcloud a:hover,.site-footer.color-scheme-dark .footer-widgets .widget.widget_nav_menu ul.menu li a:hover,.entry-terms.via a:hover,.entry-terms.source a:hover,.entry-terms.post-tags a:hover,.comment-respond #cancel-comment-reply-link,.better-newsticker .heading,.better-newsticker .control-nav span:hover,.listing-item-text-1:hover .term-badges.floated .term-badge a,.term-badges.floated a,.archive-title .term-badges span.term-badge a:hover,.post-tp-1-header .term-badges a:hover,.archive-title .term-badges a:hover,.listing-item-tb-2:hover .term-badges.floated .term-badge a,.btn-bs-pagination:hover, .btn-bs-pagination.hover, .btn-bs-pagination.bs-pagination-in-loading,.bs-slider-dots .bs-slider-active > .bts-bs-dots-btn,.listing-item-classic:hover a.read-more,.bs-loading > div,.pagination.bs-links-pagination a:hover,.footer-widgets .bs-popular-categories .bs-popular-term-item:hover .term-count,.footer-widgets .widget .better-control-nav li a:hover,.footer-widgets .widget .better-control-nav li a.better-active,.bs-slider-2-item .content-container a.read-more:hover,.bs-slider-3-item .content-container a.read-more:hover,.main-menu.menu .sub-menu li.current-menu-item:hover > a,.main-menu.menu .sub-menu > li:hover > a,.bs-slider-2-item .term-badges.floated .term-badge a,.bs-slider-3-item .term-badges.floated .term-badge a,.listing-item-blog:hover a.read-more,.back-top,.site-header .shop-cart-container .cart-handler .cart-count,.site-header .shop-cart-container .cart-box:after,.single-attachment-content .return-to:hover .fa,.topbar .topbar-date,.ajax-search-results:after,.better-gallery .gallery-title .prev:hover,.better-gallery .gallery-title .next:hover,.comments-template-multiple .nav-tabs .active a:after,.comments-template-multiple .active .comments-count,.off-canvas-inner:after,.more-stories:before,.bs-push-noti .bs-push-noti-wrapper-icon,.post-count-badge.pcb-t1.pcb-s1,.bs-fpe.bs-fpe-t2 thead,.post-tp-1-header .term-badges a,.pagination.bs-numbered-pagination .current,.pagination.bs-numbered-pagination .wp-pagenavi a:hover,.pagination.bs-numbered-pagination a.page-numbers:hover,.bs-subscribe-newsletter .section-heading.sh-t1 .h-text:after,.widget_bs-subscribe-newsletter .section-heading.sh-t1 .h-text:after,.bs-about .about-icons-list .about-icon-item a {background-color:#4285f4 !important}.bs-theme button,.bs-theme .btn,.bs-theme html input[type="button"],.bs-theme input[type="reset"],.bs-theme input[type="submit"],.bs-theme input[type="button"],.bs-theme .btn:focus,.bs-theme .btn:hover,.bs-theme button:focus,.bs-theme button:hover,.bs-theme html input[type="button"]:focus,.bs-theme html input[type="button"]:hover,.bs-theme input[type="reset"]:focus,.bs-theme input[type="reset"]:hover,.bs-theme input[type="submit"]:focus,.bs-theme input[type="submit"]:hover,.bs-theme input[type="button"]:focus,.bs-theme input[type="button"]:hover{background-color:#4285f4}.main-color,.screen-reader-text:hover,.screen-reader-text:active,.screen-reader-text:focus,.widget.widget_nav_menu .menu .better-custom-badge,.widget.widget_recent_comments a:hover,.bs-popular-categories .bs-popular-term-item,.main-menu.menu .sub-menu li.current-menu-item > a,.bs-about .about-link a,.comment-list .comment-footer .comment-reply-link:hover,.comment-list li.bypostauthor > article > .comment-meta .comment-author a,.comment-list li.bypostauthor > article > .comment-meta .comment-author,.comment-list .comment-footer .comment-edit-link:hover,.comment-respond #cancel-comment-reply-link,span.dropcap.dropcap-square-outline,span.dropcap.dropcap-circle-outline,ul.bs-shortcode-list li:before,a:hover,.post-meta a:hover,.site-header .top-menu.menu > li:hover > a,.site-header .top-menu.menu .sub-menu > li:hover > a,.mega-menu.mega-type-link-list .mega-links > li > a:hover,.mega-menu.mega-type-link-list .mega-links > li:hover > a,.listing-item .post-footer .post-share:hover .share-handler,.listing-item-classic .title a:hover,.single-post-content > .post-author .pre-head a:hover,.single-post-content a, .single-page-simple-content a,.site-header .search-container:hover .search-handler,.site-header .shop-cart-container.open .cart-handler,.site-header .shop-cart-container.open:hover .cart-handler,.site-footer .copy-2 a:hover,.site-footer .copy-1 a:hover,ul.menu.footer-menu li > a:hover,.rh-header .menu-container .resp-menu li:hover > a,.listing-item-thumbnail:hover .title a,.listing-item-grid:hover .title a,.listing-item-blog:hover .title a,.listing-item-classic:hover .title a,.post-meta a:hover,.listing-item-text-1:hover .title a,.listing-item-text-2:hover .title a,.listing-item-text-3:hover .title a,.listing-item-text-4:hover .title a,.bs-popular-categories .bs-popular-term-item:hover,.main-menu.menu > li:hover > a,.listing-mg-5-item:hover .title,.listing-item-tall:hover > .title,.bs-text a, .wpb_text_column a,.bf-breadcrumb .bf-breadcrumb-item a:hover span,.off-canvas-menu li.current-menu-item>a,.entry-content.off_canvas_footer-info a,.comment-list .comment-content em.needs-approve,.better-newsticker ul.news-list li a:hover,.archive-title .rss-link{color:#4285f4}.footer-widgets .widget a:hover,.bs-listing-modern-grid-listing-5 .listing-mg-5-item:hover .title a:hover,.bs-listing-modern-grid-listing-5 .listing-mg-5-item:hover .title a,.tabbed-grid-posts .tabs-section .active a{color:#4285f4 !important}.bs-theme textarea:focus,.bs-theme input[type="url"]:focus,.bs-theme input[type="search"]:focus,.bs-theme input[type="password"]:focus,.bs-theme input[type="email"]:focus,.bs-theme input[type="number"]:focus,.bs-theme input[type="week"]:focus,.bs-theme input[type="month"]:focus,.bs-theme input[type="time"]:focus,.bs-theme input[type="datetime-local"]:focus,.bs-theme input[type="date"]:focus,.bs-theme input[type="color"]:focus,.bs-theme input[type="text"]:focus,.widget.widget_nav_menu .menu .better-custom-badge:after,.better-gallery .fotorama__thumb-border,span.dropcap.dropcap-square-outline,span.dropcap.dropcap-circle-outline,.comment-respond textarea:focus,.archive-title .term-badges a:hover,.listing-item-text-2:hover .item-inner,.btn-bs-pagination:hover, .btn-bs-pagination.hover, .btn-bs-pagination.bs-pagination-in-loading,.bs-slider-2-item .content-container a.read-more,.bs-slider-3-item .content-container a.read-more,.pagination.bs-links-pagination a:hover,body.active-top-line,.pagination.bs-numbered-pagination .current,.pagination.bs-numbered-pagination .current:hover,.pagination.bs-numbered-pagination .wp-pagenavi a:hover,.pagination.bs-numbered-pagination a.page-numbers:hover{border-color:#4285f4}.main-menu.menu .better-custom-badge:after,.off-canvas-menu .menu .better-custom-badge:after{border-top-color:#4285f4}.better-newsticker .heading:after{border-left-color:#4285f4}::selection{background:#4285f4}::-moz-selection{background:#4285f4}.term-badges.text-badges .term-badge a{color:#4285f4 !important; background-color: transparent !important}.active-top-line .header-style-1.full-width .bs-pinning-block.pinned.main-menu-wrapper,.active-top-line .header-style-1.boxed .bs-pinning-block.pinned .main-menu-container,.active-top-line .header-style-2.full-width .bs-pinning-block.pinned.main-menu-wrapper,.active-top-line .header-style-2.boxed .bs-pinning-block.pinned .main-menu-container,.active-top-line .header-style-3.full-width .bs-pinning-block.pinned.main-menu-wrapper,.active-top-line .header-style-3.boxed .bs-pinning-block.pinned .main-menu-container,.active-top-line .header-style-4.full-width .bs-pinning-block.pinned.main-menu-wrapper,.active-top-line .header-style-4.boxed .bs-pinning-block.pinned .main-menu-container,.active-top-line .header-style-5.full-width .bspw-header-style-5 .bs-pinning-block.pinned,.active-top-line .header-style-5.boxed .bspw-header-style-5 .bs-pinning-block.pinned .header-inner,.active-top-line .header-style-6.full-width .bspw-header-style-6 .bs-pinning-block.pinned,.active-top-line .header-style-6.boxed .bspw-header-style-6 .bs-pinning-block.pinned .header-inner,.active-top-line .header-style-7.full-width .bs-pinning-block.pinned.main-menu-wrapper,.active-top-line .header-style-7.boxed .bs-pinning-block.pinned .main-menu-container,.active-top-line .header-style-8.full-width .bspw-header-style-8 .bs-pinning-block.pinned,.active-top-line .header-style-8.boxed .bspw-header-style-8 .bs-pinning-block.pinned .header-inner{border-top:3px solid #4285f4}.better-gcs-wrapper .gsc-result .gs-title *,.better-gcs-wrapper .gsc-result .gs-title:hover *,.better-gcs-wrapper .gsc-results .gsc-cursor-box .gsc-cursor-current-page,.better-gcs-wrapper .gsc-results .gsc-cursor-box .gsc-cursor-page:hover{color:#4285f4 !important}.better-gcs-wrapper button.gsc-search-button-v2{background-color:#4285f4 !important}.betterstudio-review .verdict .overall,.rating-bar span{background-color:#4285f4}.rating-stars span:before,.betterstudio-review .verdict .page-heading{color:#4285f4}.site-header .top-menu.menu > li > a,.topbar .topbar-sign-in{color:#ffffff}.site-header .top-menu.menu > li:hover > a,.site-header .top-menu.menu .sub-menu > li:hover > a,.topbar .better-newsticker ul.news-list li a,.topbar .topbar-sign-in:hover{color:#ffffff !important}.site-header.full-width .topbar,.site-header.boxed .topbar .topbar-inner{background-color:#4285f4}.site-header.full-width .topbar,.site-header.boxed .topbar .topbar-inner{border-color:#efefef}.topbar .better-social-counter.style-button .social-item .item-icon{color:#ffffff}.topbar .better-social-counter.style-button .social-item:hover .item-icon{color:#ffffff}.topbar .better-social-counter.style-button .social-item .item-icon{background:rgba(255,255,255,0.15)}.topbar .better-social-counter.style-button .social-item:hover .item-icon{background:rgba(255,255,255,0.3)}.site-header.header-style-1.boxed .main-menu-wrapper .main-menu-container,.site-header.header-style-1.full-width .main-menu-wrapper,.site-header.header-style-1 .better-pinning-block.pinned.main-menu-wrapper .main-menu-container{border-bottom-color:#dedede !important}.site-header.header-style-2.boxed .main-menu-wrapper .main-menu-container,.site-header.header-style-2.full-width .main-menu-wrapper,.site-header.header-style-2 .better-pinning-block.pinned.main-menu-wrapper .main-menu-container{border-bottom-color:#dedede !important}.site-header.header-style-3.boxed .main-menu-container,.site-header.full-width.header-style-3 .main-menu-wrapper{border-bottom-color:#dedede !important}.site-header.header-style-4.boxed .main-menu-container, .site-header.full-width.header-style-4 .main-menu-wrapper{border-bottom-color:#dedede !important}.site-header.header-style-5.boxed .header-inner,.site-header.header-style-5.full-width,.site-header.header-style-5.full-width > .bs-pinning-wrapper > .content-wrap.pinned{border-bottom-color:#dedede}.site-header.header-style-6.boxed .header-inner,.site-header.header-style-6.full-width,.site-header.header-style-6.full-width > .bs-pinning-wrapper > .content-wrap.pinned{border-bottom-color:#ecf3f5}.site-header.header-style-7.boxed .main-menu-container, .site-header.full-width.header-style-7 .main-menu-wrapper{border-bottom-color:#dedede !important}.site-header.header-style-8.boxed .header-inner,.site-header.header-style-8.full-width,.site-header.header-style-8.full-width > .bs-pinning-wrapper > .content-wrap.pinned{border-bottom-color:#dedede}.site-header .shop-cart-container .cart-handler,.site-header .search-container .search-handler,.site-header .main-menu > li > a,.site-header .search-container .search-box .search-form .search-field,.site-header.site-header.header-style-6 .main-menu.menu > li > a:after{color:#353535}.site-header .off-canvas-menu-icon .off-canvas-menu-icon-el,.site-header .off-canvas-menu-icon .off-canvas-menu-icon-el:after,.site-header .off-canvas-menu-icon .off-canvas-menu-icon-el:before{background-color:#353535}.site-header .search-container .search-box .search-form .search-field::-webkit-input-placeholder{color:#353535}.site-header .search-container .search-box .search-form .search-field::-moz-placeholder{color:#353535}.site-header .search-container .search-box .search-form .search-field:-ms-input-placeholder{color:#353535}.site-header .search-container .search-box .search-form .search-field:-moz-placeholder{color:#353535}ul.menu.footer-menu li > a,.site-footer .copy-2 a,.site-footer .copy-2,.site-footer .copy-1 a,.site-footer .copy-1{color:#353535}ul.menu.footer-menu li > a:hover,.site-footer .copy-2 a:hover,.site-footer .copy-1 a:hover{color:#000000}.site-footer .footer-widgets,.footer-widgets .section-heading.sh-t4.sh-s5 .h-text:after{background-color:#f3fafd !important}.site-footer .section-heading.sh-t4.sh-s5 .h-text:before{border-top-color:#f3fafd !important}.site-footer .footer-widgets .section-heading.sh-t1 .h-text,.footer-widgets .section-heading.sh-t4.sh-s3 .h-text:after,.footer-widgets .section-heading.sh-t4.sh-s1 .h-text:after,.footer-widgets .section-heading.sh-t3.sh-s8 > .h-text:last-child:first-child:after,.footer-widgets .section-heading.sh-t3.sh-s8 > a:last-child:first-child > .h-text:after,.footer-widgets .section-heading.sh-t3.sh-s8 > .main-link > .h-text:after,.footer-widgets .section-heading.sh-t3.sh-s8 > .h-text:last-child:first-child:before,.footer-widgets .section-heading.sh-t3.sh-s8 > a:last-child:first-child > .h-text:before,.footer-widgets .section-heading.sh-t3.sh-s8 >.main-link > .h-text:before,.footer-widgets .section-heading.sh-t3.sh-s8.bs-pretty-tabs .bs-pretty-tabs-container .bs-pretty-tabs-more.other-link .h-text,.footer-widgets .section-heading.sh-t3.sh-s8 > a > .h-text,.footer-widgets .section-heading.sh-t3.sh-s8 > .h-text,.footer-widgets .section-heading.sh-t6.sh-s7 > .main-link > .h-text:after,.footer-widgets .section-heading.sh-t6.sh-s7 > a:last-child:first-child > .h-text:after,.footer-widgets .section-heading.sh-t6.sh-s7 > .h-text:last-child:first-child:after,.footer-widgets .section-heading.sh-t6.sh-s6 > .main-link > .h-text:after,.footer-widgets .section-heading.sh-t6.sh-s6 > a:last-child:first-child > .h-text:after,.footer-widgets .section-heading.sh-t6.sh-s6 > .h-text:last-child:first-child:after,.footer-widgets .section-heading.sh-t7.sh-s1 > .main-link > .h-text,.footer-widgets .section-heading.sh-t7.sh-s1 > a:last-child:first-child > .h-text,.footer-widgets .section-heading.sh-t7.sh-s1 .h-text{background-color:#f3fafd}.footer-widgets .section-heading.sh-t6.sh-s4 > .main-link > .h-text:after,.footer-widgets .section-heading.sh-t6.sh-s4 > a:last-child:first-child > .h-text:after,.footer-widgets .section-heading.sh-t6.sh-s4 > .h-text:last-child:first-child:after,.footer-widgets .section-heading.sh-t6.sh-s4 > .main-link > .h-text:after,.footer-widgets .section-heading.sh-t6.sh-s4 > a:last-child:first-child > .h-text:after,.footer-widgets .section-heading.sh-t6.sh-s4 > .h-text:last-child:first-child:after,.footer-widgets .section-heading.sh-t6.sh-s4 > .main-link > .h-text:before,.footer-widgets .section-heading.sh-t6.sh-s4 > a:last-child:first-child > .h-text:before,.footer-widgets .section-heading.sh-t6.sh-s4 > .h-text:last-child:first-child:before{border-left-color:#f3fafd}.footer-widgets .section-heading.sh-t6.sh-s4 > .main-link > .h-text:after,.footer-widgets .section-heading.sh-t6.sh-s4 > a:last-child:first-child > .h-text:after,.footer-widgets .section-heading.sh-t6.sh-s4 > .h-text:last-child:first-child:after,.footer-widgets .section-heading.sh-t6.sh-s4 > .main-link > .h-text:after,.footer-widgets .section-heading.sh-t6.sh-s4 > a:last-child:first-child > .h-text:after,.footer-widgets .section-heading.sh-t6.sh-s4 > .h-text:last-child:first-child:after,.footer-widgets .section-heading.sh-t6.sh-s4 > .main-link > .h-text:before,.footer-widgets .section-heading.sh-t6.sh-s4 > a:last-child:first-child > .h-text:before,.footer-widgets .section-heading.sh-t6.sh-s4 > .h-text:last-child:first-child:before{border-left-color:#f3fafd}.footer-widgets .section-heading.sh-t6.sh-s7 > .main-link > .h-text:before,.footer-widgets .section-heading.sh-t6.sh-s7 > a:last-child:first-child > .h-text:before,.footer-widgets .section-heading.sh-t6.sh-s7 > .h-text:last-child:first-child:before,.footer-widgets .section-heading.sh-t6.sh-s6 > .main-link > .h-text:before,.footer-widgets .section-heading.sh-t6.sh-s6 > a:last-child:first-child > .h-text:before,.footer-widgets .section-heading.sh-t6.sh-s6 > .h-text:last-child:first-child:before,.footer-widgets .section-heading.sh-t6.sh-s5 > .main-link > .h-text:before,.footer-widgets .section-heading.sh-t6.sh-s5 > a:last-child:first-child > .h-text:before,.footer-widgets .section-heading.sh-t6.sh-s5 > .h-text:last-child:first-child:before{border-top-color:#f3fafd}.footer-widgets .section-heading.sh-t6.sh-s7 > .main-link > .h-text:before,.footer-widgets .section-heading.sh-t6.sh-s7 > a:last-child:first-child > .h-text:before,.footer-widgets .section-heading.sh-t6.sh-s7 > .h-text:last-child:first-child:before{border-bottom-color:#f3fafd}.ltr .footer-widgets .section-heading.sh-t6.sh-s8 > .main-link > .h-text:after,.ltr .footer-widgets .section-heading.sh-t6.sh-s8 > a:last-child:first-child > .h-text:after,.ltr .footer-widgets .section-heading.sh-t6.sh-s8 > .h-text:last-child:first-child:after{border-right-color:#f3fafd}.rtl .footer-widgets .section-heading.sh-t6.sh-s8 > .main-link > .h-text:after,.rtl .footer-widgets .section-heading.sh-t6.sh-s8 > a:last-child:first-child > .h-text:after,.rtl .footer-widgets .section-heading.sh-t6.sh-s8 > .h-text:last-child:first-child:after{border-left-color:#f3fafd}.site-footer:before{background:#4285f4}.site-footer.boxed{position:relative}.site-footer .copy-footer .footer-menu-wrapper .footer-menu-container:before{background-color:#dbedf5}.footer-menu-container{border-bottom:none}.copy-footer{overflow-x:hidden}.site-footer .copy-footer{background-color:#f3fafd}.site-footer .footer-social-icons{background-color:#f3fafd}.site-footer,.footer-widgets .section-heading.sh-t4.sh-s5 .h-text:after{background-color:#f3fafd}.site-footer .section-heading.sh-t4.sh-s5 .h-text:before{border-top-color:#f3fafd} .section-heading.sh-t3:after,.bsb-have-heading-color .section-heading.sh-t3.sh-s9:after, .section-heading.sh-t3.sh-s9:after{background-color:rgba(0, 0, 0, 0.08) !important} .section-heading.sh-t3 a.active, .section-heading.sh-t3 .main-link:first-child:last-child .h-text, .section-heading.sh-t3 > .h-text{color:#282828} .section-heading.sh-t3 a:hover .h-text, .section-heading.sh-t3 a.active .h-text{color:#282828 !important}.entry-content a.read-more,a.read-more,.listing-item-classic:hover a.read-more,.listing-item-blog:hover a.read-more{background-color:#434343 !important}.bs-slider-2-item .content-container a.read-more,.bs-slider-3-item .content-container a.read-more{border-color:#434343}body.bs-theme,body.bs-theme .btn-bs-pagination,body.bs-theme .body-typo{font-family:'Roboto';font-weight:400;font-size:13px;text-align:inherit;text-transform:inherit;color:#7b7b7b}.post-meta,.post-meta a{font-family:'Rubik';font-weight:400;font-size:12px;text-transform:none;color:#b2b2b2}.listing-mg-item.listing-mg-5-item .post-meta.post-meta .views.views.views{font-family:'Rubik';font-weight:400!important;font-size:12px;text-transform:none;color:#b2b2b2!important}.post-meta .post-author{font-family:'Rubik';font-weight:400;font-size:12px;text-transform:capitalize}.term-badges .format-badge,.term-badges .term-badge,.main-menu .term-badges a{font-family:'Rubik';font-weight:500;font-size:10px;text-transform:uppercase}.heading-typo,h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6,.heading-1,.heading-2,.heading-3,.heading-4,.heading-5,.heading-6,.header .site-branding .logo,.search-form input[type="submit"],.widget.widget_categories ul li,.widget.widget_archive ul li,.widget.widget_nav_menu ul.menu,.widget.widget_pages ul li,.widget.widget_recent_entries li a,.widget .tagcloud a,.widget.widget_calendar table caption,.widget.widget_rss li .rsswidget,.listing-widget .listing-item .title,button,html input[type="button"],input[type="reset"],input[type="submit"],input[type="button"],.pagination,.site-footer .footer-social-icons .better-social-counter.style-name .social-item,.section-heading .h-text,.entry-terms a,.single-container .post-share a,.comment-list .comment-meta .comment-author,.comments-wrap .comments-nav,.main-slider .content-container .read-more,a.read-more,.single-page-content > .post-share li,.single-container > .post-share li,.better-newsticker .heading,.better-newsticker ul.news-list li{font-family:'Rubik';font-weight:700;text-transform:inherit}.better-gcs-wrapper .gsc-result .gs-title{font-family:'Rubik';font-weight:700;text-transform:inherit}h1,.h1,.heading-1{font-size:34px}h2,.h2,.heading-2{font-size:30px}h3,.h3,.heading-3{font-size:25px}h4,.h4,.heading-4{font-size:20px}h5,.h5,.heading-5{font-size:17px}h6,.h6,.heading-6{font-size:15px}.single-post-title{font-family:'Rubik';font-weight:500;text-transform:capitalize;letter-spacing:1.2}.post-template-1 .single-post-title{font-size:36px}.post-tp-2-header .single-post-title{font-size:36px}.post-tp-3-header .single-post-title{font-size:36px}.post-tp-4-header .single-post-title{font-size:36px}.post-tp-5-header .single-post-title{font-size:26px}.post-template-6 .single-post-title{font-size:34px}.post-tp-7-header .single-post-title{font-size:34px}.post-template-8 .single-post-title{font-size:34px}.post-template-9 .single-post-title{font-size:34px}.post-template-10 .single-post-title,.ajax-post-content .single-post-title.single-post-title{font-size:34px}.post-tp-11-header .single-post-title{font-size:33px}.post-tp-12-header .single-post-title{font-size:32px}.post-template-13 .single-post-title{font-size:32px}.post-template-14 .single-post-title{font-size:32px}.post-subtitle{font-family:'Rubik';font-weight:400;font-size:18px;text-transform:inherit}.entry-content{font-family:'Roboto';font-weight:400;line-height:27px;font-size:18px;text-align:inherit;text-transform:initial;color:#1e1e1e}.post-summary{font-family:'Roboto';font-weight:400;line-height:20px;font-size:13px;text-align:inherit;text-transform:initial;color:#9b9999}.single-post-excerpt{font-family:'Rubik';font-weight:400;line-height:22px;font-size:16px;text-align:inherit;text-transform:initial}.main-menu li > a,.main-menu li,.off-canvas-menu > ul > li > a{font-family:'Rubik';font-weight:400;font-size:15px;text-align:inherit;text-transform:capitalize}.main-menu.menu .sub-menu > li > a,.main-menu.menu .sub-menu > li,.rh-header .menu-container .resp-menu li > a,.rh-header .menu-container .resp-menu li,.mega-menu.mega-type-link-list .mega-links li > a,ul.sub-menu.bs-pretty-tabs-elements .mega-menu.mega-type-link .mega-links > li > a,.off-canvas-menu li > a{font-family:'Rubik';font-weight:400;font-size:15px;text-align:inherit;text-transform:capitalize}.top-menu.menu > li > a,.top-menu.menu > li > a:hover,.top-menu.menu > li,.topbar .topbar-sign-in{font-family:'Rubik';font-weight:400;font-size:12px;text-align:inherit;text-transform:capitalize}.top-menu.menu .sub-menu > li > a,.top-menu.menu .sub-menu > li{font-family:'Rubik';font-weight:400;font-size:13px;text-align:inherit;text-transform:none}.topbar .topbar-date{font-family:'Rubik';font-weight:400;font-size:12px;text-transform:uppercase}.archive-title .pre-title{font-family:'Rubik';font-weight:400;font-size:16px;text-align:inherit;text-transform:capitalize}.archive-title .page-heading{font-family:'Rubik';font-weight:400;font-size:28px;text-align:inherit;text-transform:capitalize;color:#282828}.listing-item .post-subtitle{font-family:'Rubik';font-weight:400;line-height:18px;text-align:inherit;text-transform:inherit;color:#565656}.listing-item-classic-1 .title{font-family:'Rubik';font-weight:400;line-height:32px;font-size:25px;text-align:inherit;text-transform:capitalize;color:#282828}.listing-item-classic-1 .post-subtitle{font-size:17px}.listing-item-classic-2 .title{font-family:'Rubik';font-weight:400;line-height:32px;font-size:25px;text-align:inherit;text-transform:capitalize;color:#282828}.listing-item-classic-2 .post-subtitle{font-size:17px}.listing-item-classic-3 .title{font-family:'Rubik';font-weight:400;line-height:32px;font-size:25px;text-align:inherit;text-transform:capitalize;color:#282828}.listing-item-classic-3 .post-subtitle{font-size:17px}.listing-mg-1-item .content-container,.listing-mg-1-item .title{font-family:'Rubik';font-weight:400;font-size:26px;text-align:inherit;text-transform:capitalize;color:#ffffff}.listing-mg-1-item .post-subtitle{font-size:16px}.listing-mg-2-item .content-container,.listing-mg-2-item .title{font-family:'Rubik';font-weight:400;font-size:26px;text-align:inherit;text-transform:capitalize;color:#ffffff}.listing-mg-2-item .post-subtitle{font-size:16px}.listing-mg-3-item .content-container,.listing-mg-3-item .title{font-family:'Rubik';font-weight:400;font-size:22px;text-align:inherit;text-transform:capitalize;color:#ffffff}.listing-mg-4-item .content-container,.listing-mg-4-item .title{font-family:'Rubik';font-weight:400;font-size:21px;text-align:inherit;text-transform:capitalize}.listing-mg-4-item .post-subtitle{font-size:15px}.listing-mg-5-item-big .title{font-family:'Rubik';font-weight:400;font-size:24px;text-align:center;text-transform:capitalize}.listing-mg-5-item-small .title{font-family:'Rubik';font-weight:400;font-size:16px;text-align:center;text-transform:capitalize}.listing-mg-5-item .post-subtitle{font-size:16px}.listing-mg-6-item .content-container,.listing-mg-6-item .title{font-family:'Rubik';font-weight:400;font-size:24px;text-align:inherit;text-transform:capitalize;color:#ffffff}.listing-mg-6-item .post-subtitle{font-size:16px}.listing-mg-7-item .content-container,.listing-mg-7-item .title{font-family:'Rubik';font-weight:400;font-size:25px;text-align:inherit;text-transform:capitalize;color:#ffffff}.listing-mg-7-item .post-subtitle{font-size:16px}.listing-mg-8-item .content-container,.listing-mg-8-item .title{font-family:'Rubik';font-weight:400;font-size:w25px;text-align:inherit;text-transform:capitalize;color:#ffffff}.listing-mg-8-item .post-subtitle{font-size:16px}.listing-mg-9-item .content-container,.listing-mg-9-item .title{font-family:'Rubik';font-weight:400;font-size:25px;text-align:inherit;text-transform:capitalize;color:#ffffff}.listing-mg-9-item .post-subtitle{font-size:15px}.listing-mg-10-item .content-container,.listing-mg-10-item .title{font-family:'Rubik';font-weight:400;font-size:25px;text-align:inherit;text-transform:capitalize;color:#ffffff}.listing-mg-10-item .post-subtitle{font-size:16px}.listing-item-grid-1 .title{font-family:'Rubik';font-weight:400;line-height:29px;font-size:20px;text-align:inherit;text-transform:capitalize;color:#282828}.listing-item-grid-1 .post-subtitle{font-size:15px}.listing-item-grid-2 .title{font-family:'Rubik';font-weight:400;line-height:28px;font-size:20px;text-align:inherit;text-transform:capitalize;color:#282828}.listing-item-grid-2 .post-subtitle{font-size:15px}.listing-item-tall-1 .title{font-family:'Rubik';font-weight:400;line-height:24px;font-size:18px;text-align:inherit;text-transform:capitalize;color:#282828}.listing-item-tall-1 .post-subtitle{font-size:14px}.listing-item-tall-2 .title,.listing-item-tall-2 .title a{font-family:'Rubik';font-weight:400;line-height:24px;font-size:18px;text-align:center;text-transform:capitalize;color:#282828}.listing-item-tall-2 .post-subtitle{font-size:14px}.bs-slider-1-item .title{font-family:'Rubik';font-weight:400;line-height:32px;font-size:27px;text-align:inherit;text-transform:capitalize}.bs-slider-1-item .post-subtitle{font-size:15px}.bs-slider-2-item .title{font-family:'Rubik';font-weight:400;line-height:30px;font-size:24px;text-align:inherit;text-transform:capitalize;color:#282828}.bs-slider-2-item .post-subtitle{font-size:15px}.bs-slider-3-item .title{font-family:'Rubik';font-weight:400;line-height:30px;font-size:24px;text-align:inherit;text-transform:capitalize;color:#282828}.bs-slider-3-item .post-subtitle{font-size:15px}.bs-box-1 .box-title{font-family:'Rubik';font-weight:400;line-height:28px;font-size:20px;text-align:inherit;text-transform:uppercase}.bs-box-2 .box-title{font-family:'Rubik';font-weight:400;line-height:16px;font-size:15px;text-align:inherit;text-transform:uppercase}.bs-box-3 .box-title{font-family:'Rubik';font-weight:400;line-height:28px;font-size:19px;text-align:inherit;text-transform:capitalize}.bs-box-4 .box-title{font-family:'Rubik';font-weight:400;line-height:28px;font-size:19px;text-align:inherit;text-transform:capitalize}.listing-item-blog-1 > .item-inner > .title,.listing-item-blog-2 > .item-inner > .title,.listing-item-blog-3 > .item-inner > .title{font-family:'Rubik';font-weight:400;line-height:25px;font-size:20px;text-align:inherit;text-transform:none;color:#282828}.listing-item-blog-1 > .item-inner > .post-subtitle,.listing-item-blog-2 > .item-inner > .post-subtitle,.listing-item-blog-3 > .item-inner > .post-subtitle{font-size:15px}.listing-item-blog-5 > .item-inner > .title{font-family:'Roboto';font-weight:500;line-height:26px;font-size:21px;text-align:inherit;text-transform:capitalize;color:#282828}.listing-item-blog-5 .post-subtitle{font-size:17px}.listing-item-tb-3 .title,.listing-item-tb-1 .title{font-family:'Rubik';font-weight:400;line-height:20px;font-size:14px;text-align:inherit;text-transform:none;color:#5a5959}.listing-item-tb-3 .post-subtitle,.listing-item-tb-1 .post-subtitle{font-size:13px}.listing-item-tb-2 .title{font-family:'Rubik';font-weight:400;line-height:21px;font-size:15px;text-align:inherit;text-transform:none;color:#282828}.listing-item-tb-2 .post-subtitle{font-size:13px}.listing-item-text-1 .title{font-family:'Rubik';font-weight:400;line-height:25px;font-size:17px;text-align:center;text-transform:capitalize;color:#282828}.listing-item-text-1 .post-subtitle{font-size:14px}.listing-item-text-2 .title{font-family:'Rubik';font-weight:400;line-height:25px;font-size:17px;text-align:inherit;text-transform:inherit;color:#282828}.listing-item-text-2 .post-subtitle{font-size:14px}.listing-item-text-3 .title,.listing-item-text-4 .title{font-family:'Rubik';font-weight:400;line-height:25px;font-size:17px;text-align:inherit;text-transform:inherit;color:#282828}.section-heading .h-text{font-family:'Rubik';font-weight:500;line-height:24px;font-size:20px;text-transform:capitalize}.site-footer .copy-footer .menu{font-family:'Rubik';font-weight:400;line-height:45px;font-size:14px;text-transform:capitalize;color:#ffffff}.site-footer .copy-footer .container{font-family:'Rubik';font-weight:400;line-height:21px;font-size:13px}.post-meta .views.rank-default,.single-post-share .post-share-btn.post-share-btn-views.rank-default{color: !important}.post-meta .views.rank-500,.single-post-share .post-share-btn.post-share-btn-views.rank-500{color:#edaa02 !important}.post-meta .views.rank-1000,.single-post-share .post-share-btn.post-share-btn-views.rank-1000{color:#d88531 !important}.post-meta .views.rank-2000,.single-post-share .post-share-btn.post-share-btn-views.rank-2000{color:#c44b2d !important}.post-meta .views.rank-3500,.single-post-share .post-share-btn.post-share-btn-views.rank-3500{color:#d40808 !important}.post-meta .share.rank-50,.single-post-share .post-share-btn.rank-50{color:#edaa02 !important}.post-meta .share.rank-100,.single-post-share .post-share-btn.rank-100{color:#d88531 !important}.post-meta .share.rank-200,.single-post-share .post-share-btn.rank-200{color:#c44b2d !important}.post-meta .share.rank-300,.single-post-share .post-share-btn.rank-300{color:#d40808 !important}/*  Menus Custom CSS  */
+.widget.widget_categories #menu-item-165 > a:hover,.main-menu.menu > #menu-item-165:hover > a{color:#4424e5 !important}.main-menu.menu > #menu-item-165:hover > a:before,.main-menu.menu > #menu-item-165.current-menu-item > a:before,.main-menu.menu > #menu-item-165.current-menu-parent > a:before,.main-menu.menu li #menu-item-165:hover > a,.widget.widget_nav_menu ul.menu .menu-item-165 > a:hover{background-color:#4424e5 !important}.main-menu.menu .menu-item-mega-link-list #menu-item-165:hover > a{background-color:#4424e5 !important;color:#fff !important}.main-menu.menu .menu-item-mega-link-list #menu-item-165 > a{padding:3px 7px !important}#menu-item-165 > .mega-menu,#menu-item-165 > .sub-menu{background-color:#4424e5}#menu-item-165 > .mega-menu.tabbed-grid-posts:before{background-color:#3a1adb;border-right-color:#3a1adb}.rtl #menu-item-165 > .mega-menu.tabbed-grid-posts:before{border-left-color:#3a1adb}.widget.widget_categories #menu-item-8 > a:hover,.main-menu.menu > #menu-item-8:hover > a{color:#dd3333 !important}.main-menu.menu > #menu-item-8:hover > a:before,.main-menu.menu > #menu-item-8.current-menu-item > a:before,.main-menu.menu > #menu-item-8.current-menu-parent > a:before,.main-menu.menu li #menu-item-8:hover > a,.widget.widget_nav_menu ul.menu .menu-item-8 > a:hover{background-color:#dd3333 !important}.main-menu.menu .menu-item-mega-link-list #menu-item-8:hover > a{background-color:#dd3333 !important;color:#fff !important}.main-menu.menu .menu-item-mega-link-list #menu-item-8 > a{padding:3px 7px !important}#menu-item-8 > .mega-menu,#menu-item-8 > .sub-menu{background-color:#dd3333}#menu-item-8 > .mega-menu.tabbed-grid-posts:before{background-color:#d32929;border-right-color:#d32929}.rtl #menu-item-8 > .mega-menu.tabbed-grid-posts:before{border-left-color:#d32929}.widget.widget_categories #menu-item-9485 > a:hover,.main-menu.menu > #menu-item-9485:hover > a{color:#ff7900 !important}.main-menu.menu > #menu-item-9485:hover > a:before,.main-menu.menu > #menu-item-9485.current-menu-item > a:before,.main-menu.menu > #menu-item-9485.current-menu-parent > a:before,.main-menu.menu li #menu-item-9485:hover > a,.widget.widget_nav_menu ul.menu .menu-item-9485 > a:hover{background-color:#ff7900 !important}.main-menu.menu .menu-item-mega-link-list #menu-item-9485:hover > a{background-color:#ff7900 !important;color:#fff !important}.main-menu.menu .menu-item-mega-link-list #menu-item-9485 > a{padding:3px 7px !important}#menu-item-9485 > .mega-menu,#menu-item-9485 > .sub-menu{background-color:#ff7900}#menu-item-9485 > .mega-menu.tabbed-grid-posts:before{background-color:#f56f00;border-right-color:#f56f00}.rtl #menu-item-9485 > .mega-menu.tabbed-grid-posts:before{border-left-color:#f56f00}.widget.widget_categories #menu-item-9 > a:hover,.main-menu.menu > #menu-item-9:hover > a{color:#1e73be !important}.main-menu.menu > #menu-item-9:hover > a:before,.main-menu.menu > #menu-item-9.current-menu-item > a:before,.main-menu.menu > #menu-item-9.current-menu-parent > a:before,.main-menu.menu li #menu-item-9:hover > a,.widget.widget_nav_menu ul.menu .menu-item-9 > a:hover{background-color:#1e73be !important}.main-menu.menu .menu-item-mega-link-list #menu-item-9:hover > a{background-color:#1e73be !important;color:#fff !important}.main-menu.menu .menu-item-mega-link-list #menu-item-9 > a{padding:3px 7px !important}#menu-item-9 > .mega-menu,#menu-item-9 > .sub-menu{background-color:#1e73be}#menu-item-9 > .mega-menu.tabbed-grid-posts:before{background-color:#1469b4;border-right-color:#1469b4}.rtl #menu-item-9 > .mega-menu.tabbed-grid-posts:before{border-left-color:#1469b4}.widget.widget_categories #menu-item-10 > a:hover,.main-menu.menu > #menu-item-10:hover > a{color:#1f893a !important}.main-menu.menu > #menu-item-10:hover > a:before,.main-menu.menu > #menu-item-10.current-menu-item > a:before,.main-menu.menu > #menu-item-10.current-menu-parent > a:before,.main-menu.menu li #menu-item-10:hover > a,.widget.widget_nav_menu ul.menu .menu-item-10 > a:hover{background-color:#1f893a !important}.main-menu.menu .menu-item-mega-link-list #menu-item-10:hover > a{background-color:#1f893a !important;color:#fff !important}.main-menu.menu .menu-item-mega-link-list #menu-item-10 > a{padding:3px 7px !important}#menu-item-10 > .mega-menu,#menu-item-10 > .sub-menu{background-color:#1f893a}#menu-item-10 > .mega-menu.tabbed-grid-posts:before{background-color:#157f30;border-right-color:#157f30}.rtl #menu-item-10 > .mega-menu.tabbed-grid-posts:before{border-left-color:#157f30}.widget.widget_categories #menu-item-165 > a:hover,.main-menu.menu > #menu-item-165:hover > a{color:#4424e5 !important}.main-menu.menu > #menu-item-165:hover > a:before,.main-menu.menu > #menu-item-165.current-menu-item > a:before,.main-menu.menu > #menu-item-165.current-menu-parent > a:before,.main-menu.menu li #menu-item-165:hover > a,.widget.widget_nav_menu ul.menu .menu-item-165 > a:hover{background-color:#4424e5 !important}.main-menu.menu .menu-item-mega-link-list #menu-item-165:hover > a{background-color:#4424e5 !important;color:#fff !important}.main-menu.menu .menu-item-mega-link-list #menu-item-165 > a{padding:3px 7px !important}#menu-item-165 > .mega-menu,#menu-item-165 > .sub-menu{background-color:#4424e5}#menu-item-165 > .mega-menu.tabbed-grid-posts:before{background-color:#3a1adb;border-right-color:#3a1adb}.rtl #menu-item-165 > .mega-menu.tabbed-grid-posts:before{border-left-color:#3a1adb}.widget.widget_categories #menu-item-8 > a:hover,.main-menu.menu > #menu-item-8:hover > a{color:#dd3333 !important}.main-menu.menu > #menu-item-8:hover > a:before,.main-menu.menu > #menu-item-8.current-menu-item > a:before,.main-menu.menu > #menu-item-8.current-menu-parent > a:before,.main-menu.menu li #menu-item-8:hover > a,.widget.widget_nav_menu ul.menu .menu-item-8 > a:hover{background-color:#dd3333 !important}.main-menu.menu .menu-item-mega-link-list #menu-item-8:hover > a{background-color:#dd3333 !important;color:#fff !important}.main-menu.menu .menu-item-mega-link-list #menu-item-8 > a{padding:3px 7px !important}#menu-item-8 > .mega-menu,#menu-item-8 > .sub-menu{background-color:#dd3333}#menu-item-8 > .mega-menu.tabbed-grid-posts:before{background-color:#d32929;border-right-color:#d32929}.rtl #menu-item-8 > .mega-menu.tabbed-grid-posts:before{border-left-color:#d32929}.widget.widget_categories #menu-item-9485 > a:hover,.main-menu.menu > #menu-item-9485:hover > a{color:#ff7900 !important}.main-menu.menu > #menu-item-9485:hover > a:before,.main-menu.menu > #menu-item-9485.current-menu-item > a:before,.main-menu.menu > #menu-item-9485.current-menu-parent > a:before,.main-menu.menu li #menu-item-9485:hover > a,.widget.widget_nav_menu ul.menu .menu-item-9485 > a:hover{background-color:#ff7900 !important}.main-menu.menu .menu-item-mega-link-list #menu-item-9485:hover > a{background-color:#ff7900 !important;color:#fff !important}.main-menu.menu .menu-item-mega-link-list #menu-item-9485 > a{padding:3px 7px !important}#menu-item-9485 > .mega-menu,#menu-item-9485 > .sub-menu{background-color:#ff7900}#menu-item-9485 > .mega-menu.tabbed-grid-posts:before{background-color:#f56f00;border-right-color:#f56f00}.rtl #menu-item-9485 > .mega-menu.tabbed-grid-posts:before{border-left-color:#f56f00}.widget.widget_categories #menu-item-9 > a:hover,.main-menu.menu > #menu-item-9:hover > a{color:#1e73be !important}.main-menu.menu > #menu-item-9:hover > a:before,.main-menu.menu > #menu-item-9.current-menu-item > a:before,.main-menu.menu > #menu-item-9.current-menu-parent > a:before,.main-menu.menu li #menu-item-9:hover > a,.widget.widget_nav_menu ul.menu .menu-item-9 > a:hover{background-color:#1e73be !important}.main-menu.menu .menu-item-mega-link-list #menu-item-9:hover > a{background-color:#1e73be !important;color:#fff !important}.main-menu.menu .menu-item-mega-link-list #menu-item-9 > a{padding:3px 7px !important}#menu-item-9 > .mega-menu,#menu-item-9 > .sub-menu{background-color:#1e73be}#menu-item-9 > .mega-menu.tabbed-grid-posts:before{background-color:#1469b4;border-right-color:#1469b4}.rtl #menu-item-9 > .mega-menu.tabbed-grid-posts:before{border-left-color:#1469b4}.widget.widget_categories #menu-item-10 > a:hover,.main-menu.menu > #menu-item-10:hover > a{color:#1f893a !important}.main-menu.menu > #menu-item-10:hover > a:before,.main-menu.menu > #menu-item-10.current-menu-item > a:before,.main-menu.menu > #menu-item-10.current-menu-parent > a:before,.main-menu.menu li #menu-item-10:hover > a,.widget.widget_nav_menu ul.menu .menu-item-10 > a:hover{background-color:#1f893a !important}.main-menu.menu .menu-item-mega-link-list #menu-item-10:hover > a{background-color:#1f893a !important;color:#fff !important}.main-menu.menu .menu-item-mega-link-list #menu-item-10 > a{padding:3px 7px !important}#menu-item-10 > .mega-menu,#menu-item-10 > .sub-menu{background-color:#1f893a}#menu-item-10 > .mega-menu.tabbed-grid-posts:before{background-color:#157f30;border-right-color:#157f30}.rtl #menu-item-10 > .mega-menu.tabbed-grid-posts:before{border-left-color:#157f30}/*  Terms Custom CSS  */
+.bulir img{display:inline-block}.bulir.location-bssl_after{margin-bottom:30px}.bulir.location-bssl_before{margin-top:38px;margin-bottom:0}.bs-smart-list+.location-bssl_after{margin-top:25px}.bs-smart-list.bssl-t1.bssl-s1 .bulir.location-bssl_after,.bs-smart-list.bssl-t1.bssl-s3 .bulir.location-bssl_after,.bs-smart-list.bssl-t1.bssl-s4 .bulir.location-bssl_after{margin-top:30px}.bs-smart-list.bssl-t1.bssl-s6 .bulir.location-bssl_style_6{margin-top:45px;margin-bottom:45px}.bs-smart-list.bssl-t1.bssl-s7 .bulir.location-bssl_style_7{margin-top:25px;padding-top:25px;margin-bottom:25px;padding-bottom:25px;border-bottom:1px solid #f2f2f2;border-top:1px solid #f2f2f2}.bs-smart-list.bssl-t1.bssl-s8 .bulir.location-bssl_style_8{margin-top:30px;padding-top:30px;margin-bottom:30px;padding-bottom:30px;border-bottom:1px solid #f2f2f2;border-top:1px solid #f2f2f2}.bs-smart-list.bssl-t1.bssl-s10 .bulir.location-bssl_style_10,.bs-smart-list.bssl-t1.bssl-s11 .bulir.location-bssl_style_11,.bs-smart-list.bssl-t1.bssl-s12 .bulir.location-bssl_style_12,.bs-smart-list.bssl-t1.bssl-s9 .bulir.location-bssl_style_9{margin-top:35px;margin-bottom:35px}.bs-smart-list.bssl-t1.bssl-s13 .bulir.location-bssl_style_13{margin-top:5px;margin-bottom:12px}.bs-smart-list.bssl-t1.bssl-s14 .bulir.location-bssl_style_14{margin-top:8px;margin-bottom:12px}.bs-smart-list.bssl-t1.bssl-s15 .bulir.location-bssl_style_15,.bs-smart-list.bssl-t1.bssl-s16 .bulir.location-bssl_style_16,.bs-smart-list.bssl-t1.bssl-s17 .bulir.location-bssl_style_17{margin-top:5px;margin-bottom:12px}.rtl .bulir .bulir-container{direction:ltr}.bulir-clearfix:after,.bulir-clearfix:before{content:"";display:table}.bulir-clearfix:after{clear:both}.bulir-clearfix{zoom:1}.bulir-caption{display:block;color:#bbb;font-size:12px;line-height:24px;margin:0!important;padding:0;text-align:center}.bulir-type-code br,.bulir:empty,.widget_bulir:empty{display:none}.bulir-container a{text-decoration:none!important}.bulir-type-dfp>div{display:inline-block}.mce-content-body .bulir{margin-bottom:0!important}.mce-content-body .bulir-hide-on-desktop,.mce-content-body .bulir-hide-on-phone,.mce-content-body .bulir-hide-on-tablet-landscape,.mce-content-body .bulir-hide-on-tablet-portrait{display:block!important}@media (min-width:992px) and (max-width:1199px){.bs-visible-md{display:block!important}}@media (max-width:991px){.bs-visible-sm{display:block!important}}@media (min-width:1200px){.bs-visible-lg{display:block!important}.bs-hidden-lg{display:none!important}}@media (max-width:991px){.bs-hidden-sm{display:none!important}}@media (min-width:992px) and (max-width:1199px){.bs-hidden-md{display:none!important}}@media (max-width:768px){.bs-hidden-sm,.bs-hidden-xs{display:none!important}}.bulir-post-top{margin-bottom:20px}.bulir-post-bottom{margin-top:20px;margin-bottom:0}.bulir-empty-note{background:#f7f7f7;padding:25px 20px;border:2px dashed #d2d2d2}.bulir-empty-note a{text-decoration:none;color:#888;font-size:16px}.bulir-empty-note a:hover{color:#0080ce;text-decoration:underline}.bulir.bulir-align-center{text-align:center}.bulir.bulir-align-right{text-align:right}.bulir.bulir-align-left{text-align:left}@media (min-width:1140px){.bulir-hide-on-desktop{display:none}}@media (min-width:1019px) and (max-width:1140px){.bulir-hide-on-tablet-landscape{display:none}}@media (min-width:768px) and (max-width:1018px){.bulir-hide-on-tablet-portrait{display:none}}.bulir.bulir-float-left{float:left;margin-right:30px}.bulir.bulir-float-center .bulir{text-align:center}.bulir.bulir-float-right{float:right;margin-left:30px}@media (max-width:767px){.bulir-hide-on-phone{display:none}.bulir.bulir-float-left,.bulir.bulir-float-right{float:none;margin-left:auto;margin-right:auto;text-align:center}}.rtl .bulir.bulir-float-right{float:right;margin-left:20px;margin-right:auto}.rtl .bulir.bulir-float-left{float:left;margin-right:20px;margin-left:auto}.bulir .bulir-container{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin-bottom:10px}.bulir .bulir-container.bulir-type-code embed,.bulir .bulir-container.bulir-type-code object,.bulir .bulir-container.bulir-type-image img{max-width:100%}.bulir .bulir-container.bulir-type-image .ad-caption{overflow:hidden;white-space:nowrap;text-overflow:ellipsis;display:inline-block;width:100%;font-size:12px}.bulir.bulir-column-2 .bulir-container{float:left;width:50%}.bulir.bulir-column-2 .bulir-container:nth-of-type(odd){padding-right:5px;clear:left}.bulir.bulir-column-2 .bulir-container:nth-of-type(even){padding-left:5px}.rtl .bulir.bulir-column-2 .bulir-container{float:right}.rtl .bulir.bulir-column-2 .bulir-container:nth-of-type(odd){padding-left:5px;clear:right;padding-right:0}.rtl .bulir.bulir-column-2 .bulir-container:nth-of-type(even){padding-right:5px;padding-left:0}.bulir.bulir-column-3 .bulir-container{float:left;width:33.3333%}.bulir.bulir-column-3 .bulir-container:nth-child( 3n-1 ){padding:0 3px}.bulir.bulir-column-3 .bulir-container:nth-child( 3n-2 ){padding-right:6px;clear:left}.bulir.bulir-column-3 .bulir-container:nth-child( 3n+3 ){padding-left:6px}.rtl .bulir.bulir-column-3 .bulir-container{float:right}.rtl .bulir.bulir-column-3 .bulir-container:nth-child( 3n-2 ){padding-left:6px;clear:right;padding-right:0}.rtl .bulir.bulir-column-3 .bulir-container:nth-child( 3n+3 ){padding-right:6px;padding-left:0}@media only screen and (max-width:780px){.bulir.bulir-column-3 .bulir-container{float:left;width:50%}.bulir.bulir-column-3 .bulir-container:nth-of-type(odd){padding-right:5px;clear:left}.bulir.bulir-column-3 .bulir-container:nth-of-type(even){padding-left:5px}.rtl .bulir.bulir-column-3 .bulir-container{float:right}.rtl .bulir.bulir-column-3 .bulir-container:nth-of-type(odd){padding-left:5px;clear:right;padding-right:0}.rtl .bulir.bulir-column-3 .bulir-container:nth-of-type(even){padding-right:5px;padding-left:0}}@media only screen and (max-width:600px){.bulir.bulir-column-2 .bulir-container,.bulir.bulir-column-3 .bulir-container{float:none!important;clear:none!important;width:100%!important;padding-right:0!important;padding-left:0!important;margin-bottom:15px!important}.bulir.bulir-column-2 .bulir-container:last-child,.bulir.bulir-column-3 .bulir-container:last-child{margin-bottom:0!important}}.bulir-ll>ins{display:flex!important;align-items:center;justify-content:center;background:#f3f3f3;text-decoration:none!important}.bulir-ll>ins>span{max-width:50%}.bulir.bulir-align-center .bulir-ll>ins{float:none;margin-right:auto;margin-left:auto}.bulir.bulir-align-right .bulir-ll>ins{float:right}.bulir.bulir-align-left .bulir-ll>ins{float:left}.site-header .sidebar .bulir{padding:0 0 5px;margin:0}.site-header .sidebar .bulir:last-child{padding-bottom:0}.site-header .sidebar .bulir .bulir-container{margin-bottom:0}.site-header .sidebar .bulir .bulir-caption,.site-header .sidebar .bulir .bulir-empty-note{display:none}.site-header .bulir{margin-bottom:0}.site-header .bulir .bulir-caption{display:none!important}.mega-type-page-builder .bulir:last-child{margin-bottom:0}.site-header.header-stype-2 .sidebar .bulir{text-align:right}.site-header.header-stype-3 .sidebar .bulir{text-align:right}.widget .bulir{margin-bottom:0}.single-post-content .bulir{margin-bottom:12px}.bulir.bulir-after-related{margin-bottom:0;margin-top:35px}.bulir.bulir-after-header{margin-bottom:0}.bulir.bulir-after-header .bulir-caption{display:none}.bulir.bulir-after-header .bulir-container:first-child,.bulir.bulir-after-header.bulir-column-2 .bulir-container:nth-child(2),.bulir.bulir-after-header.bulir-column-3 .bulir-container:nth-child(2),.bulir.bulir-after-header.bulir-column-3 .bulir-container:nth-child(3){margin-top:20px}.bf-breadcrumb.bc-top-style+.adcontainer .bulir.bulir-after-header .bulir-container:first-child,.bf-breadcrumb.bc-top-style+.adcontainer .bulir.bulir-after-header.bulir-column-2 .bulir-container:nth-child(2),.bf-breadcrumb.bc-top-style+.adcontainer .bulir.bulir-after-header.bulir-column-3 .bulir-container:nth-child(2),.bf-breadcrumb.bc-top-style+.adcontainer .bulir.bulir-after-header.bulir-column-3 .bulir-container:nth-child(3){margin-top:10px}.bulir.bulir-after-header .bulir-container:last-child,.bulir.bulir-after-header.bulir-column-2 .bulir-container:nth-last-child(2),.bulir.bulir-after-header.bulir-column-3 .bulir-container:nth-last-child(2),.bulir.bulir-after-header.bulir-column-3 .bulir-container:nth-last-child(3){margin-bottom:-4px}.bulir.bulir-above-post-box{margin-bottom:15px}.bulir.bulir-above-post-box.bulir-above-post-box-tmargine{margin-top:20px}.bulir.bulir-above-post-box.bulir-above-post-box-tmargine2{margin-top:-15px;margin-bottom:27px}.bulir.bulir-above-post-box.bulir-above-post-box-tmargine2{margin-top:0}.bulir.bulir-between-thumbnail-title.bulir-between-thumbnail-title{margin-bottom:20px}.post-tp-12-header .bulir.bulir-between-thumbnail-title.bulir-between-thumbnail-title{margin-top:25px}.post-tp-15-header .bulir.bulir-between-thumbnail-title.bulir-between-thumbnail-title{margin-top:25px}.main-wrap>.container.adcontainer+.content-container{margin-top:20px}@media (min-width:1140px){.bulir.bulir-after-header.bulir-show-desktop+.content-wrap .entry-content>.vc_row.vc_row-has-fill:first-child{margin-top:0!important}.bulir.bulir-after-header.bulir-show-desktop~.post-header.post-tp-12-header,.bulir.bulir-after-header.bulir-show-desktop~.post-header.post-tp-2-header,.bulir.bulir-after-header.bulir-show-desktop~.post-header.post-tp-4-header,.bulir.bulir-after-header.bulir-show-desktop~.post-header.post-tp-7-header{margin-top:25px}}@media (min-width:1019px) and (max-width:1140px){.bulir.bulir-after-header.bulir-show-tablet-landscape+.content-wrap .entry-content>.vc_row.vc_row-has-fill:first-child{margin-top:0!important}.bulir.bulir-after-header.bulir-show-tablet-landscape~.post-header.post-tp-12-header,.bulir.bulir-after-header.bulir-show-tablet-landscape~.post-header.post-tp-2-header,.bulir.bulir-after-header.bulir-show-tablet-landscape~.post-header.post-tp-4-header,.bulir.bulir-after-header.bulir-show-tablet-landscape~.post-header.post-tp-7-header{margin-top:25px}}@media (min-width:768px) and (max-width:1018px){.bulir.bulir-after-header.bulir-show-tablet-portrait+.content-wrap .entry-content>.vc_row.vc_row-has-fill:first-child{margin-top:0!important}.bulir.bulir-after-header.bulir-show-tablet-portrait~.post-header.post-tp-12-header,.bulir.bulir-after-header.bulir-show-tablet-portrait~.post-header.post-tp-2-header,.bulir.bulir-after-header.bulir-show-tablet-portrait~.post-header.post-tp-4-header,.bulir.bulir-after-header.bulir-show-tablet-portrait~.post-header.post-tp-7-header{margin-top:25px}}@media (max-width:767px){.bulir.bulir-after-header.bulir-show-phone+.content-wrap .entry-content>.vc_row.vc_row-has-fill:first-child{margin-top:0!important}.bulir.bulir-after-header.bulir-show-phone~.post-header.post-tp-12-header,.bulir.bulir-after-header.bulir-show-phone~.post-header.post-tp-2-header,.bulir.bulir-after-header.bulir-show-phone~.post-header.post-tp-4-header,.bulir.bulir-after-header.bulir-show-phone~.post-header.post-tp-7-header{margin-top:25px}.bulir.bulir-above-post-box.bulir-above-post-box-tmargine{margin-top:20px}}.bulir.bulir-before-footer{margin-bottom:0}.bulir.bulir-before-footer .bulir-caption{display:none}.bulir.bulir-before-footer .bulir-container:first-child,.bulir.bulir-before-footer.bulir-column-2 .bulir-container:nth-child(2),.bulir.bulir-before-footer.bulir-column-3 .bulir-container:nth-child(2),.bulir.bulir-before-footer.bulir-column-3 .bulir-container:nth-child(3){margin-top:20px}.bulir.bulir-before-footer .bulir-container:last-child,.bulir.bulir-before-footer.bulir-column-2 .bulir-container:nth-last-child(2),.bulir.bulir-before-footer.bulir-column-3 .bulir-container:nth-last-child(2),.bulir.bulir-before-footer.bulir-column-3 .bulir-container:nth-last-child(3){margin-bottom:20px}.bulir.bulir-before-footer.bulir-column-1 .bulir-container.bulir-type-code:last-child,.bulir.bulir-before-footer.bulir-column-2 .bulir-container.bulir-type-code:nth-last-child(2),.bulir.bulir-before-footer.bulir-column-3 .bulir-container.bulir-type-code:nth-last-child(2),.bulir.bulir-before-footer.bulir-column-3 .bulir-container.bulir-type-code:nth-last-child(3){margin-bottom:14px}.bulir.bulir-ajaxed-related{padding:20px 0;margin-bottom:-15px}.bulir.bulir-post-before-author{margin-bottom:0}.bulir.bulir-before-header{margin-bottom:0!important;padding:20px 0;position:relative}.bulir.bulir-before-header:before{content:'';display:inline-block;position:fixed;height:400px;top:-400px;left:0;right:0;width:100%}.bulir.bulir-after-footer{margin-bottom:0!important;padding:20px 0;position:relative}.bulir.bulir-after-footer:after{content:'';display:inline-block;position:fixed;height:400px;bottom:-400px;left:0;right:0;width:100%}.ltr .bs-sks .bs-sksiteml .bulir,.rtl .bs-sks .bs-sksitemr .bulir{float:right}.ltr .bs-sks .bs-sksitemr .bulir,.rtl .bs-sks .bs-sksiteml .bulir{float:left}.bs-sks .bulir:last-child{margin-bottom:0}.listing-item>.bulir{margin-bottom:0}@media print{.bulir{display:none!important}}</style>
+
+<style>
+.listing-blog-1 .listing-item-blog-1 {
+    border-bottom: 1px solid #f0f0f0;
+    padding-bottom: 20px;
+
+}
+.listing-blog-1 .listing-item-blog-1:last-child{
+  border-bottom: 0px;  
+}
+
+.main-menu.menu .sub-menu>li>a, .main-menu.menu .sub-menu>li, .rh-header .menu-container .resp-menu li>a, .rh-header .menu-container .resp-menu li, .mega-menu.mega-type-link-list .mega-links li>a, ul.sub-menu.bs-pretty-tabs-elements .mega-menu.mega-type-link .mega-links>li>a, .off-canvas-menu li>a{
+    text-transform: none !important;
+    font-size: 15px;color:white !important;
+}
+.main-menu.menu .sub-menu li>a {
+    padding: 8px 14px;
+}
+
+.single-featured img {
+    width: 100%;
+}
+.mega-type-link-list ul li a:link{
+    color:white !important;
+    -webkit-transition: none;
+    -moz-transition: none;
+    -o-transition: none;
+    transition: none;
+}
+
+.menu .mega-menu{box-shadow: none;}
+    
+.mega-menu.mega-type-link-list .mega-links{text-align: center;}
+li.menu-item-object-category a:hover{text-decoration: underline !important;color:white;}
+a.btn-default{color:white;}
+.vc_btn3-container.vc_btn3-center .vc_btn3-block.vc_btn3-size-xs {
+    font-size: 15px;
+    padding: 10px 3px;
+}
+
+a.shortc-button.medium {
+    font-size: 14px;
+    height: 45px;
+    line-height: 45px;
+    padding: 0 15px;
+}
+a.shortc-button.green {
+    background: #2ecc71;
+}
+a.shortc-button.blue {
+    background: #3498db;
+}
+a.shortc-button.red {
+    background: #e74c3c;
+}
+a.shortc-button.purple {
+    background: #9b59b6;
+}
+a.shortc-button.orange {
+    background: #e67e22;
+}
+a.shortc-button {
+    border: none;
+    cursor: pointer;
+    padding: 0 10px;
+    display: inline-block;
+    margin: 10px 0 0;
+    font-weight: 700;
+    outline: none;
+    position: relative;
+    background: #bdc3c7;
+    color: #fff !important;
+    text-decoration: none;
+    font-size: 10px;
+    height: 25px;
+    line-height: 25px;
+    opacity: .9;
+    overflow: hidden;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+
+.section-heading {
+   /* margin-bottom: 0px;*/
+}
+.better-studio-shortcode, .bs-listing, .bs-shortcode, .bsac, .bsp-wrapper, .content-column>div:last-child, .entry-content .better-studio-shortcode, .order-customer-detail, .order-detail-wrap, .single-container, .slider-style-16-container, .slider-style-18-container, .slider-style-2-container, .slider-style-23-container, .slider-style-4-container, .slider-style-8-container, .vc_row .vc_column-inner .wpb_content_element, .wc-account-content-wrap, .widget
+{
+    margin-bottom: 10px !important;
+}
+.site-header.header-style-5 .main-menu.menu>li>a {
+    padding: 0 13px;
+}
+.single-post-title
+{
+    text-transform: none;
+}
+.post-tp-1-header .post-meta-wrap
+{
+    border-top: 1px solid #e8e8e8;
+    padding-top: 10px;
+    margin-bottom: 5px;
+}
+b, optgroup, strong {
+    font-weight: 500;
+}
+.post-related{margin:0px;}
+.post-author{margin:0px !important;}
+.comments-template{margin-top:10px !important;}
+
+.bsac.location-footer_after {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+/*.bs-sks .bs-sksiteml {
+    right: 50%;
+    margin-top: 50px;
+}
+.bs-sks .bs-sksitemr {
+    left: 50%;
+    float: right;
+    margin-top: 50px;
+}*/
+.sidebar-column{z-index:1;}
+.section-heading.sh-t3 .main-link:first-child:last-child .h-text {
+     color: #282828!important; 
+}
+.archive-title .desc {
+    margin-top: 12px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    line-height: 27px;
+    font-size: 18px;
+    text-align: inherit;
+    text-transform: initial;
+    color: #525252;
+}
+.archive-title .page-heading {
+    font-family: 'Rubik';
+    font-weight: 500;
+    font-size: 32px;
+    text-align: inherit;
+    text-transform: capitalize;
+    color: #282828;
+}
+.alert-simple{padding: 5px;}
+.alert-simple em{font-size: 12px;}
+#ads-home{
+    
+    background: #f2f2f2;
+    padding: 20px 0px 0px 0px;
+    margin: 0px 0px 20px 0px  
+}
+.bf-breadcrumb .bf-breadcrumb-items{border-bottom: 1px solid #ebebeb;}
+#ads_header
+{
+    background: #fafafa;
+    padding: 10px 0px 5px 0px;
+}
+.bs-sks .bs-sksiteml {
+    margin-top: 5px;
+}
+.single-container > .post-author, .post-related, .post-related + .comments-template, .post-related+.single-container, .post-related+.ajax-post-content, .comments-template, .comment-respond.comments-template, .iesxwp.adloc-post-before-author, .woocommerce-page div.product .woocommerce-tabs, .woocommerce-page div.product .related.products, .woocommerce .cart-collaterals .cart_totals, .woocommerce .cart-collaterals .cross-sells, .woocommerce-checkout-review-order-wrap, .woocommerce + .woocommerce, .woocommerce + .bs-shortcode, .up-sells.products, .single-container > .bs-newsletter-pack, body.single .content-column > .bs-newsletter-pack {
+    margin-top: 5px;
+}
+.sem_borda
+{
+    border: 0px !important;
+    padding: 0px !important;
+    background: none !important;
+    margin-top: 5px;
+}
+.listing-item-tb-3 .title, .listing-item-tb-1 .title{font-size:15px;}
+.ads_conteudoa_1{background: #fafafa;padding-top: 3px;padding-bottom: 3px;}
+.ads_conteudo_2{padding-top: 10px;background: #fafafa;width: 100%;margin: auto;border-bottom: 1px solid #eee;border-top: 1px solid #eee;}
+.ads_conteudo_meio{background: #fafafa;}
+.ads_link_top { width: 100%;display:block;}@media(min-width: 500px) { .ads_link_top{ width: 120px; height: 90px;margin-left: 10px; } }@media(min-width: 600px) { .ads_link_top{ width: 160px; height: 90px;margin-left: 10px; } }@media(min-width: 700px) { .ads_link_top{ width: 180px; height: 90px;margin-left: 10px; } }@media(min-width: 800px) { .ads_link_top{ width: 200px; height: 90px;margin-left: 10px; } }.ads_conteudo_top { width: 300px;height:250px;}@media(min-width: 350px) { .ads_conteudo_top{ width: 100%; height: 280px; text-align:center;margin-bottom:10px; } }@media(min-width: 500px) { .ads_conteudo_top{ width: 336px; height: 280px; } }.ads_conteudo_top2{margin-right: 10px;margin-bottom: 10px;max-width: 546px;margin: auto;}
+
+
+.banner-ads-conteudo { width: 336px; height:300px; }
+@media(min-width: 800px) { 
+.banner-ads-conteudo { width: 100%; height: 300px; } 
+}
+#ads-top-1{text-align: center;}
+.ads_conteudo_top {
+    width: 300px;
+    height: 250px;
+  }
+  @media (min-width: 350px) {
+    .ads_conteudo_top {
+      width: 100%;
+      height: 280px;
+      text-align: center;
+      margin-bottom: 10px;
+    }
+  }
+  @media (min-width: 500px) {
+    .ads_conteudo_top {
+      width: 100%;
+      height: 280px;
+    }
+  }
+  .ads_conteudo_top2 {
+    margin-right: 10px;
+    margin-bottom: 10px;
+    max-width: 100%;
+    margin: auto;
+  }
+
+.entry-terms.post-tags .terms-label, .entry-terms.post-tags a, .entry-terms.source .terms-label, .entry-terms.source a, .entry-terms.via .terms-label, .entry-terms.via a {
+    border-radius: 2px;
+}
+.entry-terms .terms-label {display: none;}
+.entry-terms.post-tags a, .entry-terms.source a, .entry-terms.via a {
+    padding: 10px 10px 10px 10px;
+    font-size: 12px;
+    font-weight: 100;
+    text-transform: uppercase;
+}
+#ads-cursos{TEXT-ALIGN: left;}
+body.admin-bar .rh-cover {
+    top: 86px;
+}
+#r7-header {
+    height: 35px !important;
+    margin-bottom: -43px;
+}
+body.full-width .main-wrap {
+    width: 100%;
+    top: 43px !important;
+}
+.rh-cover{z-index: 999999999;}
+.banner-ads-conteudo { width: 336px; height:300px; }
+@media(min-width: 800px) { 
+.banner-ads-conteudo { width: 100%; height: 300px; } 
+}
+#ads-top-1
+{
+text-align: center;
+
+}
+
+
+/* CSS DOS LINKS DESTAQUES DENTRO DO CONTEUDO */
+
+#megapulse-destaque-box{
+    height: 338px;
+    width: 100%;
+}
+.toolkit-card-primary {
+    position: relative;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 0.5px 0.5px 0.5px 12px;
+    border-color: #606060;
+    border-left-color: var(--vertical-color, #606060);
+}
+.toolkit-card-primary__body {
+    padding: 1px 10px 1px 10px;
+}
+.toolkit-card-primary__title {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1;
+    letter-spacing: -0.2px;
+    color: var(--vertical-color, #333);
+    text-transform: uppercase;
+    margin-bottom: 16px;
+    text-align: left;
+}
+.toolkit-list {
+    list-style: none;
+    overflow-y: auto;
+    padding-left: 0px !important;
+    margin-bottom: 0px !important;
+}
+.d-flex {
+    display: flex !important;
+}
+.toolkit-card-secondary {
+    flex-shrink: 0;
+    max-width: calc((100% - (30px * 2))/3);
+    margin-right: 20px;
+    margin-bottom: 16px;
+}
+
+.toolkit-card-secondary__image {
+    border-radius: 5px;
+    margin-bottom: 16px;
+    width: 100%;
+    height: 126px;
+    object-fit: cover;
+    height: 116px !important;
+}
+.toolkit-card-secondary__hat {
+    text-transform: uppercase;
+    font-size: 11px;
+    line-height: 1.36;
+    color: #333;
+    margin: 0;
+    text-align: left;
+    font-weight: 100;
+}
+
+.toolkit-card-secondary__title {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 1.5;
+    color: #333;
+    margin: 0;
+    text-align: left;
+}
+.toolkit-ultimo{
+    display: none;
+}
+@media (max-width: 768px){
+    .toolkit-card-secondary {
+        max-width: 221px;
+    }
+    .toolkit-card-secondary__image {
+        margin-bottom: 6px;
+    }
+    .toolkit-card-secondary__title {
+        font-size: 14px;
+        line-height: 1.29;
+    }
+    .toolkit-ultimo{
+        display: block;
+    }
+
+    #megapulse-destaque-box {
+        height: 260px;
+    }
+}
+/* responsive monitor */ @media(min-width: 1200px){.bs-vc-sidebar-column .bs-listing, .bs-vc-sidebar-column .widget_bs-subscribe-newsletter, .bs-vc-sidebar-column>.bs-subscribe-newsletter, .bs-vc-sidebar-column>.bs-vc-wrapper>.bs-subscribe-newsletter, .sidebar-column .bs-listing, .sidebar-column .widget_bs-subscribe-newsletter, .sidebar-column>.bs-subscribe-newsletter, .sidebar-column>.bs-vc-wrapper>.bs-subscribe-newsletter {
+    padding: 20px 20px 20px!important;
+    border: 1px solid #dbe5e8;
+    background-color: #f7fbfc;
+    border-radius: 7px;
+}}
+/* responsive portrait tablet */ @media(min-width: 768px) and (max-width: 1018px){.listing-item-blog-1 .featured .img-holder, .listing-item-blog-5 .featured .img-holder {
+    width: 100%;
+    margin: 0;
+}
+.listing-item-blog-1 .featured, .listing-item-blog-5 .featured {
+    border-radius: 5px;
+    overflow: hidden;
+    width: 100%;
+}
+.post-template-1 .single-post-title {
+    font-size: 26px;
+}}
+/* responsive phone */ @media(max-width: 767px){.listing-item-blog-1 .featured, .listing-item-blog-5 .featured, .listing-item-blog-1 .featured .img-holder, .listing-item-blog-5 .featured .img-holder{
+    width: 100%;
+}
+.listing-item-blog-1 .featured .img-holder, .listing-item-blog-5 .featured .img-holder {
+    width: 100%;
+    margin: 0;
+}
+.listing-item-blog-1 .featured, .listing-item-blog-5 .featured {
+    border-radius: 5px;
+    overflow: hidden;
+    width: 100%;
+}
+.post-template-1 .single-post-title {
+    font-size: 26px;
+}}
+
+</style>
+
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript><script type="rocketlazyloadscript">
+/*! loadCSS rel=preload polyfill. [c]2017 Filament Group, Inc. MIT License */
+(function(w){"use strict";if(!w.loadCSS){w.loadCSS=function(){}}
+var rp=loadCSS.relpreload={};rp.support=(function(){var ret;try{ret=w.document.createElement("link").relList.supports("preload")}catch(e){ret=!1}
+return function(){return ret}})();rp.bindMediaToggle=function(link){var finalMedia=link.media||"all";function enableStylesheet(){link.media=finalMedia}
+if(link.addEventListener){link.addEventListener("load",enableStylesheet)}else if(link.attachEvent){link.attachEvent("onload",enableStylesheet)}
+setTimeout(function(){link.rel="stylesheet";link.media="only x"});setTimeout(enableStylesheet,3000)};rp.poly=function(){if(rp.support()){return}
+var links=w.document.getElementsByTagName("link");for(var i=0;i<links.length;i++){var link=links[i];if(link.rel==="preload"&&link.getAttribute("as")==="style"&&!link.getAttribute("data-loadcss")){link.setAttribute("data-loadcss",!0);rp.bindMediaToggle(link)}}};if(!rp.support()){rp.poly();var run=w.setInterval(rp.poly,500);if(w.addEventListener){w.addEventListener("load",function(){rp.poly();w.clearInterval(run)})}else if(w.attachEvent){w.attachEvent("onload",function(){rp.poly();w.clearInterval(run)})}}
+if(typeof exports!=="undefined"){exports.loadCSS=loadCSS}
+else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
+</script> </head>
+<body class="post-template-default single single-post postid-129947 single-format-standard bs-theme bs-publisher bs-publisher-seo-news active-light-box ltr close-rh page-layout-2-col page-layout-2-col-right full-width main-menu-full-width active-ajax-search single-cat-24075 single-prim-cat-8 single-cat-8 single-cat-137  wpb-js-composer js-comp-ver-6.4.1 vc_responsive bs-ll-d" dir="ltr">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg> <div class="main-wrap content-main-wrap">
+<header id="header" class="site-header header-style-8 full-width" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
+<section class="topbar topbar-style-1 hidden-xs hidden-xs">
+<div class="content-wrap">
+<div class="container">
+<div class="topbar-inner clearfix">
+<div class="section-menu">
+<div id="menu-top" class="menu top-menu-wrapper" role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+<nav class="top-menu-container">
+<ul id="top-navigation" class="top-menu menu clearfix bsm-pure">
+<li id="menu-item-110513" class="menu-item menu-item-type-post_type menu-item-object-page better-anim-fade menu-item-110513"><a href="https://escolaeducacao.com.br/quem-somos/">Quem somos</a></li>
+<li id="menu-item-110512" class="menu-item menu-item-type-post_type menu-item-object-page better-anim-fade menu-item-110512"><a href="https://escolaeducacao.com.br/expediente/">Expediente</a></li>
+<li id="menu-item-168" class="menu-item menu-item-type-post_type menu-item-object-page better-anim-fade menu-item-168"><a href="https://escolaeducacao.com.br/contato/">Contato</a></li>
+<li id="menu-item-9993" class="menu-item menu-item-type-custom menu-item-object-custom better-anim-fade menu-item-9993"><a href="/politica-de-privacidade/">Políticas de Privacidade</a></li>
+<li id="menu-item-5920" class="menu-item menu-item-type-post_type menu-item-object-page better-anim-fade menu-item-5920"><a href="https://escolaeducacao.com.br/anuncie/">Anuncie</a></li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="content-wrap">
+<div class="container">
+<div class="header-inner clearfix">
+<div id="site-branding" class="site-branding">
+<p id="site-title" class="logo h1 img-logo">
+<a href="https://escolaeducacao.com.br/" itemprop="url" rel="home">
+<img width="202" height="52" id="site-logo" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20202%2052'%3E%3C/svg%3E" alt="Escola Educação" data-lazy-src="https://escolaeducacao.com.br/wp-content/uploads/2018/03/logo-escolaeducacao-mobile.png" /><noscript><img width="202" height="52" id="site-logo" src="https://escolaeducacao.com.br/wp-content/uploads/2018/03/logo-escolaeducacao-mobile.png"
+			     alt="Escola Educação"  /></noscript>
+<span class="site-title">Escola Educação - Escola Edução é um portal de conteúdo voltado ao compartilhamento de informação como: cursos, livros, dicas, dentre outros.</span>
+</a>
+</p>
+</div>
+<nav id="menu-main" class="menu main-menu-container  show-search-item menu-actions-btn-width-1" role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+<div class="menu-action-buttons width-1">
+<div class="search-container close">
+<span class="search-handler"><i class="fa fa-search"></i></span>
+<div class="search-box clearfix">
+<form role="search" method="get" class="search-form clearfix" action="https://escolaeducacao.com.br">
+<input type="search" class="search-field" placeholder="Buscar" value="" name="s" title="Procurar por:" autocomplete="off">
+<input type="submit" class="search-submit" value="Pesquisa">
+</form>
+</div>
+</div>
+</div>
+<ul id="main-navigation" class="main-menu menu bsm-pure clearfix">
+<li id="menu-item-165" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children better-anim-fade menu-item-has-children menu-item-has-mega menu-item-mega-link-list menu-item-165"><a href="/noticias-educacao/">Notícias</a>
+
+<div class="mega-menu mega-type-link-list">
+<ul class="mega-links">
+<li id="menu-item-9966" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-650 better-anim-fade menu-item-9966"><a href="https://escolaeducacao.com.br/noticias/carreira-e-profissao/">Carreira e Profissão</a></li>
+<li id="menu-item-9968" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-645 better-anim-fade menu-item-9968"><a href="https://escolaeducacao.com.br/noticias/enem/">Notícias Enem</a></li>
+<li id="menu-item-9969" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-647 better-anim-fade menu-item-9969"><a href="https://escolaeducacao.com.br/noticias/fies-e-prouni/">Fies e ProUni</a></li>
+<li id="menu-item-9967" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-5 better-anim-fade menu-item-9967"><a href="https://escolaeducacao.com.br/noticias/concursos-e-estagios/">Concursos &#038; Estágios</a></li>
+</ul>
+</div>
+
+</li>
+<li id="menu-item-8" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-term-1 better-anim-fade menu-item-has-children menu-item-has-mega menu-item-mega-link-list menu-item-8"><a href="https://escolaeducacao.com.br/estude-gratis/">Estude Grátis</a>
+
+<div class="mega-menu mega-type-link-list">
+<ul class="mega-links">
+<li id="menu-item-11" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-2 better-anim-fade menu-item-11"><a href="https://escolaeducacao.com.br/estude-gratis/cursos/">Cursos</a></li>
+<li id="menu-item-12" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-3 better-anim-fade menu-item-12"><a href="https://escolaeducacao.com.br/estude-gratis/livros-e-apostilas/">Livros &#038; Apostilas</a></li>
+<li id="menu-item-9391" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-644 better-anim-fade menu-item-9391"><a href="https://escolaeducacao.com.br/estude-gratis/video-aulas/">Vídeo Aulas</a></li>
+</ul>
+</div>
+
+</li>
+<li id="menu-item-9485" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children better-anim-fade menu-item-has-children menu-item-has-mega menu-item-mega-link-list menu-item-9485"><a href="/portal-do-aluno/">Alunos</a>
+
+<div class="mega-menu mega-type-link-list">
+<ul class="mega-links">
+<li id="menu-item-9404" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-655 better-anim-fade menu-item-9404"><a href="https://escolaeducacao.com.br/alunos/faculdades-e-universidades/">Faculdades e Universidades</a></li>
+<li id="menu-item-9403" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-654 better-anim-fade menu-item-9403"><a href="https://escolaeducacao.com.br/alunos/testes-vocacionais/">Testes Vocacionais</a></li>
+<li id="menu-item-2309" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-142 better-anim-fade menu-item-2309"><a href="https://escolaeducacao.com.br/alunos/disciplinas/biologia/">Biologia</a></li>
+<li id="menu-item-2446" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-164 better-anim-fade menu-item-2446"><a href="https://escolaeducacao.com.br/alunos/disciplinas/geografia/">Geografia</a></li>
+<li id="menu-item-2436" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-163 better-anim-fade menu-item-2436"><a href="https://escolaeducacao.com.br/alunos/disciplinas/literatura/">Literatura</a></li>
+<li id="menu-item-2472" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-168 better-anim-fade menu-item-2472"><a href="https://escolaeducacao.com.br/alunos/disciplinas/historia/">História</a></li>
+<li id="menu-item-2525" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-143 better-anim-fade menu-item-2525"><a href="https://escolaeducacao.com.br/alunos/disciplinas/portugues/">Português</a></li>
+<li id="menu-item-2505" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-176 better-anim-fade menu-item-2505"><a href="https://escolaeducacao.com.br/alunos/disciplinas/redacao/">Redação</a></li>
+<li id="menu-item-9880" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-669 better-anim-fade menu-item-9880"><a href="https://escolaeducacao.com.br/alunos/dicas/">Dicas</a></li>
+</ul>
+</div>
+
+</li>
+<li id="menu-item-9" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-term-6 better-anim-fade menu-item-has-children menu-item-has-mega menu-item-mega-link-list menu-item-9"><a href="https://escolaeducacao.com.br/professores/">Professores</a>
+
+<div class="mega-menu mega-type-link-list">
+<ul class="mega-links">
+<li id="menu-item-9398" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-652 better-anim-fade menu-item-9398"><a href="https://escolaeducacao.com.br/professores/planos-de-aulas/">Planos de Aulas</a></li>
+<li id="menu-item-9764" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-664 better-anim-fade menu-item-9764"><a href="https://escolaeducacao.com.br/professores/guia-do-educador/">Guia do Educador</a></li>
+<li id="menu-item-7847" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-640 better-anim-fade menu-item-7847"><a href="https://escolaeducacao.com.br/professores/projetos-educativos/">Projetos Educativos</a></li>
+<li id="menu-item-9400" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-625 better-anim-fade menu-item-9400"><a href="https://escolaeducacao.com.br/professores/trabalhos-manuais/">Trabalhos Manuais</a></li>
+<li id="menu-item-9401" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-577 better-anim-fade menu-item-9401"><a href="https://escolaeducacao.com.br/professores/atividades-educativas/alfabetizacao/">Atividades para Alfabetização</a></li>
+<li id="menu-item-9924" class="menu-item menu-item-type-custom menu-item-object-custom better-anim-fade menu-item-9924"><a href="/professores/atividades-educativas/">Atividades Educativas</a></li>
+</ul>
+</div>
+
+</li>
+<li id="menu-item-10" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-term-7 better-anim-fade menu-item-has-children menu-item-has-mega menu-item-mega-link-list menu-item-10"><a href="https://escolaeducacao.com.br/carreiras-e-profissoes/">Carreiras &#038; Profissões</a>
+
+<div class="mega-menu mega-type-link-list">
+<ul class="mega-links">
+<li id="menu-item-9405" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-658 better-anim-fade menu-item-9405"><a href="https://escolaeducacao.com.br/carreiras-e-profissoes/guia-de-profissoes/">Guia de Profissões</a></li>
+<li id="menu-item-9406" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-657 better-anim-fade menu-item-9406"><a href="https://escolaeducacao.com.br/carreiras-e-profissoes/mercado-de-trabalho/">Mercado de Trabalho</a></li>
+<li id="menu-item-9407" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-656 better-anim-fade menu-item-9407"><a href="https://escolaeducacao.com.br/carreiras-e-profissoes/quanto-ganha/">Salários</a></li>
+</ul>
+</div>
+
+</li>
+<li id="menu-item-6" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-term-8 better-anim-fade menu-item-6"><a href="https://escolaeducacao.com.br/curiosidades/">Curiosidades</a></li>
+<li id="menu-item-18134" class="menu-item menu-item-type-custom menu-item-object-custom better-anim-fade menu-item-18134"><a target="_blank" rel="nofollow" href="https://cursos.escolaeducacao.com.br/acao/SOOGZA3">Cursos</a></li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+</header>
+<div class="rh-header clearfix light deferred-block-exclude">
+<div class="rh-container clearfix">
+<div class="menu-container close">
+<span class="menu-handler"><span class="lines"></span></span>
+</div>
+<div class="logo-container rh-img-logo">
+<a href="https://escolaeducacao.com.br/" itemprop="url" rel="home">
+<img width="202" height="52" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20202%2052'%3E%3C/svg%3E" alt="Escola Educação" data-lazy-src="https://escolaeducacao.com.br/wp-content/uploads/2018/03/logo-escolaeducacao-mobile.png" /><noscript><img width="202" height="52" src="https://escolaeducacao.com.br/wp-content/uploads/2018/03/logo-escolaeducacao-mobile.png"
+						     alt="Escola Educação"  /></noscript> </a>
+</div>
+</div>
+</div>
+<div class="content-wrap">
+<main id="content" class="content-container">
+<div class="container container layout-1-col layout-no-sidebar post-template-13">
+<div class="row main-section">
+<div class="col-sm-10 col-sm-push-1 content-column">
+<div class="single-container">
+<article id="post-129947" class="post-129947 post type-post status-publish format-standard has-post-thumbnail  category-cultura category-curiosidades category-noticias tag-lingua tag-lingua-portuguesa tag-saudade tag-traducao single-post-content ">
+<div class="post-header post-tp-13-header">
+<div class="term-badges floated"><span class="term-badge term-8"><a href="https://escolaeducacao.com.br/curiosidades/">Curiosidades</a></span><span class="term-badge term-24075"><a href="https://escolaeducacao.com.br/cultura/">Cultura</a></span><span class="term-badge term-137"><a href="https://escolaeducacao.com.br/noticias/">Notícias</a></span></div> <h1 class="single-post-title">
+<span class="post-title" itemprop="headline">Seria a palavra &#8220;saudade&#8221; exclusiva dos falantes da língua portuguesa?</span></h1>
+<h2 class="post-subtitle">Como expressar saudades ao falar outra língua?!</h2> <div class="post-meta-wrap clearfix">
+<div class="post-meta single-post-meta">
+<a href="https://escolaeducacao.com.br/author/agenciatexty/" title="Artigos de autor" class="post-author-a post-author-avatar">
+<span class="post-author-name">Por <b>Agência Texty</b></span> </a>
+<span class="time"><time class="post-published updated" datetime="2022-06-21T13:19:30-03:00">Publicado em <b>21/06/2022 - 13:19</b></time></span>
+</div>
+</div>
+<div class="bulir bulir-clearfix bulir-between-thumbnail-title bulir-pubadban bulir-show-desktop bulir-show-tablet-portrait bulir-show-tablet-landscape bulir-show-phone bulir-loc-post_between_featured_title bulir-align-center bulir-column-1"><div id="bulir-90359-1658486324" class="bulir-container bulir-type-custom_code " itemscope="" itemtype="https://schema.org/WPAdBlock" data-adid="90359" data-type="custom_code"><div style="" class="ads_conteudo_top2">
+<div style="float: left" class="ads_conteudo_top">
+<ins class="adsbygoogle ads_conteudo_top" style="display: inline-block" data-ad-client="ca-pub-5093303690767088" data-ad-slot="6603136138"></ins>
+<script type="rocketlazyloadscript">
+      // <![CDATA[
+      (adsbygoogle = window.adsbygoogle || []).push({});
+      // ]]>
+    </script>
+</div>
+</div>
+<div style="clear: both"></div></div></div> <div class="single-featured">
+</div>
+<div class="post-share single-post-share top-share clearfix style-13">
+<div class="post-share-btn-group">
+</div>
+<div class="share-handler-wrap bs-pretty-tabs-initialized">
+<span class="share-handler post-share-btn rank-default">
+<i class="bf-icon  fa fa-share-alt"></i> <b class="text">Compartilhar</b>
+</span>
+<span class="social-item facebook"><a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fescolaeducacao.com.br%2Fseria-a-saudade-exclusiva-dos-falantes-da-lingua-portuguesa%2F" target="_blank" rel="nofollow noreferrer" class="bs-button-el" onclick="window.open(this.href, 'share-facebook','left=50,top=50,width=600,height=320,toolbar=0'); return false;"><span class="icon"><i class="bf-icon fa fa-facebook"></i></span></a></span><span class="social-item twitter"><a href="https://twitter.com/share?text=Seria a palavra &#8220;saudade&#8221; exclusiva dos falantes da língua portuguesa?&url=https%3A%2F%2Fescolaeducacao.com.br%2Fseria-a-saudade-exclusiva-dos-falantes-da-lingua-portuguesa%2F" target="_blank" rel="nofollow noreferrer" class="bs-button-el" onclick="window.open(this.href, 'share-twitter','left=50,top=50,width=600,height=320,toolbar=0'); return false;"><span class="icon"><i class="bf-icon fa fa-twitter"></i></span></a></span><span class="social-item whatsapp"><a href="whatsapp://send?text=Seria a palavra &#8220;saudade&#8221; exclusiva dos falantes da língua portuguesa? %0A%0A https%3A%2F%2Fescolaeducacao.com.br%2Fseria-a-saudade-exclusiva-dos-falantes-da-lingua-portuguesa%2F" target="_blank" rel="nofollow noreferrer" class="bs-button-el" onclick="window.open(this.href, 'share-whatsapp','left=50,top=50,width=600,height=320,toolbar=0'); return false;"><span class="icon"><i class="bf-icon fa fa-whatsapp"></i></span></a></span></div> </div>
+</div>
+<div class="entry-content clearfix single-post-content">
+<div class="continue-reading-content close"><p><strong>Saudade</strong>: sentimento muito conhecido e muito difícil de ser descrito. Em muitas outras línguas, são diversas as formas de descrever e expressar a saudade, porém, a língua portuguesa aparentemente veio a ser a única capaz de traduzir esse sentimento para um verbete. E não somente traduziu, como fez dela presença essencial em inúmeras expressões artísticas.</p>
+<p>Porém, será realmente que, como dizem, <strong>a palavra saudade só existe na língua portuguesa</strong>? Confira o artigo na íntegra e descubra!</p>
+<div class="bs-irp left bs-irp-thumbnail-1-full">
+<div class="bs-irp-heading">
+<span class="h-text heading-typo">Veja mais</span>
+</div>
+<div class="bs-pagination-wrapper main-term-none none ">
+<div class="listing listing-thumbnail listing-tb-1 clearfix columns-2">
+<div class="post-178029 type-post format-standard has-post-thumbnail   listing-item listing-item-thumbnail listing-item-tb-1 main-term-137">
+<div class="item-inner clearfix">
+<div class="featured featured-type-featured-image">
+<a data-bg="https://escolaeducacao.com.br/wp-content/uploads/2022/06/saiba-como-a-concorrer-a-premios-atraves-do-vale-vida-nubank-86x64.jpg" alt="Prêmios no Vale-Vida Nubank." title="É cliente Nubank? Você ainda pode ganhar R$ 400 no bolão! Saiba como" style="" data-bsrjs="https://escolaeducacao.com.br/wp-content/uploads/2022/06/saiba-como-a-concorrer-a-premios-atraves-do-vale-vida-nubank-210x136.jpg" class="img-holder rocket-lazyload" href="https://escolaeducacao.com.br/e-cliente-nubank-voce-ainda-pode-ganhar-r-400-no-bolao-saiba-como/"></a>
+</div>
+<p class="title"> <a href="https://escolaeducacao.com.br/e-cliente-nubank-voce-ainda-pode-ganhar-r-400-no-bolao-saiba-como/" class="post-url post-title">
+É cliente Nubank? Você ainda pode ganhar R$ 400 no bolão! Saiba como </a>
+</p> </div>
+</div >
+<div class="post-177928 type-post format-standard has-post-thumbnail   listing-item listing-item-thumbnail listing-item-tb-1 main-term-137">
+<div class="item-inner clearfix">
+<div class="featured featured-type-featured-image">
+<a data-bg="https://escolaeducacao.com.br/wp-content/uploads/2021/01/chuva-86x64.jpg" alt="Chuva" title="Frente fria vinda do Sul muda previsão do tempo de todo o país no fim de semana" style="" data-bsrjs="https://escolaeducacao.com.br/wp-content/uploads/2021/01/chuva-210x136.jpg" class="img-holder rocket-lazyload" href="https://escolaeducacao.com.br/frente-fria-do-sul-muda-previsao-do-tempo-do-pais-no-fim-de-semana/"></a>
+</div>
+<p class="title"> <a href="https://escolaeducacao.com.br/frente-fria-do-sul-muda-previsao-do-tempo-do-pais-no-fim-de-semana/" class="post-url post-title">
+Frente fria vinda do Sul muda previsão do tempo de todo o país no fim&hellip; </a>
+</p> </div>
+</div >
+</div>
+</div></div><div class="bulir bulir-clearfix bulir-post-inline bulir-float-center bulir-align-center bulir-column-1"><div id="bulir-90361-1682925366" class="bulir-container bulir-type-custom_code " itemscope="" itemtype="https://schema.org/WPAdBlock" data-adid="90361" data-type="custom_code"><div style="" class="ads_conteudo_top2">
+<div style="float: left" class="ads_conteudo_top">
+<ins class="adsbygoogle ads_conteudo_top" style="display: inline-block" data-ad-client="ca-pub-5093303690767088" data-ad-slot="7974576484"></ins>
+<script type="rocketlazyloadscript">
+      // <![CDATA[
+      (adsbygoogle = window.adsbygoogle || []).push({});
+      // ]]>
+    </script>
+</div>
+</div>
+<div style="clear: both"></div></div></div> <p><strong>Leia mais: <a href="https://escolaeducacao.com.br/como-terminar-uma-amizade-de-maneira-certa/" target="_blank" rel="noopener">Quando e como terminar uma amizade da maneira certa</a></strong></p>
+<h2>Como expressar saudade em outras línguas?</h2>
+<p>A palavra &#8220;saudade&#8221; origina-se do latim, e, por conta disso, existe sim em outras línguas. Da mesma forma como o português foi derivado do latim, outras línguas também foram. No espanhol, encontra-se a palavra “soledad” para tratar-se da saudade, ou “soledat”, no catalão.</p>
+<div class="bulir bulir-clearfix bulir-post-inline bulir-float-center bulir-align-center bulir-column-1"><div id="bulir-174019-1324060968" class="bulir-container bulir-type-custom_code " itemscope="" itemtype="https://schema.org/WPAdBlock" data-adid="174019" data-type="custom_code"><div id="megapulse-destaque-box" id_site="2"></div></div></div> <p>Porém, onde ocorre de fato variação é em relação à <strong>tradução</strong>. Em muitos dos casos, essas palavras simbolizam significados como <strong>nostalgia</strong>, principalmente em relação à casa, ou à terra natal. O que se trata de um significado bem diferente para o que estamos acostumados a utilizar para o termo &#8220;saudade&#8221; no português, aquele cantado por Toquinho e Vinicius em: “e por falar em saudade, onde anda você? Onde anda os seus olhos que a gente não vê; onde anda esse corpo? que me deixou morto de tanto prazer”, em que fica nítido se tratar de alguém.</p>
+<p>Assim, para além da nostalgia, a saudade da língua portuguesa permite descrever a saudade de pessoas, animais, épocas, lugares, sentimentos, entre outras possibilidades. É abrangente e expansiva.</p>
+<p>Além disso, pode-se também observar que, ao ser mencionada no português, a palavra saudade recebe uma conotação positiva, ficando clara quando, ao ser dita, muitos esboçam um belo sorriso no rosto. Afinal, a saudade pode ser doce, quando se trata de alguém por quem se tem amor e cuidado.</p>
+<div class="bulir bulir-clearfix bulir-post-inline bulir-float-center bulir-align-center bulir-column-1"><div id="bulir-90361-669513369" class="bulir-container bulir-type-custom_code " itemscope="" itemtype="https://schema.org/WPAdBlock" data-adid="90361" data-type="custom_code"><div style="" class="ads_conteudo_top2">
+<div style="float: left" class="ads_conteudo_top">
+<ins class="adsbygoogle ads_conteudo_top" style="display: inline-block" data-ad-client="ca-pub-5093303690767088" data-ad-slot="7974576484"></ins>
+<script type="rocketlazyloadscript">
+      // <![CDATA[
+      (adsbygoogle = window.adsbygoogle || []).push({});
+      // ]]>
+    </script>
+</div>
+</div>
+<div style="clear: both"></div></div></div> <p>Através dessa análise, pode-se compreender que existe sim a palavra “saudade” em outros idiomas. No entanto, o que muda de verdade são o seu significado e tradução. E, para matar essa saudade, “você bem que podia me aparecer nesses mesmos lugares”, não é mesmo?</p> </div><div class="continue-reading-container"><a href="#" class="continue-reading-btn btn">Continue lendo</a></div><div class="bulir bulir-clearfix bulir-post-bottom bulir-float-center bulir-align-center bulir-column-1"><div id="bulir-90362-602492674" class="bulir-container bulir-type-custom_code " itemscope="" itemtype="https://schema.org/WPAdBlock" data-adid="90362" data-type="custom_code"><div style="" class="ads_conteudo_top2">
+<div style="float: left" class="ads_conteudo_top">
+<ins class="adsbygoogle ads_conteudo_top" style="display: inline-block" data-ad-client="ca-pub-5093303690767088" data-ad-slot="8568638702"></ins>
+<script type="rocketlazyloadscript">
+      // <![CDATA[
+      (adsbygoogle = window.adsbygoogle || []).push({});
+      // ]]>
+    </script>
+</div>
+</div>
+<div style="clear: both"></div>
+<div class='form-email-mp' id_aplicativo="41" titulo_email="Inscreva-se!" descricao_email="Receba novidades em sua caixa de e-mail!" nome_botao="Cadastrar!">
+</div>
+<script type="rocketlazyloadscript" data-minify="1" src="https://escolaeducacao.com.br/wp-content/cache/min/1/assets/js/email-lead.js?ver=1670864133" async></script></div></div> </div>
+<div class="entry-terms post-tags clearfix ">
+<span class="terms-label"><i class="fa fa-tags"></i></span>
+<a href="https://escolaeducacao.com.br/topicos/lingua/" rel="tag">Língua</a><a href="https://escolaeducacao.com.br/topicos/lingua-portuguesa/" rel="tag">Língua Portuguesa</a><a href="https://escolaeducacao.com.br/topicos/saudade/" rel="tag">Saudade</a><a href="https://escolaeducacao.com.br/topicos/traducao/" rel="tag">Tradução</a> </div>
+<div class="post-share single-post-share bottom-share clearfix style-13">
+<div class="post-share-btn-group">
+</div>
+<div class="share-handler-wrap bs-pretty-tabs-initialized">
+<span class="share-handler post-share-btn rank-default">
+<i class="bf-icon  fa fa-share-alt"></i> <b class="text">Compartilhar</b>
+</span>
+<span class="social-item facebook"><a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fescolaeducacao.com.br%2Fseria-a-saudade-exclusiva-dos-falantes-da-lingua-portuguesa%2F" target="_blank" rel="nofollow noreferrer" class="bs-button-el" onclick="window.open(this.href, 'share-facebook','left=50,top=50,width=600,height=320,toolbar=0'); return false;"><span class="icon"><i class="bf-icon fa fa-facebook"></i></span></a></span><span class="social-item twitter"><a href="https://twitter.com/share?text=Seria a palavra &#8220;saudade&#8221; exclusiva dos falantes da língua portuguesa?&url=https%3A%2F%2Fescolaeducacao.com.br%2Fseria-a-saudade-exclusiva-dos-falantes-da-lingua-portuguesa%2F" target="_blank" rel="nofollow noreferrer" class="bs-button-el" onclick="window.open(this.href, 'share-twitter','left=50,top=50,width=600,height=320,toolbar=0'); return false;"><span class="icon"><i class="bf-icon fa fa-twitter"></i></span></a></span><span class="social-item whatsapp"><a href="whatsapp://send?text=Seria a palavra &#8220;saudade&#8221; exclusiva dos falantes da língua portuguesa? %0A%0A https%3A%2F%2Fescolaeducacao.com.br%2Fseria-a-saudade-exclusiva-dos-falantes-da-lingua-portuguesa%2F" target="_blank" rel="nofollow noreferrer" class="bs-button-el" onclick="window.open(this.href, 'share-whatsapp','left=50,top=50,width=600,height=320,toolbar=0'); return false;"><span class="icon"><i class="bf-icon fa fa-whatsapp"></i></span></a></span></div> </div>
+</article>
+<div class="bulir bulir-clearfix bulir-post-before-author bulir-pubadban bulir-show-desktop bulir-show-tablet-portrait bulir-show-tablet-landscape bulir-show-phone bulir-loc-post_before_author_box bulir-align-left bulir-column-1"><div id="bulir-174022-627874914" class="bulir-container bulir-type-custom_code " itemscope="" itemtype="https://schema.org/WPAdBlock" data-adid="174022" data-type="custom_code"><div id="megapulse-destaque-rede-box" id_site="2" total_site="2" total_rede="3"></div></div></div><section class="post-author clearfix">
+<a href="https://escolaeducacao.com.br/author/agenciatexty/" title="Artigos de autor">
+<span class="post-author-avatar" itemprop="image"><img alt='' src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E" class='avatar avatar-80 photo avatar-default' height='80' width='80' data-lazy-src="https://secure.gravatar.com/avatar/2c9e019a875ba552fa182110d750240d?s=80&d=mm&r=g" /><noscript><img alt='' src='https://secure.gravatar.com/avatar/2c9e019a875ba552fa182110d750240d?s=80&d=mm&r=g' class='avatar avatar-80 photo avatar-default' height='80' width='80' /></noscript></span>
+</a>
+<div class="author-title heading-typo">
+<a class="post-author-url" href="https://escolaeducacao.com.br/author/agenciatexty/"><span class="post-author-name">Agência Texty</span></a>
+</div>
+<div class="author-links">
+<ul class="author-social-icons">
+</ul>
+</div>
+<div class="post-author-bio" itemprop="description">
+</div>
+</section>
+</div>
+<div class="post-related">
+<div class="section-heading sh-t3 sh-s1 ">
+<span class="h-text related-posts-heading">você pode gostar também</span>
+</div>
+<div class="bs-pagination-wrapper main-term-none  ">
+<div class="listing listing-thumbnail listing-tb-2 clearfix  scolumns-3 simple-grid">
+<div class="post-178029 type-post format-standard has-post-thumbnail   listing-item listing-item-thumbnail listing-item-tb-2 main-term-137">
+<div class="item-inner clearfix">
+<div class="featured featured-type-featured-image">
+<a data-bg="https://escolaeducacao.com.br/wp-content/uploads/2022/06/saiba-como-a-concorrer-a-premios-atraves-do-vale-vida-nubank-210x136.jpg" alt="Prêmios no Vale-Vida Nubank." title="É cliente Nubank? Você ainda pode ganhar R$ 400 no bolão! Saiba como" style="" data-bsrjs="https://escolaeducacao.com.br/wp-content/uploads/2022/06/saiba-como-a-concorrer-a-premios-atraves-do-vale-vida-nubank-279x220.jpg" class="img-holder rocket-lazyload" href="https://escolaeducacao.com.br/e-cliente-nubank-voce-ainda-pode-ganhar-r-400-no-bolao-saiba-como/"></a>
+</div>
+<p class="title"> <a class="post-url" href="https://escolaeducacao.com.br/e-cliente-nubank-voce-ainda-pode-ganhar-r-400-no-bolao-saiba-como/" title="É cliente Nubank? Você ainda pode ganhar R$ 400 no bolão! Saiba como">
+<span class="post-title">
+É cliente Nubank? Você ainda pode ganhar R$ 400 no bolão! Saiba como </span>
+</a>
+</p></div>
+</div >
+<div class="post-177928 type-post format-standard has-post-thumbnail   listing-item listing-item-thumbnail listing-item-tb-2 main-term-137">
+<div class="item-inner clearfix">
+<div class="featured featured-type-featured-image">
+<a data-bg="https://escolaeducacao.com.br/wp-content/uploads/2021/01/chuva-210x136.jpg" alt="Chuva" title="Frente fria vinda do Sul muda previsão do tempo de todo o país no fim de semana" style="" data-bsrjs="https://escolaeducacao.com.br/wp-content/uploads/2021/01/chuva-279x220.jpg" class="img-holder rocket-lazyload" href="https://escolaeducacao.com.br/frente-fria-do-sul-muda-previsao-do-tempo-do-pais-no-fim-de-semana/"></a>
+</div>
+<p class="title"> <a class="post-url" href="https://escolaeducacao.com.br/frente-fria-do-sul-muda-previsao-do-tempo-do-pais-no-fim-de-semana/" title="Frente fria vinda do Sul muda previsão do tempo de todo o país no fim de semana">
+<span class="post-title">
+Frente fria vinda do Sul muda previsão do tempo de todo o país no fim de semana </span>
+</a>
+</p></div>
+</div >
+<div class="post-176205 type-post format-standard has-post-thumbnail   listing-item listing-item-thumbnail listing-item-tb-2 main-term-8">
+<div class="item-inner clearfix">
+<div class="featured featured-type-featured-image">
+<a data-bg="https://escolaeducacao.com.br/wp-content/uploads/2022/12/kim-kardashian-natal-210x136.webp" title="Qual a tradição de Natal favorita das celebridades? Contamos aqui" style="" data-bsrjs="https://escolaeducacao.com.br/wp-content/uploads/2022/12/kim-kardashian-natal-279x220.webp" class="img-holder rocket-lazyload" href="https://escolaeducacao.com.br/qual-a-tradicao-de-natal-favorita-das-celebridades-descubra-o-que-eles-gostam-nessa-data/"></a>
+</div>
+<p class="title"> <a class="post-url" href="https://escolaeducacao.com.br/qual-a-tradicao-de-natal-favorita-das-celebridades-descubra-o-que-eles-gostam-nessa-data/" title="Qual a tradição de Natal favorita das celebridades? Contamos aqui">
+ <span class="post-title">
+Qual a tradição de Natal favorita das celebridades? Contamos aqui </span>
+</a>
+</p></div>
+</div >
+<div class="post-176579 type-post format-standard has-post-thumbnail   listing-item listing-item-thumbnail listing-item-tb-2 main-term-137">
+<div class="item-inner clearfix">
+<div class="featured featured-type-featured-image">
+<a data-bg="https://escolaeducacao.com.br/wp-content/uploads/2022/12/uniforme-material-escolar-sao-paulo-210x136.jpg" alt="Uniforme e kit escolar da prefeitura de São Paulo" title="Prefeitura disponibiliza crédito para compra de uniforme e material escolar" style="" data-bsrjs="https://escolaeducacao.com.br/wp-content/uploads/2022/12/uniforme-material-escolar-sao-paulo-279x220.jpg" class="img-holder rocket-lazyload" href="https://escolaeducacao.com.br/saiba-como-ter-credito-para-uniforme-e-material-escolar-de-2023-em-sao-paulo/"></a>
+</div>
+<p class="title"> <a class="post-url" href="https://escolaeducacao.com.br/saiba-como-ter-credito-para-uniforme-e-material-escolar-de-2023-em-sao-paulo/" title="Prefeitura disponibiliza crédito para compra de uniforme e material escolar">
+<span class="post-title">
+Prefeitura disponibiliza crédito para compra de uniforme e material escolar </span>
+</a>
+</p></div>
+</div >
+<div class="post-175869 type-post format-standard has-post-thumbnail   listing-item listing-item-thumbnail listing-item-tb-2 main-term-8">
+<div class="item-inner clearfix">
+<div class="featured featured-type-featured-image">
+<a data-bg="https://escolaeducacao.com.br/wp-content/uploads/2022/12/shutterstock_1025114623-210x136.jpg" alt="Bela adormecida: doença rara faz jovem dormir 20 horas seguidas todos os dias" title="Bela Adormecida: doença rara faz jovem dormir 20 horas seguidas por dias" style="" data-bsrjs="https://escolaeducacao.com.br/wp-content/uploads/2022/12/shutterstock_1025114623-279x220.jpg" class="img-holder rocket-lazyload" href="https://escolaeducacao.com.br/jovem-dorme-vinte-horas-seguidas-por-dia/"></a>
+</div>
+<p class="title"> <a class="post-url" href="https://escolaeducacao.com.br/jovem-dorme-vinte-horas-seguidas-por-dia/" title="Bela Adormecida: doença rara faz jovem dormir 20 horas seguidas por dias">
+<span class="post-title">
+Bela Adormecida: doença rara faz jovem dormir 20 horas seguidas por dias </span>
+</a>
+</p></div>
+</div >
+<div class="post-175805 type-post format-standard has-post-thumbnail   listing-item listing-item-thumbnail listing-item-tb-2 main-term-137">
+<div class="item-inner clearfix">
+<div class="featured featured-type-featured-image">
+<a data-bg="https://escolaeducacao.com.br/wp-content/uploads/2022/12/quanto-sera-o-preco-para-tirar-a-cnh-no-brasil-saiba-quais-sao-os-valores-atualizados-para-2023-210x136.png" alt="Afinal, quanto custa tirar a CNH no Brasil? Veja os valores atualizados de 2023" title="Afinal, quanto custa tirar a CNH no Brasil? Veja os valores atualizados de 2023" style="" data-bsrjs="https://escolaeducacao.com.br/wp-content/uploads/2022/12/quanto-sera-o-preco-para-tirar-a-cnh-no-brasil-saiba-quais-sao-os-valores-atualizados-para-2023-279x220.png" class="img-holder rocket-lazyload" href="https://escolaeducacao.com.br/quanto-sera-o-preco-para-tirar-a-cnh-no-brasil-saiba-quais-sao-os-valores-atualizados-para-2023/"></a>
+</div>
+<p class="title"> <a class="post-url" href="https://escolaeducacao.com.br/quanto-sera-o-preco-para-tirar-a-cnh-no-brasil-saiba-quais-sao-os-valores-atualizados-para-2023/" title="Afinal, quanto custa tirar a CNH no Brasil? Veja os valores atualizados de 2023">
+<span class="post-title">
+Afinal, quanto custa tirar a CNH no Brasil? Veja os valores atualizados de 2023 </span>
+</a>
+</p></div>
+</div >
+</div>
+</div></div>
+<div class="bulir bulir-clearfix bulir-after-related bulir-pubadban bulir-show-desktop bulir-show-tablet-portrait bulir-show-tablet-landscape bulir-show-phone bulir-loc-post_after_related bulir-align-center bulir-column-1"><div id="bulir-11740-1404698348" class="bulir-container bulir-type-custom_code " itemscope="" itemtype="https://schema.org/WPAdBlock" data-adid="11740" data-type="custom_code"><div class="post-related" style="margin-top: 0px;">
+<div id="taboola-below-article-thumbnails"></div>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'thumbnails-a',
+    container: 'taboola-below-article-thumbnails',
+    placement: 'Below Article Thumbnails',
+    target_type: 'mix'
+  });
+</script>
+</div></div></div><section id="comments-template-129947" class="comments-template">
+<p class="comments-closed">
+Comentários estão fechados.	</p>
+</section>
+</div>
+</div>
+</div>
+</main>
+</div>
+</div>
+<div class="container adcontainer"><div class="bulir bulir-clearfix bulir-before-footer bulir-pubadban bulir-show-desktop bulir-loc-footer_before bulir-align-center bulir-column-1 bulir-hide-on-phone bulir-hide-on-tablet-portrait bulir-hide-on-tablet-landscape"><div id="bulir-11576-446605078" class="bulir-container bulir-type-custom_code  bulir-hide-on-tablet-portrait bulir-hide-on-tablet-landscape bulir-hide-on-phone" itemscope="" itemtype="https://schema.org/WPAdBlock" data-adid="11576" data-type="custom_code"><script type="rocketlazyloadscript" data-minify="1" src="https://escolaeducacao.com.br/wp-content/cache/min/1/gt/ZONA_IAB_970x250/81b615040913192038933581b6150409.js?ver=1670864133" defer></script></div></div></div> <footer id="site-footer" class="site-footer full-width">
+<div class="copy-footer">
+<div class="content-wrap">
+<div class="container">
+<div class="row">
+<div class="col-lg-12">
+<div id="menu-footer" class="menu footer-menu-wrapper" role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+<nav class="footer-menu-container">
+<ul id="footer-navigation" class="footer-menu menu clearfix">
+<li id="menu-item-9599" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-term-137 better-anim-fade menu-item-9599"><a href="https://escolaeducacao.com.br/noticias/">Notícias</a></li>
+<li id="menu-item-9595" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-1 better-anim-fade menu-item-9595"><a href="https://escolaeducacao.com.br/estude-gratis/">Estude Grátis</a></li>
+<li id="menu-item-9592" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-653 better-anim-fade menu-item-9592"><a href="https://escolaeducacao.com.br/alunos/">Alunos</a></li>
+<li id="menu-item-9598" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-6 better-anim-fade menu-item-9598"><a href="https://escolaeducacao.com.br/professores/">Professores</a></li>
+<li id="menu-item-9593" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-7 better-anim-fade menu-item-9593"><a href="https://escolaeducacao.com.br/carreiras-e-profissoes/">Carreiras &#038; Profissões</a></li>
+<li id="menu-item-9594" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-term-8 better-anim-fade menu-item-9594"><a href="https://escolaeducacao.com.br/curiosidades/">Curiosidades</a></li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="row footer-copy-row">
+<div class="copy-1 col-lg-6 col-md-6 col-sm-6 col-xs-12">
+© 2022 - Escola Educação. Todos os direitos reservados. </div>
+<div class="copy-2 col-lg-6 col-md-6 col-sm-6 col-xs-12">
+Desenvolvido por VS3 Digital </div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<div class="bulir bulir-clearfix bulir-after-footer bulir-pubadban bulir-show-desktop bulir-show-tablet-portrait bulir-show-tablet-landscape bulir-show-phone bulir-loc-footer_after bulir-align-center bulir-column-1"><div id="bulir-85363-279109005" class="bulir-container bulir-type-custom_code " itemscope="" itemtype="https://schema.org/WPAdBlock" data-adid="85363" data-type="custom_code"><div id="ad-tag-sticky" style="display:none; width:auto;height:auto;position: fixed;bottom: 0;left: 50%;transform: translate(-50%);z-index: 9999998;cursor: pointer;">
+<button onclick="javascript:document.getElementById('ad-tag-sticky').style.display = 'none'" style="position: absolute; top: -24px; right: 0; height: 25px; width: 25px; cursor: pointer; z-index: 9999999999; background: #fff; border: 1px solid #ccc; padding: 0 0 0 1px; color: #666;">X</button>
+<div id="stickyAdR7">
+<script type="rocketlazyloadscript">
+    window.googletag = window.googletag || {cmd: []};
+    googletag.cmd.push(function() {
+      googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+        var div = document.getElementById(event.slot.getSlotElementId()).parentNode;
+        if(!event.isEmpty && event.slotContentChanged && div.id == "stickyAdR7"){
+          div = div.parentNode;
+          div.style.width = event.size[0]+'px';
+          div.style.height = event.size[1]+'px';
+          div.style.display = 'block';
+        }
+      });
+    });
+    (function() {
+      var ie = /msie/i.test(navigator.userAgent),
+      ieBox = ie && (document.compatMode == null || document.compatMode == "BackCompat"),
+      canvasEl = ieBox ? document.body : document.documentElement,
+      wd = window.innerWidth || canvasEl.clientWidth, sz = "";
+      if (wd < 710) {
+        sz = '[[320,50],[300,50]]';
+      } else if(wd < 960){
+        sz = '[[728,90]]';
+      }
+      else {
+        sz = '[[970,90],[728,90]]';
+      }
+      document.write('<scr'+'ipt data-sizes="'+sz+'" data-vendor="r7.com" data-pos="sticky_ad" data-context="principal" src="https://sc.r7.com/r7/js/adPartner.min.js"></scr'+'ipt>');
+    })();
+    </script>
+</div>
+</div></div></div> <div class="bs-wrap-gdpr-law bs-wrap-gdpr-law-close">
+<div class="bs-gdpr-law">
+<p>
+This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.
+<a class="bs-gdpr-accept" href="#" data-cookie="show">Accept</a>
+<a class="bs-gdpr-more" href="#">Read More</a>
+</p>
+</div>
+</div>
+<span class="back-top"><i class="fa fa-arrow-up"></i></span>
+<div class="player_dynad_tv"></div>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+</script>
+
+<script type="rocketlazyloadscript" async src="https://www.googletagmanager.com/gtag/js?id=UA-13006882-29"></script>
+<script type="rocketlazyloadscript">
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-13006882-29');
+</script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" id="r7barrautil" src="https://escolaeducacao.com.br/wp-content/cache/min/1/barra.js?ver=1670864133" defer>
+{responsivo:true, banner:false, submenu:false, append:true, blank:false, r7_play:false, acessibilidade:true}
+</script>
+<script type="rocketlazyloadscript">
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "14194541" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="https://sb.scorecardresearch.com/p?c1=2&c2=14194541&cv=2.0&cj=1" />
+</noscript>
+
+<script type="rocketlazyloadscript">
+    (function(i) {
+    var ts = document.createElement('script');
+    ts.type = 'text/javascript';
+    ts.async = true;
+    ts.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'tags.t.tailtarget.com/t3m.js?i=' + i;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(ts, s);
+    })('TT-9964-3/CT-23');
+</script>
+
+<script type="rocketlazyloadscript" data-minify="1" src="https://escolaeducacao.com.br/wp-content/cache/min/1/assets/js/destaques-posts.js?ver=1670864133" async> </script>
+<div class="rh-cover noscroll  no-login-icon">
+<span class="rh-close"></span>
+<div class="rh-panel rh-pm">
+<div class="rh-p-h">
+</div>
+<div class="rh-p-b">
+<div class="rh-c-m clearfix"></div>
+<form role="search" method="get" class="search-form" action="https://escolaeducacao.com.br">
+<input type="search" class="search-field" placeholder="Buscar" value="" name="s" title="Procurar por:" autocomplete="off">
+<input type="submit" class="search-submit" value="">
+</form>
+</div>
+</div>
+</div>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/escolaeducacao.com.br\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type='text/javascript' src='https://escolaeducacao.com.br/wp-content/cache/min/1/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=1670864133' id='contact-form-7-js' defer></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://escolaeducacao.com.br/wp-content/plugins/pinterest-pin-it-button-on-image-hover-and-post/js/main.js?ver=5.9.2' id='wl-pin-main-js' defer></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' id='wl-pin-main-js-after'>window.addEventListener('DOMContentLoaded', function() {
+jQuery(document).ready(function(){jQuery(".is-cropped img").each(function(){jQuery(this).attr("style", "min-height: 120px;min-width: 100px;");});jQuery(".avatar").attr("style", "min-width: unset; min-height: unset;");});
+});</script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' id='rocket-browser-checker-js-after'>
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+</script>
+<script type='text/javascript' id='rocket-preload-links-js-extra'>
+/* <![CDATA[ */
+var RocketPreloadLinksConfig = {"excludeUris":"\/(?:.+\/)?feed(?:\/(?:.+\/?)?)?$\/|\/(?:.+\/)?embed\/|\/(index\\.php\/)?wp\\-json(\/.*|$)\/|\/refer\/|\/go\/|\/recommend\/|\/recommends\/","usesTrailingSlash":"1","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php|html|htm","siteUrl":"https:\/\/escolaeducacao.com.br","onHoverDelay":"100","rateThrottle":"3"};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' id='rocket-preload-links-js-after'>
+(function() {
+"use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
+}());
+</script>
+<script type='text/javascript' id='publisher-theme-pagination-js-extra'>
+/* <![CDATA[ */
+var bs_pagination_loc = {"loading":"<div class=\"bs-loading\"><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><\/div>"};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://escolaeducacao.com.br/wp-content/themes/publisher/includes/libs/bs-theme-core/listing-pagin/assets/js/bs-ajax-pagination.min.js?ver=7.11.0' id='publisher-theme-pagination-js' defer></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://escolaeducacao.com.br/wp-content/themes/publisher/includes/libs/better-framework/assets/js/slick.min.js?ver=3.15.0' id='bf-slick-js' defer></script>
+<script type='text/javascript' id='smart-lists-pack-pro-js-extra'>
+/* <![CDATA[ */
+var bs_smart_lists_loc = {"translations":{"nav_next":"Pr\u00f3ximo","nav_prev":"Anterior","trans_x_of_y":"%1$s de %2$s","trans_page_x_of_y":"P\u00e1gina %1$s de %2$s"}};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://escolaeducacao.com.br/wp-content/plugins/smart-lists-pack-pro/js/smart-lists-pack.min.js?ver=1.4.2' id='smart-lists-pack-pro-js' defer></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://escolaeducacao.com.br/wp-content/themes/publisher/includes/libs/better-framework/assets/js/element-query.min.js?ver=3.15.0' id='element-query-js' defer></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://escolaeducacao.com.br/wp-content/themes/publisher/js/theme-libs.min.js?ver=7.11.0' id='theme-libs-js' defer></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://escolaeducacao.com.br/wp-content/themes/publisher/includes/libs/better-framework/assets/js/pretty-photo.min.js?ver=3.15.0' id='pretty-photo-js' defer></script>
+<script type='text/javascript' id='publisher-js-extra'>
+/* <![CDATA[ */
+var publisher_theme_global_loc = {"page":{"boxed":"full-width"},"header":{"style":"style-8","boxed":"full-width"},"ajax_url":"https:\/\/escolaeducacao.com.br\/wp-admin\/admin-ajax.php","loading":"<div class=\"bs-loading\"><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><\/div>","translations":{"tabs_all":"Todos","tabs_more":"Mais","lightbox_expand":"Expand the image","lightbox_close":"Close"},"lightbox":{"not_classes":""},"main_menu":{"more_menu":"disable"},"top_menu":{"more_menu":"enable"},"skyscraper":{"sticky_gap":30,"sticky":false,"position":""},"share":{"more":false},"refresh_googletagads":"1","get_locale":"pt-BR","notification":{"subscribe_msg":"By clicking the subscribe button you will never miss the new articles!","subscribed_msg":"You're subscribed to notifications","subscribe_btn":"Subscribe","subscribed_btn":"Unsubscribe"}};
+var publisher_theme_ajax_search_loc = {"ajax_url":"https:\/\/escolaeducacao.com.br\/wp-admin\/admin-ajax.php","previewMarkup":"<div class=\"ajax-search-results-wrapper ajax-search-no-product\">\n\t<div class=\"ajax-search-results\">\n\t\t<div class=\"ajax-ajax-posts-list\">\n\t\t\t<div class=\"ajax-posts-column\">\n\t\t\t\t<div class=\"clean-title heading-typo\">\n\t\t\t\t\t<span>Postagens<\/span>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"posts-lists\" data-section-name=\"posts\"><\/div>\n\t\t\t<\/div>\n\t\t<\/div>\n\t\t<div class=\"ajax-taxonomy-list\">\n\t\t\t<div class=\"ajax-categories-columns\">\n\t\t\t\t<div class=\"clean-title heading-typo\">\n\t\t\t\t\t<span>Categorias<\/span>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"posts-lists\" data-section-name=\"categories\"><\/div>\n\t\t\t<\/div>\n\t\t\t<div class=\"ajax-tags-columns\">\n\t\t\t\t<div class=\"clean-title heading-typo\">\n\t\t\t\t\t<span>Tags<\/span>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"posts-lists\" data-section-name=\"tags\"><\/div>\n\t\t\t<\/div>\n\t\t<\/div>\n\t<\/div>\n<\/div>\n","full_width":"0"};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://escolaeducacao.com.br/wp-content/themes/publisher/js/theme.min.js?ver=7.11.0' id='publisher-js' defer></script>
+<script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://escolaeducacao.com.br/wp-content/plugins/better-adsmanager/js/advertising.min.js?ver=1.20.2' id='better-advertising-js' defer></script>
+<script type="rocketlazyloadscript">window.addEventListener('DOMContentLoaded', function() {
+var bulir=function(t){"use strict";return{init:function(){0==bulir.ads_state()&&bulir.blocked_ads_fallback()},ads_state:function(){return void 0!==window.better_ads_adblock},blocked_ads_fallback:function(){var a=[];t(".bulir-container").each(function(){if("image"==t(this).data("type"))return 0;a.push({element_id:t(this).attr("id"),ad_id:t(this).data("adid")})}),a.length<1||jQuery.ajax({url:'https://escolaeducacao.com.br/wp-admin/admin-ajax.php',type:"POST",data:{action:"better_ads_manager_blocked_fallback",ads:a},success:function(a){var e=JSON.parse(a);t.each(e.ads,function(a,e){t("#"+e.element_id).html(e.code)})}})}}}(jQuery);jQuery(document).ready(function(){bulir.init()});
+
+});</script>
+<script>window.lazyLoadOptions=[{elements_selector:"img[data-lazy-src],.rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:".rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://escolaeducacao.com.br/wp-content/plugins/wp-rocket/assets/js/lazyload/17.5/lazyload.min.js"></script>
+<script>"use strict";function wprRemoveCPCSS(){var preload_stylesheets=document.querySelectorAll('link[data-rocket-async="style"][rel="preload"]');if(preload_stylesheets&&0<preload_stylesheets.length)for(var stylesheet_index=0;stylesheet_index<preload_stylesheets.length;stylesheet_index++){var media=preload_stylesheets[stylesheet_index].getAttribute("media")||"all";if(window.matchMedia(media).matches)return void setTimeout(wprRemoveCPCSS,200)}var elem=document.getElementById("rocket-critical-css");elem&&"remove"in elem&&elem.remove()}window.addEventListener?window.addEventListener("load",wprRemoveCPCSS):window.attachEvent&&window.attachEvent("onload",wprRemoveCPCSS);</script><noscript><link data-minify="1" rel='stylesheet' id='fb_data_style-css'  href='https://escolaeducacao.com.br/wp-content/cache/min/1/wp-content/plugins/feedburner-form/control/fbstyle.css?ver=1670864133' type='text/css' media='all' /><link rel='stylesheet' id='wp-block-library-css'  href='https://escolaeducacao.com.br/wp-includes/css/dist/block-library/style.min.css?ver=5.9.2' type='text/css' media='all' /><link data-minify="1" rel='stylesheet' id='contact-form-7-css'  href='https://escolaeducacao.com.br/wp-content/cache/min/1/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=1670864133' type='text/css' media='all' /><link rel='stylesheet' id='bf-slick-css'  href='https://escolaeducacao.com.br/wp-content/themes/publisher/includes/libs/better-framework/assets/css/slick.min.css?ver=3.15.0' type='text/css' media='all' /><link rel='stylesheet' id='better-wp-embedder-pro-css'  href='https://escolaeducacao.com.br/wp-content/plugins/better-wp-embedder/assets/css/bwpe.min.css?ver=1.1.0' type='text/css' media='all' /><link data-minify="1" rel='stylesheet' id='bs-icons-css'  href='https://escolaeducacao.com.br/wp-content/cache/min/1/wp-content/themes/publisher/includes/libs/better-framework/assets/css/bs-icons.css?ver=1670864133' type='text/css' media='all' /><link rel='stylesheet' id='blockquote-pack-pro-css'  href='https://escolaeducacao.com.br/wp-content/plugins/blockquote-pack-pro/css/blockquote-pack.min.css?ver=1.3.3' type='text/css' media='all' /><link rel='stylesheet' id='smart-lists-pack-pro-css'  href='https://escolaeducacao.com.br/wp-content/plugins/smart-lists-pack-pro/css/smart-lists-pack.min.css?ver=1.4.2' type='text/css' media='all' /><link rel='stylesheet' id='pretty-photo-css'  href='https://escolaeducacao.com.br/wp-content/themes/publisher/includes/libs/better-framework/assets/css/pretty-photo.min.css?ver=3.15.0' type='text/css' media='all' /><link rel='stylesheet' id='theme-libs-css'  href='https://escolaeducacao.com.br/wp-content/themes/publisher/css/theme-libs.min.css?ver=7.11.0' type='text/css' media='all' /><link data-minify="1" rel='stylesheet' id='fontawesome-css'  href='https://escolaeducacao.com.br/wp-content/cache/min/1/wp-content/themes/publisher/includes/libs/better-framework/assets/css/font-awesome.min.css?ver=1670864133' type='text/css' media='all' /><link rel='stylesheet' id='publisher-css'  href='https://escolaeducacao.com.br/wp-content/themes/publisher/style-7.11.0.min.css?ver=7.11.0' type='text/css' media='all' /><link rel='stylesheet' id='publisher-child-css'  href='https://escolaeducacao.com.br/wp-content/themes/publisher-child/style.css?ver=1.0.0' type='text/css' media='all' /><link rel='stylesheet' id='publisher-theme-seo-news-css'  href='https://escolaeducacao.com.br/wp-content/themes/publisher/includes/styles/seo-news/style.min.css?ver=7.11.0' type='text/css' media='all' /></noscript></body>
+</html>

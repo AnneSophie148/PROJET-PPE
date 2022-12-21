@@ -1,0 +1,1269 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Google Tag Manager -->
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+            var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true;
+            j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl + '&gtm_auth=NsJH3Ts1-89I8lZURwQYmw&gtm_preview=env-1&gtm_cookies_win=x';
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-TFKV632');
+    </script>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+            var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true;
+            j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl + '&gtm_auth=jfKETtlWamfZ4l02YiFCQw&gtm_preview=env-1&gtm_cookies_win=x';
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-N279F7B');
+    </script>
+    <!-- End Google Tag Manager -->
+    <script src="https://unpkg.com/vue@2.6.14/dist/vue.min.js"></script>
+    <!--Snowplow Tag-->
+
+    <script type="text/javascript">
+            (function (p, l, o, w, i, n, g) {
+                if (!p[i]) {
+                    p.GlobalSnowplowNamespace = p.GlobalSnowplowNamespace || [];
+                    p.GlobalSnowplowNamespace.push(i); p[i] = function () { (p[i].q = p[i].q || []).push(arguments) }; p[i].q = p[i].q || [];
+                    n = l.createElement(o); g = l.getElementsByTagName(o)[0]; n.async = 1; n.src = w;
+                    g.parentNode.insertBefore(n, g)
+                }
+            }(window, document, "script", "https://cdnjs.cloudflare.com/ajax/libs/snowplow/2.18.2/sp.min.js", "snowplow"));
+
+            snowplow('newTracker', 'spTracker-inline-live', 'sp-live-collector.cdp.frontiersin.io', {
+                appId: '1',
+                eventMethod: 'post',
+                anonymousTracking: true,
+                stateStorageStrategy: 'none',
+                contexts: {
+                    webPage: true
+                }
+            });
+            snowplow('enableActivityTracking', 30, 10);
+            window.snowplow('trackPageView');
+            snowplow('enableAnonymousTracking', { withServerAnonymisation: true });
+            snowplow('clearUserData');
+            snowplow('setUserId', '0');
+    </script>
+    <!--End Snowplow Tag-->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" /><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"598a124f17","applicationID":"3007887","transactionName":"MQcDMkECCkNSW0YMWghNLDBwTCVCR1FRCVAlDQ8SQQwIXFZKHSNACg41A0sXJkl3d3s=","queueTime":0,"applicationTime":270,"agent":"","atts":""}</script><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={xpid:"VgUHUl5WGwAAVFZaDwY=",licenseKey:"598a124f17",applicationID:"3007887"};/*! For license information please see nr-loader-full-1220.min.js.LICENSE.txt */
+!function(t,e){"object"==typeof exports&&"object"==typeof module?module.exports=e():"function"==typeof define&&define.amd?define([],e):"object"==typeof exports?exports.NRBA=e():t.NRBA=e()}(self,(function(){return function(){var t,e,n={9034:function(t,e,n){"use strict";var r=n(4168);e.Z=(0,r.ky)(16)},5973:function(t,e,n){"use strict";n.d(e,{I:function(){return r}});var r=0,i=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);i&&(r=+i[1])},4280:function(t,e,n){"use strict";n.d(e,{H:function(){return i}});var r=document.createElement("div");r.innerHTML="\x3c!--[if lte IE 6]><div></div><![endif]--\x3e\x3c!--[if lte IE 7]><div></div><![endif]--\x3e\x3c!--[if lte IE 8]><div></div><![endif]--\x3e\x3c!--[if lte IE 9]><div></div><![endif]--\x3e";var i,o=r.getElementsByTagName("div").length;i=4===o?6:3===o?7:2===o?8:1===o?9:0},5955:function(t,e,n){"use strict";n.d(e,{I:function(){return r}});var r=function(t,e){var n=this;return t&&"object"==typeof t?e&&"object"==typeof e?(Object.assign(this,e),void Object.entries(t).forEach((function(t){var e=t[0],r=t[1];n[e]=r}))):console.error("setting a Configurable requires a model to set its initial properties"):console.error("setting a Configurable requires an object as input")}},441:function(t,e,n){"use strict";n.d(e,{C:function(){return c},L:function(){return u}});var r=n(1424),i=n(5955),o={beacon:r.ce.beacon,errorBeacon:r.ce.errorBeacon,licenseKey:void 0,applicationID:void 0,sa:void 0,queueTime:void 0,applicationTime:void 0,ttGuid:void 0,user:void 0,account:void 0,product:void 0,extra:void 0,jsAttributes:{},userAttributes:void 0,atts:void 0,transactionName:void 0,tNamePlain:void 0},a={};function c(t){if(!t)throw new Error("All info objects require an agent identifier!");if(!a[t])throw new Error("Info for "+t+" was never set");return a[t]}function u(t,e){if(!t)throw new Error("All info objects require an agent identifier!");a[t]=new i.I(e,o),(0,r.Qy)(t,a[t],"info")}},1476:function(t,e,n){"use strict";n.d(e,{Dg:function(){return u},Mt:function(){return s},P_:function(){return c}});var r=n(1424),i=n(5955),o={privacy:{cookies_enabled:!0},ajax:{deny_list:void 0,enabled:!0},distributed_tracing:{enabled:void 0,exclude_newrelic_header:void 0,cors_use_newrelic_header:void 0,cors_use_tracecontext_headers:void 0,allowed_origins:void 0},ssl:void 0,obfuscate:void 0,jserrors:{enabled:!0},metrics:{enabled:!0},page_action:{enabled:!0},page_view_event:{enabled:!0},page_view_timing:{enabled:!0},session_trace:{enabled:!0},spa:{enabled:!0}},a={};function c(t){if(!t)throw new Error("All configuration objects require an agent identifier!");if(!a[t])throw new Error("Configuration for "+t+" was never set");return a[t]}function u(t,e){if(!t)throw new Error("All configuration objects require an agent identifier!");a[t]=new i.I(e,o),(0,r.Qy)(t,a[t],"config")}function s(t,e){if(!t)throw new Error("All configuration objects require an agent identifier!");var n=c(t);if(n){for(var r=e.split("."),i=0;i<r.length-1;i++)if("object"!=typeof(n=n[r[i]]))return;n=n[r[r.length-1]]}return n}},2085:function(t,e,n){"use strict";n.d(e,{Y:function(){return r}});var r=(0,n(1424).mF)().o},1220:function(t,e,n){"use strict";n.d(e,{O:function(){return b},s:function(){return O}});var r={};n.r(r),n.d(r,{agent:function(){return a},match:function(){return f},version:function(){return c}});var i=n(4280),o=n(6959),a=null,c=null;if(navigator.userAgent){var u=navigator.userAgent,s=u.match(/Version\/(\S+)\s+Safari/);s&&-1===u.indexOf("Chrome")&&-1===u.indexOf("Chromium")&&(a="Safari",c=s[1])}function f(t,e){if(!a)return!1;if(t!==a)return!1;if(!e)return!0;if(!c)return!1;for(var n=c.split("."),r=e.split("."),i=0;i<r.length;i++)if(r[i]!==n[i])return!1;return!0}var d=n(5955),l=n(1424),p=n(4168),h=window.sessionStorage,v="NRBA_SESSION_ID";var g=n(1476),m=window.XMLHttpRequest,y=m&&m.prototype,w={};function b(t){if(!t)throw new Error("All runtime objects require an agent identifier!");if(!w[t])throw new Error("Runtime for "+t+" was never set");return w[t]}function O(t,e){if(!t)throw new Error("All runtime objects require an agent identifier!");var n,a;w[t]=new d.I(e,(n=t,{customTransaction:void 0,disabled:!1,features:{},maxBytes:6===i.H?2e3:3e4,offset:(0,o.yf)(),onerror:void 0,origin:""+window.location,ptid:void 0,releaseIds:{},sessionId:!0===(0,g.Mt)(n,"privacy.cookies_enabled")?(null===(a=h.getItem(v))&&(a=(0,p.ky)(16),h.setItem(v,a)),a):"0",xhrWrappable:m&&y&&y.addEventListener&&!/CriOS/.test(navigator.userAgent),userAgent:r})),(0,l.Qy)(t,w[t],"runtime")}},158:function(t,e,n){"use strict";n.d(e,{q:function(){return r}});var r=["1220","PROD"].filter((function(t){return t})).join(".")},3707:function(t,e,n){"use strict";n.d(e,{w:function(){return i}});var r={agentIdentifier:""},i=function(t){var e=this;if("object"!=typeof t)return console.error("shared context requires an object as input");this.sharedContext={},Object.assign(this.sharedContext,r),Object.entries(t).forEach((function(t){var n=t[0],i=t[1];Object.keys(r).includes(n)&&(e.sharedContext[n]=i)}))}},1776:function(t,e,n){"use strict";n.d(e,{ee:function(){return r}});var r,i=n(1424),o=n(4217),a=n(357),c="nr@context",u=(0,i.fP)();function s(){}function f(){return new s}function d(){(r.backlog.api||r.backlog.feature)&&(r.aborted=!0,r.backlog={})}u.ee?r=u.ee:(r=function t(e,n){var i={},u={},l={},p={on:g,addEventListener:g,removeEventListener:m,emit:v,get:w,listeners:y,context:h,buffer:b,abort:d,aborted:!1,isBuffering:O,debugId:n,backlog:e&&e.backlog?e.backlog:{}};return p;function h(t){return t&&t instanceof s?t:t?(0,o.X)(t,c,f):f()}function v(t,n,i,o,a){if(!1!==a&&(a=!0),!r.aborted||o){e&&a&&e.emit(t,n,i);for(var c=h(i),s=y(t),f=s.length,d=0;d<f;d++)s[d].apply(c,n);var l=x()[u[t]];return l&&l.push([p,t,n,c]),c}}function g(t,e){i[t]=y(t).concat(e)}function m(t,e){var n=i[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function y(t){return i[t]||[]}function w(e){return l[e]=l[e]||t(p,e)}function b(t,e){var n=x();p.aborted||(0,a.D)(t,(function(t,r){e=e||"feature",u[r]=e,e in n||(n[e]=[])}))}function O(t){return!!x()[u[t]]}function x(){return p.backlog}}(void 0,"globalEE"),u.ee=r)},7361:function(t,e,n){"use strict";n.d(e,{E:function(){return r},p:function(){return i}});var r=n(1776).ee.get("handle");function i(t,e,n,i,o){o?(o.buffer([t],i),o.emit(t,e,n)):(r.buffer([t],i),r.emit(t,e,n))}},3350:function(t,e,n){"use strict";n.d(e,{X:function(){return o}});var r=n(7361);o.on=a;var i=o.handlers={};function o(t,e,n,o){a(o||r.E,i,t,e,n)}function a(t,e,n,i,o){o||(o="feature"),t||(t=r.E);var a=e[o]=e[o]||{};(a[n]=a[n]||[]).push([t,i])}},4408:function(t,e,n){"use strict";n.d(e,{m:function(){return o}});var r=!1;try{var i=Object.defineProperty({},"passive",{get:function(){r=!0}});window.addEventListener("testPassive",null,i),window.removeEventListener("testPassive",null,i)}catch(t){}function o(t){return r?{passive:!0,capture:!!t}:!!t}},4168:function(t,e,n){"use strict";function r(){var t=null,e=0,n=window.crypto||window.msCrypto;function r(){return t?15&t[e++]:16*Math.random()|0}n&&n.getRandomValues&&(t=n.getRandomValues(new Uint8Array(31)));for(var i,o="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",c=0;c<o.length;c++)a+="x"===(i=o[c])?r().toString(16):"y"===i?(i=3&r()|8).toString(16):i;return a}function i(){return a(16)}function o(){return a(32)}function a(t){var e=null,n=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&Uint8Array&&(e=r.getRandomValues(new Uint8Array(31)));for(var i=[],o=0;o<t;o++)i.push(a().toString(16));return i.join("");function a(){return e?15&e[n++]:16*Math.random()|0}}n.d(e,{Ht:function(){return o},M:function(){return i},Rl:function(){return r},ky:function(){return a}})},6959:function(t,e,n){"use strict";n.d(e,{nb:function(){return u},os:function(){return s},yf:function(){return c},zO:function(){return a}});var r=n(2364),i=(new Date).getTime(),o=i;function a(){return r.G&&performance.now?Math.round(performance.now()):(i=Math.max((new Date).getTime(),i))-o}function c(){return i}function u(t){o=t}function s(){return o}},2364:function(t,e,n){"use strict";n.d(e,{G:function(){return r}});var r=void 0!==window.performance&&window.performance.timing&&void 0!==window.performance.timing.navigationStart},1793:function(t,e,n){"use strict";function r(t){var e,n=0;for(e=0;e<t.length;e++)n+=(e+1)*t.charCodeAt(e);return Math.abs(n)}n.d(e,{v:function(){return s},s:function(){return u}});var i=n(6972),o=n(5973),a=n(6959),c=n(2364),u=!0;function s(t){var e=function(){if(o.I&&o.I<9)return;if(c.G)return u=!1,window.performance.timing.navigationStart}()||function(){for(var t=document.cookie.split(" "),e=0;e<t.length;e++)if(0===t[e].indexOf("NREUM=")){for(var n,i,o,a,c=t[e].substring("NREUM=".length).split("&"),u=0;u<c.length;u++)0===c[u].indexOf("s=")?o=c[u].substring(2):0===c[u].indexOf("p=")?";"===(i=c[u].substring(2)).charAt(i.length-1)&&(i=i.substr(0,i.length-1)):0===c[u].indexOf("r=")&&";"===(n=c[u].substring(2)).charAt(n.length-1)&&(n=n.substr(0,n.length-1));if(n){var s=r(document.referrer);(a=s==n)||(a=r(document.location.href)==n&&s==i)}if(a&&o){if((new Date).getTime()-o>6e4)return;return o}}}();e&&((0,i.B)(t,"starttime",e),(0,a.nb)(e))}},6972:function(t,e,n){"use strict";n.d(e,{B:function(){return o},L:function(){return a}});var r=n(6959),i={};function o(t,e,n){void 0===n&&(n=(0,r.zO)()+(0,r.os)()),i[t]=i[t]||{},i[t][e]=n}function a(t,e,n,r){var o,a,c=t.sharedContext.agentIdentifier,u=null==(o=i[c])?void 0:o[n],s=null==(a=i[c])?void 0:a[r];void 0!==u&&void 0!==s&&t.store("measures",e,{value:s-u})}},7001:function(t,e,n){"use strict";n.d(e,{e:function(){return i}});var r={};function i(t){if(t in r)return r[t];if(0===(t||"").indexOf("data:"))return{protocol:"data"};var e=document.createElement("a"),n=window.location,i={};e.href=t,i.port=e.port;var o=e.href.split("://");!i.port&&o[1]&&(i.port=o[1].split("/")[0].split("@").pop().split(":")[1]),i.port&&"0"!==i.port||(i.port="https"===o[0]?"443":"80"),i.hostname=e.hostname||n.hostname,i.pathname=e.pathname,i.protocol=o[0],"/"!==i.pathname.charAt(0)&&(i.pathname="/"+i.pathname);var a=!e.protocol||":"===e.protocol||e.protocol===n.protocol,c=e.hostname===document.domain&&e.port===n.port;return i.sameOrigin=a&&(!e.hostname||c),"/"===i.pathname&&(r[t]=i),i}},7299:function(t,e,n){"use strict";n.d(e,{T:function(){return a}});var r=window,i=r;function o(){return i}var a={isFileProtocol:function(){var t=o(),e=!(!t.location||!t.location.protocol||"file:"!==t.location.protocol);e&&(a.supportabilityMetricSent=!0);return e},supportabilityMetricSent:!1}},847:function(t,e,n){"use strict";n.d(e,{K:function(){return a}});var r=n(1220),i=n(1476),o=["ajax","jserrors","metrics","page_action","page_view_event","page_view_timing","session_trace","spa"];function a(t){var e={};return o.forEach((function(n){e[n]=function(t,e){return!0!==(0,r.O)(e).disabled&&!1!==(0,i.Mt)(e,t+".enabled")}(n,t)})),e}},5023:function(t,e,n){"use strict";n.d(e,{W:function(){return i}});var r=n(1776),i=function(t,e,n){void 0===n&&(n=[]),this.agentIdentifier=t,this.aggregator=e,this.ee=r.ee.get(t),this.externalFeatures=n}},4217:function(t,e,n){"use strict";n.d(e,{X:function(){return i}});var r=Object.prototype.hasOwnProperty;function i(t,e,n){if(r.call(t,e))return t[e];var i=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:i,writable:!0,enumerable:!1}),i}catch(t){}return t[e]=i,i}},357:function(t,e,n){"use strict";n.d(e,{D:function(){return i}});var r=Object.prototype.hasOwnProperty;function i(t,e){var n=[],i="",o=0;for(i in t)r.call(t,i)&&(n[o]=e(i,t[i]),o+=1);return n}},603:function(t,e,n){"use strict";n.d(e,{$c:function(){return s},Ng:function(){return f},RR:function(){return u}});var r=n(1476),i=n(3707),o=n(7299);function a(t,e){return a=Object.setPrototypeOf?Object.setPrototypeOf.bind():function(t,e){return t.__proto__=e,t},a(t,e)}var c={regex:/^file:\/\/(.*)/,replacement:"file://OBFUSCATED"},u=function(t){var e,n;function r(e){return t.call(this,e)||this}n=t,(e=r).prototype=Object.create(n.prototype),e.prototype.constructor=e,a(e,n);var i=r.prototype;return i.shouldObfuscate=function(){return s(this.sharedContext.agentIdentifier).length>0},i.obfuscateString=function(t){if(!t||"string"!=typeof t)return t;for(var e=s(this.sharedContext.agentIdentifier),n=t,r=0;r<e.length;r++){var i=e[r].regex,o=e[r].replacement||"*";n=n.replace(i,o)}return n},r}(i.w);function s(t){var e=[],n=(0,r.Mt)(t,"obfuscate")||[];return e=e.concat(n),o.T.isFileProtocol()&&e.push(c),e}function f(t){for(var e=!1,n=!1,r=0;r<t.length;r++){"regex"in t[r]?"string"!=typeof t[r].regex&&t[r].regex.constructor!==RegExp&&(console&&console.warn&&console.warn('An obfuscation replacement rule contains a "regex" value with an invalid type (must be a string or RegExp)'),n=!0):(console&&console.warn&&console.warn('An obfuscation replacement rule was detected missing a "regex" value.'),n=!0);var i=t[r].replacement;i&&"string"!=typeof i&&(console&&console.warn&&console.warn('An obfuscation replacement rule contains a "replacement" value with an invalid type (must be a string)'),e=!0)}return!e&&!n}},1424:function(t,e,n){"use strict";n.d(e,{EZ:function(){return u},Qy:function(){return c},ce:function(){return i},fP:function(){return o},gG:function(){return s},mF:function(){return a}});var r=n(6959),i={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net"};function o(){return window.NREUM||(window.NREUM={}),void 0===window.newrelic&&(window.newrelic=window.NREUM),window.NREUM}function a(){var t=o();if(!t.o){var e=window,n=e.XMLHttpRequest;t.o={ST:setTimeout,SI:e.setImmediate,CT:clearTimeout,XHR:n,REQ:e.Request,EV:e.Event,PR:e.Promise,MO:e.MutationObserver,FETCH:e.fetch}}return t}function c(t,e,n){var i,a,c=o(),u=c.initializedAgents||{},s=u[t]||{};return Object.keys(s).length||(s.initializedAt={ms:(0,r.zO)(),date:new Date}),c.initializedAgents=Object.assign({},u,((a={})[t]=Object.assign({},s,((i={})[n]=e,i)),a)),c}function u(t,e){o()[t]=e}function s(){var t,e;return t=o(),e=t.info||{},t.info=Object.assign({beacon:i.beacon,errorBeacon:i.errorBeacon},e),function(){var t=o(),e=t.init||{};t.init=Object.assign({},e)}(),a(),function(){var t=o(),e=t.loader_config||{};t.loader_config=Object.assign({},e)}(),o()}},5098:function(t,e,n){"use strict";function r(){return"PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver}n.d(e,{W:function(){return r}})},8539:function(t){t.exports=function(t,e,n){e||(e=0),void 0===n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}},8118:function(t){t.exports=function(t,e,n){e||(e=0),void 0===n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}}},r={};function i(t){var e=r[t];if(void 0!==e)return e.exports;var o=r[t]={exports:{}};return n[t](o,o.exports,i),o.exports}i.m=n,i.n=function(t){var e=t&&t.__esModule?function(){return t.default}:function(){return t};return i.d(e,{a:e}),e},i.d=function(t,e){for(var n in e)i.o(e,n)&&!i.o(t,n)&&Object.defineProperty(t,n,{enumerable:!0,get:e[n]})},i.f={},i.e=function(t){return Promise.all(Object.keys(i.f).reduce((function(e,n){return i.f[n](t,e),e}),[]))},i.u=function(t){return t+"."+i.h().slice(0,8)+"-1220.js"},i.h=function(){return"2d6a2503b7f18a5b77dd"},i.o=function(t,e){return Object.prototype.hasOwnProperty.call(t,e)},t={},e="NRBA:",i.l=function(n,r,o,a){if(t[n])t[n].push(r);else{var c,u;if(void 0!==o)for(var s=document.getElementsByTagName("script"),f=0;f<s.length;f++){var d=s[f];if(d.getAttribute("src")==n||d.getAttribute("data-webpack")==e+o){c=d;break}}c||(u=!0,(c=document.createElement("script")).charset="utf-8",c.timeout=120,i.nc&&c.setAttribute("nonce",i.nc),c.setAttribute("data-webpack",e+o),c.src=n),t[n]=[r];var l=function(e,r){c.onerror=c.onload=null,clearTimeout(p);var i=t[n];if(delete t[n],c.parentNode&&c.parentNode.removeChild(c),i&&i.forEach((function(t){return t(r)})),e)return e(r)},p=setTimeout(l.bind(null,void 0,{type:"timeout",target:c}),12e4);c.onerror=l.bind(null,c.onerror),c.onload=l.bind(null,c.onload),u&&document.head.appendChild(c)}},i.r=function(t){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(t,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(t,"__esModule",{value:!0})},i.p="https://js-agent.newrelic.com/",function(){var t={908:0,172:0};i.f.j=function(e,n){var r=i.o(t,e)?t[e]:void 0;if(0!==r)if(r)n.push(r[2]);else{var o=new Promise((function(n,i){r=t[e]=[n,i]}));n.push(r[2]=o);var a=i.p+i.u(e),c=new Error;i.l(a,(function(n){if(i.o(t,e)&&(0!==(r=t[e])&&(t[e]=void 0),r)){var o=n&&("load"===n.type?"missing":n.type),a=n&&n.target&&n.target.src;c.message="Loading chunk "+e+" failed.\n("+o+": "+a+")",c.name="ChunkLoadError",c.type=o,c.request=a,r[1](c)}}),"chunk-"+e,e)}};var e=function(e,n){var r,o,a=n[0],c=n[1],u=n[2],s=0;if(a.some((function(e){return 0!==t[e]}))){for(r in c)i.o(c,r)&&(i.m[r]=c[r]);if(u)u(i)}for(e&&e(n);s<a.length;s++)o=a[s],i.o(t,o)&&t[o]&&t[o][0](),t[o]=0},n=self.webpackChunkNRBA=self.webpackChunkNRBA||[];n.forEach(e.bind(null,0)),n.push=e.bind(null,n.push.bind(n))}();var o={};return function(){"use strict";i.r(o);var t=i(9034),e=i(4408),n=window,r=n.document;function a(t){"complete"===r.readyState&&t()}function c(t){a(t),r.addEventListener?n.addEventListener("load",t,(0,e.m)(!1)):n.attachEvent("onload",t)}function u(t){a(t),r.addEventListener?r.addEventListener("DOMContentLoaded",t,(0,e.m)(!1)):r.attachEvent("onreadystatechange",a)}var s=i(1776);function f(){f=function(){return t};var t={},e=Object.prototype,n=e.hasOwnProperty,r="function"==typeof Symbol?Symbol:{},i=r.iterator||"@@iterator",o=r.asyncIterator||"@@asyncIterator",a=r.toStringTag||"@@toStringTag";function c(t,e,n){return Object.defineProperty(t,e,{value:n,enumerable:!0,configurable:!0,writable:!0}),t[e]}try{c({},"")}catch(t){c=function(t,e,n){return t[e]=n}}function u(t,e,n,r){var i=e&&e.prototype instanceof l?e:l,o=Object.create(i.prototype),a=new j(r||[]);return o._invoke=function(t,e,n){var r="suspendedStart";return function(i,o){if("executing"===r)throw new Error("Generator is already running");if("completed"===r){if("throw"===i)throw o;return P()}for(n.method=i,n.arg=o;;){var a=n.delegate;if(a){var c=O(a,n);if(c){if(c===d)continue;return c}}if("next"===n.method)n.sent=n._sent=n.arg;else if("throw"===n.method){if("suspendedStart"===r)throw r="completed",n.arg;n.dispatchException(n.arg)}else"return"===n.method&&n.abrupt("return",n.arg);r="executing";var u=s(t,e,n);if("normal"===u.type){if(r=n.done?"completed":"suspendedYield",u.arg===d)continue;return{value:u.arg,done:n.done}}"throw"===u.type&&(r="completed",n.method="throw",n.arg=u.arg)}}}(t,n,a),o}function s(t,e,n){try{return{type:"normal",arg:t.call(e,n)}}catch(t){return{type:"throw",arg:t}}}t.wrap=u;var d={};function l(){}function p(){}function h(){}var v={};c(v,i,(function(){return this}));var g=Object.getPrototypeOf,m=g&&g(g(_([])));m&&m!==e&&n.call(m,i)&&(v=m);var y=h.prototype=l.prototype=Object.create(v);function w(t){["next","throw","return"].forEach((function(e){c(t,e,(function(t){return this._invoke(e,t)}))}))}function b(t,e){function r(i,o,a,c){var u=s(t[i],t,o);if("throw"!==u.type){var f=u.arg,d=f.value;return d&&"object"==typeof d&&n.call(d,"__await")?e.resolve(d.__await).then((function(t){r("next",t,a,c)}),(function(t){r("throw",t,a,c)})):e.resolve(d).then((function(t){f.value=t,a(f)}),(function(t){return r("throw",t,a,c)}))}c(u.arg)}var i;this._invoke=function(t,n){function o(){return new e((function(e,i){r(t,n,e,i)}))}return i=i?i.then(o,o):o()}}function O(t,e){var n=t.iterator[e.method];if(void 0===n){if(e.delegate=null,"throw"===e.method){if(t.iterator.return&&(e.method="return",e.arg=void 0,O(t,e),"throw"===e.method))return d;e.method="throw",e.arg=new TypeError("The iterator does not provide a 'throw' method")}return d}var r=s(n,t.iterator,e.arg);if("throw"===r.type)return e.method="throw",e.arg=r.arg,e.delegate=null,d;var i=r.arg;return i?i.done?(e[t.resultName]=i.value,e.next=t.nextLoc,"return"!==e.method&&(e.method="next",e.arg=void 0),e.delegate=null,d):i:(e.method="throw",e.arg=new TypeError("iterator result is not an object"),e.delegate=null,d)}function x(t){var e={tryLoc:t[0]};1 in t&&(e.catchLoc=t[1]),2 in t&&(e.finallyLoc=t[2],e.afterLoc=t[3]),this.tryEntries.push(e)}function E(t){var e=t.completion||{};e.type="normal",delete e.arg,t.completion=e}function j(t){this.tryEntries=[{tryLoc:"root"}],t.forEach(x,this),this.reset(!0)}function _(t){if(t){var e=t[i];if(e)return e.call(t);if("function"==typeof t.next)return t;if(!isNaN(t.length)){var r=-1,o=function e(){for(;++r<t.length;)if(n.call(t,r))return e.value=t[r],e.done=!1,e;return e.value=void 0,e.done=!0,e};return o.next=o}}return{next:P}}function P(){return{value:void 0,done:!0}}return p.prototype=h,c(y,"constructor",h),c(h,"constructor",p),p.displayName=c(h,a,"GeneratorFunction"),t.isGeneratorFunction=function(t){var e="function"==typeof t&&t.constructor;return!!e&&(e===p||"GeneratorFunction"===(e.displayName||e.name))},t.mark=function(t){return Object.setPrototypeOf?Object.setPrototypeOf(t,h):(t.__proto__=h,c(t,a,"GeneratorFunction")),t.prototype=Object.create(y),t},t.awrap=function(t){return{__await:t}},w(b.prototype),c(b.prototype,o,(function(){return this})),t.AsyncIterator=b,t.async=function(e,n,r,i,o){void 0===o&&(o=Promise);var a=new b(u(e,n,r,i),o);return t.isGeneratorFunction(n)?a:a.next().then((function(t){return t.done?t.value:a.next()}))},w(y),c(y,a,"Generator"),c(y,i,(function(){return this})),c(y,"toString",(function(){return"[object Generator]"})),t.keys=function(t){var e=[];for(var n in t)e.push(n);return e.reverse(),function n(){for(;e.length;){var r=e.pop();if(r in t)return n.value=r,n.done=!1,n}return n.done=!0,n}},t.values=_,j.prototype={constructor:j,reset:function(t){if(this.prev=0,this.next=0,this.sent=this._sent=void 0,this.done=!1,this.delegate=null,this.method="next",this.arg=void 0,this.tryEntries.forEach(E),!t)for(var e in this)"t"===e.charAt(0)&&n.call(this,e)&&!isNaN(+e.slice(1))&&(this[e]=void 0)},stop:function(){this.done=!0;var t=this.tryEntries[0].completion;if("throw"===t.type)throw t.arg;return this.rval},dispatchException:function(t){if(this.done)throw t;var e=this;function r(n,r){return a.type="throw",a.arg=t,e.next=n,r&&(e.method="next",e.arg=void 0),!!r}for(var i=this.tryEntries.length-1;i>=0;--i){var o=this.tryEntries[i],a=o.completion;if("root"===o.tryLoc)return r("end");if(o.tryLoc<=this.prev){var c=n.call(o,"catchLoc"),u=n.call(o,"finallyLoc");if(c&&u){if(this.prev<o.catchLoc)return r(o.catchLoc,!0);if(this.prev<o.finallyLoc)return r(o.finallyLoc)}else if(c){if(this.prev<o.catchLoc)return r(o.catchLoc,!0)}else{if(!u)throw new Error("try statement without catch or finally");if(this.prev<o.finallyLoc)return r(o.finallyLoc)}}}},abrupt:function(t,e){for(var r=this.tryEntries.length-1;r>=0;--r){var i=this.tryEntries[r];if(i.tryLoc<=this.prev&&n.call(i,"finallyLoc")&&this.prev<i.finallyLoc){var o=i;break}}o&&("break"===t||"continue"===t)&&o.tryLoc<=e&&e<=o.finallyLoc&&(o=null);var a=o?o.completion:{};return a.type=t,a.arg=e,o?(this.method="next",this.next=o.finallyLoc,d):this.complete(a)},complete:function(t,e){if("throw"===t.type)throw t.arg;return"break"===t.type||"continue"===t.type?this.next=t.arg:"return"===t.type?(this.rval=this.arg=t.arg,this.method="return",this.next="end"):"normal"===t.type&&e&&(this.next=e),d},finish:function(t){for(var e=this.tryEntries.length-1;e>=0;--e){var n=this.tryEntries[e];if(n.finallyLoc===t)return this.complete(n.completion,n.afterLoc),E(n),d}},catch:function(t){for(var e=this.tryEntries.length-1;e>=0;--e){var n=this.tryEntries[e];if(n.tryLoc===t){var r=n.completion;if("throw"===r.type){var i=r.arg;E(n)}return i}}throw new Error("illegal catch attempt")},delegateYield:function(t,e,n){return this.delegate={iterator:_(t),resultName:e,nextLoc:n},"next"===this.method&&(this.arg=void 0),d}},t}function d(t,e,n,r,i,o,a){try{var c=t[o](a),u=c.value}catch(t){return void n(t)}c.done?e(u):Promise.resolve(u).then(r,i)}var l=0;function p(t){var e;(e=f().mark((function e(){var n,r;return f().wrap((function(e){for(;;)switch(e.prev=e.next){case 0:if(!l++){e.next=2;break}return e.abrupt("return");case 2:return e.prev=2,e.next=5,i.e(552).then(i.bind(i,5552));case 5:return n=e.sent,r=n.aggregator,e.next=9,r(t);case 9:e.next=15;break;case 11:e.prev=11,e.t0=e.catch(2),console.error("Failed to successfully load all aggregators. Aborting...\n",e.t0),s.ee.abort();case 15:case"end":return e.stop()}}),e,null,[[2,11]])})),function(){var t=this,n=arguments;return new Promise((function(r,i){var o=e.apply(t,n);function a(t){d(o,r,i,a,c,"next",t)}function c(t){d(o,r,i,a,c,"throw",t)}a(void 0)}))})()}var h=i(8539),v=i.n(h),g=i(1424),m=i(1220),y=i(441),w=i(7361),b=i(357),O=i(6959);var x=i(1476),E=i(5955),j={accountID:void 0,trustKey:void 0,agentID:void 0,licenseKey:void 0,applicationID:void 0,xpid:void 0},_={};function P(t){if(!t)throw new Error("All loader-config objects require an agent identifier!");if(!_[t])throw new Error("LoaderConfig for "+t+" was never set");return _[t]}var T=!1;var S=i(6972),L=i(1793),C=i(5023);function I(t,e){return I=Object.setPrototypeOf?Object.setPrototypeOf.bind():function(t,e){return t.__proto__=e,t},I(t,e)}var A,R,k,H=function(t){var e,n;function r(e){var n;return n=t.call(this,e)||this,(0,L.v)(e),(0,S.B)(e,"firstbyte",(0,O.yf)()),c((function(){return n.measureWindowLoaded()})),u((function(){return n.measureDomContentLoaded()})),n}n=t,(e=r).prototype=Object.create(n.prototype),e.prototype.constructor=e,I(e,n);var i=r.prototype;return i.measureWindowLoaded=function(){var t=(0,O.zO)();(0,S.B)(this.agentIdentifier,"onload",t+(0,O.os)()),(0,w.p)("timing",["load",t],void 0,void 0,this.ee)},i.measureDomContentLoaded=function(){(0,S.B)(this.agentIdentifier,"domContent",(0,O.zO)()+(0,O.os)())},r}(C.W);void 0!==document.hidden?(A="hidden",R="visibilitychange",k="visibilityState"):void 0!==document.msHidden?(A="msHidden",R="msvisibilitychange"):void 0!==document.webkitHidden&&(A="webkitHidden",R="webkitvisibilitychange",k="webkitVisibilityState");var z=i(2085);function N(t,e){return N=Object.setPrototypeOf?Object.setPrototypeOf.bind():function(t,e){return t.__proto__=e,t},N(t,e)}var M=function(t){var n,r;function i(n){var r,i;if((r=t.call(this,n)||this).pageHiddenTime="hidden"===document.visibilityState?-1:1/0,r.performanceObserver,r.lcpPerformanceObserver,r.clsPerformanceObserver,r.fiRecorded=!1,!r.isEnabled())return function(t){if(void 0===t)throw new ReferenceError("this hasn't been initialised - super() hasn't been called");return t}(r);if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){r.performanceObserver=new PerformanceObserver((function(){var t;return(t=r).perfObserver.apply(t,arguments)}));try{r.performanceObserver.observe({entryTypes:["paint"]})}catch(t){}r.lcpPerformanceObserver=new PerformanceObserver((function(){var t;return(t=r).lcpObserver.apply(t,arguments)}));try{r.lcpPerformanceObserver.observe({entryTypes:["largest-contentful-paint"]})}catch(t){}r.clsPerformanceObserver=new PerformanceObserver((function(){var t;return(t=r).clsObserver.apply(t,arguments)}));try{r.clsPerformanceObserver.observe({type:"layout-shift",buffered:!0})}catch(t){}}if("addEventListener"in document){r.fiRecorded=!1;["click","keydown","mousedown","pointerdown","touchstart"].forEach((function(t){document.addEventListener(t,(function(){var t;return(t=r).captureInteraction.apply(t,arguments)}),(0,e.m)(!1))}))}return i=function(){var t;return(t=r).captureVisibilityChange.apply(t,arguments)},"addEventListener"in document&&R&&document.addEventListener(R,(function(){k&&document[k]?i(document[k]):document[A]?i("hidden"):i("visible")}),(0,e.m)(!1)),r}r=t,(n=i).prototype=Object.create(r.prototype),n.prototype.constructor=n,N(n,r);var o=i.prototype;return o.isEnabled=function(){return!1!==(0,x.Mt)(this.agentIdentifier,"page_view_timing.enabled")},o.perfObserver=function(t,e){var n=this;t.getEntries().forEach((function(t){"first-paint"===t.name?(0,w.p)("timing",["fp",Math.floor(t.startTime)],void 0,void 0,n.ee):"first-contentful-paint"===t.name&&(0,w.p)("timing",["fcp",Math.floor(t.startTime)],void 0,void 0,n.ee)}))},o.lcpObserver=function(t,e){var n=t.getEntries();if(n.length>0){var r=n[n.length-1];if(this.pageHiddenTime<r.startTime)return;var i=[r],o=this.addConnectionAttributes({});o&&i.push(o),(0,w.p)("lcp",i,void 0,void 0,this.ee)}},o.clsObserver=function(t){var e=this;t.getEntries().forEach((function(t){t.hadRecentInput||(0,w.p)("cls",[t],void 0,void 0,e.ee)}))},o.addConnectionAttributes=function(t){var e=navigator.connection||navigator.mozConnection||navigator.webkitConnection;if(e)return e.type&&(t["net-type"]=e.type),e.effectiveType&&(t["net-etype"]=e.effectiveType),e.rtt&&(t["net-rtt"]=e.rtt),e.downlink&&(t["net-dlink"]=e.downlink),t},o.captureInteraction=function(t){if(t instanceof z.Y.EV&&!this.fiRecorded){var e=Math.round(t.timeStamp),n={type:t.type};this.addConnectionAttributes(n),e<=(0,O.zO)()?n.fid=(0,O.zO)()-e:e>(0,O.os)()&&e<=Date.now()?(e-=(0,O.os)(),n.fid=(0,O.zO)()-e):e=(0,O.zO)(),this.fiRecorded=!0,(0,w.p)("timing",["fi",e,n],void 0,void 0,this.ee)}},o.captureVisibilityChange=function(t){"hidden"===t&&(this.pageHiddenTime=(0,O.zO)(),(0,w.p)("pageHide",[this.pageHiddenTime],void 0,void 0,this.ee))},i}(C.W),q=i(3350),D="React",B="Angular",F="AngularJS",G="Backbone",U="Ember",X="Vue",Z="Meteor",V="Zepto",W="Jquery";function Y(){var t=[];try{(function(){try{if(window.React||window.ReactDOM||window.ReactRedux)return!0;if(document.querySelector("[data-reactroot], [data-reactid]"))return!0;for(var t=document.querySelectorAll("body > div"),e=0;e<t.length;e++)if(Object.keys(t[e]).indexOf("_reactRootContainer")>=0)return!0;return!1}catch(t){return!1}})()&&t.push(D),function(){try{return!!window.angular||(!!document.querySelector(".ng-binding, [ng-app], [data-ng-app], [ng-controller], [data-ng-controller], [ng-repeat], [data-ng-repeat]")||!!document.querySelector('script[src*="angular.js"], script[src*="angular.min.js"]'))}catch(t){return!1}}()&&t.push(F),function(){try{return!!(window.hasOwnProperty("ng")&&window.ng.hasOwnProperty("coreTokens")&&window.ng.coreTokens.hasOwnProperty("NgZone"))||!!document.querySelectorAll("[ng-version]").length}catch(t){return!1}}()&&t.push(B),window.Backbone&&t.push(G),window.Ember&&t.push(U),window.Vue&&t.push(X),window.Meteor&&t.push(Z),window.Zepto&&t.push(V),window.jQuery&&t.push(W)}catch(t){}return t}var Q=i(7299),K=i(603),J=i(158);function $(t,e){return $=Object.setPrototypeOf?Object.setPrototypeOf.bind():function(t,e){return t.__proto__=e,t},$(t,e)}var tt=function(t){var e,n;function r(e){var n;return(n=t.call(this,e)||this).singleChecks(),(0,q.X)("record-supportability",(function(){var t;return(t=n).recordSupportability.apply(t,arguments)}),void 0,n.ee),(0,q.X)("record-custom",(function(){var t;return(t=n).recordCustom.apply(t,arguments)}),void 0,n.ee),n}n=t,(e=r).prototype=Object.create(n.prototype),e.prototype.constructor=e,$(e,n);var i=r.prototype;return i.recordSupportability=function(t,e){var n=["sm",t,{name:t},e];return(0,w.p)("storeMetric",n,null,void 0,this.ee),n},i.recordCustom=function(t,e){var n=["cm",t,{name:t},e];return(0,w.p)("storeEventMetrics",n,null,void 0,this.ee),n},i.singleChecks=function(){var t=this;this.recordSupportability("Generic/Version/"+J.q+"/Detected"),u((function(){Y().forEach((function(e){t.recordSupportability("Framework/"+e+"/Detected")}))})),Q.T.isFileProtocol()&&(this.recordSupportability("Generic/FileProtocol/Detected"),Q.T.supportabilityMetricSent=!0);var e=(0,K.$c)(this.agentIdentifier);e.length>0&&this.recordSupportability("Generic/Obfuscate/Detected"),e.length>0&&!(0,K.Ng)(e)&&this.recordSupportability("Generic/Obfuscate/Invalid")},r}(C.W),et=i(4217),nt=i(8118),rt=i.n(nt),it=window,ot="fetch-",at="fetch-body-",ct=["arrayBuffer","blob","json","text","formData"],ut=it.Request,st=it.Response,ft="prototype",dt="nr@context",lt={};function pt(t){var e=function(t){return(t||s.ee).get("fetch")}(t);if(!(ut&&st&&window.fetch))return e;if(lt[e.debugId])return e;function n(t,n,r){var i=t[n];"function"==typeof i&&(t[n]=function(){var t,n=rt()(arguments),o={};e.emit(r+"before-start",[n],o),o[dt]&&o[dt].dt&&(t=o[dt].dt);var a=i.apply(this,n);return e.emit(r+"start",[n,t],a),a.then((function(t){return e.emit(r+"end",[null,t],a),t}),(function(t){throw e.emit(r+"end",[t],a),t}))})}return lt[e.debugId]=!0,(0,b.D)(ct,(function(t,e){n(ut[ft],e,at),n(st[ft],e,at)})),n(it,"fetch",ot),e.on("fetch-end",(function(t,n){var r=this;if(n){var i=n.headers.get("content-length");null!==i&&(r.rxSize=i),e.emit("fetch-done",[null,n],r)}else e.emit("fetch-done",[t],r)})),e}var ht="nr@original",vt=Object.prototype.hasOwnProperty,gt=!1;function mt(t,e){return t||(t=s.ee),n.inPlace=function(t,e,r,i,o){r||(r="");var a,c,u,s="-"===r.charAt(0);for(u=0;u<e.length;u++)c=e[u],bt(a=t[c])||(t[c]=n(a,s?c+r:r,i,c,o))},n.flag=ht,n;function n(e,n,i,o,a){return bt(e)?e:(n||(n=""),c[ht]=e,wt(e,c,t),c);function c(){var c,u,s,f;try{u=this,c=rt()(arguments),s="function"==typeof i?i(c,u):i||{}}catch(e){yt([e,"",[c,u,o],s],t)}r(n+"start",[c,u,o],s,a);try{return f=e.apply(u,c)}catch(t){throw r(n+"err",[c,u,t],s,a),t}finally{r(n+"end",[c,u,f],s,a)}}}function r(n,r,i,o){if(!gt||e){var a=gt;gt=!0;try{t.emit(n,r,i,e,o)}catch(e){yt([e,n,r,i],t)}gt=a}}}function yt(t,e){e||(e=s.ee);try{e.emit("internal-error",t)}catch(t){}}function wt(t,e,n){if(Object.defineProperty&&Object.keys)try{return Object.keys(t).forEach((function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})})),e}catch(t){yt([t],n)}for(var r in t)vt.call(t,r)&&(e[r]=t[r]);return e}function bt(t){return!(t&&t instanceof Function&&t.apply&&!t[ht])}var Ot={};function xt(t){var e=function(t){return(t||s.ee).get("timer")}(t);if(Ot[e.debugId])return e;Ot[e.debugId]=!0;var n=mt(e),r="setTimeout",i="setInterval",o="clearTimeout",a="-start";return n.inPlace(window,[r,"setImmediate"],"setTimeout-"),n.inPlace(window,[i],"setInterval-"),n.inPlace(window,[o,"clearImmediate"],"clearTimeout-"),e.on(i+a,(function(t,e,r){t[0]=n(t[0],"fn-",null,r)})),e.on(r+a,(function(t,e,r){this.method=r,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=n(t[0],"fn-",this,r)})),e}var Et={};function jt(t){var e=function(t){return(t||s.ee).get("raf")}(t);if(Et[e.debugId])return e;Et[e.debugId]=!0;var n=mt(e);return n.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),e.on("raf-start",(function(t){t[0]=n(t[0],"fn-")})),e}var _t={};function Pt(t){var e=function(t){return(t||s.ee).get("history")}(t);if(_t[e.debugId])return e;_t[e.debugId]=!0;var n=mt(e),r=window.history&&window.history.constructor&&window.history.constructor.prototype,i=window.history;return r&&r.pushState&&r.replaceState&&(i=r),n.inPlace(i,["pushState","replaceState"],"-"),e}var Tt={};function St(t){var e=function(t){return(t||s.ee).get("events")}(t);if(Tt[e.debugId])return e;Tt[e.debugId]=!0;var n=mt(e,!0),r=XMLHttpRequest,i="addEventListener",o="removeEventListener";function a(t){for(var e=t;e&&!e.hasOwnProperty(i);)e=Object.getPrototypeOf(e);e&&c(e)}function c(t){n.inPlace(t,[i,o],"-",u)}function u(t,e){return t[1]}return"getPrototypeOf"in Object?(a(document),a(window),a(r.prototype)):r.prototype.hasOwnProperty(i)&&(c(window),c(r.prototype)),e.on("addEventListener-start",(function(t,e){var r=t[1];if(null!==r&&("function"==typeof r||"object"==typeof r)){var i=(0,et.X)(r,"nr@wrapped",(function(){var t={object:function(){if("function"!=typeof r.handleEvent)return;return r.handleEvent.apply(r,arguments)},function:r}[typeof r];return t?n(t,"fn-",null,t.name||"anonymous"):r}));this.wrapped=t[1]=i}})),e.on("removeEventListener-start",(function(t){t[1]=this.wrapped||t[1]})),e}var Lt={};function Ct(t){var n=t||s.ee,r=function(t){return(t||s.ee).get("xhr")}(n);if(Lt[r.debugId])return r;Lt[r.debugId]=!0,St(n);var i=mt(r),o=z.Y.XHR,a=z.Y.MO,c=z.Y.PR,u=z.Y.SI,f="readystatechange",d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],l=[],p=window.XMLHttpRequest.listeners,h=window.XMLHttpRequest=function(t){var n=new o(t);function i(){try{r.emit("new-xhr",[n],n),n.addEventListener(f,g,(0,e.m)(!1))}catch(t){console.error(t);try{r.emit("internal-error",[t])}catch(t){}}}return this.listeners=p?[].concat(p,[i]):[i],this.listeners.forEach((function(t){return t()})),n};function v(t,e){i.inPlace(e,["onreadystatechange"],"fn-",O)}function g(){var t=this,e=r.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,r.emit("xhr-resolved",[],t)),i.inPlace(t,d,"fn-",O)}if(function(t,e){for(var n in t)e[n]=t[n]}(o,h),h.prototype=o.prototype,i.inPlace(h.prototype,["open","send"],"-xhr-",O),r.on("send-xhr-start",(function(t,e){v(t,e),function(t){l.push(t),a&&(m?m.then(b):u?u(b):(y=-y,w.data=y))}(e)})),r.on("open-xhr-start",v),a){var m=c&&c.resolve();if(!u&&!c){var y=1,w=document.createTextNode(y);new a(b).observe(w,{characterData:!0})}}else n.on("fn-end",(function(t){t[0]&&t[0].type===f||b()}));function b(){for(var t=0;t<l.length;t++)v(0,l[t]);l.length&&(l=[])}function O(t,e){return e}return r}function It(t){return St(t)}function At(t){return jt(t)}function Rt(t){return xt(t)}function kt(t){return Ct(t)}function Ht(t,e){return Ht=Object.setPrototypeOf?Object.setPrototypeOf.bind():function(t,e){return t.__proto__=e,t},Ht(t,e)}var zt="nr@seenError",Nt=function(t){var e,n;function r(e){var n;(n=t.call(this,e)||this).skipNext=0,n.handleErrors=!1,n.origOnerror=window.onerror;var r=function(t){if(void 0===t)throw new ReferenceError("this hasn't been initialised - super() hasn't been called");return t}(n),i=(0,m.O)(n.agentIdentifier);i.features.err=!0,r.ee.on("fn-start",(function(t,e,n){r.handleErrors&&(r.skipNext+=1)})),r.ee.on("fn-err",(function(t,e,n){r.handleErrors&&!n[zt]&&((0,et.X)(n,zt,(function(){return!0})),this.thrown=!0,qt(n,void 0,r.ee))})),r.ee.on("fn-end",(function(){r.handleErrors&&!this.thrown&&r.skipNext>0&&(r.skipNext-=1)})),r.ee.on("internal-error",(function(t){(0,w.p)("ierr",[t,(0,O.zO)(),!0],void 0,void 0,r.ee)}));var o=window.onerror;window.onerror=function(){var t;return o&&o.apply(void 0,arguments),(t=n).onerrorHandler.apply(t,arguments),!1};try{window.addEventListener("unhandledrejection",(function(t){var e=new Error(""+t.reason);(0,w.p)("err",[e,(0,O.zO)(),!1,{unhandledPromiseRejection:1}],void 0,void 0,n.ee)}))}catch(t){}try{throw new Error}catch(t){"stack"in t&&(Rt(n.ee),At(n.ee),"addEventListener"in window&&It(n.ee),i.xhrWrappable&&kt(n.ee),r.handleErrors=!0)}return n}return n=t,(e=r).prototype=Object.create(n.prototype),e.prototype.constructor=e,Ht(e,n),r.prototype.onerrorHandler=function(t,e,n,r,i){try{this.skipNext?this.skipNext-=1:qt(i||new Mt(t,e,n),!0,this.ee)}catch(t){try{(0,w.p)("ierr",[t,(0,O.zO)(),!0],void 0,void 0,this.ee)}catch(t){}}return"function"==typeof this.origOnerror&&this.origOnerror.apply(this,rt()(arguments))},r}(C.W);function Mt(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function qt(t,e,n){var r=e?null:(0,O.zO)();(0,w.p)("err",[t,r],void 0,void 0,n)}var Dt=1;function Bt(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:(0,et.X)(t,"nr@id",(function(){return Dt++}))}var Ft=i(5973);function Gt(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(t){return}}}var Ut=i(7001),Xt=i(4168),Zt=function(){function t(t){this.agentIdentifier=t,this.generateTracePayload=this.generateTracePayload.bind(this),this.shouldGenerateTrace=this.shouldGenerateTrace.bind(this)}var e=t.prototype;return e.generateTracePayload=function(t){if(!this.shouldGenerateTrace(t))return null;var e=P(this.agentIdentifier);if(!e)return null;var n=(e.accountID||"").toString()||null,r=(e.agentID||"").toString()||null,i=(e.trustKey||"").toString()||null;if(!n||!r)return null;var o=(0,Xt.M)(),a=(0,Xt.Ht)(),c=Date.now(),u={spanId:o,traceId:a,timestamp:c};return(t.sameOrigin||this.isAllowedOrigin(t)&&this.useTraceContextHeadersForCors())&&(u.traceContextParentHeader=this.generateTraceContextParentHeader(o,a),u.traceContextStateHeader=this.generateTraceContextStateHeader(o,c,n,r,i)),(t.sameOrigin&&!this.excludeNewrelicHeader()||!t.sameOrigin&&this.isAllowedOrigin(t)&&this.useNewrelicHeaderForCors())&&(u.newrelicHeader=this.generateTraceHeader(o,a,c,n,r,i)),u},e.generateTraceContextParentHeader=function(t,e){return"00-"+e+"-"+t+"-01"},e.generateTraceContextStateHeader=function(t,e,n,r,i){return i+"@nr=0-1-"+n+"-"+r+"-"+t+"----"+e},e.generateTraceHeader=function(t,e,n,r,i,o){if(!("btoa"in window&&"function"==typeof window.btoa))return null;var a={v:[0,1],d:{ty:"Browser",ac:r,ap:i,id:t,tr:e,ti:n}};return o&&r!==o&&(a.d.tk=o),btoa(JSON.stringify(a))},e.shouldGenerateTrace=function(t){return this.isDtEnabled()&&this.isAllowedOrigin(t)},e.isAllowedOrigin=function(t){var e=!1,n={};if((0,x.Mt)(this.agentIdentifier,"distributed_tracing")&&(n=(0,x.P_)(this.agentIdentifier).distributed_tracing),t.sameOrigin)e=!0;else if(n.allowed_origins instanceof Array)for(var r=0;r<n.allowed_origins.length;r++){var i=(0,Ut.e)(n.allowed_origins[r]);if(t.hostname===i.hostname&&t.protocol===i.protocol&&t.port===i.port){e=!0;break}}return e},e.isDtEnabled=function(){var t=(0,x.Mt)(this.agentIdentifier,"distributed_tracing");return!!t&&!!t.enabled},e.excludeNewrelicHeader=function(){var t=(0,x.Mt)(this.agentIdentifier,"distributed_tracing");return!!t&&!!t.exclude_newrelic_header},e.useNewrelicHeaderForCors=function(){var t=(0,x.Mt)(this.agentIdentifier,"distributed_tracing");return!!t&&!1!==t.cors_use_newrelic_header},e.useTraceContextHeadersForCors=function(){var t=(0,x.Mt)(this.agentIdentifier,"distributed_tracing");return!!t&&!!t.cors_use_tracecontext_headers},t}();function Vt(t,e){return Vt=Object.setPrototypeOf?Object.setPrototypeOf.bind():function(t,e){return t.__proto__=e,t},Vt(t,e)}var Wt=["load","error","abort","timeout"],Yt=Wt.length,Qt=z.Y.REQ,Kt=window.XMLHttpRequest,Jt=function(t){var n,r;function i(n){var r;r=t.call(this,n)||this;var i=(0,m.O)(r.agentIdentifier);return!i.xhrWrappable||i.disabled?function(t){if(void 0===t)throw new ReferenceError("this hasn't been initialised - super() hasn't been called");return t}(r):(i.features.xhr=!0,r.dt=new Zt(r.agentIdentifier),r.handler=function(t,e,n,i){return(0,w.p)(t,e,n,i,r.ee)},r.wrappedFetch=function(t,e){return n=t,pt(n);var n}(r.ee),kt(r.ee),function(t,n,r,i){function o(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=b,n.ended=!1,n.xhrGuids={},n.lastSize=null,n.loadCaptureCalled=!1,n.params=this.params||{},n.metrics=this.metrics||{},t.addEventListener("load",(function(e){E(n,t)}),(0,e.m)(!1)),Ft.I&&(Ft.I>34||Ft.I<10)||t.addEventListener("progress",(function(t){n.lastSize=t.loaded}),(0,e.m)(!1))}function a(t){this.params={method:t[0]},x(this,t[1]),this.metrics={}}function c(e,n){var r=P(t);"xpid"in r&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",r.xpid);var o=i.generateTracePayload(this.parsedOrigin);if(o){var a=!1;o.newrelicHeader&&(n.setRequestHeader("newrelic",o.newrelicHeader),a=!0),o.traceContextParentHeader&&(n.setRequestHeader("traceparent",o.traceContextParentHeader),o.traceContextStateHeader&&n.setRequestHeader("tracestate",o.traceContextStateHeader),a=!0),a&&(this.dt=o)}}function u(t,r){var i=this.metrics,o=t[0],a=this;if(i&&o){var c=Gt(o);c&&(i.txSize=c)}this.startTime=(0,O.zO)(),this.listener=function(t){try{"abort"!==t.type||a.loadCaptureCalled||(a.params.aborted=!0),("load"!==t.type||a.called===a.totalCbs&&(a.onloadCalled||"function"!=typeof r.onload))&&a.end(r)}catch(t){try{n.emit("internal-error",[t])}catch(t){}}};for(var u=0;u<Yt;u++)r.addEventListener(Wt[u],this.listener,(0,e.m)(!1))}function s(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}function f(t,e){var n=""+Bt(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}function d(t,e){var n=""+Bt(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}function l(){this.endTime=(0,O.zO)()}function p(t,e){e instanceof Kt&&"load"===t[0]&&n.emit("xhr-load-added",[t[1],t[2]],e)}function h(t,e){e instanceof Kt&&"load"===t[0]&&n.emit("xhr-load-removed",[t[1],t[2]],e)}function v(t,e,n){e instanceof Kt&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(0,O.zO)()))}function g(t,e){this.xhrCbStart&&n.emit("xhr-cb-time",[(0,O.zO)()-this.xhrCbStart,this.onload,e],e)}function m(t){var e,n=t[1]||{};"string"==typeof t[0]?e=t[0]:t[0]&&t[0].url?e=t[0].url:window.URL&&t[0]&&t[0]instanceof URL&&(e=t[0].href),e&&(this.parsedOrigin=(0,Ut.e)(e),this.sameOrigin=this.parsedOrigin.sameOrigin);var r=i.generateTracePayload(this.parsedOrigin);if(r&&(r.newrelicHeader||r.traceContextParentHeader))if("string"==typeof t[0]||window.URL&&t[0]&&t[0]instanceof URL){var o={};for(var a in n)o[a]=n[a];o.headers=new Headers(n.headers||{}),c(o.headers,r)&&(this.dt=r),t.length>1?t[1]=o:t.push(o)}else t[0]&&t[0].headers&&c(t[0].headers,r)&&(this.dt=r);function c(t,e){var n=!1;return e.newrelicHeader&&(t.set("newrelic",e.newrelicHeader),n=!0),e.traceContextParentHeader&&(t.set("traceparent",e.traceContextParentHeader),e.traceContextStateHeader&&t.set("tracestate",e.traceContextStateHeader),n=!0),n}}function y(t,e){this.params={},this.metrics={},this.startTime=(0,O.zO)(),this.dt=e,t.length>=1&&(this.target=t[0]),t.length>=2&&(this.opts=t[1]);var n,r=this.opts||{},i=this.target;"string"==typeof i?n=i:"object"==typeof i&&i instanceof Qt?n=i.url:window.URL&&"object"==typeof i&&i instanceof URL&&(n=i.href),x(this,n);var o=(""+(i&&i instanceof Qt&&i.method||r.method||"GET")).toUpperCase();this.params.method=o,this.txSize=Gt(r.body)||0}function w(t,e){var n;this.endTime=(0,O.zO)(),this.params||(this.params={}),this.params.status=e?e.status:0,"string"==typeof this.rxSize&&this.rxSize.length>0&&(n=+this.rxSize);var i={txSize:this.txSize,rxSize:n,duration:(0,O.zO)()-this.startTime};r("xhr",[this.params,i,this.startTime,this.endTime,"fetch"],this)}function b(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;i<Yt;i++)t.removeEventListener(Wt[i],this.listener,!1);e.aborted||(n.duration=(0,O.zO)()-this.startTime,this.loadCaptureCalled||4!==t.readyState?null==e.status&&(e.status=0):E(this,t),n.cbTime=this.cbTime,r("xhr",[e,n,this.startTime,this.endTime,"xhr"],this))}}function x(t,e){var n=(0,Ut.e)(e),r=t.params;r.hostname=n.hostname,r.port=n.port,r.protocol=n.protocol,r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.parsedOrigin=n,t.sameOrigin=n.sameOrigin}function E(t,e){t.params.status=e.status;var n=function(t,e){var n=t.responseType;return"json"===n&&null!==e?e:"arraybuffer"===n||"blob"===n||"json"===n?Gt(t.response):"text"===n||""===n||void 0===n?Gt(t.responseText):void 0}(e,t.lastSize);if(n&&(t.metrics.rxSize=n),t.sameOrigin){var r=e.getResponseHeader("X-NewRelic-App-Data");r&&(t.params.cat=r.split(", ").pop())}t.loadCaptureCalled=!0}n.on("new-xhr",o),n.on("open-xhr-start",a),n.on("open-xhr-end",c),n.on("send-xhr-start",u),n.on("xhr-cb-time",s),n.on("xhr-load-added",f),n.on("xhr-load-removed",d),n.on("xhr-resolved",l),n.on("addEventListener-end",p),n.on("removeEventListener-end",h),n.on("fn-end",g),n.on("fetch-before-start",m),n.on("fetch-start",y),n.on("fn-start",v),n.on("fetch-done",w)}(r.agentIdentifier,r.ee,r.handler,r.dt),r)}return r=t,(n=i).prototype=Object.create(r.prototype),n.prototype.constructor=n,Vt(n,r),i}(C.W);var $t=i(5098);function te(t,e){return te=Object.setPrototypeOf?Object.setPrototypeOf.bind():function(t,e){return t.__proto__=e,t},te(t,e)}var ee="addEventListener",ne="resourcetimingbufferfull",re="bstResource",ie="-start",oe="-end",ae="fn-start",ce="fn-end",ue="bstTimer",se="pushState",fe=z.Y.EV,de=function(t){var n,r;function i(n){var r;if(r=t.call(this,n)||this,!(window.performance&&window.performance.timing&&window.performance.getEntriesByType))return function(t){if(void 0===t)throw new ReferenceError("this hasn't been initialised - super() hasn't been called");return t}(r);(0,m.O)(r.agentIdentifier).features.stn=!0;var i=r.ee;function o(t){if((0,w.p)(re,[window.performance.getEntriesByType("resource")],void 0,void 0,i),window.performance.clearResourceTimings)try{window.performance.removeEventListener(ne,o,!1)}catch(t){}else try{window.performance.removeEventListener("webkitresourcetimingbufferfull",o,!1)}catch(t){}}return r.timerEE=Rt(r.ee),r.rafEE=At(r.ee),Pt(r.ee),It(r.ee),r.ee.on(ae,(function(t,e){t[0]instanceof fe&&(this.bstStart=(0,O.zO)())})),r.ee.on(ce,(function(t,e){var n=t[0];n instanceof fe&&(0,w.p)("bst",[n,e,this.bstStart,(0,O.zO)()],void 0,void 0,i)})),r.timerEE.on(ae,(function(t,e,n){this.bstStart=(0,O.zO)(),this.bstType=n})),r.timerEE.on(ce,(function(t,e){(0,w.p)(ue,[e,this.bstStart,(0,O.zO)(),this.bstType],void 0,void 0,i)})),r.rafEE.on(ae,(function(){this.bstStart=(0,O.zO)()})),r.rafEE.on(ce,(function(t,e){(0,w.p)(ue,[e,this.bstStart,(0,O.zO)(),"requestAnimationFrame"],void 0,void 0,i)})),r.ee.on(se+ie,(function(t){this.time=(0,O.zO)(),this.startPath=location.pathname+location.hash})),r.ee.on(se+oe,(function(t){(0,w.p)("bstHist",[location.pathname+location.hash,this.startPath,this.time],void 0,void 0,i)})),(0,$t.W)()?((0,w.p)(re,[window.performance.getEntriesByType("resource")],void 0,void 0,i),function(){var t=new PerformanceObserver((function(t,e){var n=t.getEntries();(0,w.p)(re,[n],void 0,void 0,i)}));try{t.observe({entryTypes:["resource"]})}catch(t){}}()):ee in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener(ne,o,(0,e.m)(!1)):window.performance.addEventListener("webkitresourcetimingbufferfull",o,(0,e.m)(!1))),document.addEventListener("scroll",r.noOp,(0,e.m)(!1)),document.addEventListener("keypress",r.noOp,(0,e.m)(!1)),document.addEventListener("click",r.noOp,(0,e.m)(!1)),r}return r=t,(n=i).prototype=Object.create(r.prototype),n.prototype.constructor=n,te(n,r),i.prototype.noOp=function(t){},i}(C.W);function le(t,e){return le=Object.setPrototypeOf?Object.setPrototypeOf.bind():function(t,e){return t.__proto__=e,t},le(t,e)}var pe=function(t){var e,n;function r(e){var n;return n=t.call(this,e)||this,(0,m.O)(n.agentIdentifier).features.ins=!0,n}return n=t,(e=r).prototype=Object.create(n.prototype),e.prototype.constructor=e,le(e,n),r}(C.W),he=i(847);new Promise((function(e,n){if(T)e(T);else{var r=(0,g.gG)();try{(0,y.L)(t.Z,r.info),(0,x.Dg)(t.Z,r.init),function(t,e){if(!t)throw new Error("All loader-config objects require an agent identifier!");_[t]=new E.I(e,j),(0,g.Qy)(t,_[t],"loader_config")}(t.Z,r.loader_config),(0,m.s)(t.Z,{}),function(t){var e=(0,g.fP)(),n=s.ee.get(t),r=n.get("tracer"),i="api-",o="api-ixn-";function a(){}(0,b.D)(["setErrorHandler","finished","addToTrace","inlineHit","addRelease"],(function(t,n){e[n]=u(i,n,!0,"api")})),e.addPageAction=u(i,"addPageAction",!0),e.setCurrentRouteName=u(i,"routeName",!0),e.setPageViewName=function(e,n){if("string"==typeof e)return"/"!==e.charAt(0)&&(e="/"+e),(0,m.O)(t).customTransaction=(n||"http://custom.transaction")+e,u(i,"setPageViewName",!0,"api")()},e.setCustomAttribute=function(e,n){var r,o=(0,y.C)(t);return(0,y.L)(t,Object.assign({},o,{jsAttributes:Object.assign({},o.jsAttributes,(r={},r[e]=n,r))})),u(i,"setCustomAttribute",!0,"api")()},e.interaction=function(){return(new a).get()};var c=a.prototype={createTracer:function(t,e){var i={},o=this,a="function"==typeof e;return(0,w.p)("api-ixn-tracer",[(0,O.zO)(),t,i],o,void 0,n),function(){if(r.emit((a?"":"no-")+"fn-start",[(0,O.zO)(),o,a],i),a)try{return e.apply(this,arguments)}catch(t){throw r.emit("fn-err",[arguments,this,"string"==typeof t?new Error(t):t],i),t}finally{r.emit("fn-end",[(0,O.zO)()],i)}}}};function u(t,e,r,i){return function(){return(0,w.p)("record-supportability",["API/"+e+"/called"],void 0,void 0,n),(0,w.p)(t+e,[(0,O.zO)()].concat(v()(arguments)),r?null:this,i,n),r?void 0:this}}(0,b.D)("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),(function(t,e){c[e]=u(o,e)})),e.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),(0,w.p)("record-supportability",["API/noticeError/called"],void 0,void 0,n),(0,w.p)("err",[t,(0,O.zO)(),!1,e],void 0,void 0,n)}}(t.Z),e(T=!0)}catch(t){n(t)}}})).then((function(){var e,n,r,i=(0,he.K)(t.Z);i.page_view_event&&new H(t.Z),i.page_view_timing&&new M(t.Z),i.metrics&&new tt(t.Z),i.jserrors&&new Nt(t.Z),i.ajax&&new Jt(t.Z),i.session_trace&&new de(t.Z),i.page_action&&new pe(t.Z),e="pro",n?setTimeout((function(){return p(e)}),r||1e3):c((function(){return p(e)}))}))}(),o}()}));</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <title>Frontiers | Nostalgia Proneness and the Collective Self</title>
+
+    <link rel="shortcut icon" href="https://3718aeafc638f96f5bd6-d4a9ca15fc46ba40e71f94dec0aad28c.ssl.cf1.rackcdn.com/favicon_16x16.ico" type="image/x-icon" />
+
+    <meta property="og:type" content="article" />
+    <meta property="frontiers:type" content="Article" />
+    <meta property="og:site_name" name="site_name" content="Frontiers" />
+    <meta property="og:title" name="Title" content="Nostalgia Proneness and the Collective Self" />
+    <meta property="og:description" name="Description" content="In two studies, we examined the association between nostalgia proneness (i.e., trait-level nostalgia) and importance of the collective self. In Study 1, we tested and supported the hypothesis that nostalgia proneness is positively correlated with relational collectivism, which entails an emphasis on one’s connections with close others and small social networks. In Study 2, we demonstrated that nostalgia proneness is also positively correlated with group collectivism, which emphasizes one’s membership in more abstract, larger social groups or categories, and was reflected in increased identification with a national ingroup. These findings offer insight into the nature of nostalgia proneness—a consequential and stable personality trait." />
+    <meta property="og:url" name="url" content="https://www.frontiersin.org/articles/10.3389/fpsyg.2020.570621/full" />
+
+
+    <meta property="og:image" content="https://www.frontiersin.org/files/MyHome%20Article%20Library/570621/570621_Thumb_400.jpg" />
+        <meta name="citation_volume" content="11" />
+    <meta name="citation_journal_title" content="Frontiers in Psychology" />
+    <meta name="citation_publisher" content="Frontiers" />
+    <meta name="citation_journal_abbrev" content="Front. Psychol." />
+    <meta name="citation_issn" content="1664-1078" />
+    <meta name="citation_doi" content="10.3389/fpsyg.2020.570621" />
+    <meta name="citation_pages" content="2829" />
+    <meta name="citation_language" content="English" />
+    <meta name="citation_title" content="Nostalgia Proneness and the Collective Self" />
+    <meta name="citation_keywords" content="Nostalgia proneness; relational collectivism; group collectivism; ingroup identification; collective self" />
+    <meta name="citation_abstract" content="In two studies, we examined the association between nostalgia proneness (i.e., trait-level nostalgia) and importance of the collective self. In Study 1, we tested and supported the hypothesis that nostalgia proneness is positively correlated with relational collectivism, which entails an emphasis on one’s connections with close others and small social networks. In Study 2, we demonstrated that nostalgia proneness is also positively correlated with group collectivism, which emphasizes one’s membership in more abstract, larger social groups or categories, and was reflected in increased identification with a national ingroup. These findings offer insight into the nature of nostalgia proneness—a consequential and stable personality trait." />
+    <meta name="description" content="In two studies, we examined the association between nostalgia proneness (i.e., trait-level nostalgia) and importance of the collective self. In Study 1, we tested and supported the hypothesis that nostalgia proneness is positively correlated with relational collectivism, which entails an emphasis on one’s connections with close others and small social networks. In Study 2, we demonstrated that nostalgia proneness is also positively correlated with group collectivism, which emphasizes one’s membership in more abstract, larger social groups or categories, and was reflected in increased identification with a national ingroup. These findings offer insight into the nature of nostalgia proneness—a consequential and stable personality trait." />
+    <meta name="citation_online_date" content="2020/09/28" />
+    <meta name="citation_publication_date" content="2020/10/26" />
+    <meta name="citation_author" content="Abakoumkin, Georgios" />
+    <meta name="citation_author_institution" content="Laboratory of Psychology, Department of Early Childhood Education, University of Thessaly, Greece" />
+    <meta name="citation_author" content="Wildschut, Tim" />
+    <meta name="citation_author_institution" content="Centre for Research on Self and Identity, School of Psychology, University of Southampton, United Kingdom" />
+    <meta name="citation_author" content="Sedikides, Constantine" />
+    <meta name="citation_author_institution" content="Centre for Research on Self and Identity, School of Psychology, University of Southampton, United Kingdom" />
+    <meta name="Keywords" content="Nostalgia proneness, relational collectivism, group collectivism, ingroup identification, collective self" />
+
+    <meta name="dc.identifier" content="doi:10.3389/fpsyg.2020.570621">
+ <!--CrossMark widget-->
+    
+    <script type="text/javascript">
+
+        var CurrentIBarMenu = 'bysubjects';
+        var CurrentPageCode = 'ARTICLE_PAGE_NEW';
+
+        var FRConfiguration = (function () {
+            return {
+                Environment: 'Live',
+                SANVirtualPath: 'https://www.frontiersin.org/files/',
+                SharepointWebsiteUrl: 'https://www.frontiersin.org',
+                FrontiersJournalUIUrl: 'https://www.frontiersin.org',
+                FrontiersJournalAPIUrl: 'https://api-journal.frontiersin.org',
+                FrontiersReviewUIUrl: '',
+                FrontiersReviewAPIUrl: '',
+                FrontiersCookie: 'frontiersN',
+                FrontiersCookieRememberMe: 'frontiersNt',
+                FrontiersLoginUrl: 'https://www.frontiersin.org/Login.aspx',
+                FrontiersRegistrationUrl: 'http://www.frontiersin.org/Registration/Register.aspx',
+                IsCommentVisible: 'True',
+                IsPreview: 'False',
+                TenantName: 'Frontiers'
+            }
+        })();
+
+        var FRLanguage = (function() {
+            var languageSet = {"article_accepteddate":"Accepted: ","article_analyticstooltip":"View numbers are not up-to-date. We are working to restore this functionality and offer updated views.","article_analyticsviewimpact":"View Article Impact","article_bibtex":"BibTex","article_copyrighttext":"This is an open-access article distributed under the terms of the \u003ca href=\"http://creativecommons.org/licenses/by/4.0/\"\u003eCreative Commons Attribution License (CC BY)\u003c/a\u003e. The use, distribution or reproduction in other forums is permitted, provided the original author(s) or licensor are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.","article_downloadarticle":"Download Article","article_downloadpdf":"Download PDF","article_downloadprovisionalarticle":"Download Provisional Article","article_endnote":"EndNote","article_epub":"EPUB","article_exportcitation":"Export Citation","article_jats":"JATS","article_nlm":"XML (NLM)","article_pdf":"PDF","article_provisionalpdf":"Provisional PDF","article_publisheddate":"Published online: ","article_readfulltext":"Read Full Text","article_receiveddate":"Received:","article_referencemanager":"Reference Manager","article_shareon":"SHARE ON","article_simpletextfile":"Simple TEXT file","article_supplementaldata":"SUPPLEMENTAL DATA","article_tableofcontent":"TABLE OF CONTENTS","article_viewenhancedpdf":"ReadCube","article_xml":"XML","browserwarningtext":"\u003ch2\u003eWarning!\u003c/h2\u003e\u003cp\u003eYou are using an \u003cstrong\u003eoutdated\u003c/strong\u003e browser. This page doesn\u0027t support Internet Explorer 6, 7 and 8.\u003cbr /\u003ePlease \u003ca class=\"blue\" href=\"http://browsehappy.com/\"\u003eupgrade your browser\u003c/a\u003e or \u003ca class=\"blue\" href=\"http://www.google.com/chromeframe/?redirect=true\"\u003eactivate Google Chrome Frame\u003c/a\u003e to improve your experience.\u003c/p\u003e","impact_backtoarticle":"Back to article","people_also_lookedat":"People also looked at","article_analyticstotalviews":"total views","ART_FRONTIERS":"Frontiers","Article_AnalyticsTotalViews":"total views","Article_ArchiveLinkText":"Articles","Article_Citation":"Citation:","Article_Commentary":"COMMENTARY","Article_Copyright":"Copyright:","Article_Correspondence":"* Correspondence:","Article_DownloadProvisionalPDF":"Download Provisional PDF","Article_EditedBy":"Edited by:","Article_Keywords":"Keywords:","Article_OriginalArticle":"ORIGINAL ARTICLE","Article_PaperPendingPublishedDate":"Paper pending published:","Article_ReviewedBy":"Reviewed by: ","Article_RTInfoText":"This article is part of the Research Topic","COMMENT_HEADERTEXT":"Comment text too long","COMMENT_WARNINGTEXT":"Comments must be less than 4,000 characters. You have entered "};
+
+            return {
+                value: function(key) {
+                    if (languageSet[key]) {
+                        return languageSet[key];
+                    } else {
+                        throw new Error('Unable to get the value status from the language set'); // Use Error, not FRError
+                    }
+                }
+            };
+
+        })();
+
+        var FRJournalDetails = (function() {
+            return {
+                JournalType: 'section',
+                JournalId: '36',
+                SectionId: '45'
+            };
+        })();
+
+        var FRArticleDetails = (function() {
+            return {
+                ArticleId: '570621',
+                DisclaimerText: 'All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article or claim that may be made by its manufacturer is not guaranteed or endorsed by the publisher.'
+            };
+        })();
+        var FRArticleRecaptchaSettings = (function() {
+            return {
+                RecaptchaSiteKey: '6LdG3i0UAAAAAOC4qUh35ubHgJotEHp_STXHgr_v'
+            };
+        })();
+
+    </script>
+
+    <link href="https://209cd62b0febf2a55d40-715eb384bc6027b876e93ad33d5c5ec3.ssl.cf3.rackcdn.com/font-awesome-4.3.0/css/font-awesome.min.css" rel="stylesheet"/>
+
+    <link href="https://9d0dd7a648345f19af83-877d2ecaf11b88d5e17327c758e17ef6.ssl.cf2.rackcdn.com/museo-sans-1.0.1/css/museo-sans.css" rel="stylesheet"/>
+
+    <link href="https://static.frontiersin.org/areas/articles/css/app?v=keEodGDvcIZ2_1y3nDxMv_krWtMWyGsbWbqae4pMq7M1" rel="stylesheet"/>
+
+    <style type="text/css"> .journal-psychology {
+ background: #fff url('https://3718aeafc638f96f5bd6-d4a9ca15fc46ba40e71f94dec0aad28c.ssl.cf1.rackcdn.com/journal-psychology.png') no-repeat 100% 0px;
+background-size: 49%;
+}
+
+/* Displays/Screens (e.g. 19" WS @ 1440x900) --------------- */ @media only screen and (max-width: 1649px) {
+.journal-psychology {
+  background: #fff url('https://3718aeafc638f96f5bd6-d4a9ca15fc46ba40e71f94dec0aad28c.ssl.cf1.rackcdn.com/journal-psychology.png') no-repeat 100% 0px;
+ background-size: 39%;
+ }}
+
+/* Displays/Screens (e.g. MacBook @ 1280x800) -------------- */
+@media only screen and (max-width: 1409px) {
+.journal-psychology {
+  background: #fff url('https://3718aeafc638f96f5bd6-d4a9ca15fc46ba40e71f94dec0aad28c.ssl.cf1.rackcdn.com/journal-psychology.png') no-repeat 100% 0px;
+ background-size: 46%;
+ }}
+
+/* Large Devices, Wide Screens --------- */  @media only screen and (max-width : 1250px) {
+.journal-psychology {
+  background: #fff url('https://3718aeafc638f96f5bd6-d4a9ca15fc46ba40e71f94dec0aad28c.ssl.cf1.rackcdn.com/journal-psychology.png') no-repeat 100% 0px;
+background-size: 46%;
+ }}
+
+/* Medium Devices, Desktops ---------- */  @media only screen and (max-width : 992px) { 
+.journal-psychology {
+  background: #fff url('https://3718aeafc638f96f5bd6-d4a9ca15fc46ba40e71f94dec0aad28c.ssl.cf1.rackcdn.com/journal-psychology.png') no-repeat 100% -10px;
+background-size: 42%;
+ }}
+
+/* Small Devices, Tablets ------------ */  @media only screen and (max-width : 768px) {
+.journal-psychology {
+  background: #fff url('https://3718aeafc638f96f5bd6-d4a9ca15fc46ba40e71f94dec0aad28c.ssl.cf1.rackcdn.com/journal-psychology.png') no-repeat 100% 17px;
+background-size: 58%;
+ }}
+
+/* Small Devices, Tablets  --------- */ @media only screen and (max-width : 640px) { 
+.journal-psychology {
+  background: #fff url('https://3718aeafc638f96f5bd6-d4a9ca15fc46ba40e71f94dec0aad28c.ssl.cf1.rackcdn.com/journal-psychology.png') no-repeat 100% 33px;
+background-size: 66%;
+ }}
+
+/* Extra Small Devices, Phones-----------  */  @media only screen and (max-width : 480px) {
+.journal-psychology {
+  background: #fff url('https://3718aeafc638f96f5bd6-d4a9ca15fc46ba40e71f94dec0aad28c.ssl.cf1.rackcdn.com/journal-psychology.png') no-repeat 100% 115px;
+background-size: 64%;
+ }} </style>
+    
+</head>
+<body class="journal-psychology section-personality-and-social-psychology">
+
+    <button class="bypassBlock-firstEl"></button>
+    <a href="#main-content" class="bypassBlock-wrapper" id="bypass">
+        <span class="bypassBlock-button">Skip to main content</span>
+    </a>
+    <script type="text/javascript">
+
+        const container = document.getElementById("bypass");
+
+        //eventListeners
+        container.addEventListener('focus', function () {
+            document.documentElement.setAttribute("bypass-focus", "true");
+        }, true);
+
+        container.addEventListener('blur', function () {
+            document.documentElement.setAttribute("bypass-focus", "false");
+        }, true);
+
+    </script>
+    <!-- Google Tag Manager (noscript) -->
+
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TFKV632&gtm_auth=NsJH3Ts1-89I8lZURwQYmw&gtm_preview=env-1&gtm_cookies_win=x"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N279F7B&gtm_auth=jfKETtlWamfZ4l02YiFCQw&gtm_preview=env-1&gtm_cookies_win=x"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <script src="https://static.frontiersin.org/areas/articles/js/vendors?v=Tk-waxr_iWGXyIfXPNClZsfLGaaFNLI99xR9M9Gkzeg1"></script>
+
+
+
+    <frontiers-ibar  main-domain="frontiersin.org" loop-url="https://loop.frontiersin.org" journal-id="36"></frontiers-ibar>
+    <div class="page-container sidemenu-collapsed" id="main-content">
+        
+
+
+<div id="article" class="boxed white no-padding">
+    <div class="container-fluid main-container-xxl">
+        <div class="row" id="similar-articles">
+            <div class="new-wrapper">
+                
+
+
+<style>
+    .disabled-supplementary-btn {
+        cursor: not-allowed;
+        pointer-events: none;
+        opacity: .65;
+        filter: alpha(opacity=65);
+        -webkit-box-shadow: none;
+        box-shadow: none;
+    }
+</style>
+<aside class="right-container">
+
+        <div class="side-article-download clearfix">
+            <ul class="list-unstyled list-inline clearfix">
+                    <li class="dropdown text-center paper">
+                        <button data-target="#" class="dropdown-toggle" data-test-id="download-button" data-toggle="dropdown" role="button" aria-expanded="false">
+                            <span class="icon-label" data-event="download-button-click">Download Article</span>
+                        </button>
+
+                        <div class="dropdown-menu-wrapper">
+                            <div class="dropdown-menu-mobile-title">
+                                Download Article
+                            </div>
+                            <ul class="dropdown-menu" role="menu">
+                                    <li>
+                                        <a class="download-files-pdf action-link" href="/articles/10.3389/fpsyg.2020.570621/pdf" data-test-id="article-downloadpdf" data-event="downloadpdf-button-click">
+                                            Download PDF
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a class="download-files-readcube" href="http://www.readcube.com/articles/10.3389/fpsyg.2020.570621" data-test-id="article-viewenhancedpdf" data-event="downloadreadcube-button-click">
+                                            ReadCube
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a class="download-files-epub" href="/articles/10.3389/fpsyg.2020.570621/epub" data-test-id="article-epub" data-event="downloadepub-button-click">
+                                            EPUB
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a class="download-files-nlm" href="/articles/10.3389/fpsyg.2020.570621/xml/nlm" data-test-id="article-nlm" data-event="downloadnlm-button-click">
+                                            XML (NLM)
+                                        </a>
+                                    </li>
+                                
+                            </ul>
+                            <button class="dropdown-menu-mobile-close-button" aria-label="Close" data-toggle="dropdown"></button>
+                        </div>
+                    </li>
+                            <li class="dropdown">
+                <button type="button" class="navbar-toggle navbar-share" data-toggle="dropdown" data-target="#" aria-expanded="false"></button>
+                <div class="dropdown-menu-wrapper">
+                    <div class="dropdown-menu-mobile-title">
+                        Share on
+                    </div>
+                    <ul class="dropdown-menu" role="menu">
+                        <li class="social_block">
+                            <div class="atButton">
+                                <a class="addthis_button_twitter at300b"
+                                   addthis:title="Nostalgia Proneness and the Collective Self"
+                                   addthis:description="In two studies, we examined the association between nostalgia proneness (i.e., trait-level nostalgia) and importance of the collective self. In Study 1, we tested and supported the hypothesis that nostalgia proneness is positively correlated with relational collectivism, which entails an emphasis on one’s connections with close others and small social networks. In Study 2, we demonstrated that nostalgia proneness is also positively correlated with group collectivism, which emphasizes one’s membership in more abstract, larger social groups or categories, and was reflected in increased identification with a national ingroup. These findings offer insight into the nature of nostalgia proneness—a consequential and stable personality trait."
+                                   addthis:url="https://www.frontiersin.org/articles/10.3389/fpsyg.2020.570621"
+                                   title="Tweet"
+                                   href="#">
+                                    <span class="at-icon-wrapper"></span>
+                                </a>
+                            </div>
+                        </li>
+                        <li class="social_block">
+                            <div class="atButton">
+                                <a class="addthis_button_linkedin at300b"
+                                   addthis:title="Nostalgia Proneness and the Collective Self"
+                                   addthis:description="In two studies, we examined the association between nostalgia proneness (i.e., trait-level nostalgia) and importance of the collective self. In Study 1, we tested and supported the hypothesis that nostalgia proneness is positively correlated with relational collectivism, which entails an emphasis on one’s connections with close others and small social networks. In Study 2, we demonstrated that nostalgia proneness is also positively correlated with group collectivism, which emphasizes one’s membership in more abstract, larger social groups or categories, and was reflected in increased identification with a national ingroup. These findings offer insight into the nature of nostalgia proneness—a consequential and stable personality trait."
+                                   addthis:url="https://www.frontiersin.org/articles/10.3389/fpsyg.2020.570621"
+                                   title="LinkedIn"
+                                   target="_blank"
+                                   href="#">
+                                    <span class="at-icon-wrapper"></span>
+                                </a>
+                            </div>
+                        </li>
+                        <li class="social_block">
+                            <div class="atButton">
+                                <a class="addthis_button_facebook at300b"
+                                   addthis:title="Nostalgia Proneness and the Collective Self"
+                                   addthis:description="In two studies, we examined the association between nostalgia proneness (i.e., trait-level nostalgia) and importance of the collective self. In Study 1, we tested and supported the hypothesis that nostalgia proneness is positively correlated with relational collectivism, which entails an emphasis on one’s connections with close others and small social networks. In Study 2, we demonstrated that nostalgia proneness is also positively correlated with group collectivism, which emphasizes one’s membership in more abstract, larger social groups or categories, and was reflected in increased identification with a national ingroup. These findings offer insight into the nature of nostalgia proneness—a consequential and stable personality trait."
+                                   addthis:url="https://www.frontiersin.org/articles/10.3389/fpsyg.2020.570621"
+                                   title="Facebook"
+                                   href="#">
+                                    <span class="at-icon-wrapper"></span>
+                                </a>
+                            </div>
+                        </li>
+                    </ul>
+                    <button class="dropdown-menu-mobile-close-button"
+                            aria-label="Close"
+                            data-toggle="dropdown"></button>
+                </div>
+            </li>
+
+            <li class="dropdown">
+                <button type="button" class="navbar-toggle navbar-citations" data-event="citation-button-click" data-toggle="dropdown" data-target="#" aria-expanded="false">
+                </button>
+                <div class="dropdown-menu-wrapper">
+                    <div class="dropdown-menu-mobile-title">
+                        Export citation
+                    </div>
+                    <ul class="dropdown-menu" role="menu">
+                            <li>
+                                <a data-test-id="article-endnote" href="/articles/10.3389/fpsyg.2020.570621/endNote" data-event="endnotedownload-button-click">
+                                    EndNote
+                                </a>
+                            </li>
+                            <li>
+                                <a data-test-id="article-referencemanager" href="/articles/10.3389/fpsyg.2020.570621/reference" data-event="referencemanagerdownload-button-click">
+                                    Reference Manager
+                                </a>
+                            </li>
+                            <li>
+                                <a data-test-id="article-simpletextfile" href="/articles/10.3389/fpsyg.2020.570621/text" data-event="simpletextfiledownload-button-click">
+                                    Simple TEXT file
+                                </a>
+                            </li>
+                            <li>
+                                <a data-test-id="article-bibtex" href="/articles/10.3389/fpsyg.2020.570621/bibTex" data-event="bibtexdownload-button-click">
+                                    BibTex
+                                </a>
+                            </li>
+                    </ul>
+                    <button class="dropdown-menu-mobile-close-button"
+                            aria-label="Close"
+                            data-toggle="dropdown"></button>
+                </div>
+            </li>
+            </ul>
+        </div>
+    
+    <div class="side-article-impact">
+        <ul class="nav">
+                <li class="impact-data" title="View numbers are not up-to-date. We are working to restore this functionality and offer updated views.">
+                    <span class="title-number"></span>
+                    <span class="title-text">total views</span>
+                </li>
+            <li class="altmetric-wrapper">
+                <div class='altmetric-embed' data-badge-type='donut' data-event="altmetric-button-click" data-badge-popover="bottom" data-doi='10.3389/fpsyg.2020.570621' data-condensed="true"></div>
+            </li>
+        </ul>
+            <a type="button" class="btn btn-default btn-impact " data-test-id="view-article-impact" data-event="impact-button-click" href="http://loop-impact.frontiersin.org/impact/article/570621#views" target="_blank">
+                <span></span> View Article Impact
+            </a>
+    </div>
+
+
+    <div class="side-article-share ">
+        <h5 class="like-h4">SHARE ON</h5>
+        <ul class="share-media clearfix" style="padding: 0;">
+            <li class="social_block">
+                <div class="atButton">
+                    <a class="addthis_button_facebook at300b" data-event="shareicon-button-click" addthis:title="Nostalgia Proneness and the Collective Self" addthis:description="In two studies, we examined the association between nostalgia proneness (i.e., trait-level nostalgia) and importance of the collective self. In Study 1, we tested and supported the hypothesis that nostalgia proneness is positively correlated with relational collectivism, which entails an emphasis on one’s connections with close others and small social networks. In Study 2, we demonstrated that nostalgia proneness is also positively correlated with group collectivism, which emphasizes one’s membership in more abstract, larger social groups or categories, and was reflected in increased identification with a national ingroup. These findings offer insight into the nature of nostalgia proneness—a consequential and stable personality trait." addthis:url="https://www.frontiersin.org/articles/10.3389/fpsyg.2020.570621" title="Facebook"><span class="at-icon-wrapper" style="
+                              background-color: rgb(29, 161, 242);
+                              line-height: 16px;
+                              height: 16px;
+                              width: 16px;
+                            "></span></a>
+                </div>
+                <a><span class="facebook_count"></span></a>
+            </li>
+            <li class="social_block">
+                <div class="atButton">
+                    <a class="addthis_button_twitter at300b" data-event="shareicon-button-click" addthis:title="Nostalgia Proneness and the Collective Self" addthis:description="In two studies, we examined the association between nostalgia proneness (i.e., trait-level nostalgia) and importance of the collective self. In Study 1, we tested and supported the hypothesis that nostalgia proneness is positively correlated with relational collectivism, which entails an emphasis on one’s connections with close others and small social networks. In Study 2, we demonstrated that nostalgia proneness is also positively correlated with group collectivism, which emphasizes one’s membership in more abstract, larger social groups or categories, and was reflected in increased identification with a national ingroup. These findings offer insight into the nature of nostalgia proneness—a consequential and stable personality trait." addthis:url="https://www.frontiersin.org/articles/10.3389/fpsyg.2020.570621" title="Tweet"><span class="at-icon-wrapper" style="
+                              background-color: rgb(29, 161, 242);
+                              line-height: 16px;
+                              height: 16px;
+                              width: 16px;
+                            "></span></a>
+                </div>
+                <a><span class="twitter_count"></span></a>
+            </li>
+            <li class="social_block">
+                <div class="atButton">
+                    <a class="addthis_button_google at300b" data-event="shareicon-button-click" addthis:title="Nostalgia Proneness and the Collective Self" addthis:description="In two studies, we examined the association between nostalgia proneness (i.e., trait-level nostalgia) and importance of the collective self. In Study 1, we tested and supported the hypothesis that nostalgia proneness is positively correlated with relational collectivism, which entails an emphasis on one’s connections with close others and small social networks. In Study 2, we demonstrated that nostalgia proneness is also positively correlated with group collectivism, which emphasizes one’s membership in more abstract, larger social groups or categories, and was reflected in increased identification with a national ingroup. These findings offer insight into the nature of nostalgia proneness—a consequential and stable personality trait." addthis:url="https://www.frontiersin.org/articles/10.3389/fpsyg.2020.570621" title="Google Bookmark"><span class="at-icon-wrapper" style="
+                              background-color: rgb(29, 161, 242);
+                              line-height: 16px;
+                              height: 16px;
+                              width: 16px;
+                            "></span></a>
+                </div>
+                <a><span class="twitter_count"></span></a>
+            </li>
+            <li class="social_block">
+                <div class="atButton">
+                    <a class="addthis_button_linkedin at300b" data-event="shareicon-button-click" addthis:title="Nostalgia Proneness and the Collective Self" addthis:description="In two studies, we examined the association between nostalgia proneness (i.e., trait-level nostalgia) and importance of the collective self. In Study 1, we tested and supported the hypothesis that nostalgia proneness is positively correlated with relational collectivism, which entails an emphasis on one’s connections with close others and small social networks. In Study 2, we demonstrated that nostalgia proneness is also positively correlated with group collectivism, which emphasizes one’s membership in more abstract, larger social groups or categories, and was reflected in increased identification with a national ingroup. These findings offer insight into the nature of nostalgia proneness—a consequential and stable personality trait." addthis:url="https://www.frontiersin.org/articles/10.3389/fpsyg.2020.570621" title="LinkedIn"><span class="at-icon-wrapper" style="
+                              background-color: rgb(29, 161, 242);
+                              line-height: 16px;
+                              height: 16px;
+                              width: 16px;
+                            "></span></a>
+                </div>
+                <a><span class="linkedin_count"></span></a>
+            </li>
+            <li class="social_block">
+                <div class="atButton">
+                    <a class="addthis_button_more at300b" data-event="shareicon-button-click" addthis:title="Nostalgia Proneness and the Collective Self" addthis:description="In two studies, we examined the association between nostalgia proneness (i.e., trait-level nostalgia) and importance of the collective self. In Study 1, we tested and supported the hypothesis that nostalgia proneness is positively correlated with relational collectivism, which entails an emphasis on one’s connections with close others and small social networks. In Study 2, we demonstrated that nostalgia proneness is also positively correlated with group collectivism, which emphasizes one’s membership in more abstract, larger social groups or categories, and was reflected in increased identification with a national ingroup. These findings offer insight into the nature of nostalgia proneness—a consequential and stable personality trait." addthis:url="https://www.frontiersin.org/articles/10.3389/fpsyg.2020.570621" title="View more services"><span class="at-icon-wrapper" style="
+                              background-color: rgb(29, 161, 242);
+                              line-height: 16px;
+                              height: 16px;
+                              width: 16px;
+                            "></span></a>
+                </div>
+                <a><span class="total_count"></span></a>
+            </li>
+        </ul>
+    </div>
+
+        <aside id="anchors" class="pull-left table-of-contents side-article">
+            <div class="side-people hidden-sm hidden-xs">
+                    <section class="side-article-editors">
+                                <header><h5 class="like-h4">Edited by</h5></header>
+                                <a class="authors" href="https://loop.frontiersin.org/people/148972/overview">
+                                    <img alt=" " class="pr5 pull-left" onerror="this.src = &#39;/Areas/Articles/Images/Frontiers/Common/Profile/default-loop-profile.jpg&#39;" src="https://loop.frontiersin.org/images/profile/148972/24"></img>
+                                    <h6 class="author-link-aside">Atsushi Oshio</h6>
+                                </a>
+                                <div class="clearfix"></div>
+                                <p><span class="notes">Waseda University, Japan</span></p>
+                                                        <header><h5 class="like-h4"> Reviewed by</h5></header>
+                                    <a class="authors" href="https://loop.frontiersin.org/people/136535/overview">
+                                        <img alt=" " class="pr5 pull-left" onerror="this.src = &#39;/Areas/Articles/Images/Frontiers/Common/Profile/default-loop-profile.jpg&#39;" src="https://loop.frontiersin.org/images/profile/136535/24"></img>
+                                        <h6 class="author-link-aside">Anne Berthold</h6>
+                                    </a>
+                                    <div class="clearfix"></div>
+                                    <p><span class="notes">ETH Z&#252;rich, Switzerland</span></p>
+                                    <a class="authors" href="https://loop.frontiersin.org/people/1009341/overview">
+                                        <img alt=" " class="pr5 pull-left" onerror="this.src = &#39;/Areas/Articles/Images/Frontiers/Common/Profile/default-loop-profile.jpg&#39;" src="https://loop.frontiersin.org/images/profile/1009341/24"></img>
+                                        <h6 class="author-link-aside">Alin I. Gavreliuc</h6>
+                                    </a>
+                                    <div class="clearfix"></div>
+                                    <p><span class="notes">West University of Timișoara, Romania</span></p>
+                                            </section>
+            </div>
+
+        <nav>
+                <header><h5 class="like-h4" style="padding-top: 14px; padding-left: 6px; margin-bottom: 6px;">TABLE OF CONTENTS</h5></header>
+                <ul class="nav nav-list list-unstyled contents" data-event="toc-link-click">
+                    <li>
+<ul class="flyoutJournal"> <li><a href="#h1">Abstract</a></li> <li><a href="#h2">Introduction</a></li> <li><a href="#h3">Study 1</a></li> <li><a href="#h4">Study 2</a></li> <li><a href="#h5">General Discussion</a></li> <li><a href="#h6">Limitations and Future Directions</a></li> <li><a href="#h7">Coda</a></li> <li><a href="#h8">Data Availability Statement</a></li> <li><a href="#h9">Ethics Statement</a></li> <li><a href="#h10">Author Contributions</a></li> <li><a href="#h11">Conflict of Interest</a></li> <li><a href="#h12">Acknowledgments</a></li> <li><a href="#h13">Footnotes</a></li> <li><a href="#h14">References</a></li> </ul>                    </li>
+                </ul>
+        </nav>
+    </aside>
+
+
+    <div class="clearfix"></div>
+
+        <div class="side-article-download side-export clearfix">
+            <ul class="list-unstyled list-inline clearfix">
+                                    <li class="dropdown text-center citation">
+                        <button data-target="#" data-test-id="citation-button" data-toggle="dropdown" role="button" aria-expanded="false">
+                            <span class="icon-label" data-event="citation-button-click">Export citation</span>
+                        </button>
+                        <ul class="dropdown-menu" role="menu">
+                                <li>
+                                    <a data-test-id="article-endnote" href="/articles/10.3389/fpsyg.2020.570621/endNote" data-event="endnotedownload-button-click">
+                                        EndNote
+                                    </a>
+                                </li>
+                                <li>
+                                    <a data-test-id="article-referencemanager" href="/articles/10.3389/fpsyg.2020.570621/reference" data-event="referencemanagerdownload-button-click">
+                                        Reference Manager
+                                    </a>
+                                </li>
+                                <li>
+                                    <a data-test-id="article-simpletextfile" href="/articles/10.3389/fpsyg.2020.570621/text" data-event="simpletextfiledownload-button-click">
+                                        Simple TEXT file
+                                    </a>
+                                </li>
+                                <li>
+                                    <a data-test-id="article-bibtex" href="/articles/10.3389/fpsyg.2020.570621/bibTex" data-event="bibtexdownload-button-click">
+                                        BibTex
+                                    </a>
+                                </li>
+                        </ul>
+                    </li>
+            </ul>
+        </div>
+
+        <div class="side-crossmark">
+            <script src="https://crossmark-cdn.crossref.org/widget/v2.0/widget.js"></script>
+            <a data-target="crossmark" class="crossmark">
+                <figure>
+                    <img id="crossmark-icon" style="border: 0; width:64px; height:64px;" src="https://crossmark-cdn.crossref.org/widget/v2.0/logos/CROSSMARK_BW_square_no_text.svg" title="" alt="">
+                </figure>
+                <div id="crossmark-icon">Check for updates</div>
+            </a>
+
+        </div>
+
+        <article class="widget-listing people-also-looked-at side-article-related hidden">
+
+            <h5 class="like-h4" data-event="peoplelookedat-link-click">People also looked at</h5>
+        </article>
+
+
+</aside>
+
+
+                
+<main class="">
+    <div class="article-section">
+        <div class="article-container" data-html="True">
+            <div class="abstract-container">
+                <div class="article-header-container">
+                    <!-- Start CrossMark Snippet v2.0 -->
+                   
+                    <!-- End CrossMark Snippet -->
+
+                        <div class="header-bar-one">
+                            <h2>
+                                ORIGINAL RESEARCH article
+                            </h2>
+                        </div>
+                    <div class="header-bar-three-container">
+                        <div class="header-bar-three">
+                            Front. Psychol., 26 October 2020<br>Sec. Personality and Social Psychology
+
+                                <br />
+                                    <a href="https://doi.org/10.3389/fpsyg.2020.570621">https://doi.org/10.3389/fpsyg.2020.570621</a>
+                        </div>
+                    </div>
+                </div>
+
+<div class="JournalAbstract"> <a id="h1" name="h1"></a>
+<h1>Nostalgia Proneness and the Collective Self</h1> <div class="authors"><a href="https://www.frontiersin.org/people/u/809370" class="user-id-809370"><img class="pr5" src="https://loop.frontiersin.org/images/profile/809370/24" onerror="this.src='https://f96a1a95aaa960e01625-a34624e694c43cdf8b40aa048a644ca4.ssl.cf2.rackcdn.com/Design/Images/newprofile_default_profileimage_new.jpg'">Georgios Abakoumkin</a><sup>1
+</sup><sup>&#x0002A;</sup>, <a href="https://www.frontiersin.org/people/u/1087356" class="user-id-1087356"><img class="pr5" src="https://loop.frontiersin.org/images/profile/1087356/24" onerror="this.src='https://f96a1a95aaa960e01625-a34624e694c43cdf8b40aa048a644ca4.ssl.cf2.rackcdn.com/Design/Images/newprofile_default_profileimage_new.jpg'">Tim Wildschut</a><sup>2
+</sup> and <img class="pr5" src="https://f96a1a95aaa960e01625-a34624e694c43cdf8b40aa048a644ca4.ssl.cf2.rackcdn.com/Design/Images/newprofile_default_profileimage_new.jpg">Constantine Sedikides<sup>2
+</sup></div> <ul class="notes"> <li><span><sup>1</sup></span>Laboratory of Psychology, Department of Early Childhood Education, University of Thessaly, Volos, Greece
+</li> <li><span><sup>2</sup></span>Centre for Research on Self and Identity, School of Psychology, University of Southampton, Southampton, United Kingdom
+</li> </ul>
+<p>In two studies, we examined the association between nostalgia proneness (i.e., trait-level nostalgia) and importance of the collective self. In Study 1, we tested and supported the hypothesis that nostalgia proneness is positively correlated with relational collectivism, which entails an emphasis on one&#x2019;s connections with close others and small social networks. In Study 2, we demonstrated that nostalgia proneness is also positively correlated with group collectivism, which emphasizes one&#x2019;s membership in more abstract, larger social groups or categories, and was reflected in increased identification with a national ingroup. These findings offer insight into the nature of nostalgia proneness&#x2014;a consequential and stable personality trait.</p> <div class="clear"></div> </div> <div class="JournalFullText"> 
+<a id="h2" name="h2"></a>
+<h2>Introduction</h2>
+<p class="mb15">Nostalgia, &#x201C;a sentimental longing &#x2026; for the past&#x201D; (<a href="#ref36">Pearsall, 1998</a>, p. 1266), is an ambivalent, albeit predominantly positive, and social emotion (<a href="#ref26">Hepper et al., 2012a</a>; <a href="#ref39">Sedikides and Wildschut, 2016</a>; for historical overviews, see <a href="#ref8">Batcho, 2013</a>; <a href="#ref18">De Diego and Ots, 2014</a>). When people nostalgize, they feel connected with others in a way that enhances their perceptions of belongingness and acceptance (<a href="#ref43">Sedikides et al., 2015</a>, <a href="#ref42">2016</a>; <a href="#ref1">Abakoumkin et al., 2019</a>). In nostalgic reverie, &#x201C;the mind is &#x2018;peopled&#x2019;&#x201D; (<a href="#ref28">Hertz, 1990</a>, p. 195). Mental representations of social bonds (e.g., family, friends, and partners) form the building blocks of nostalgic memories; important figures from one&#x2019;s past are brought to life and become part of one&#x2019;s present (<a href="#ref17">Davis, 1979</a>; <a href="#ref7">Batcho, 1998</a>; <a href="#ref3">Abeyta et al., 2015</a>; <a href="#ref56">Wildschut et al., 2018</a>). As a result, nostalgia makes one feel loved, supported, and efficacious in social relations (<a href="#ref58">Zhou et al., 2008</a>; <a href="#ref57">Wildschut et al., 2010</a>). However, most of the research on the sociality function of nostalgia has been concerned with momentary or transient (i.e., state-level) nostalgia. In the present investigation, we focus on the role of trait-level nostalgia (i.e., nostalgia proneness; <a href="#ref41">Sedikides et al., 2004</a>; <a href="#ref55">Wildschut and Sedikides, in press</a>).</p>
+<p class="mb15">The extant literature indicates that nostalgia proneness is positively related with various indices of sociality. High-nostalgia (compared to low-nostalgia) individuals value social inclusion. In an early study (<a href="#ref7">Batcho, 1998</a>), participants first completed the Nostalgia Inventory (NI; <a href="#ref6">Batcho, 1995</a>), which assesses nostalgia proneness across different aspects of everyday life. Specifically, participants rated how much they generally missed each of 20 items from when they were younger (e.g., &#x201C;someone I loved,&#x201D; &#x201C;the way people were,&#x201D; &#x201C;my pets&#x201D;). The average rating was used to classify participants as high nostalgia and low nostalgia by selecting the top and bottom 25% of the sample, respectively. Next, participants rated themselves on 10 aspects of personality, including the extent to which they preferred activities with people rather than alone. High-nostalgia (compared to low-nostalgia) participants reported a stronger preference to be with other people rather than alone.</p>
+<p class="mb15">More recently, <a href="#ref30">Juhl et al. (2020)</a> showed the positive associations of nostalgia proneness with three core features of human sociality: empathy (<a href="#ref20">Eisenberg and Strayer, 1987</a>), attachment security (<a href="#ref34">Mikulincer and Shaver, 2011</a>), and prosocial or charitable behavior (<a href="#ref9">Batson, 2011</a>). Across five studies, nostalgia proneness was consistently associated with greater affective empathy (assessed with various measures; e.g., &#x201C;Seeing people cry upsets me&#x201D;; <a href="#ref33">Mehrabian and Epstein, 1972</a>), including among young children. Moreover, the link between nostalgia proneness and affective empathy held when controlling for domain-level (Big Five) personality traits and did not vary significantly as a function of age or gender. Juhl et al. further showed that high-nostalgia (compared to low-nostalgia) individuals evinced greater attachment security (assessed with the Security subscale of the Attachment Style Questionnaire; e.g., &#x201C;I trust other people and I like it when other people can rely on me&#x201D;; <a href="#ref29">Hofstra et al., 2005</a>). Attachment security, in turn, mediated the relation between nostalgia proneness and empathy. High-nostalgia (compared to low-nostalgia) individuals were more likely even to donate money to charity when given the opportunity to do so, and this relation was mediated serially by attachment security and affective empathy.</p>
+<p class="mb15">The distinctive sociality of nostalgia proneness is brought into sharp relief when nostalgia is contrasted with two other modes of thinking about one&#x2019;s past: rumination (<a href="#ref37">Rusting and Nolen-Hoeksema, 1998</a>) and counterfactual thinking (<a href="#ref21">Epstude and Roese, 2008</a>). <a href="#ref15">Cheung et al. (2018)</a> examined how nostalgia, rumination, and counterfactual thinking are similar or different in terms of their relation with seven functions of autobiographical memory (i.e., usages of memory or motives to remember; <a href="#ref25">Harris et al., 2014</a>): intimacy maintenance (attaining symbolic proximity to close but absent others), teach/inform (transmitting insights about oneself or life), self-regard (carrying over effective problem-solving strategies to present action, clarifying one&#x2019;s identity), bitterness revival (rekindling resentment for having been wronged by others), conversation (enlivening current social exchange), boredom reduction (counteracting tedium), and death preparation (coping with mortality awareness). The uniqueness of nostalgia proneness (compared to rumination and counterfactual thinking) resided in its comparatively strong positive association with intimacy maintenance and weak association with bitterness revival. Nostalgia-prone individuals, then, indicate that they use autobiographical memories to stay connected to loved ones and not to stir up bitterness toward others.</p>
+<p class="mb0">In light of this cumulative evidence, we propose that nostalgia-prone individuals assign greater importance to the collective self. Whereas the individual self refers to those unique aspects of the self-concept that differentiate the person from others and distinguishes him or her within the social context, the collective self refers to those aspects of the self-concept that are shared with other members of the social groups to which one belongs and is based on social bonds to others (<a href="#ref38">Sedikides and Brewer, 2001</a>). <a href="#ref11">Brewer and Chen (2007)</a> distinguished between two forms of self-definition at the collective level, with distinct implications for psychological functioning. Relational collectivism refers to an emphasis on one&#x2019;s bonds to close others and small social networks. Group collectivism denotes an emphasis on one&#x2019;s membership in more abstract, larger social groups or categories. In Study 1, we tested the association of nostalgia proneness with relational collectivism (and individualism). In Study 2, we extended this line of inquiry by examining the link between nostalgia proneness and group collectivism, as reflected in (national) ingroup identification. Our overarching objective was to tighten the nomological net around nostalgia proneness and thereby better understand this consequential and stable personality trait (<a href="#ref55">Wildschut and Sedikides, in press</a>).</p> 
+<a id="h3" name="h3"></a>
+<h2>Study 1</h2>
+<p class="mb0">In Study 1, we used survey data available from the Longitudinal Internet Studies for the Social Sciences (LISS) panel. Participants completed measures of nostalgia proneness, individualism, and relational collectivism. The measures of individualism and collectivism incorporated a further, cross-cutting distinction between a horizontal and vertical orientation (<a href="#ref45">Singelis et al., 1995</a>; <a href="#ref50">Triandis and Gelfand, 1998</a>). A horizontal orientation emphasizes similarities between oneself and others. Thus, horizontal individualism involves self-reliance without a desire to differentiate oneself by achieving high status, and horizontal collectivism emphasizes interdependence with others without submitting oneself to others. A vertical orientation emphasizes hierarchies and differences between oneself and others. Accordingly, vertical individualism involves distinguishing oneself through competition and status acquisition, and vertical collectivism involves subordinating and sacrificing oneself for the sake of one&#x2019;s social relations. We hypothesized that nostalgia proneness would be positively related to both horizontal and vertical collectivism dimensions (but not to individualism dimensions).</p>
+<h3>Method</h3>
+<h4>Data Collection</h4>
+<p class="mb0">The LISS panel<sup id="footnotesuper1"><a id="fn_0001"></a><a class="footnoteanchor" href="#fn0001">1</a></sup> includes members of the Dutch general public selected based on a true probability sample of Dutch households. Panel members complete studies each month, and their responses can be combined across studies. Data collection is managed by CentERdata in Tilburg, The Netherlands. We assembled the dataset from three LISS studies. &#x201C;Background Variables&#x201D; (completed April 2011) contained demographic measures, &#x201C;Nostalgia&#x2014;part 1, wave 1&#x201D; (completed November 2012) contained measures of nostalgia proneness, and &#x201C;Self-Regulatory Orientation&#x201D; (completed April 2011) contained measures of collectivism and individualism. Data for the &#x201C;Background Variables&#x201D; study are updated monthly, and we used the data collected in the same month as the &#x201C;Self-Regulatory Orientation&#x201D; study. The &#x201C;Nostalgia&#x201D; study assessed nostalgia proneness at six timepoints. We selected the timepoint (part 1, wave 1) that was closest to the &#x201C;Self-Regulatory Orientation&#x201D; study.</p>
+<h4>Participants</h4>
+<p class="mb0">Eight hundred sixty-eight participants completed measures of nostalgia proneness, collectivism, and individualism, as well as demographic information (457 women, 411 men; <i>M</i>
+<sub>age</sub> = 52.13 years, <i>SD</i>
+<sub>age</sub> = 16.40 years, Range<sub>age</sub> = 16&#x2013;91 years).</p>
+<h4>Nostalgia Proneness</h4>
+<p class="mb0">Participants in the &#x201C;Nostalgia&#x2014;part 1, wave 1&#x201D; LISS study completed the Southampton Nostalgia Scale (SNS; <a href="#ref5">Barrett et al., 2010</a>) and the NI (<a href="#ref6">Batcho, 1995</a>). For the SNS, they responded to seven items. Three of them measured the extent to which participants found nostalgia valuable, important, or significant (1 = <i>not at all</i>, 7 = <i>very much</i>), and four measured how frequently participants became nostalgic (1 = <i>very rarely</i>, 7 = <i>very frequently</i>). We averaged responses to create SNS scores (&#x03B1; = 0.94; <i>M</i> = 4.12, <i>SD</i> = 1.23). For the NI, participants indicated how nostalgic (1 = <i>not at all</i>, 6 = <i>very much</i>) they felt about 20 objects (e.g., &#x201C;someone I loved&#x201D; and &#x201C;my childhood toys&#x201D;). We averaged responses to create NI scores (&#x03B1; = 0.93; <i>M</i> = 3.83, <i>SD</i> = 1.11). We used two measures of nostalgia proneness for the purpose of convergent validation (<a href="#ref12">Campbell and Fiske, 1959</a>; <a href="#ref55">Wildschut and Sedikides, in press</a>).</p>
+<h4>Individualism and Relational Collectivism</h4>
+<p class="mb0">
+<a href="#ref45">Singelis et al. (1995)</a> developed 32 items to assess horizontal collectivism, vertical collectivism, horizontal individualism, and vertical individualism (eight items for each dimension). <a href="#ref50">Triandis and Gelfand (1998)</a> subsequently adapted 27 of these items to assess the four dimensions. Participants in the &#x201C;Self-Regulatory Orientation&#x201D; LISS study completed 8 of these 27 items (2 items for each dimension). These eight items were selected on the basis of their high factor loadings, as reported by Triandis and Gelfand. Participants rated the items (1 = <i>totally not applicable</i>, 7 = <i>totally applicable</i>). We averaged responses to create indices of horizontal collectivism (&#x201C;If an acquaintance gets a prize, I would feel proud,&#x201D; &#x201C;To me, pleasure is spending time with others&#x201D;; &#x03B1; = 0.59; <i>M</i> = 4.77, <i>SD</i> = 1.25), vertical collectivism (&#x201C;It is my duty to take care of my family, even when I have to sacrifice what I want,&#x201D; &#x201C;It is important to me that I respect the decisions made by my groups&#x201D;; &#x03B1; = 0.63; <i>M</i> = 4.81, <i>SD</i> = 1.30), horizontal individualism (&#x201C;I&#x2019;d rather depend on my own strength than being dependent on others,&#x201D; &#x201C;My personal identity, independent of others, is very important to me&#x201D;; &#x03B1; = 0.70; <i>M</i> = 5.28, <i>SD</i> = 1.22), and vertical individualism (&#x201C;Winning is everything,&#x201D; &#x201C;Competition is the law of nature&#x201D;; &#x03B1; = 0.78; <i>M</i> = 3.36, <i>SD</i> = 1.39). The targets referred to in the collectivism items are not large social groups or categories, but specific interpersonal relationships or networks (e.g., family, friends, and acquaintances). Only one of the four collectivism items referred to groups (&#x201C;It is important to me that I respect the decisions made by my groups&#x201D;), and even this item alludes to relatively small social networks (i.e., &#x201C;<i>my</i> groups&#x201D;) rather than large collectives. For this reason, the present measures tap relational (as opposed to group) collectivism. We acknowledge that the reliability coefficients are lower than desired, particularly for horizontal collectivism and vertical collectivism. This is expected, given that each index comprised only two items. Low reliability attenuates effect size and, hence, reduces statistical power (<a href="#ref16">Cohen, 1988</a>). Fortunately, our sample size (<i>N</i> = 868) affords sufficient statistical power (&#x0003E;0.80) to detect even a small effect (<i>r</i> = 0.10, two-tailed).</p>
+<h3>Results and Discussion</h3>
+<p class="mb0">We present zero-order correlations among study variables in <a href="#tab1">Table 1</a>. As hypothesized, both measures of nostalgia proneness (SNS and NI) were significantly and positively correlated with both (relational) collectivism dimensions (horizontal collectivism and vertical collectivism). The nostalgia proneness measures were also positively correlated with both individualism dimensions, albeit less strongly than with the collectivism dimensions.</p>
+<div class="DottedLine"></div> <div class="Imageheaders">TABLE 1</div> <div class="FigureDesc"><a href="https://www.frontiersin.org/files/Articles/570621/fpsyg-11-570621-HTML/image_m/fpsyg-11-570621-t001.jpg" name="table1" target="_blank"><img id="tab1" alt="www.frontiersin.org" class="lazy" data-src="https://www.frontiersin.org/files/Articles/570621/fpsyg-11-570621-HTML/image_m/fpsyg-11-570621-t001.jpg"></a>
+<p><strong>Table 1</strong>. Correlations among nostalgia proneness, collectivism, individualism, and demographics in Study 1.
+</p></div> <div class="clear"></div> <div class="DottedLine"></div>
+<p class="mb15">Consistent with prior findings (<a href="#ref45">Singelis et al., 1995</a>), the two horizontal dimensions (horizontal collectivism and horizontal individualism) and the two vertical dimensions (vertical collectivism and vertical individualism) were significantly and positively correlated. In addition, horizontal collectivism and vertical individualism were positively correlated, as were horizontal individualism and vertical collectivism. This overlap between the collectivism and individualism dimensions raises a legitimate question concerning their unique relations with nostalgia proneness. To address this, we first tested the partial correlation of each nostalgia-proneness measure with each collectivism dimension, controlling for the individualism dimensions. The positive associations between nostalgia-proneness measures and collectivism dimensions remained significant, when controlling for individualism dimensions. To be precise, the SNS was significantly correlated with horizontal collectivism (<i>pr</i> = 0.17, <i>p</i> &#x0003C; 0.001) and vertical collectivism (<i>pr</i> = 0.21, <i>p</i> &#x0003C; 0.001), and the NI was also significantly correlated with horizontal collectivism (<i>pr</i> = 0.21, <i>p</i> &#x0003C; 0.001) and vertical collectivism (<i>pr</i> = 0.24, <i>p</i> &#x0003C; 0.001). Next, we tested the partial correlation of each nostalgia-proneness measure with each individualism dimension, controlling for the collectivism dimensions. The SNS was not significantly associated with horizontal individualism (<i>pr</i> = 0.01, <i>p</i> = 0.751) or vertical individualism (<i>pr</i> = &#x02212;0.02, <i>p</i> = 0.566), when controlling for collectivism dimensions. The NI was not significantly correlated with horizontal individualism (<i>pr</i> = &#x02212;0.03, <i>p</i> = 0.470) or vertical individualism (<i>pr</i> = 0.04, <i>p</i> = 0.226) either.</p>
+<p class="mb15">Finally, we examined correlations with demographic variables. Neither gender nor age was significantly correlated with either measure of nostalgia proneness. Women evinced significantly higher vertical collectivism scores and lower vertical individualism scores than men. Older (compared to younger) individuals scored significantly higher on vertical collectivism and horizontal individualism and lower on vertical individualism. When we controlled for age and gender (in partial-correlation analyses), the correlations of both nostalgia measures with both collectivism dimensions were practically identical.</p>
+<p class="mb0">A key limitation of Study 1 concerns the exclusive focus on relational collectivism. This raises the question whether Study 1 findings can be replicated conceptually when collectivism is assessed in terms of one&#x2019;s identification with more abstract, larger social entities. We tested this possibility in Study 2.</p> 
+<a id="h4" name="h4"></a>
+<h2>Study 2</h2>
+<p class="mb0">In Study 2, we examined the relation between nostalgia proneness and group collectivism. We assessed group collectivism in terms of participants&#x2019; identification with their national ingroup.</p>
+<h3>Method</h3>
+<h4>Participants</h4>
+<p class="mb0">We tested 202 University of Thessaly students, who took part for extra course credit. We excluded four students because they were not Greek citizens, and six students because they did not complete all measures. The final sample comprised 192 individuals (188 women and 4 men), ranging in age from 18 to 40 years (<i>M</i> = 21.09, <i>SD</i> = 3.94).</p>
+<h4>Procedure and Materials</h4>
+<p class="mb0">Participants responded to the materials individually, on a computer. As in Study 1, we assessed nostalgia proneness with the SNS (<a href="#ref5">Barrett et al., 2010</a>; &#x03B1; = 0.91, <i>M</i> = 5.04, <i>SD</i> = 1.13) and NI (<a href="#ref6">Batcho, 1995</a>; &#x03B1; = 0.87, <i>M</i> = 4.38, <i>SD</i> = 1.04). We assessed national identification with <a href="#ref31">Leach et al. (2008)</a> 14-item ingroup identification scale, which participants filled out in reference to their Greek nationality (1 = <i>strongly disagree</i>, 7 = <i>strongly agree</i>). The ingroup identification scale comprises two facets. (1) Group-level self-definition captures the degree to which individuals see themselves as similar to the ingroup prototype (i.e., self-stereotyping) and perceive ingroup members as similar to each other (i.e., in-group homogeneity). (2) Group-level self-investment encapsulates individuals&#x2019; positive feelings about their ingroup membership (i.e., satisfaction), the strength of their bond with the ingroup (i.e., solidarity), and the importance they ascribe to their ingroup memberships (i.e., centrality). We averaged across the relevant items to create indices of self-definition (e.g., &#x201C;I have a lot in common with the average Greek person&#x201D;; &#x03B1; = 0.89, <i>M</i> = 4.48, <i>SD</i> = 1.29) and self-investment (e.g., &#x201C;I am glad to be Greek&#x201D;; &#x03B1; = 0.89, <i>M</i> = 4.96, <i>SD</i> = 1.13).</p>
+<h3>Results and Discussion</h3>
+<p class="mb0">We present correlations between measured variables in <a href="#tab2">Table 2</a>. We did not include gender in the correlation matrix, because the sample included few men (<i>n</i> = 4). As hypothesized, both measures of nostalgia proneness were significantly and positively related to both group-level self-definition and group-level self-investment. Older participants scored lower on nostalgia (but age range was limited in this student sample). When we controlled for age (in partial correlation analyses), the correlations of SNS scores with self-definition (<i>pr</i> = 0.22, <i>p</i> = 0.003) and self-investment (<i>pr</i> = 0.20, <i>p</i> = 0.007) remained significant, as did the correlations of NI scores with self-definition (<i>pr</i> = 0.16, <i>p</i> = 0.028) and self-investment (<i>pr</i> = 0.26, <i>p</i> &#x0003C; 0.001).</p>
+<div class="DottedLine"></div> <div class="Imageheaders">TABLE 2</div> <div class="FigureDesc"><a href="https://www.frontiersin.org/files/Articles/570621/fpsyg-11-570621-HTML/image_m/fpsyg-11-570621-t002.jpg" name="table2" target="_blank"><img id="tab2" alt="www.frontiersin.org" class="lazy" data-src="https://www.frontiersin.org/files/Articles/570621/fpsyg-11-570621-HTML/image_m/fpsyg-11-570621-t002.jpg"></a>
+<p><strong>Table 2</strong>. Correlations among nostalgia proneness, group-level self-definition, group-level investment, and age in Study 2.
+</p></div> <div class="clear"></div> <div class="DottedLine"></div>
+<p class="mb0">Study 1 revealed that nostalgia proneness is associated with higher relational collectivism. Study 2 conceptually replicated and extended this finding by demonstrating that nostalgia proneness is also linked with higher group collectivism, as reflected in the strength of ingroup identification.</p> 
+<a id="h5" name="h5"></a>
+<h2>General Discussion</h2>
+<h3>Summary of Findings</h3>
+<p class="mb15">Extant evidence has tied nostalgia proneness to a stronger preference for engaging in activities with others (<a href="#ref7">Batcho, 1998</a>), increased empathy (<a href="#ref13">Cheung et al., 2017a</a>; <a href="#ref30">Juhl et al., 2020</a>; <a href="#ref35">Newman et al., 2020</a>), and greater emphasis on intimacy maintenance versus bitterness revival (<a href="#ref15">Cheung et al., 2018</a>). The present findings tighten further this nomological net around nostalgia proneness. Our point of departure was <a href="#ref11">Brewer and Chen&#x2019;s (2007)</a> influential distinction between relational and group collectivism. Whereas relational collectivism involves self-definition in terms of one&#x2019;s bonds to close others and small social networks, group collectivism denotes self-definition in terms of one&#x2019;s membership in larger social groups or categories.</p>
+<p class="mb0">In Study 1, we examined the association of nostalgia proneness with relational collectivism (and individualism). This study further included a cross-cutting distinction between horizontal (i.e., emphasizing similarities between oneself and others) and vertical (i.e., emphasizing hierarchies and differences between oneself and others) orientations (<a href="#ref45">Singelis et al., 1995</a>; <a href="#ref50">Triandis and Gelfand, 1998</a>). Zero-order and partial correlations (controlling for individualism) revealed that high-nostalgia (compared to low-nostalgia) individuals scored higher on measures of horizontal and vertical collectivism. Zero-order correlations between nostalgia proneness and the individualism measures were small and rendered non-significant when we controlled for collectivism (in partial-correlation analyses). Study 2, in turn, demonstrated a link between nostalgia proneness and group collectivism, as reflected in two aspects of (national) ingroup identification: group level self-definition (i.e., the degree to which individuals see themselves as similar to the ingroup prototype and perceive ingroup members as similar to each other) and group level self-investment (i.e., the extent to which individuals value the ingroup and their membership in it). Across both studies, independent assessments of nostalgia proneness (SNS and NI) produced convergent support for the conclusion that high-nostalgia (compared to low-nostalgia) individuals are more likely both to emphasize the importance of maintaining tightly knit networks of interpersonal relationships, including the attendant rights and responsibilities (relational collectivism), and to value, identify with, and promote the collective welfare of more abstract, larger social groups (group collectivism). The magnitude of these relations (Study 1: <i>r</i> range = 0.19 to 0.26; Study 2: <i>r</i> range = 0.17 to 0.27) is typical for social and personality psychology research (<a href="#ref23">Gignac and Szodorai, 2016</a>; <a href="#ref22">Funder and Ozer, 2019</a>).</p> 
+<a id="h6" name="h6"></a>
+<h2>Limitations and Future Directions</h2>
+<p class="mb15">Our studies were correlational and, hence, did not allow us to examine direction of causality. However, prior research is consistent with the possibility of a bi-directional relation between collectivism and nostalgia proneness. Collectivism entails a strong need to belong (<a href="#ref10">Bond and Smith, 1996</a>; <a href="#ref49">Suh, 2007</a>) and there is now strong evidence that experimentally induced belongingness deficits, which heighten the need to belong (<a href="#ref24">Hackenbracht and Gasper, 2013</a>), lead to increased nostalgia (<a href="#ref58">Zhou et al., 2008</a>; <a href="#ref57">Wildschut et al., 2010</a>; <a href="#ref44">Seehusen et al., 2013</a>; <a href="#ref2">Abakoumkin et al., 2017</a>). Thus, collectivism may cause nostalgic reverie. Nostalgia, in turn, serves a compensatory role, assuaging the need to belong by strengthening social connectedness (for a review, see <a href="#ref40">Sedikides and Wildschut, 2019</a>). By so doing, nostalgia can increase the importance and strength of relational and group bonds. For example, discussing a shared nostalgic (vs. ordinary) memory with a close other (i.e., partner, friend, or family member) increases relationship positivity, intimacy, support, and mutual disclosure (<a href="#ref27">Hepper et al., 2012b</a>). Likewise, reflecting on nostalgic (vs. ordinary) events shared with other members of one&#x2019;s university or national ingroup increases positive ingroup evaluations, charitable intentions toward the ingroup, and personal sacrifice for the ingroup (<a href="#ref54">Wildschut et al., 2014</a>), as well as ingroup bias in the evaluation of domestic and foreign consumer products (<a href="#ref19">Dimitriadou et al., 2019</a>). These findings point to a causal path from nostalgia to relational and group collectivism, particularly when one&#x2019;s nostalgia pertains to, or is shared within, the collective in question. Explicating the bi-directional causal paths between nostalgia and (relational as well as group) collectivism presents a fruitful direction for research.</p>
+<p class="mb0">Another unresolved question is whether nostalgia proneness, through its positive association with group collectivism, is linked to increased prejudice and ethnocentrism. To understand the nuanced picture emerging from extant findings, two issues deserve careful consideration. First, it is important to distinguish between nostalgia for experiences from one&#x2019;s personal past (i.e., the focus of our present studies) and nostalgia for the ostensibly glorious past of one&#x2019;s group (e.g., national nostalgia). Proneness to nostalgia for one&#x2019;s personal past is negatively correlated with prejudice against outgroups (<a href="#ref46">Smeekes, 2015</a>; <a href="#ref13">Cheung et al., 2017a</a>), and recalling a personally nostalgic (compared to ordinary) experience with a specific outgroup member reduces prejudice toward the entire outgroup (<a href="#ref51">Turner et al., 2012</a>, <a href="#ref53">2013</a>, <a href="#ref52">2018</a>). By contrast, nostalgia for the past of one&#x2019;s group (e.g., &#x201C;How often do you long for the good old days of the country?&#x201D;) has been linked with higher prejudice, national glorification, and anger toward outgroups (<a href="#ref46">Smeekes, 2015</a>; <a href="#ref48">Smeekes et al., 2015</a>, <a href="#ref47">2018</a>; <a href="#ref14">Cheung et al., 2017b</a>; <a href="#ref4">Baldwin et al., 2018</a>). Yet, findings by <a href="#ref32">Martinovic et al. (2017)</a> raise a second issue that requires attention, pertaining to the referent of nostalgia. Their findings indicate that, under certain circumstances, nostalgia for the collective past is associated with improved outgroup attitudes. Participants from former Yugoslavia rated their nostalgia for the Yugoslavia of the past (e.g., &#x201C;I get nostalgic when I think back to Yugoslavia in the past times&#x201D;) and then indicated their level of contact with members from different ethnic subgroups from former Yugoslavia (Bosniaks, Serbs, and Croats). Nostalgia for the superordinate group, Yugoslavia, predicted increased contact between ethnic subgroups. Furthermore, political orientation might affect the referent of nostalgia. For example, political conservatives might be more prone than political liberals to nostalgize about the &#x201C;good old days of a country&#x201D; and thereby identify with this country. Clarifying the precise circumstances under which nostalgia proneness, in its different guises, is either positively or negatively associated with outgroup prejudice presents a challenge for future research.</p> 
+<a id="h7" name="h7"></a>
+<h2>Coda</h2>
+<p class="mb0">High-nostalgia (compared to low-nostalgia) individuals attach great value and significance to establishing, protecting, and enhancing close-knit interpersonal relationships, as well as to maintaining the integrity, and promoting the interests, of more abstract, larger groups and social categories. As history indicates, these pursuits can be the source of both great happiness and intense suffering. The present findings mark a step along the path to understanding these profound and sometimes contradictory implications of nostalgia proneness and human sociality.</p> 
+<a id="h8" name="h8"></a>
+<h2>Data Availability Statement</h2>
+<p class="mb0">The datasets presented in Study 1 can be found in online repositories. The names of the repository/repositories and accession number(s) can be found at: <a href="http://www.surveydata.nl/liss-panel-data-archive">www.surveydata.nl/liss-panel-data-archive</a>. The datasets presented in Study 2 are available on request to the corresponding author.</p> 
+<a id="h9" name="h9"></a>
+<h2>Ethics Statement</h2>
+<p class="mb0">Study 1, which involved human participants, was reviewed and approved by University of Southampton, School of Psychology ethics committee. The treatment of Study&#x2019;s 2 human participants complies with APA ethical standards and with the University of Thessaly Code of Conduct. The patients/participants in both studies provided their written informed consent to participate in these studies.</p> 
+<a id="h10" name="h10"></a>
+<h2>Author Contributions</h2>
+<p class="mb0">GA, TW, and CS conceptualized the studies (theory, hypotheses, and design). TW conducted Study 1 and GA conducted Study 2. GA and TW wrote drafts of the manuscript. CS provided feedback and revised the drafts. All authors contributed to the article and approved the submitted version.</p> 
+<a id="h11" name="h11"></a>
+<h2>Conflict of Interest</h2>
+<p class="mb0">The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p> 
+<a id="h12" name="h12"></a>
+<h2>Acknowledgments</h2>
+<p class="mb0">We thank Maria Epitropou, Panayiota Metallidou, and Giannis Samaras for help with materials and equipment; Domna-Mika Kakana, Panagiotis Kanellopoulos, Angeliki Leondari, Kostas Magos, Yannis Pechtelidis, and Eleftheria Tseliou for facilitating access to participants; Maria Bakarou for assistance with data collection; and Panayiota Metallidou and Eleftheria Tseliou for helpful comments.</p> 
+<a id="h13" name="h13"></a>
+<h2>Footnotes</h2> <div id="footnotetext" class="fulltextdescription">
+<p style="margin-top:0em;margin-bottom:0em;margin-left:1em;text-indent:-1em;" id="fn0001">1. <a href="http://www.surveydata.nl/liss-panel-data-archive">www.surveydata.nl/liss-panel-data-archive</a></p></div> <a id="h14" name="h14"></a>
+<h2>References</h2>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref1" id="ref1"></a>Abakoumkin, G., Hepper, E. G., Wildschut, T., and Sedikides, C. (2019). From nostalgia through social connectedness to self-continuity: replication and extension. <i>Hell. J. Psychol.</i> 16, 127&#x2013;144.</p>
+<p class="ReferencesCopy2"><a href="http://scholar.google.com/scholar_lookup?author=G.+Abakoumkin&#x00026;author=E.+G.+Hepper&#x00026;author=T.+Wildschut&#x00026;author=C.+Sedikides&#x00026;publication_year=2019&#x00026;title=From+nostalgia+through+social+connectedness+to+self-continuity:+replication+and+extension&#x00026;journal=Hell.+J.+Psychol.&#x00026;volume=16&#x00026;pages=127-144" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref2" id="ref2"></a>Abakoumkin, G., Wildschut, T., Sedikides, C., and Bakarou, M. (2017). Nostalgia in response to group-based exclusion: the role of attachment-related avoidance. <i>Eur. J. Soc. Psychol.</i> 47, 373&#x2013;381. doi: 10.1002/ejsp.2235</p>
+<p class="ReferencesCopy2"><a href="https://doi.org/10.1002/ejsp.2235" target="_blank">CrossRef Full Text</a> | <a href="http://scholar.google.com/scholar_lookup?author=G.+Abakoumkin&#x00026;author=T.+Wildschut&#x00026;author=C.+Sedikides&#x00026;author=M.+Bakarou&#x00026;publication_year=2017&#x00026;title=Nostalgia+in+response+to+group-based+exclusion:+the+role+of+attachment-related+avoidance&#x00026;journal=Eur.+J.+Soc.+Psychol.&#x00026;volume=47&#x00026;pages=373-381" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref3" id="ref3"></a>Abeyta, A., Routledge, C., Roylance, C., Wildschut, R. T., and Sedikides, C. (2015). Attachment-related avoidance and the social and agentic content of nostalgic memories. <i>J. Soc. Pers. Relat.</i> 32, 406&#x2013;413. doi: 10.1177/0265407514533770</p>
+<p class="ReferencesCopy2"><a href="https://doi.org/10.1177/0265407514533770" target="_blank">CrossRef Full Text</a> | <a href="http://scholar.google.com/scholar_lookup?author=A.+Abeyta&#x00026;author=C.+Routledge&#x00026;author=C.+Roylance&#x00026;author=R.+T.+Wildschut&#x00026;author=C.+Sedikides&#x00026;publication_year=2015&#x00026;title=Attachment-related+avoidance+and+the+social+and+agentic+content+of+nostalgic+memories&#x00026;journal=J.+Soc.+Pers.+Relat.&#x00026;volume=32&#x00026;pages=406-413" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref4" id="ref4"></a>Baldwin, M.,  White, M. II, and Sullivan, D. (2018). Nostalgia for America&#x2019;s past can buffer collective guilt. <i>Eur. J. Soc. Psychol.</i> 48, 433&#x2013;446. doi: 10.1002/ejsp.2348</p>
+<p class="ReferencesCopy2"><a href="https://doi.org/10.1002/ejsp.2348" target="_blank">CrossRef Full Text</a> | <a href="http://scholar.google.com/scholar_lookup?author=M.+Baldwin&#x00026;author=M.+White&#x00026;author=D.+Sullivan&#x00026;publication_year=2018&#x00026;title=Nostalgia+for+America&#x2019;s+past+can+buffer+collective+guilt&#x00026;journal=Eur.+J.+Soc.+Psychol.&#x00026;volume=48&#x00026;pages=433-446" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref5" id="ref5"></a>Barrett, F. S., Grimm, K. J., Robins, R. W., Wildschut, T., Sedikides, C., and Janata, P. (2010). Music-evoked nostalgia: affect, memory, and personality. <i>Emotion</i> 10, 390&#x2013;403. doi: 10.1037/a0019006 </p>
+<p class="ReferencesCopy2"><a href="https://pubmed.ncbi.nlm.nih.gov/20515227" target="_blank">PubMed Abstract</a> | <a href="https://doi.org/10.1037/a0019006" target="_blank">CrossRef Full Text</a> | <a href="http://scholar.google.com/scholar_lookup?author=F.+S.+Barrett&#x00026;author=K.+J.+Grimm&#x00026;author=R.+W.+Robins&#x00026;author=T.+Wildschut&#x00026;author=C.+Sedikides&#x00026;author=P.+Janata&#x00026;publication_year=2010&#x00026;title=Music-evoked+nostalgia:+affect+memory+and+personality&#x00026;journal=Emotion&#x00026;volume=10&#x00026;pages=390-403" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref6" id="ref6"></a>Batcho, K. I. (1995). Nostalgia: a psychological perspective. <i>Percept. Mot. Skills</i> 80, 131&#x2013;143. doi: 10.2466/pms.1995.80.1.131</p>
+<p class="ReferencesCopy2"><a href="https://doi.org/10.2466/pms.1995.80.1.131" target="_blank">CrossRef Full Text</a> | <a href="http://scholar.google.com/scholar_lookup?author=K.+I.+Batcho&#x00026;publication_year=1995&#x00026;title=Nostalgia:+a+psychological+perspective&#x00026;journal=Percept.+Mot.+Skills&#x00026;volume=80&#x00026;pages=131-143" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref7" id="ref7"></a>Batcho, K. I. (1998). Personal nostalgia, world view, memory, and emotionality. <i>Percept. Mot. Skills</i> 87, 411&#x2013;432. doi: 10.2466/pms.1998.87.2.411 </p>
+<p class="ReferencesCopy2"><a href="https://pubmed.ncbi.nlm.nih.gov/9842580" target="_blank">PubMed Abstract</a> | <a href="https://doi.org/10.2466/pms.1998.87.2.411" target="_blank">CrossRef Full Text</a> | <a href="http://scholar.google.com/scholar_lookup?author=K.+I.+Batcho&#x00026;publication_year=1998&#x00026;title=Personal+nostalgia+world+view+memory+and+emotionality&#x00026;journal=Percept.+Mot.+Skills&#x00026;volume=87&#x00026;pages=411-432" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref8" id="ref8"></a>Batcho, K. I. (2013). Nostalgia: the bittersweet history of a psychological concept. <i>Hist. Psychol.</i> 16, 165&#x2013;176. doi: 10.1037/a0032427</p>
+<p class="ReferencesCopy2"><a href="https://doi.org/10.1037/a0032427" target="_blank">CrossRef Full Text</a> | <a href="http://scholar.google.com/scholar_lookup?author=K.+I.+Batcho&#x00026;publication_year=2013&#x00026;title=Nostalgia:+the+bittersweet+history+of+a+psychological+concept&#x00026;journal=Hist.+Psychol.&#x00026;volume=16&#x00026;pages=165-176" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref9" id="ref9"></a>Batson, C. D. (2011). <i>Altruism in humans</i>. New York, NY: Oxford University Press.</p>
+<p class="ReferencesCopy2"><a href="http://scholar.google.com/scholar_lookup?author=C.+D.+Batson&#x00026;publication_year=2011&#x00026;journal=Altruism+in+humans&#x00026;" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref10" id="ref10"></a>Bond, R., and Smith, P. B. (1996). Culture and conformity: a meta-analysis of studies using Asch&#x2019;s (1952b, 1956) line judgment task. <i>Psychol. Bull.</i> 119, 111&#x2013;137. doi: 10.1037/0033-2909.119.1.111</p>
+<p class="ReferencesCopy2"><a href="https://doi.org/10.1037/0033-2909.119.1.111" target="_blank">CrossRef Full Text</a> | <a href="http://scholar.google.com/scholar_lookup?author=R.+Bond&#x00026;author=P.+B.+Smith&#x00026;publication_year=1996&#x00026;title=Culture+and+conformity:+a+meta-analysis+of+studies+using+Asch&#x2019;s+(1952b+1956)+line+judgment+task&#x00026;journal=Psychol.+Bull.&#x00026;volume=119&#x00026;pages=111-137" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref11" id="ref11"></a>Brewer, M. B., and Chen, Y. (2007). Where (who) are collectives in collectivism? Toward conceptual clarification of individualism and collectivism. <i>Psychol. Rev.</i> 114, 133&#x2013;151. doi: 10.1037/0033-295X.114.1.133 </p>
+<p class="ReferencesCopy2"><a href="https://pubmed.ncbi.nlm.nih.gov/17227184" target="_blank">PubMed Abstract</a> | <a href="https://doi.org/10.1037/0033-295X.114.1.133" target="_blank">CrossRef Full Text</a> | <a href="http://scholar.google.com/scholar_lookup?author=M.+B.+Brewer&#x00026;author=Y.+Chen&#x00026;publication_year=2007&#x00026;title=Where+(who)+are+collectives+in+collectivism?+Toward+conceptual+clarification+of+individualism+and+collectivism&#x00026;journal=Psychol.+Rev.&#x00026;volume=114&#x00026;pages=133-151" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref12" id="ref12"></a>Campbell, D. T., and Fiske, D. W. (1959). Convergent and discriminant validation by the multitrait-multimethod matrix. <i>Psychol. Bull.</i> 56, 81&#x2013;105. doi: 10.1037/h0046016</p>
+<p class="ReferencesCopy2"><a href="https://doi.org/10.1037/h0046016" target="_blank">CrossRef Full Text</a> | <a href="http://scholar.google.com/scholar_lookup?author=D.+T.+Campbell&#x00026;author=D.+W.+Fiske&#x00026;publication_year=1959&#x00026;title=Convergent+and+discriminant+validation+by+the+multitrait-multimethod+matrix&#x00026;journal=Psychol.+Bull.&#x00026;volume=56&#x00026;pages=81-105" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref13" id="ref13"></a>Cheung, W. -Y., Sedikides, C., and Wildschut, T. (2017a). Nostalgia proneness and reduced prejudice. <i>Personal. Individ. Differ.</i> 109, 89&#x2013;97. doi: 10.1016/j.paid.2016.12.045</p>
+<p class="ReferencesCopy2"><a href="https://doi.org/10.1016/j.paid.2016.12.045" target="_blank">CrossRef Full Text</a> | <a href="http://scholar.google.com/scholar_lookup?author=W.+-Y.+Cheung&#x00026;author=C.+Sedikides&#x00026;author=T.+Wildschut&#x00026;publication_year=2017a&#x00026;title=Nostalgia+proneness+and+reduced+prejudice&#x00026;journal=Personal.+Individ.+Differ.&#x00026;volume=109&#x00026;pages=89-97" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref14" id="ref14"></a>Cheung, W. -Y., Sedikides, C., Wildschut, T., Tausch, N., and Ayanian, A. H. (2017b). Collective nostalgia is associated with stronger outgroup-directed anger and participation in ingroup-favoring collective action. <i>J. Soc. Polit. Psychol.</i> 5, 301&#x2013;319. doi: 10.5964/jspp.v5i2.697</p>
+<p class="ReferencesCopy2"><a href="https://doi.org/10.5964/jspp.v5i2.697" target="_blank">CrossRef Full Text</a> | <a href="http://scholar.google.com/scholar_lookup?author=W.+-Y.+Cheung&#x00026;author=C.+Sedikides&#x00026;author=T.+Wildschut&#x00026;author=N.+Tausch&#x00026;author=A.+H.+Ayanian&#x00026;publication_year=2017b&#x00026;title=Collective+nostalgia+is+associated+with+stronger+outgroup-directed+anger+and+participation+in+ingroup-favoring+collective+action&#x00026;journal=J.+Soc.+Polit.+Psychol.&#x00026;volume=5&#x00026;pages=301-319" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref15" id="ref15"></a>Cheung, W. -Y., Wildschut, T., and Sedikides, C. (2018). Autobiographical memory functions of nostalgia in comparison to rumination: similarity and uniqueness. <i>Memory</i> 26, 229&#x2013;237. doi: 10.1080/09658211.2017.1346129 </p>
+<p class="ReferencesCopy2"><a href="https://pubmed.ncbi.nlm.nih.gov/28671051" target="_blank">PubMed Abstract</a> | <a href="https://doi.org/10.1080/09658211.2017.1346129" target="_blank">CrossRef Full Text</a> | <a href="http://scholar.google.com/scholar_lookup?author=W.+-Y.+Cheung&#x00026;author=T.+Wildschut&#x00026;author=C.+Sedikides&#x00026;publication_year=2018&#x00026;title=Autobiographical+memory+functions+of+nostalgia+in+comparison+to+rumination:+similarity+and+uniqueness&#x00026;journal=Memory&#x00026;volume=26&#x00026;pages=229-237" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref16" id="ref16"></a>Cohen, J. (1988). <i>Statistical power analysis for the behavioral sciences</i>. 2nd Edn. Hillsdale, NJ: Erlbaum.</p>
+<p class="ReferencesCopy2"><a href="http://scholar.google.com/scholar_lookup?author=J.+Cohen&#x00026;publication_year=1988&#x00026;journal=Statistical+power+analysis+for+the+behavioral+sciences&#x00026;" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref17" id="ref17"></a>Davis, F. (1979). <i>Yearning for yesterday: A sociology of nostalgia</i>. New York, NY: The Free Press.</p>
+<p class="ReferencesCopy2"><a href="http://scholar.google.com/scholar_lookup?author=F.+Davis&#x00026;publication_year=1979&#x00026;journal=Yearning+for+yesterday:+A+sociology+of+nostalgia&#x00026;" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref18" id="ref18"></a>De Diego, F. F., and Ots, C. V. (2014). Nostalgia: a conceptual history. <i>Hist. Psychiatry</i> 25, 404&#x2013;411. doi: 10.1177/0957154X14545290 </p>
+<p class="ReferencesCopy2"><a href="https://pubmed.ncbi.nlm.nih.gov/25395438" target="_blank">PubMed Abstract</a> | <a href="https://doi.org/10.1177/0957154X14545290" target="_blank">CrossRef Full Text</a> | <a href="http://scholar.google.com/scholar_lookup?author=F.+F.+De+Diego&#x00026;author=C.+V.+Ots&#x00026;publication_year=2014&#x00026;title=Nostalgia:+a+conceptual+history&#x00026;journal=Hist.+Psychiatry&#x00026;volume=25&#x00026;pages=404-411" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref19" id="ref19"></a>Dimitriadou, M., Maciejovsky, B., Wildschut, T., and Sedikides, C. (2019). Collective nostalgia and domestic country bias. <i>J. Exp. Psychol. Appl.</i> 25, 445&#x2013;457. doi: 10.1037/xap0000209</p>
+<p class="ReferencesCopy2"><a href="https://doi.org/10.1037/xap0000209" target="_blank">CrossRef Full Text</a> | <a href="http://scholar.google.com/scholar_lookup?author=M.+Dimitriadou&#x00026;author=B.+Maciejovsky&#x00026;author=T.+Wildschut&#x00026;author=C.+Sedikides&#x00026;publication_year=2019&#x00026;title=Collective+nostalgia+and+domestic+country+bias&#x00026;journal=J.+Exp.+Psychol.+Appl.&#x00026;volume=25&#x00026;pages=445-457" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref20" id="ref20"></a>Eisenberg, N., and Strayer, J. (1987). <i>Empathy and its development</i>. Cambridge: University Press.</p>
+<p class="ReferencesCopy2"><a href="http://scholar.google.com/scholar_lookup?author=N.+Eisenberg&#x00026;author=J.+Strayer&#x00026;publication_year=1987&#x00026;journal=Empathy+and+its+development&#x00026;" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref21" id="ref21"></a>Epstude, K., and Roese, N. J. (2008). The functional theory of counterfactual thinking. <i>Personal. Soc. Psychol. Rev.</i> 12, 168&#x2013;192. doi: 10.1177/1088868308316091 </p>
+<p class="ReferencesCopy2"><a href="https://pubmed.ncbi.nlm.nih.gov/18453477" target="_blank">PubMed Abstract</a> | <a href="https://doi.org/10.1177/1088868308316091" target="_blank">CrossRef Full Text</a> | <a href="http://scholar.google.com/scholar_lookup?author=K.+Epstude&#x00026;author=N.+J.+Roese&#x00026;publication_year=2008&#x00026;title=The+functional+theory+of+counterfactual+thinking&#x00026;journal=Personal.+Soc.+Psychol.+Rev.&#x00026;volume=12&#x00026;pages=168-192" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref22" id="ref22"></a>Funder, D. C., and Ozer, D. J. (2019). Evaluating effect size in psychological research: sense and nonsense. <i>Adv. Methods Pract. Psychol. Sci.</i> 2, 156&#x2013;168. doi: 10.1177/2515245919847202</p>
+<p class="ReferencesCopy2"><a href="https://doi.org/10.1177/2515245919847202" target="_blank">CrossRef Full Text</a> | <a href="http://scholar.google.com/scholar_lookup?author=D.+C.+Funder&#x00026;author=D.+J.+Ozer&#x00026;publication_year=2019&#x00026;title=Evaluating+effect+size+in+psychological+research:+sense+and+nonsense&#x00026;journal=Adv.+Methods+Pract.+Psychol.+Sci.&#x00026;volume=2&#x00026;pages=156-168" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref23" id="ref23"></a>Gignac, G. E., and Szodorai, E. T. (2016). Effect size guidelines for individual differences researchers. <i>Personal. Individ. Differ.</i> 102, 74&#x2013;78. doi: 10.1016/j.paid.2016.06.069</p>
+<p class="ReferencesCopy2"><a href="https://doi.org/10.1016/j.paid.2016.06.069" target="_blank">CrossRef Full Text</a> | <a href="http://scholar.google.com/scholar_lookup?author=G.+E.+Gignac&#x00026;author=E.+T.+Szodorai&#x00026;publication_year=2016&#x00026;title=Effect+size+guidelines+for+individual+differences+researchers&#x00026;journal=Personal.+Individ.+Differ.&#x00026;volume=102&#x00026;pages=74-78" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref24" id="ref24"></a>Hackenbracht, J., and Gasper, K. (2013). I&#x2019;m all ears: the need to belong motivates listening to emotional disclosure. <i>J. Exp. Soc. Psychol.</i> 49, 915&#x2013;921. doi: 10.1016/j.jesp.2013.03.014</p>
+<p class="ReferencesCopy2"><a href="https://doi.org/10.1016/j.jesp.2013.03.014" target="_blank">CrossRef Full Text</a> | <a href="http://scholar.google.com/scholar_lookup?author=J.+Hackenbracht&#x00026;author=K.+Gasper&#x00026;publication_year=2013&#x00026;title=I&#x2019;m+all+ears:+the+need+to+belong+motivates+listening+to+emotional+disclosure&#x00026;journal=J.+Exp.+Soc.+Psychol.&#x00026;volume=49&#x00026;pages=915-921" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref25" id="ref25"></a>Harris, C. B., Rasmussen, A. S., and Berntsen, D. (2014). The functions of autobiographical memory: an integrative approach. <i>Memory</i> 22, 559&#x2013;581. doi: 10.1080/09658211.2013.806555 </p>
+<p class="ReferencesCopy2"><a href="https://pubmed.ncbi.nlm.nih.gov/23808866" target="_blank">PubMed Abstract</a> | <a href="https://doi.org/10.1080/09658211.2013.806555" target="_blank">CrossRef Full Text</a> | <a href="http://scholar.google.com/scholar_lookup?author=C.+B.+Harris&#x00026;author=A.+S.+Rasmussen&#x00026;author=D.+Berntsen&#x00026;publication_year=2014&#x00026;title=The+functions+of+autobiographical+memory:+an+integrative+approach&#x00026;journal=Memory&#x00026;volume=22&#x00026;pages=559-581" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref26" id="ref26"></a>Hepper, E. G., Ritchie, T. D., Sedikides, C., and Wildschut, T. (2012a). Odyssey&#x2019;s end: lay conceptions of nostalgia reflect its original Homeric meaning. <i>Emotion</i> 12, 102&#x2013;119. doi: 10.1037/a0025167 </p>
+<p class="ReferencesCopy2"><a href="https://pubmed.ncbi.nlm.nih.gov/21859192" target="_blank">PubMed Abstract</a> | <a href="https://doi.org/10.1037/a0025167" target="_blank">CrossRef Full Text</a> | <a href="http://scholar.google.com/scholar_lookup?author=E.+G.+Hepper&#x00026;author=T.+D.+Ritchie&#x00026;author=C.+Sedikides&#x00026;author=T.+Wildschut&#x00026;publication_year=2012a&#x00026;title=Odyssey&#x2019;s+end:+lay+conceptions+of+nostalgia+reflect+its+original+Homeric+meaning&#x00026;journal=Emotion&#x00026;volume=12&#x00026;pages=102-119" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref27" id="ref27"></a>Hepper, E. G., Wildschut, T., and Sedikides, C. (2012b). &#x201C;Down memory lane together: Nostalgic interactions in close relationships&#x201D; in <i>Poster presented at International Association of Relationship Research Conference</i>; July 12-16, 2012; Chicago, IL.</p>
+<p class="ReferencesCopy2"><a href="http://scholar.google.com/scholar_lookup?author=E.+G.+Hepper&#x00026;author=T.+Wildschut&#x00026;author=C.+Sedikides&#x00026;publication_year=2012b&#x00026;" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref28" id="ref28"></a>Hertz, D. G. (1990). Trauma and nostalgia: new aspects of the coping of aging holocaust survivors. <i>Isr. J. Psychiatry Relat. Sci.</i> 27, 189&#x2013;198. </p>
+<p class="ReferencesCopy2"><a href="https://pubmed.ncbi.nlm.nih.gov/2086535" target="_blank">PubMed Abstract</a> | <a href="http://scholar.google.com/scholar_lookup?author=D.+G.+Hertz&#x00026;publication_year=1990&#x00026;title=Trauma+and+nostalgia:+new+aspects+of+the+coping+of+aging+holocaust+survivors&#x00026;journal=Isr.+J.+Psychiatry+Relat.+Sci.&#x00026;volume=27&#x00026;pages=189-198" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref29" id="ref29"></a>Hofstra, J., van Oudenhoven, J., and Buunk, B. P. (2005). Attachment styles and majority members&#x2019; attitudes towards adaptation strategies of immigrants. <i>Int. J. Intercult. Relat.</i> 29, 601&#x2013;619. doi: 10.1016/j.ijintrel.2005.05.009</p>
+<p class="ReferencesCopy2"><a href="https://doi.org/10.1016/j.ijintrel.2005.05.009" target="_blank">CrossRef Full Text</a> | <a href="http://scholar.google.com/scholar_lookup?author=J.+Hofstra&#x00026;author=J.+van+Oudenhoven&#x00026;author=B.+P.+Buunk&#x00026;publication_year=2005&#x00026;title=Attachment+styles+and+majority+members&#x2019;+attitudes+towards+adaptation+strategies+of+immigrants&#x00026;journal=Int.+J.+Intercult.+Relat.&#x00026;volume=29&#x00026;pages=601-619" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref30" id="ref30"></a>Juhl, J., Wildschut, T., Sedikides, C., Diebel, T., Cheung, W. Y., and Vingerhoets, A. J. J. M. (2020). Nostalgia proneness and empathy: generality, underlying mechanism, and implications for prosocial behavior. <i>J. Pers.</i> 88, 485&#x2013;500. doi: 10.1111/jopy.12505 </p>
+<p class="ReferencesCopy2"><a href="https://pubmed.ncbi.nlm.nih.gov/31442311" target="_blank">PubMed Abstract</a> | <a href="https://doi.org/10.1111/jopy.12505" target="_blank">CrossRef Full Text</a> | <a href="http://scholar.google.com/scholar_lookup?author=J.+Juhl&#x00026;author=T.+Wildschut&#x00026;author=C.+Sedikides&#x00026;author=T.+Diebel&#x00026;author=W.+Y.+Cheung&#x00026;author=A.+J.+J.+M.+Vingerhoets&#x00026;publication_year=2020&#x00026;title=Nostalgia+proneness+and+empathy:+generality+underlying+mechanism+and+implications+for+prosocial+behavior&#x00026;journal=J.+Pers.&#x00026;volume=88&#x00026;pages=485-500" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref31" id="ref31"></a>Leach, C. W., van Zomeren, M., Zebel, S., Vliek, M. L. W., Pennekamp, S. F., Doosje, B., et al. (2008). Group-level self-definition and self-investment: a hierarchical (multicomponent) model of ingroup identification. <i>J. Pers. Soc. Psychol.</i> 95, 144&#x2013;165. doi: 10.1037/0022-3514.95.1.144 </p>
+<p class="ReferencesCopy2"><a href="https://pubmed.ncbi.nlm.nih.gov/18605857" target="_blank">PubMed Abstract</a> | <a href="https://doi.org/10.1037/0022-3514.95.1.144" target="_blank">CrossRef Full Text</a> | <a href="http://scholar.google.com/scholar_lookup?author=C.+W.+Leach&#x00026;author=M.+van+Zomeren&#x00026;author=S.+Zebel&#x00026;author=M.+L.+W.+Vliek&#x00026;author=S.+F.+Pennekamp&#x00026;author=B.+Doosje&#x00026;publication_year=2008&#x00026;title=Group-level+self-definition+and+self-investment:+a+hierarchical+(multicomponent)+model+of+ingroup+identification&#x00026;journal=J.+Pers.+Soc.+Psychol.&#x00026;volume=95&#x00026;pages=144-165" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref32" id="ref32"></a>Martinovic, B., Jetten, J., Smeekes, A., and Verkuyten, M. (2017). Collective memory of a dissolved country: collective nostalgia and guilt assignment as predictors of interethnic relations between diaspora groups from former Yugoslavia. <i>J. Soc. Polit. Psychol.</i> 5, 588&#x2013;607. doi: 10.5964/jspp.v5i2.733</p>
+<p class="ReferencesCopy2"><a href="https://doi.org/10.5964/jspp.v5i2.733" target="_blank">CrossRef Full Text</a> | <a href="http://scholar.google.com/scholar_lookup?author=B.+Martinovic&#x00026;author=J.+Jetten&#x00026;author=A.+Smeekes&#x00026;author=M.+Verkuyten&#x00026;publication_year=2017&#x00026;title=Collective+memory+of+a+dissolved+country:+collective+nostalgia+and+guilt+assignment+as+predictors+of+interethnic+relations+between+diaspora+groups+from+former+Yugoslavia&#x00026;journal=J.+Soc.+Polit.+Psychol.&#x00026;volume=5&#x00026;pages=588-607" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref33" id="ref33"></a>Mehrabian, A., and Epstein, N. (1972). A measure of emotional empathy. <i>J. Pers.</i> 40, 525&#x2013;543. doi: 10.1111/j.1467-6494.1972.tb00078.x </p>
+<p class="ReferencesCopy2"><a href="https://pubmed.ncbi.nlm.nih.gov/4642390" target="_blank">PubMed Abstract</a> | <a href="https://doi.org/10.1111/j.1467-6494.1972.tb00078.x" target="_blank">CrossRef Full Text</a> | <a href="http://scholar.google.com/scholar_lookup?author=A.+Mehrabian&#x00026;author=N.+Epstein&#x00026;publication_year=1972&#x00026;title=A+measure+of+emotional+empathy&#x00026;journal=J.+Pers.&#x00026;volume=40&#x00026;pages=525-543" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref34" id="ref34"></a>Mikulincer, M., and Shaver, P. R. (2011). &#x201C;Adult attachment and caregiving: individual differences in providing a safe haven and secure base to others&#x201D; in <i>Self-interest and beyond: Toward a new understanding of human caregiving</i>. eds. S. L. Brown, R. M. Brown, and L. A. Penner (New York, NY: Oxford University Press), 39&#x2013;52.</p>
+<p class="ReferencesCopy2"><a href="http://scholar.google.com/scholar_lookup?author=M.+Mikulincer&#x00026;author=P.+R.+Shaver&#x00026;publication_year=2011&#x00026;title=Adult+attachment+and+caregiving:+individual+differences+in+providing+a+safe+haven+and+secure+base+to+others&#x00026;journal=Self-interest+and+beyond:+Toward+a+new+understanding+of+human+caregiving&#x00026;pages=39-52" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref35" id="ref35"></a>Newman, D. B., Sachs, M. E., Stone, A. A., and Schwarz, N. (2020). Nostalgia and well-being in daily life: an ecological validity perspective. <i>J. Pers. Soc. Psychol.</i> 118, 325&#x2013;347. doi: 10.1037/pspp0000236 </p>
+<p class="ReferencesCopy2"><a href="https://pubmed.ncbi.nlm.nih.gov/30667254" target="_blank">PubMed Abstract</a> | <a href="https://doi.org/10.1037/pspp0000236" target="_blank">CrossRef Full Text</a> | <a href="http://scholar.google.com/scholar_lookup?author=D.+B.+Newman&#x00026;author=M.+E.+Sachs&#x00026;author=A.+A.+Stone&#x00026;author=N.+Schwarz&#x00026;publication_year=2020&#x00026;title=Nostalgia+and+well-being+in+daily+life:+an+ecological+validity+perspective&#x00026;journal=J.+Pers.+Soc.+Psychol.&#x00026;volume=118&#x00026;pages=325-347" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref36" id="ref36"></a>Pearsall, J. (1998). <i>The new Oxford dictionary of English</i>. Oxford, UK: Oxford University Press.</p>
+<p class="ReferencesCopy2"><a href="http://scholar.google.com/scholar_lookup?author=J.+Pearsall&#x00026;publication_year=1998&#x00026;journal=The+new+Oxford+dictionary+of+English&#x00026;" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref37" id="ref37"></a>Rusting, C. L., and Nolen-Hoeksema, S. (1998). Regulating responses to anger: effects of rumination and distraction on angry mood. <i>J. Pers. Soc. Psychol.</i> 74, 790&#x2013;803. doi: 10.1037/0022-3514.74.3.790 </p>
+<p class="ReferencesCopy2"><a href="https://pubmed.ncbi.nlm.nih.gov/9523420" target="_blank">PubMed Abstract</a> | <a href="https://doi.org/10.1037/0022-3514.74.3.790" target="_blank">CrossRef Full Text</a> | <a href="http://scholar.google.com/scholar_lookup?author=C.+L.+Rusting&#x00026;author=S.+Nolen-Hoeksema&#x00026;publication_year=1998&#x00026;title=Regulating+responses+to+anger:+effects+of+rumination+and+distraction+on+angry+mood&#x00026;journal=J.+Pers.+Soc.+Psychol.&#x00026;volume=74&#x00026;pages=790-803" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref38" id="ref38"></a>Sedikides, C., and Brewer, M. B. (2001). <i>Individual self, relational self, collective self</i>. Philadelphia, PA: Psychology Press.</p>
+<p class="ReferencesCopy2"><a href="http://scholar.google.com/scholar_lookup?author=C.+Sedikides&#x00026;author=M.+B.+Brewer&#x00026;publication_year=2001&#x00026;journal=Individual+self+relational+self+collective+self&#x00026;" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref39" id="ref39"></a>Sedikides, C., and Wildschut, T. (2016). &#x201C;Nostalgia: a bittersweet emotion that confers psychological health benefits&#x201D; in <i>Wiley handbook of positive clinical psychology</i>. eds. A. M. Wood and J. Johnson (Hoboken, NJ: Wiley), 25&#x2013;36.</p>
+<p class="ReferencesCopy2"><a href="http://scholar.google.com/scholar_lookup?author=C.+Sedikides&#x00026;author=T.+Wildschut&#x00026;publication_year=2016&#x00026;title=Nostalgia:+a+bittersweet+emotion+that+confers+psychological+health+benefits&#x00026;journal=Wiley+handbook+of+positive+clinical+psychology&#x00026;pages=25-36" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref40" id="ref40"></a>Sedikides, C., and and Wildschut, T. (2019). The sociality of personal and collective nostalgia. <i>Eur. Rev. Soc. Psychol.</i> 30, 123&#x2013;173. doi: 10.1080/10463283.2019.1630098</p>
+<p class="ReferencesCopy2"><a href="https://doi.org/10.1080/10463283.2019.1630098" target="_blank">CrossRef Full Text</a> | <a href="http://scholar.google.com/scholar_lookup?author=C.+Sedikides&#x00026;author=T.+Wildschut&#x00026;publication_year=2019&#x00026;title=The+sociality+of+personal+and+collective+nostalgia&#x00026;journal=Eur.+Rev.+Soc.+Psychol.&#x00026;volume=30&#x00026;pages=123-173" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref41" id="ref41"></a>Sedikides, C., Wildschut, T., and Baden, D. (2004). &#x201C;Nostalgia: conceptual issues and existential functions&#x201D; in <i>Handbook of experimental existential psychology</i>. eds. J. Greenberg, S. Koole, and T. Pyszczynski (New York, NY: Guilford Press), 200&#x2013;214.</p>
+<p class="ReferencesCopy2"><a href="http://scholar.google.com/scholar_lookup?author=C.+Sedikides&#x00026;author=T.+Wildschut&#x00026;author=D.+Baden&#x00026;publication_year=2004&#x00026;title=Nostalgia:+conceptual+issues+and+existential+functions&#x00026;journal=Handbook+of+experimental+existential+psychology&#x00026;pages=200-214" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref42" id="ref42"></a>Sedikides, C., Wildschut, T., Cheung, W. -Y., Routledge, C., Hepper, E. G., Arndt, J., et al. (2016). Nostalgia fosters self-continuity: uncovering the mechanism (social connectedness) and the consequence (eudaimonic well-being). <i>Emotion</i> 16, 524&#x2013;539. doi: 10.1037/emo0000136 </p>
+<p class="ReferencesCopy2"><a href="https://pubmed.ncbi.nlm.nih.gov/26751632" target="_blank">PubMed Abstract</a> | <a href="https://doi.org/10.1037/emo0000136" target="_blank">CrossRef Full Text</a> | <a href="http://scholar.google.com/scholar_lookup?author=C.+Sedikides&#x00026;author=T.+Wildschut&#x00026;author=W.+-Y.+Cheung&#x00026;author=C.+Routledge&#x00026;author=E.+G.+Hepper&#x00026;author=J.+Arndt&#x00026;publication_year=2016&#x00026;title=Nostalgia+fosters+self-continuity:+uncovering+the+mechanism+(social+connectedness)+and+the+consequence+(eudaimonic+well-being)&#x00026;journal=Emotion&#x00026;volume=16&#x00026;pages=524-539" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref43" id="ref43"></a>Sedikides, C., Wildschut, T., Routledge, C., Arndt, J., Hepper, E. G., and Zhou, X. (2015). To nostalgize: mixing memory with affect and desire. <i>Adv. Exp. Soc. Psychol.</i> 51, 189&#x2013;273. doi: 10.1016/bs.aesp.2014.10.001</p>
+<p class="ReferencesCopy2"><a href="https://doi.org/10.1016/bs.aesp.2014.10.001" target="_blank">CrossRef Full Text</a> | <a href="http://scholar.google.com/scholar_lookup?author=C.+Sedikides&#x00026;author=T.+Wildschut&#x00026;author=C.+Routledge&#x00026;author=J.+Arndt&#x00026;author=E.+G.+Hepper&#x00026;author=X.+Zhou&#x00026;publication_year=2015&#x00026;title=To+nostalgize:+mixing+memory+with+affect+and+desire&#x00026;journal=Adv.+Exp.+Soc.+Psychol.&#x00026;volume=51&#x00026;pages=189-273" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref44" id="ref44"></a>Seehusen, J., Cordaro, F., Wildschut, T., Sedikides, C., Routledge, C., Blackhart, G. C., et al. (2013). Individual differences in nostalgia proneness: the integrating role of the need to belong. <i>Personal. Individ. Differ.</i> 55, 904&#x2013;908. doi: 10.1016/j.paid.2013.07.020</p>
+<p class="ReferencesCopy2"><a href="https://doi.org/10.1016/j.paid.2013.07.020" target="_blank">CrossRef Full Text</a> | <a href="http://scholar.google.com/scholar_lookup?author=J.+Seehusen&#x00026;author=F.+Cordaro&#x00026;author=T.+Wildschut&#x00026;author=C.+Sedikides&#x00026;author=C.+Routledge&#x00026;author=G.+C.+Blackhart&#x00026;publication_year=2013&#x00026;title=Individual+differences+in+nostalgia+proneness:+the+integrating+role+of+the+need+to+belong&#x00026;journal=Personal.+Individ.+Differ.&#x00026;volume=55&#x00026;pages=904-908" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref45" id="ref45"></a>Singelis, T. M., Triandis, H. C., Bhawuk, D., and Gelfand, M. J. (1995). Horizontal and vertical dimensions of individualism and collectivism: a theoretical and measurement refinement. <i>Cross-Cult. Res.</i> 29, 240&#x2013;275. doi: 10.1177/106939719502900302</p>
+<p class="ReferencesCopy2"><a href="https://doi.org/10.1177/106939719502900302" target="_blank">CrossRef Full Text</a> | <a href="http://scholar.google.com/scholar_lookup?author=T.+M.+Singelis&#x00026;author=H.+C.+Triandis&#x00026;author=D.+Bhawuk&#x00026;author=M.+J.+Gelfand&#x00026;publication_year=1995&#x00026;title=Horizontal+and+vertical+dimensions+of+individualism+and+collectivism:+a+theoretical+and+measurement+refinement&#x00026;journal=Cross-Cult.+Res.&#x00026;volume=29&#x00026;pages=240-275" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref46" id="ref46"></a>Smeekes, A. (2015). National nostalgia: a group-based emotion that benefits the in-group but hampers intergroup relations. <i>Int. J. Intercult. Relat.</i> 49, 54&#x2013;67. doi: 10.1016/j.ijintrel.2015.07.001</p>
+<p class="ReferencesCopy2"><a href="https://doi.org/10.1016/j.ijintrel.2015.07.001" target="_blank">CrossRef Full Text</a> | <a href="http://scholar.google.com/scholar_lookup?author=A.+Smeekes&#x00026;publication_year=2015&#x00026;title=National+nostalgia:+a+group-based+emotion+that+benefits+the+in-group+but+hampers+intergroup+relations&#x00026;journal=Int.+J.+Intercult.+Relat.&#x00026;volume=49&#x00026;pages=54-67" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref47" id="ref47"></a>Smeekes, A., Jetten, J., Verkuyten, M., Wohl, M. J. A., Jasinskaja-Lahti, I., Ariyanto, A., et al. (2018). Regaining in-group continuity in times of anxiety about the group&#x2019;s future: a study on the role of collective nostalgia across 27 countries. <i>Soc. Psychol.</i> 49, 311&#x2013;329. doi: 10.1027/1864-9335/a000350</p>
+<p class="ReferencesCopy2"><a href="https://doi.org/10.1027/1864-9335/a000350" target="_blank">CrossRef Full Text</a> | <a href="http://scholar.google.com/scholar_lookup?author=A.+Smeekes&#x00026;author=J.+Jetten&#x00026;author=M.+Verkuyten&#x00026;author=M.+J.+A.+Wohl&#x00026;author=I.+Jasinskaja-Lahti&#x00026;author=A.+Ariyanto&#x00026;publication_year=2018&#x00026;title=Regaining+in-group+continuity+in+times+of+anxiety+about+the+group&#x2019;s+future:+a+study+on+the+role+of+collective+nostalgia+across+27+countries&#x00026;journal=Soc.+Psychol.&#x00026;volume=49&#x00026;pages=311-329" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref48" id="ref48"></a>Smeekes, A., Verkuyten, M., and Martinovic, B. (2015). Longing for the country&#x2019;s good old days: national nostalgia, autochthony beliefs, and opposition to Muslim expressive rights. <i>Br. J. Soc. Psychol.</i> 54, 561&#x2013;580. doi: 10.1111/bjso.12097 </p>
+<p class="ReferencesCopy2"><a href="https://pubmed.ncbi.nlm.nih.gov/25430971" target="_blank">PubMed Abstract</a> | <a href="https://doi.org/10.1111/bjso.12097" target="_blank">CrossRef Full Text</a> | <a href="http://scholar.google.com/scholar_lookup?author=A.+Smeekes&#x00026;author=M.+Verkuyten&#x00026;author=B.+Martinovic&#x00026;publication_year=2015&#x00026;title=Longing+for+the+country&#x2019;s+good+old+days:+national+nostalgia+autochthony+beliefs+and+opposition+to+Muslim+expressive+rights&#x00026;journal=Br.+J.+Soc.+Psychol.&#x00026;volume=54&#x00026;pages=561-580" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref49" id="ref49"></a>Suh, E. M. (2007). Downsides of an overly context-sensitive self: implications from the culture and subjective well-being research. <i>J. Pers.</i> 75, 1321&#x2013;1342. doi: 10.1111/j.1467-6494.2007.00477.x </p>
+<p class="ReferencesCopy2"><a href="https://pubmed.ncbi.nlm.nih.gov/17995467" target="_blank">PubMed Abstract</a> | <a href="https://doi.org/10.1111/j.1467-6494.2007.00477.x" target="_blank">CrossRef Full Text</a> | <a href="http://scholar.google.com/scholar_lookup?author=E.+M.+Suh&#x00026;publication_year=2007&#x00026;title=Downsides+of+an+overly+context-sensitive+self:+implications+from+the+culture+and+subjective+well-being+research&#x00026;journal=J.+Pers.&#x00026;volume=75&#x00026;pages=1321-1342" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref50" id="ref50"></a>Triandis, H. C., and Gelfand, M. (1998). Converging measurement of horizontal and vertical individualism and collectivism. <i>J. Pers. Soc. Psychol.</i> 74, 118&#x2013;128. doi: 10.1037/0022-3514.74.1.118</p>
+<p class="ReferencesCopy2"><a href="https://doi.org/10.1037/0022-3514.74.1.118" target="_blank">CrossRef Full Text</a> | <a href="http://scholar.google.com/scholar_lookup?author=H.+C.+Triandis&#x00026;author=M.+Gelfand&#x00026;publication_year=1998&#x00026;title=Converging+measurement+of+horizontal+and+vertical+individualism+and+collectivism&#x00026;journal=J.+Pers.+Soc.+Psychol.&#x00026;volume=74&#x00026;pages=118-128" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref51" id="ref51"></a>Turner, R. N., Wildschut, T., and Sedikides, C. (2012). Dropping the weight stigma: nostalgia improves attitudes toward persons who are overweight. <i>J. Exp. Soc. Psychol.</i> 48, 130&#x2013;137. doi: 10.1016/j.jesp.2011.09.007</p>
+<p class="ReferencesCopy2"><a href="https://doi.org/10.1016/j.jesp.2011.09.007" target="_blank">CrossRef Full Text</a> | <a href="http://scholar.google.com/scholar_lookup?author=R.+N.+Turner&#x00026;author=T.+Wildschut&#x00026;author=C.+Sedikides&#x00026;publication_year=2012&#x00026;title=Dropping+the+weight+stigma:+nostalgia+improves+attitudes+toward+persons+who+are+overweight&#x00026;journal=J.+Exp.+Soc.+Psychol.&#x00026;volume=48&#x00026;pages=130-137" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref52" id="ref52"></a>Turner, R. N., Wildschut, T., and Sedikides, C. (2018). Fighting ageism through nostalgia. <i>Eur. J. Soc. Psychol.</i> 48, 196&#x2013;208. doi: 10.1002/ejsp.2317</p>
+<p class="ReferencesCopy2"><a href="https://doi.org/10.1002/ejsp.2317" target="_blank">CrossRef Full Text</a> | <a href="http://scholar.google.com/scholar_lookup?author=R.+N.+Turner&#x00026;author=T.+Wildschut&#x00026;author=C.+Sedikides&#x00026;publication_year=2018&#x00026;title=Fighting+ageism+through+nostalgia&#x00026;journal=Eur.+J.+Soc.+Psychol.&#x00026;volume=48&#x00026;pages=196-208" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref53" id="ref53"></a>Turner, R. N., Wildschut, T., Sedikides, C., and Gheorghiou, M. (2013). Combating the mental health stigma with nostalgia. <i>Eur. J. Soc. Psychol.</i> 43, 413&#x2013;422. doi: 10.1002/ejsp.1952</p>
+<p class="ReferencesCopy2"><a href="https://doi.org/10.1002/ejsp.1952" target="_blank">CrossRef Full Text</a> | <a href="http://scholar.google.com/scholar_lookup?author=R.+N.+Turner&#x00026;author=T.+Wildschut&#x00026;author=C.+Sedikides&#x00026;author=M.+Gheorghiou&#x00026;publication_year=2013&#x00026;title=Combating+the+mental+health+stigma+with+nostalgia&#x00026;journal=Eur.+J.+Soc.+Psychol.&#x00026;volume=43&#x00026;pages=413-422" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref54" id="ref54"></a>Wildschut, T., Bruder, M., Robertson, S., van Tilburg, W. A. P., and Sedikides, C. (2014). Collective nostalgia: a group-level emotion that confers unique benefits on the group. <i>J. Pers. Soc. Psychol.</i> 107, 844&#x2013;863. doi: 10.1037/a0037760 </p>
+<p class="ReferencesCopy2"><a href="https://pubmed.ncbi.nlm.nih.gov/25243415" target="_blank">PubMed Abstract</a> | <a href="https://doi.org/10.1037/a0037760" target="_blank">CrossRef Full Text</a> | <a href="http://scholar.google.com/scholar_lookup?author=T.+Wildschut&#x00026;author=M.+Bruder&#x00026;author=S.+Robertson&#x00026;author=W.+A.+P.+van+Tilburg&#x00026;author=C.+Sedikides&#x00026;publication_year=2014&#x00026;title=Collective+nostalgia:+a+group-level+emotion+that+confers+unique+benefits+on+the+group&#x00026;journal=J.+Pers.+Soc.+Psychol.&#x00026;volume=107&#x00026;pages=844-863" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref55" id="ref55"></a>Wildschut, T., and Sedikides, C. (in press). &#x201C;The measurement of nostalgia&#x201D; in <i>Handbook of positive psychology assessment</i>. eds. W. Ruch, A. B. Bakker, L. Tay, and F. Gander (G&#x000F6;ttingen: Hogrefe).</p>
+<p class="ReferencesCopy2"><a href="http://scholar.google.com/scholar_lookup?author=T.+Wildschut&#x00026;author=C.+Sedikides&#x00026;publication_year=in+press&#x00026;title=The+measurement+of+nostalgia&#x00026;journal=Handbook+of+positive+psychology+assessment&#x00026;" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref56" id="ref56"></a>Wildschut, T., Sedikides, C., and Robertson, S. (2018). Sociality and intergenerational transfer of older adults&#x2019; nostalgia. <i>Memory</i> 26, 1030&#x2013;1041. doi: 10.1080/09658211.2018.1470645 </p>
+<p class="ReferencesCopy2"><a href="https://pubmed.ncbi.nlm.nih.gov/29724153" target="_blank">PubMed Abstract</a> | <a href="https://doi.org/10.1080/09658211.2018.1470645" target="_blank">CrossRef Full Text</a> | <a href="http://scholar.google.com/scholar_lookup?author=T.+Wildschut&#x00026;author=C.+Sedikides&#x00026;author=S.+Robertson&#x00026;publication_year=2018&#x00026;title=Sociality+and+intergenerational+transfer+of+older+adults&#x2019;+nostalgia&#x00026;journal=Memory&#x00026;volume=26&#x00026;pages=1030-1041" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref57" id="ref57"></a>Wildschut, T., Sedikides, C., Routledge, C., Arndt, J., and Cordaro, F. (2010). Nostalgia as a repository of social connectedness: the role of attachment-related avoidance. <i>J. Pers. Soc. Psychol.</i> 98, 573&#x2013;586. doi: 10.1037/a0017597 </p>
+<p class="ReferencesCopy2"><a href="https://pubmed.ncbi.nlm.nih.gov/20307130" target="_blank">PubMed Abstract</a> | <a href="https://doi.org/10.1037/a0017597" target="_blank">CrossRef Full Text</a> | <a href="http://scholar.google.com/scholar_lookup?author=T.+Wildschut&#x00026;author=C.+Sedikides&#x00026;author=C.+Routledge&#x00026;author=J.+Arndt&#x00026;author=F.+Cordaro&#x00026;publication_year=2010&#x00026;title=Nostalgia+as+a+repository+of+social+connectedness:+the+role+of+attachment-related+avoidance&#x00026;journal=J.+Pers.+Soc.+Psychol.&#x00026;volume=98&#x00026;pages=573-586" target="_blank">Google Scholar</a></p></div>
+<div class="References">
+<p class="ReferencesCopy1"><a name="ref58" id="ref58"></a>Zhou, X., Sedikides, C., Wildschut, T., and Gao, D. -G. (2008). Counteracting loneliness: on the restorative function of nostalgia. <i>Psychol. Sci.</i> 19, 1023&#x2013;1029. doi: 10.1111/j.1467-9280.2008.02194 </p>
+<p class="ReferencesCopy2"><a href="https://pubmed.ncbi.nlm.nih.gov/19000213" target="_blank">PubMed Abstract</a> | <a href="https://doi.org/10.1111/j.1467-9280.2008.02194" target="_blank">CrossRef Full Text</a> | <a href="http://scholar.google.com/scholar_lookup?author=X.+Zhou&#x00026;author=C.+Sedikides&#x00026;author=T.+Wildschut&#x00026;author=D.+-G.+Gao&#x00026;publication_year=2008&#x00026;title=Counteracting+loneliness:+on+the+restorative+function+of+nostalgia&#x00026;journal=Psychol.+Sci.&#x00026;volume=19&#x00026;pages=1023-1029" target="_blank">Google Scholar</a></p></div> </div> <div class="thinLineM20"></div> <div class="AbstractSummary">
+<p><span>Keywords:</span> nostalgia proneness, relational collectivism, group collectivism, ingroup identification, collective self</p>
+<p><span>Citation:</span> Abakoumkin G, Wildschut T and Sedikides C (2020) Nostalgia Proneness and the Collective Self. <i>Front. Psychol</i>. 11:570621. doi: 10.3389/fpsyg.2020.570621</p>
+<p class="timestamps"><span>Received:</span> 08 June 2020; <span>Accepted:</span> 28 September 2020;<br> <span>Published:</span> 26 October 2020.</p> <div>
+<p>Edited by:</p> <a href="https://loop.frontiersin.org/people/148972/overview">Atsushi Oshio</a>, Waseda University, Japan</div> <div>
+<p>Reviewed by:</p> <a href="https://loop.frontiersin.org/people/1009341/overview">Alin I. Gavreliuc</a>, West University of Timi&#x0219;oara, Romania<br> <a href="https://loop.frontiersin.org/people/136535/overview">Anne Berthold</a>, University of Zurich, Switzerland</div>
+<p><span>Copyright</span> &#x000A9; 2020 Abakoumkin, Wildschut and Sedikides. This is an open-access article distributed under the terms of the <a rel="license" href="http://creativecommons.org/licenses/by/4.0/" target="_blank">Creative Commons Attribution License (CC BY)</a>. The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</p>
+<p><span>&#x0002A;Correspondence:</span> Georgios Abakoumkin, <a href="mailto:gabak@uth.gr">gabak@uth.gr</a></p> <div class="clear"></div> </div>    <div class="research-topic-container" style="display: none;">
+        <a href="/research-topics/11716#articles" data-test-id="relatedRT-link">
+            <div class="research-topic-data">
+                <h5 class="topic-title">
+                    <span>This article is part of the Research Topic</span>
+                </h5>
+                <p style="margin-bottom:0;">
+
+                    Current Issues in Nostalgia Research
+                </p>
+                    <div class="topic-link-trim" data-event="rt-link-click">
+                        View all
+13                        Articles <span style="position: relative;top: 1px;"></span>
+                    </div>
+
+
+            </div>
+        </a>
+    </div>
+
+
+<!-- TODO:BEGIN IS PART OF RT-->
+<script type="text/javascript">
+      
+            const isPartOfRTElements = document.getElementsByClassName('research-topic-container');
+
+            if (isPartOfRTElements.length > 0) {
+                const headerBar3Container = document.getElementsByClassName('header-bar-three-container');
+
+                if (headerBar3Container.length > 0) {
+                    const container = headerBar3Container[0];
+                    container.appendChild(isPartOfRTElements[0]);
+                    isPartOfRTElements[0].style.display = 'block';
+                }
+            }
+       
+</script>
+<!-- TODO:END IS PART OF RT-->
+
+                <div class="thin-line-dark"></div>
+
+            </div>
+        </div>
+    </div>
+</main>
+            </div>
+
+                <div class="side-article-subjects only-devices  widget-listing people-also-looked-at hidden">
+                    <h5 class="like-h4">People also looked at</h5>
+                </div>
+
+        </div>
+    </div>
+</div>
+<div id="divTemplates">
+    <div class="modal fade modal-container impact-modal-container" data-backdrop="static" id="impactModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+</div>
+
+
+
+
+
+
+    <div class="modal fade modal-container supplementary-modal-container"
+     data-backdrop="static"
+     data-keyboard="false"
+     id="supplementaryFilesModal"
+     tabindex="-1" role="dialog"
+     aria-labelledby="mySupplementaryModalLabel"
+     aria-hidden="true"
+     style="display: none; padding-right: 17px;">
+</div>
+
+
+
+
+<script type="text/template" id="template-supplementary-files-modal">
+    <div class="supplementary-material-wrapper modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-body">
+                <a class="close" data-dismiss="modal"  aria-label="Close"><span data-event="supplementaryclose-icon-click" aria-hidden="true">×</span></a>
+                <h4>Supplementary Material</h4><br>
+                <p class="supplementary-empty-message" style="display: none;">There is no supplementary material currently available for this article</p>
+                <div class="loading-wrapper" id="loader" style="display: none;">
+                    Loading supplemental data...
+                    <img style="" src="/Areas/Articles/Images/Icon/loading.gif" alt="Loading..">
+                </div>
+                <br>
+                <div class="table-responsive" id="localFiles">
+
+                </div>
+                <div id="figshare-widget-container">
+
+                </div>
+            </div>
+            <br>
+            <div class="modal-footer bottom-links">
+                <a class="btn btn-default" data-dismiss="modal">Close</a>
+            </div>
+        </div>
+
+    </div>
+</script>
+
+
+
+
+
+<script type="text/template" id="template-local-files-modal">
+    <table class="table table-striped supplementary-content" id="localFilesTable">
+        <thead>
+            <tr>
+                <th>&nbsp;</th>
+                <th>File Name</th>
+                <th>&nbsp;</th>
+            </tr>
+        </thead>
+        <tbody class="file-content">
+            <% _.each(supplimentalFileDetails.FileDetails, function(fileViewModel){   %>
+            <tr>
+                <th scope="row"><a data-test-id="<%= fileViewModel.TestId %>" href="<%= fileViewModel.FileDownloadUrl %>"><img class="img-figure" src="<%= fileViewModel.ImageUrl %>"></a></th>
+                <td>
+                    <a  href="<%= fileViewModel.FileDownloadUrl %>" data-event="supplementarydownload-button-click">
+                        <%= fileViewModel.FileName %>
+                    </a>
+                </td>
+                <td><a  href="<%= fileViewModel.FileDownloadUrl %>" data-event="supplementarydownload-button-click" class="btn-link"><i class="fa fa-download" aria-hidden="true"></i></a></td>
+            </tr>
+            <% }); %>
+        </tbody>
+    </table>
+</script>
+
+
+
+
+
+
+
+    <div class="modal fade modal-container notifyme-modal-container" data-backdrop="static" id="notifyModal" tabindex="-1" role="dialog" aria-labelledby="Notify on publication" aria-hidden="true">
+</div>
+
+
+
+<script type="text/template" id="template-notify-me-modal">
+    <div class="modal-f page-container simple-modal" role="dialog" aria-labelledby="NotfifyMeModalLabel" id="notify_me_popup">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <form onsubmit="return false" id="modalnotifyme">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                            <h3>Notify me on publication</h3>
+                        </div>
+                        <div class="modal-body">
+
+                            <div class="form-group">
+                                <label>Please enter your email address:</label>
+                            <input type="email" required class="form-control" id="txt_notification_email_id" placeholder="Email">
+                            </div>
+
+                        <div class="g-recaptcha" id="recaptcha"></div><br />
+
+                        <p class="small" style="color: #555;">If you already have an account, please <a href="<%=login.FrontiersLoginUrl%>?returnUrl=<%=currentPage%>" class="text-blue">login</a>.</p>
+                        <p class="small" style="color: #555;">You don't have a Frontiers account ? You can <a href="<%=login.FrontiersRegistrationUrl%>" class="text-blue">register here</a>.</p>
+                        </div>
+                        <div class="modal-footer">
+                        <button type="button" id="article_notify_non_registered_user" class="btn btn-default btn-progress" style="width: 118px; visibility:hidden;">Notify me</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+</script>
+
+<script type="text/template" id="template-notifyme-mailselection-modal">
+    <div class="modal-f page-container simple-modal" tabindex="-1" role="dialog" aria-labelledby="NotfifyMeModalLabel">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                    <h3>Select one of your emails</h3>
+                </div>
+                <div class="modal-body">
+                    <form>
+                        <div class="form-group">
+                            <label>You have multiple emails registered with Frontiers:</label>
+                        </div>
+                                           
+                        <% _.each(userEmailList, function(user){   %>
+                        <input type="radio" value="<%=user%>" name="notify_Emailcollection"> <%=user%><br>
+                        <% }); %>
+
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" id="article_notify_loggedin_user" class="btn btn-default btn-progress" style="width: 118px;">Notify me</button>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+</script>
+
+<script type="text/template" id="template_notifyme_error_modal">
+    <div class="modal-f page-container simple-modal" tabindex="-1" role="dialog" aria-labelledby="NotfifyMeModalLabel">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                    <h3>Notify me on publication</h3>
+                </div>
+                <div class="modal-body">
+                    <form>
+                        <div class="form-group">
+                            <p class="text-red"><strong><%=message%></strong></p>
+                        </div>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" data-dismiss="modal" class="btn btn-default btn-progress" style="width: 118px;">Cancel</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</script>
+
+
+
+
+
+
+
+</div>
+
+    </div>
+        <a id="floating-download-pdf-btn" class="floating-button" data-event="downloadfloating-button-click" href="/articles/10.3389/fpsyg.2020.570621/pdf">
+            <span class="floating-button-text" data-event="downloadfloating-button-click">Download</span>
+        </a>
+        <script type="text/javascript">
+
+            $(document).ready(function () {
+                document.onload = observerDowloadFloatingBtn();
+            });
+            function downloadButtonVisibilityChange(entries) {
+                const btn = entries[0];
+                const floatingBtn = document.querySelector("#floating-download-pdf-btn");
+                if (!btn.isIntersecting) {
+                    floatingBtn.classList.add("floating-button--show");
+                } else {
+                    floatingBtn.classList.remove("floating-button--show");
+                }
+            }
+
+            function observerDowloadFloatingBtn() {
+                const options = {
+                    root: document.getElementsByName('body')[0],
+                    rootMargin: '0px',
+                    threshold: 1.0
+                }
+
+                const observer = new IntersectionObserver(downloadButtonVisibilityChange, options);
+                const target = document.querySelector('[data-test-id="download-button"]');
+                observer.observe(target);
+            }
+        </script>
+
+
+    <frontiers-footer main-domain="frontiersin.org"></frontiers-footer>
+
+    <script src="https://crossmark.crossref.org/javascripts/v1.5/crossmark.min.js"></script>
+        <script type="text/javascript">
+            var $ = jQuery.noConflict(); //==>>ToDo: Avoid this..!!
+        </script>
+
+    <script src=" https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+ 
+    <script src=" https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js" async></script>
+ 
+    <script src="https://static.frontiersin.org/areas/articles/js/frontiers?v=z1cL-Tf1-Qh97gw19mFq-3nre84X6laFLbhVr-YdIA81"></script>
+
+
+
+    <script type="text/javascript">
+
+        var FRArticle = (function() {
+            return {
+                ArticleId: '570621',
+                DOI:'10.3389/fpsyg.2020.570621',
+                LoginUserId: '0',
+                DomainId: '1',
+                FieldId: '69',
+                SpecialityId: '854',
+                IsPreview: FRSafe.boolean('False'),
+                IsViewImpactFromLoop: FRSafe.boolean('False'),
+                IsPublished: 'True',
+                FigShareApiUrl: 'https://api.figshare.com/v2/collections/search',
+                FigShareTimeOut: '3000',
+                ProvisionallyAcceptedText: 'The final, formatted version of the article will be published soon.',
+                NotifyMeButtonText: 'Notify me',
+                NotifyMeButtonSecondaryText: 'We&#39;ll notify you'
+            };
+        })();
+
+        var FRSocial = (function() {
+            return {
+                itemId: 14,
+                itemTypeId: 1,
+                entityId: '570621',
+                ownerId: '809370',
+                sanPath: 'https://www.frontiersin.org/files/',
+                subItemId: '8',
+                loginUserId: '0',
+                ownerNWDBId: '21',
+                pageType: 1,
+                loopUrl:'https://loop.frontiersin.org'
+            };
+        })();
+    </script>
+
+    <script>
+        var FRAjaxSettings = (function () {
+
+            function urlLowercase() {
+                $.ajaxSetup({
+                    beforeSend: function (jqXHR, settings) {
+                        settings.url = settings.url.toLowerCase();
+                    }
+                });
+            }
+
+            return { urlLowercase: urlLowercase };
+        })();
+
+        FRAjaxSettings.urlLowercase();
+    </script>
+
+    <script>
+        function setBodyOverflow(dropdownElement) {
+            if (!dropdownElement) return;
+            const windowWidth = window.innerWidth;
+            if (windowWidth <= 1024) {
+                const body = document.querySelector("body");
+                if (dropdownElement.classList.contains("open")) {
+                    body.style.overflow = "hidden";
+                } else {
+                    body.style.overflow = "auto";
+                }
+            }
+        }
+        $(document).ready(function () {
+            $(document).on('click', '.dropdown-menu-wrapper', function (e) {
+                e.stopPropagation();
+            });
+
+            $(document).on('click', '[data-toggle="dropdown"]', function (e) {
+                const dropdownElement = e.target.closest(".dropdown")
+                if (dropdownElement) {
+                    setBodyOverflow(dropdownElement);
+                }
+            });
+        });
+
+        function supplementalDataToggle() {
+            const el = document.getElementById("supplementaryFilesModal");
+            if (el) {
+                el.classList.toggle("in");
+                if (el.classList.contains("in")) {
+                    el.style.display = "block";
+                } else {
+                    el.style.display = "none";
+                }
+            }
+        }
+
+        function initToggleSupplementalData() {
+            const btn = document.getElementsByClassName("btn-open-supplemental")[0];
+            const btn2 = document.getElementsByClassName("btn-open-supplemental")[1];
+            const closeButtons = document.getElementById("supplementaryFilesModal").querySelectorAll("[data-dismiss='modal']");
+
+            if (btn) { btn.onclick = supplementalDataToggle; }
+            if (btn2) { btn2.onclick = supplementalDataToggle; }
+            if (closeButtons) { closeButtons.forEach(b => b.onclick = supplementalDataToggle); }
+        }
+
+
+        initToggleSupplementalData();
+    </script>
+
+    <!-- BEGIN TODO UXD-1800: Inconsistent sizing of equations -->
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+          CommonHTML: {
+            scale: 80
+          },
+          PreviewHTML: {
+            scale: 80
+          }
+        });
+    </script>
+    <!-- END TODO UXD-1800: Inconsistent sizing of equations -->
+
+    <script src="https://static.frontiersin.org/areas/articles/js/schema?v=13am1aL5JpCh_IIFOIFRdlFySxVv16JLaVykDEyHCu81"></script>
+
+
+    
+    <script src="https://static.frontiersin.org/areas/articles/js/app?v=yc-RCjknzmUBNgZ4UvMYfxSO37HVPyGXugXlBXhhG9g1"></script>
+
+    <script src="https://static.frontiersin.org/areas/articles/js/webcomponents?v=mFneTZCRbjuEvw0oy-0BhTp1H3qaMj4BxhU0K6tieJo1"></script>
+
+
+    <script type="text/plain" class="optanon-category-C0004" src="https://widgets.figshare.com/static/figshare.js">
+    </script>
+
+</body>
+</html>

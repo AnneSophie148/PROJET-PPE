@@ -1,0 +1,729 @@
+<!doctype html>
+<html lang="pt">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# business: http://ogp.me/ns/business#">
+
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+
+gtag('consent', 'default', {
+  'ad_storage': 'denied',
+  'analytics_storage': 'denied'
+});
+
+dataLayer.push({
+  'event': 'default_consent'
+});
+</script>
+
+
+<script>
+(function(w,d,s,l,i){
+    w[l]=w[l]||[];
+    w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+    var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+    j.async=true;
+    j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;
+    f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NJZCVTB');
+</script>
+
+<meta charset="utf-8"><script type="text/javascript">(window.NREUM||(NREUM={})).init={privacy:{cookies_enabled:true},ajax:{deny_list:["bam.eu01.nr-data.net"]},distributed_tracing:{enabled:true}};(window.NREUM||(NREUM={})).loader_config={agentID:"322556526",accountID:"3252819",trustKey:"3252819",xpid:"VwQCU15SARACXFVXDgMAVVc=",licenseKey:"NRJS-51878d9935646189485",applicationID:"284592733"};/*! For license information please see nr-loader-spa-1220.min.js.LICENSE.txt */
+!function(e,t){"object"==typeof exports&&"object"==typeof module?module.exports=t():"function"==typeof define&&define.amd?define([],t):"object"==typeof exports?exports.NRBA=t():e.NRBA=t()}(self,(function(){return function(){var e,t,n={9034:function(e,t,n){"use strict";var r=n(4168);t.Z=(0,r.ky)(16)},5973:function(e,t,n){"use strict";n.d(t,{I:function(){return r}});var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1])},4280:function(e,t,n){"use strict";n.d(t,{H:function(){return o}});var r=document.createElement("div");r.innerHTML="\x3c!--[if lte IE 6]><div></div><![endif]--\x3e\x3c!--[if lte IE 7]><div></div><![endif]--\x3e\x3c!--[if lte IE 8]><div></div><![endif]--\x3e\x3c!--[if lte IE 9]><div></div><![endif]--\x3e";var o,i=r.getElementsByTagName("div").length;o=4===i?6:3===i?7:2===i?8:1===i?9:0},5955:function(e,t,n){"use strict";n.d(t,{I:function(){return r}});var r=function(e,t){var n=this;return e&&"object"==typeof e?t&&"object"==typeof t?(Object.assign(this,t),void Object.entries(e).forEach((function(e){var t=e[0],r=e[1];n[t]=r}))):console.error("setting a Configurable requires a model to set its initial properties"):console.error("setting a Configurable requires an object as input")}},441:function(e,t,n){"use strict";n.d(t,{C:function(){return c},L:function(){return u}});var r=n(1424),o=n(5955),i={beacon:r.ce.beacon,errorBeacon:r.ce.errorBeacon,licenseKey:void 0,applicationID:void 0,sa:void 0,queueTime:void 0,applicationTime:void 0,ttGuid:void 0,user:void 0,account:void 0,product:void 0,extra:void 0,jsAttributes:{},userAttributes:void 0,atts:void 0,transactionName:void 0,tNamePlain:void 0},a={};function c(e){if(!e)throw new Error("All info objects require an agent identifier!");if(!a[e])throw new Error("Info for "+e+" was never set");return a[e]}function u(e,t){if(!e)throw new Error("All info objects require an agent identifier!");a[e]=new o.I(t,i),(0,r.Qy)(e,a[e],"info")}},1476:function(e,t,n){"use strict";n.d(t,{Dg:function(){return u},Mt:function(){return s},P_:function(){return c}});var r=n(1424),o=n(5955),i={privacy:{cookies_enabled:!0},ajax:{deny_list:void 0,enabled:!0},distributed_tracing:{enabled:void 0,exclude_newrelic_header:void 0,cors_use_newrelic_header:void 0,cors_use_tracecontext_headers:void 0,allowed_origins:void 0},ssl:void 0,obfuscate:void 0,jserrors:{enabled:!0},metrics:{enabled:!0},page_action:{enabled:!0},page_view_event:{enabled:!0},page_view_timing:{enabled:!0},session_trace:{enabled:!0},spa:{enabled:!0}},a={};function c(e){if(!e)throw new Error("All configuration objects require an agent identifier!");if(!a[e])throw new Error("Configuration for "+e+" was never set");return a[e]}function u(e,t){if(!e)throw new Error("All configuration objects require an agent identifier!");a[e]=new o.I(t,i),(0,r.Qy)(e,a[e],"config")}function s(e,t){if(!e)throw new Error("All configuration objects require an agent identifier!");var n=c(e);if(n){for(var r=t.split("."),o=0;o<r.length-1;o++)if("object"!=typeof(n=n[r[o]]))return;n=n[r[r.length-1]]}return n}},2085:function(e,t,n){"use strict";n.d(t,{Y:function(){return r}});var r=(0,n(1424).mF)().o},1220:function(e,t,n){"use strict";n.d(t,{O:function(){return w},s:function(){return O}});var r={};n.r(r),n.d(r,{agent:function(){return a},match:function(){return f},version:function(){return c}});var o=n(4280),i=n(6959),a=null,c=null;if(navigator.userAgent){var u=navigator.userAgent,s=u.match(/Version\/(\S+)\s+Safari/);s&&-1===u.indexOf("Chrome")&&-1===u.indexOf("Chromium")&&(a="Safari",c=s[1])}function f(e,t){if(!a)return!1;if(e!==a)return!1;if(!t)return!0;if(!c)return!1;for(var n=c.split("."),r=t.split("."),o=0;o<r.length;o++)if(r[o]!==n[o])return!1;return!0}var d=n(5955),l=n(1424),p=n(4168),h=window.sessionStorage,v="NRBA_SESSION_ID";var m=n(1476),g=window.XMLHttpRequest,y=g&&g.prototype,b={};function w(e){if(!e)throw new Error("All runtime objects require an agent identifier!");if(!b[e])throw new Error("Runtime for "+e+" was never set");return b[e]}function O(e,t){if(!e)throw new Error("All runtime objects require an agent identifier!");var n,a;b[e]=new d.I(t,(n=e,{customTransaction:void 0,disabled:!1,features:{},maxBytes:6===o.H?2e3:3e4,offset:(0,i.yf)(),onerror:void 0,origin:""+window.location,ptid:void 0,releaseIds:{},sessionId:!0===(0,m.Mt)(n,"privacy.cookies_enabled")?(null===(a=h.getItem(v))&&(a=(0,p.ky)(16),h.setItem(v,a)),a):"0",xhrWrappable:g&&y&&y.addEventListener&&!/CriOS/.test(navigator.userAgent),userAgent:r})),(0,l.Qy)(e,b[e],"runtime")}},158:function(e,t,n){"use strict";n.d(t,{q:function(){return r}});var r=["1220","PROD"].filter((function(e){return e})).join(".")},3707:function(e,t,n){"use strict";n.d(t,{w:function(){return o}});var r={agentIdentifier:""},o=function(e){var t=this;if("object"!=typeof e)return console.error("shared context requires an object as input");this.sharedContext={},Object.assign(this.sharedContext,r),Object.entries(e).forEach((function(e){var n=e[0],o=e[1];Object.keys(r).includes(n)&&(t.sharedContext[n]=o)}))}},1776:function(e,t,n){"use strict";n.d(t,{c:function(){return f},ee:function(){return r}});var r,o=n(1424),i=n(4217),a=n(357),c="nr@context",u=(0,o.fP)();function s(){}function f(e){return(0,i.X)(e,c,d)}function d(){return new s}function l(){(r.backlog.api||r.backlog.feature)&&(r.aborted=!0,r.backlog={})}u.ee?r=u.ee:(r=function e(t,n){var o={},u={},f={},p={on:m,addEventListener:m,removeEventListener:g,emit:v,get:b,listeners:y,context:h,buffer:w,abort:l,aborted:!1,isBuffering:O,debugId:n,backlog:t&&t.backlog?t.backlog:{}};return p;function h(e){return e&&e instanceof s?e:e?(0,i.X)(e,c,d):d()}function v(e,n,o,i,a){if(!1!==a&&(a=!0),!r.aborted||i){t&&a&&t.emit(e,n,o);for(var c=h(o),s=y(e),f=s.length,d=0;d<f;d++)s[d].apply(c,n);var l=x()[u[e]];return l&&l.push([p,e,n,c]),c}}function m(e,t){o[e]=y(e).concat(t)}function g(e,t){var n=o[e];if(n)for(var r=0;r<n.length;r++)n[r]===t&&n.splice(r,1)}function y(e){return o[e]||[]}function b(t){return f[t]=f[t]||e(p,t)}function w(e,t){var n=x();p.aborted||(0,a.D)(e,(function(e,r){t=t||"feature",u[r]=t,t in n||(n[t]=[])}))}function O(e){return!!x()[u[e]]}function x(){return p.backlog}}(void 0,"globalEE"),u.ee=r)},7361:function(e,t,n){"use strict";n.d(t,{E:function(){return r},p:function(){return o}});var r=n(1776).ee.get("handle");function o(e,t,n,o,i){i?(i.buffer([e],o),i.emit(e,t,n)):(r.buffer([e],o),r.emit(e,t,n))}},3350:function(e,t,n){"use strict";n.d(t,{X:function(){return i}});var r=n(7361);i.on=a;var o=i.handlers={};function i(e,t,n,i){a(i||r.E,o,e,t,n)}function a(e,t,n,o,i){i||(i="feature"),e||(e=r.E);var a=t[i]=t[i]||{};(a[n]=a[n]||[]).push([e,o])}},4408:function(e,t,n){"use strict";n.d(t,{m:function(){return i}});var r=!1;try{var o=Object.defineProperty({},"passive",{get:function(){r=!0}});window.addEventListener("testPassive",null,o),window.removeEventListener("testPassive",null,o)}catch(e){}function i(e){return r?{passive:!0,capture:!!e}:!!e}},4168:function(e,t,n){"use strict";function r(){var e=null,t=0,n=window.crypto||window.msCrypto;function r(){return e?15&e[t++]:16*Math.random()|0}n&&n.getRandomValues&&(e=n.getRandomValues(new Uint8Array(31)));for(var o,i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",c=0;c<i.length;c++)a+="x"===(o=i[c])?r().toString(16):"y"===o?(o=3&r()|8).toString(16):o;return a}function o(){return a(16)}function i(){return a(32)}function a(e){var t=null,n=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&Uint8Array&&(t=r.getRandomValues(new Uint8Array(31)));for(var o=[],i=0;i<e;i++)o.push(a().toString(16));return o.join("");function a(){return t?15&t[n++]:16*Math.random()|0}}n.d(t,{Ht:function(){return i},M:function(){return o},Rl:function(){return r},ky:function(){return a}})},6959:function(e,t,n){"use strict";n.d(t,{nb:function(){return u},os:function(){return s},yf:function(){return c},zO:function(){return a}});var r=n(2364),o=(new Date).getTime(),i=o;function a(){return r.G&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-i}function c(){return o}function u(e){i=e}function s(){return i}},2364:function(e,t,n){"use strict";n.d(t,{G:function(){return r}});var r=void 0!==window.performance&&window.performance.timing&&void 0!==window.performance.timing.navigationStart},1793:function(e,t,n){"use strict";function r(e){var t,n=0;for(t=0;t<e.length;t++)n+=(t+1)*e.charCodeAt(t);return Math.abs(n)}n.d(t,{v:function(){return s},s:function(){return u}});var o=n(6972),i=n(5973),a=n(6959),c=n(2364),u=!0;function s(e){var t=function(){if(i.I&&i.I<9)return;if(c.G)return u=!1,window.performance.timing.navigationStart}()||function(){for(var e=document.cookie.split(" "),t=0;t<e.length;t++)if(0===e[t].indexOf("NREUM=")){for(var n,o,i,a,c=e[t].substring("NREUM=".length).split("&"),u=0;u<c.length;u++)0===c[u].indexOf("s=")?i=c[u].substring(2):0===c[u].indexOf("p=")?";"===(o=c[u].substring(2)).charAt(o.length-1)&&(o=o.substr(0,o.length-1)):0===c[u].indexOf("r=")&&";"===(n=c[u].substring(2)).charAt(n.length-1)&&(n=n.substr(0,n.length-1));if(n){var s=r(document.referrer);(a=s==n)||(a=r(document.location.href)==n&&s==o)}if(a&&i){if((new Date).getTime()-i>6e4)return;return i}}}();t&&((0,o.B)(e,"starttime",t),(0,a.nb)(t))}},6972:function(e,t,n){"use strict";n.d(t,{B:function(){return i},L:function(){return a}});var r=n(6959),o={};function i(e,t,n){void 0===n&&(n=(0,r.zO)()+(0,r.os)()),o[e]=o[e]||{},o[e][t]=n}function a(e,t,n,r){var i,a,c=e.sharedContext.agentIdentifier,u=null==(i=o[c])?void 0:i[n],s=null==(a=o[c])?void 0:a[r];void 0!==u&&void 0!==s&&e.store("measures",t,{value:s-u})}},7001:function(e,t,n){"use strict";n.d(t,{e:function(){return o}});var r={};function o(e){if(e in r)return r[e];if(0===(e||"").indexOf("data:"))return{protocol:"data"};var t=document.createElement("a"),n=window.location,o={};t.href=e,o.port=t.port;var i=t.href.split("://");!o.port&&i[1]&&(o.port=i[1].split("/")[0].split("@").pop().split(":")[1]),o.port&&"0"!==o.port||(o.port="https"===i[0]?"443":"80"),o.hostname=t.hostname||n.hostname,o.pathname=t.pathname,o.protocol=i[0],"/"!==o.pathname.charAt(0)&&(o.pathname="/"+o.pathname);var a=!t.protocol||":"===t.protocol||t.protocol===n.protocol,c=t.hostname===document.domain&&t.port===n.port;return o.sameOrigin=a&&(!t.hostname||c),"/"===o.pathname&&(r[e]=o),o}},7299:function(e,t,n){"use strict";n.d(t,{T:function(){return a}});var r=window,o=r;function i(){return o}var a={isFileProtocol:function(){var e=i(),t=!(!e.location||!e.location.protocol||"file:"!==e.location.protocol);t&&(a.supportabilityMetricSent=!0);return t},supportabilityMetricSent:!1}},847:function(e,t,n){"use strict";n.d(t,{K:function(){return a}});var r=n(1220),o=n(1476),i=["ajax","jserrors","metrics","page_action","page_view_event","page_view_timing","session_trace","spa"];function a(e){var t={};return i.forEach((function(n){t[n]=function(e,t){return!0!==(0,r.O)(t).disabled&&!1!==(0,o.Mt)(t,e+".enabled")}(n,e)})),t}},5023:function(e,t,n){"use strict";n.d(t,{W:function(){return o}});var r=n(1776),o=function(e,t,n){void 0===n&&(n=[]),this.agentIdentifier=e,this.aggregator=t,this.ee=r.ee.get(e),this.externalFeatures=n}},4217:function(e,t,n){"use strict";n.d(t,{X:function(){return o}});var r=Object.prototype.hasOwnProperty;function o(e,t,n){if(r.call(e,t))return e[t];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:o,writable:!0,enumerable:!1}),o}catch(e){}return e[t]=o,o}},357:function(e,t,n){"use strict";n.d(t,{D:function(){return o}});var r=Object.prototype.hasOwnProperty;function o(e,t){var n=[],o="",i=0;for(o in e)r.call(e,o)&&(n[i]=t(o,e[o]),i+=1);return n}},603:function(e,t,n){"use strict";n.d(t,{$c:function(){return s},Ng:function(){return f},RR:function(){return u}});var r=n(1476),o=n(3707),i=n(7299);function a(e,t){return a=Object.setPrototypeOf?Object.setPrototypeOf.bind():function(e,t){return e.__proto__=t,e},a(e,t)}var c={regex:/^file:\/\/(.*)/,replacement:"file://OBFUSCATED"},u=function(e){var t,n;function r(t){return e.call(this,t)||this}n=e,(t=r).prototype=Object.create(n.prototype),t.prototype.constructor=t,a(t,n);var o=r.prototype;return o.shouldObfuscate=function(){return s(this.sharedContext.agentIdentifier).length>0},o.obfuscateString=function(e){if(!e||"string"!=typeof e)return e;for(var t=s(this.sharedContext.agentIdentifier),n=e,r=0;r<t.length;r++){var o=t[r].regex,i=t[r].replacement||"*";n=n.replace(o,i)}return n},r}(o.w);function s(e){var t=[],n=(0,r.Mt)(e,"obfuscate")||[];return t=t.concat(n),i.T.isFileProtocol()&&t.push(c),t}function f(e){for(var t=!1,n=!1,r=0;r<e.length;r++){"regex"in e[r]?"string"!=typeof e[r].regex&&e[r].regex.constructor!==RegExp&&(console&&console.warn&&console.warn('An obfuscation replacement rule contains a "regex" value with an invalid type (must be a string or RegExp)'),n=!0):(console&&console.warn&&console.warn('An obfuscation replacement rule was detected missing a "regex" value.'),n=!0);var o=e[r].replacement;o&&"string"!=typeof o&&(console&&console.warn&&console.warn('An obfuscation replacement rule contains a "replacement" value with an invalid type (must be a string)'),t=!0)}return!t&&!n}},1424:function(e,t,n){"use strict";n.d(t,{EZ:function(){return u},Qy:function(){return c},ce:function(){return o},fP:function(){return i},gG:function(){return s},mF:function(){return a}});var r=n(6959),o={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net"};function i(){return window.NREUM||(window.NREUM={}),void 0===window.newrelic&&(window.newrelic=window.NREUM),window.NREUM}function a(){var e=i();if(!e.o){var t=window,n=t.XMLHttpRequest;e.o={ST:setTimeout,SI:t.setImmediate,CT:clearTimeout,XHR:n,REQ:t.Request,EV:t.Event,PR:t.Promise,MO:t.MutationObserver,FETCH:t.fetch}}return e}function c(e,t,n){var o,a,c=i(),u=c.initializedAgents||{},s=u[e]||{};return Object.keys(s).length||(s.initializedAt={ms:(0,r.zO)(),date:new Date}),c.initializedAgents=Object.assign({},u,((a={})[e]=Object.assign({},s,((o={})[n]=t,o)),a)),c}function u(e,t){i()[e]=t}function s(){var e,t;return e=i(),t=e.info||{},e.info=Object.assign({beacon:o.beacon,errorBeacon:o.errorBeacon},t),function(){var e=i(),t=e.init||{};e.init=Object.assign({},t)}(),a(),function(){var e=i(),t=e.loader_config||{};e.loader_config=Object.assign({},t)}(),i()}},5098:function(e,t,n){"use strict";function r(){return"PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver}n.d(t,{W:function(){return r}})},8539:function(e){e.exports=function(e,t,n){t||(t=0),void 0===n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}},8118:function(e){e.exports=function(e,t,n){t||(t=0),void 0===n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}}},r={};function o(e){var t=r[e];if(void 0!==t)return t.exports;var i=r[e]={exports:{}};return n[e](i,i.exports,o),i.exports}o.m=n,o.n=function(e){var t=e&&e.__esModule?function(){return e.default}:function(){return e};return o.d(t,{a:t}),t},o.d=function(e,t){for(var n in t)o.o(t,n)&&!o.o(e,n)&&Object.defineProperty(e,n,{enumerable:!0,get:t[n]})},o.f={},o.e=function(e){return Promise.all(Object.keys(o.f).reduce((function(t,n){return o.f[n](e,t),t}),[]))},o.u=function(e){return e+"."+o.h().slice(0,8)+"-1220.js"},o.h=function(){return"2d6a2503b7f18a5b77dd"},o.o=function(e,t){return Object.prototype.hasOwnProperty.call(e,t)},e={},t="NRBA:",o.l=function(n,r,i,a){if(e[n])e[n].push(r);else{var c,u;if(void 0!==i)for(var s=document.getElementsByTagName("script"),f=0;f<s.length;f++){var d=s[f];if(d.getAttribute("src")==n||d.getAttribute("data-webpack")==t+i){c=d;break}}c||(u=!0,(c=document.createElement("script")).charset="utf-8",c.timeout=120,o.nc&&c.setAttribute("nonce",o.nc),c.setAttribute("data-webpack",t+i),c.src=n),e[n]=[r];var l=function(t,r){c.onerror=c.onload=null,clearTimeout(p);var o=e[n];if(delete e[n],c.parentNode&&c.parentNode.removeChild(c),o&&o.forEach((function(e){return e(r)})),t)return t(r)},p=setTimeout(l.bind(null,void 0,{type:"timeout",target:c}),12e4);c.onerror=l.bind(null,c.onerror),c.onload=l.bind(null,c.onload),u&&document.head.appendChild(c)}},o.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},o.p="https://js-agent.newrelic.com/",function(){var e={997:0,898:0};o.f.j=function(t,n){var r=o.o(e,t)?e[t]:void 0;if(0!==r)if(r)n.push(r[2]);else{var i=new Promise((function(n,o){r=e[t]=[n,o]}));n.push(r[2]=i);var a=o.p+o.u(t),c=new Error;o.l(a,(function(n){if(o.o(e,t)&&(0!==(r=e[t])&&(e[t]=void 0),r)){var i=n&&("load"===n.type?"missing":n.type),a=n&&n.target&&n.target.src;c.message="Loading chunk "+t+" failed.\n("+i+": "+a+")",c.name="ChunkLoadError",c.type=i,c.request=a,r[1](c)}}),"chunk-"+t,t)}};var t=function(t,n){var r,i,a=n[0],c=n[1],u=n[2],s=0;if(a.some((function(t){return 0!==e[t]}))){for(r in c)o.o(c,r)&&(o.m[r]=c[r]);if(u)u(o)}for(t&&t(n);s<a.length;s++)i=a[s],o.o(e,i)&&e[i]&&e[i][0](),e[i]=0},n=self.webpackChunkNRBA=self.webpackChunkNRBA||[];n.forEach(t.bind(null,0)),n.push=t.bind(null,n.push.bind(n))}();var i={};return function(){"use strict";o.r(i);var e=o(4408),t=window,n=t.document;function r(e){"complete"===n.readyState&&e()}function a(o){r(o),n.addEventListener?t.addEventListener("load",o,(0,e.m)(!1)):t.attachEvent("onload",o)}function c(t){r(t),n.addEventListener?n.addEventListener("DOMContentLoaded",t,(0,e.m)(!1)):n.attachEvent("onreadystatechange",r)}var u=o(1776);function s(){s=function(){return e};var e={},t=Object.prototype,n=t.hasOwnProperty,r="function"==typeof Symbol?Symbol:{},o=r.iterator||"@@iterator",i=r.asyncIterator||"@@asyncIterator",a=r.toStringTag||"@@toStringTag";function c(e,t,n){return Object.defineProperty(e,t,{value:n,enumerable:!0,configurable:!0,writable:!0}),e[t]}try{c({},"")}catch(e){c=function(e,t,n){return e[t]=n}}function u(e,t,n,r){var o=t&&t.prototype instanceof l?t:l,i=Object.create(o.prototype),a=new j(r||[]);return i._invoke=function(e,t,n){var r="suspendedStart";return function(o,i){if("executing"===r)throw new Error("Generator is already running");if("completed"===r){if("throw"===o)throw i;return _()}for(n.method=o,n.arg=i;;){var a=n.delegate;if(a){var c=O(a,n);if(c){if(c===d)continue;return c}}if("next"===n.method)n.sent=n._sent=n.arg;else if("throw"===n.method){if("suspendedStart"===r)throw r="completed",n.arg;n.dispatchException(n.arg)}else"return"===n.method&&n.abrupt("return",n.arg);r="executing";var u=f(e,t,n);if("normal"===u.type){if(r=n.done?"completed":"suspendedYield",u.arg===d)continue;return{value:u.arg,done:n.done}}"throw"===u.type&&(r="completed",n.method="throw",n.arg=u.arg)}}}(e,n,a),i}function f(e,t,n){try{return{type:"normal",arg:e.call(t,n)}}catch(e){return{type:"throw",arg:e}}}e.wrap=u;var d={};function l(){}function p(){}function h(){}var v={};c(v,o,(function(){return this}));var m=Object.getPrototypeOf,g=m&&m(m(P([])));g&&g!==t&&n.call(g,o)&&(v=g);var y=h.prototype=l.prototype=Object.create(v);function b(e){["next","throw","return"].forEach((function(t){c(e,t,(function(e){return this._invoke(t,e)}))}))}function w(e,t){function r(o,i,a,c){var u=f(e[o],e,i);if("throw"!==u.type){var s=u.arg,d=s.value;return d&&"object"==typeof d&&n.call(d,"__await")?t.resolve(d.__await).then((function(e){r("next",e,a,c)}),(function(e){r("throw",e,a,c)})):t.resolve(d).then((function(e){s.value=e,a(s)}),(function(e){return r("throw",e,a,c)}))}c(u.arg)}var o;this._invoke=function(e,n){function i(){return new t((function(t,o){r(e,n,t,o)}))}return o=o?o.then(i,i):i()}}function O(e,t){var n=e.iterator[t.method];if(void 0===n){if(t.delegate=null,"throw"===t.method){if(e.iterator.return&&(t.method="return",t.arg=void 0,O(e,t),"throw"===t.method))return d;t.method="throw",t.arg=new TypeError("The iterator does not provide a 'throw' method")}return d}var r=f(n,e.iterator,t.arg);if("throw"===r.type)return t.method="throw",t.arg=r.arg,t.delegate=null,d;var o=r.arg;return o?o.done?(t[e.resultName]=o.value,t.next=e.nextLoc,"return"!==t.method&&(t.method="next",t.arg=void 0),t.delegate=null,d):o:(t.method="throw",t.arg=new TypeError("iterator result is not an object"),t.delegate=null,d)}function x(e){var t={tryLoc:e[0]};1 in e&&(t.catchLoc=e[1]),2 in e&&(t.finallyLoc=e[2],t.afterLoc=e[3]),this.tryEntries.push(t)}function E(e){var t=e.completion||{};t.type="normal",delete t.arg,e.completion=t}function j(e){this.tryEntries=[{tryLoc:"root"}],e.forEach(x,this),this.reset(!0)}function P(e){if(e){var t=e[o];if(t)return t.call(e);if("function"==typeof e.next)return e;if(!isNaN(e.length)){var r=-1,i=function t(){for(;++r<e.length;)if(n.call(e,r))return t.value=e[r],t.done=!1,t;return t.value=void 0,t.done=!0,t};return i.next=i}}return{next:_}}function _(){return{value:void 0,done:!0}}return p.prototype=h,c(y,"constructor",h),c(h,"constructor",p),p.displayName=c(h,a,"GeneratorFunction"),e.isGeneratorFunction=function(e){var t="function"==typeof e&&e.constructor;return!!t&&(t===p||"GeneratorFunction"===(t.displayName||t.name))},e.mark=function(e){return Object.setPrototypeOf?Object.setPrototypeOf(e,h):(e.__proto__=h,c(e,a,"GeneratorFunction")),e.prototype=Object.create(y),e},e.awrap=function(e){return{__await:e}},b(w.prototype),c(w.prototype,i,(function(){return this})),e.AsyncIterator=w,e.async=function(t,n,r,o,i){void 0===i&&(i=Promise);var a=new w(u(t,n,r,o),i);return e.isGeneratorFunction(n)?a:a.next().then((function(e){return e.done?e.value:a.next()}))},b(y),c(y,a,"Generator"),c(y,o,(function(){return this})),c(y,"toString",(function(){return"[object Generator]"})),e.keys=function(e){var t=[];for(var n in e)t.push(n);return t.reverse(),function n(){for(;t.length;){var r=t.pop();if(r in e)return n.value=r,n.done=!1,n}return n.done=!0,n}},e.values=P,j.prototype={constructor:j,reset:function(e){if(this.prev=0,this.next=0,this.sent=this._sent=void 0,this.done=!1,this.delegate=null,this.method="next",this.arg=void 0,this.tryEntries.forEach(E),!e)for(var t in this)"t"===t.charAt(0)&&n.call(this,t)&&!isNaN(+t.slice(1))&&(this[t]=void 0)},stop:function(){this.done=!0;var e=this.tryEntries[0].completion;if("throw"===e.type)throw e.arg;return this.rval},dispatchException:function(e){if(this.done)throw e;var t=this;function r(n,r){return a.type="throw",a.arg=e,t.next=n,r&&(t.method="next",t.arg=void 0),!!r}for(var o=this.tryEntries.length-1;o>=0;--o){var i=this.tryEntries[o],a=i.completion;if("root"===i.tryLoc)return r("end");if(i.tryLoc<=this.prev){var c=n.call(i,"catchLoc"),u=n.call(i,"finallyLoc");if(c&&u){if(this.prev<i.catchLoc)return r(i.catchLoc,!0);if(this.prev<i.finallyLoc)return r(i.finallyLoc)}else if(c){if(this.prev<i.catchLoc)return r(i.catchLoc,!0)}else{if(!u)throw new Error("try statement without catch or finally");if(this.prev<i.finallyLoc)return r(i.finallyLoc)}}}},abrupt:function(e,t){for(var r=this.tryEntries.length-1;r>=0;--r){var o=this.tryEntries[r];if(o.tryLoc<=this.prev&&n.call(o,"finallyLoc")&&this.prev<o.finallyLoc){var i=o;break}}i&&("break"===e||"continue"===e)&&i.tryLoc<=t&&t<=i.finallyLoc&&(i=null);var a=i?i.completion:{};return a.type=e,a.arg=t,i?(this.method="next",this.next=i.finallyLoc,d):this.complete(a)},complete:function(e,t){if("throw"===e.type)throw e.arg;return"break"===e.type||"continue"===e.type?this.next=e.arg:"return"===e.type?(this.rval=this.arg=e.arg,this.method="return",this.next="end"):"normal"===e.type&&t&&(this.next=t),d},finish:function(e){for(var t=this.tryEntries.length-1;t>=0;--t){var n=this.tryEntries[t];if(n.finallyLoc===e)return this.complete(n.completion,n.afterLoc),E(n),d}},catch:function(e){for(var t=this.tryEntries.length-1;t>=0;--t){var n=this.tryEntries[t];if(n.tryLoc===e){var r=n.completion;if("throw"===r.type){var o=r.arg;E(n)}return o}}throw new Error("illegal catch attempt")},delegateYield:function(e,t,n){return this.delegate={iterator:P(e),resultName:t,nextLoc:n},"next"===this.method&&(this.arg=void 0),d}},e}function f(e,t,n,r,o,i,a){try{var c=e[i](a),u=c.value}catch(e){return void n(e)}c.done?t(u):Promise.resolve(u).then(r,o)}var d=0;function l(e){var t;(t=s().mark((function t(){var n,r;return s().wrap((function(t){for(;;)switch(t.prev=t.next){case 0:if(!d++){t.next=2;break}return t.abrupt("return");case 2:return t.prev=2,t.next=5,o.e(552).then(o.bind(o,5552));case 5:return n=t.sent,r=n.aggregator,t.next=9,r(e);case 9:t.next=15;break;case 11:t.prev=11,t.t0=t.catch(2),console.error("Failed to successfully load all aggregators. Aborting...\n",t.t0),u.ee.abort();case 15:case"end":return t.stop()}}),t,null,[[2,11]])})),function(){var e=this,n=arguments;return new Promise((function(r,o){var i=t.apply(e,n);function a(e){f(i,r,o,a,c,"next",e)}function c(e){f(i,r,o,a,c,"throw",e)}a(void 0)}))})()}var p=o(9034),h=o(7361),v=o(6959),m=o(6972),g=o(1793),y=o(5023);function b(e,t){return b=Object.setPrototypeOf?Object.setPrototypeOf.bind():function(e,t){return e.__proto__=t,e},b(e,t)}var w,O,x,E=function(e){var t,n;function r(t){var n;return n=e.call(this,t)||this,(0,g.v)(t),(0,m.B)(t,"firstbyte",(0,v.yf)()),a((function(){return n.measureWindowLoaded()})),c((function(){return n.measureDomContentLoaded()})),n}n=e,(t=r).prototype=Object.create(n.prototype),t.prototype.constructor=t,b(t,n);var o=r.prototype;return o.measureWindowLoaded=function(){var e=(0,v.zO)();(0,m.B)(this.agentIdentifier,"onload",e+(0,v.os)()),(0,h.p)("timing",["load",e],void 0,void 0,this.ee)},o.measureDomContentLoaded=function(){(0,m.B)(this.agentIdentifier,"domContent",(0,v.zO)()+(0,v.os)())},r}(y.W);void 0!==document.hidden?(w="hidden",O="visibilitychange",x="visibilityState"):void 0!==document.msHidden?(w="msHidden",O="msvisibilitychange"):void 0!==document.webkitHidden&&(w="webkitHidden",O="webkitvisibilitychange",x="webkitVisibilityState");var j=o(1476),P=o(2085);function _(e,t){return _=Object.setPrototypeOf?Object.setPrototypeOf.bind():function(e,t){return e.__proto__=t,e},_(e,t)}var L=function(t){var n,r;function o(n){var r,o;if((r=t.call(this,n)||this).pageHiddenTime="hidden"===document.visibilityState?-1:1/0,r.performanceObserver,r.lcpPerformanceObserver,r.clsPerformanceObserver,r.fiRecorded=!1,!r.isEnabled())return function(e){if(void 0===e)throw new ReferenceError("this hasn't been initialised - super() hasn't been called");return e}(r);if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){r.performanceObserver=new PerformanceObserver((function(){var e;return(e=r).perfObserver.apply(e,arguments)}));try{r.performanceObserver.observe({entryTypes:["paint"]})}catch(e){}r.lcpPerformanceObserver=new PerformanceObserver((function(){var e;return(e=r).lcpObserver.apply(e,arguments)}));try{r.lcpPerformanceObserver.observe({entryTypes:["largest-contentful-paint"]})}catch(e){}r.clsPerformanceObserver=new PerformanceObserver((function(){var e;return(e=r).clsObserver.apply(e,arguments)}));try{r.clsPerformanceObserver.observe({type:"layout-shift",buffered:!0})}catch(e){}}if("addEventListener"in document){r.fiRecorded=!1;["click","keydown","mousedown","pointerdown","touchstart"].forEach((function(t){document.addEventListener(t,(function(){var e;return(e=r).captureInteraction.apply(e,arguments)}),(0,e.m)(!1))}))}return o=function(){var e;return(e=r).captureVisibilityChange.apply(e,arguments)},"addEventListener"in document&&O&&document.addEventListener(O,(function(){x&&document[x]?o(document[x]):document[w]?o("hidden"):o("visible")}),(0,e.m)(!1)),r}r=t,(n=o).prototype=Object.create(r.prototype),n.prototype.constructor=n,_(n,r);var i=o.prototype;return i.isEnabled=function(){return!1!==(0,j.Mt)(this.agentIdentifier,"page_view_timing.enabled")},i.perfObserver=function(e,t){var n=this;e.getEntries().forEach((function(e){"first-paint"===e.name?(0,h.p)("timing",["fp",Math.floor(e.startTime)],void 0,void 0,n.ee):"first-contentful-paint"===e.name&&(0,h.p)("timing",["fcp",Math.floor(e.startTime)],void 0,void 0,n.ee)}))},i.lcpObserver=function(e,t){var n=e.getEntries();if(n.length>0){var r=n[n.length-1];if(this.pageHiddenTime<r.startTime)return;var o=[r],i=this.addConnectionAttributes({});i&&o.push(i),(0,h.p)("lcp",o,void 0,void 0,this.ee)}},i.clsObserver=function(e){var t=this;e.getEntries().forEach((function(e){e.hadRecentInput||(0,h.p)("cls",[e],void 0,void 0,t.ee)}))},i.addConnectionAttributes=function(e){var t=navigator.connection||navigator.mozConnection||navigator.webkitConnection;if(t)return t.type&&(e["net-type"]=t.type),t.effectiveType&&(e["net-etype"]=t.effectiveType),t.rtt&&(e["net-rtt"]=t.rtt),t.downlink&&(e["net-dlink"]=t.downlink),e},i.captureInteraction=function(e){if(e instanceof P.Y.EV&&!this.fiRecorded){var t=Math.round(e.timeStamp),n={type:e.type};this.addConnectionAttributes(n),t<=(0,v.zO)()?n.fid=(0,v.zO)()-t:t>(0,v.os)()&&t<=Date.now()?(t-=(0,v.os)(),n.fid=(0,v.zO)()-t):t=(0,v.zO)(),this.fiRecorded=!0,(0,h.p)("timing",["fi",t,n],void 0,void 0,this.ee)}},i.captureVisibilityChange=function(e){"hidden"===e&&(this.pageHiddenTime=(0,v.zO)(),(0,h.p)("pageHide",[this.pageHiddenTime],void 0,void 0,this.ee))},o}(y.W),T=o(3350),C="React",S="Angular",I="AngularJS",R="Backbone",k="Ember",A="Vue",H="Meteor",N="Zepto",z="Jquery";function M(){var e=[];try{(function(){try{if(window.React||window.ReactDOM||window.ReactRedux)return!0;if(document.querySelector("[data-reactroot], [data-reactid]"))return!0;for(var e=document.querySelectorAll("body > div"),t=0;t<e.length;t++)if(Object.keys(e[t]).indexOf("_reactRootContainer")>=0)return!0;return!1}catch(e){return!1}})()&&e.push(C),function(){try{return!!window.angular||(!!document.querySelector(".ng-binding, [ng-app], [data-ng-app], [ng-controller], [data-ng-controller], [ng-repeat], [data-ng-repeat]")||!!document.querySelector('script[src*="angular.js"], script[src*="angular.min.js"]'))}catch(e){return!1}}()&&e.push(I),function(){try{return!!(window.hasOwnProperty("ng")&&window.ng.hasOwnProperty("coreTokens")&&window.ng.coreTokens.hasOwnProperty("NgZone"))||!!document.querySelectorAll("[ng-version]").length}catch(e){return!1}}()&&e.push(S),window.Backbone&&e.push(R),window.Ember&&e.push(k),window.Vue&&e.push(A),window.Meteor&&e.push(H),window.Zepto&&e.push(N),window.jQuery&&e.push(z)}catch(e){}return e}var D=o(7299),q=o(603),B=o(158);function F(e,t){return F=Object.setPrototypeOf?Object.setPrototypeOf.bind():function(e,t){return e.__proto__=t,e},F(e,t)}var G=function(e){var t,n;function r(t){var n;return(n=e.call(this,t)||this).singleChecks(),(0,T.X)("record-supportability",(function(){var e;return(e=n).recordSupportability.apply(e,arguments)}),void 0,n.ee),(0,T.X)("record-custom",(function(){var e;return(e=n).recordCustom.apply(e,arguments)}),void 0,n.ee),n}n=e,(t=r).prototype=Object.create(n.prototype),t.prototype.constructor=t,F(t,n);var o=r.prototype;return o.recordSupportability=function(e,t){var n=["sm",e,{name:e},t];return(0,h.p)("storeMetric",n,null,void 0,this.ee),n},o.recordCustom=function(e,t){var n=["cm",e,{name:e},t];return(0,h.p)("storeEventMetrics",n,null,void 0,this.ee),n},o.singleChecks=function(){var e=this;this.recordSupportability("Generic/Version/"+B.q+"/Detected"),c((function(){M().forEach((function(t){e.recordSupportability("Framework/"+t+"/Detected")}))})),D.T.isFileProtocol()&&(this.recordSupportability("Generic/FileProtocol/Detected"),D.T.supportabilityMetricSent=!0);var t=(0,q.$c)(this.agentIdentifier);t.length>0&&this.recordSupportability("Generic/Obfuscate/Detected"),t.length>0&&!(0,q.Ng)(t)&&this.recordSupportability("Generic/Obfuscate/Invalid")},r}(y.W),U=o(1220),X=o(4217),Z=o(8118),W=o.n(Z),V=o(357),Y=window,Q="fetch-",K="fetch-body-",J=["arrayBuffer","blob","json","text","formData"],$=Y.Request,ee=Y.Response,te="prototype",ne="nr@context",re={};function oe(e){var t=function(e){return(e||u.ee).get("fetch")}(e);if(!($&&ee&&window.fetch))return t;if(re[t.debugId])return t;function n(e,n,r){var o=e[n];"function"==typeof o&&(e[n]=function(){var e,n=W()(arguments),i={};t.emit(r+"before-start",[n],i),i[ne]&&i[ne].dt&&(e=i[ne].dt);var a=o.apply(this,n);return t.emit(r+"start",[n,e],a),a.then((function(e){return t.emit(r+"end",[null,e],a),e}),(function(e){throw t.emit(r+"end",[e],a),e}))})}return re[t.debugId]=!0,(0,V.D)(J,(function(e,t){n($[te],t,K),n(ee[te],t,K)})),n(Y,"fetch",Q),t.on("fetch-end",(function(e,n){var r=this;if(n){var o=n.headers.get("content-length");null!==o&&(r.rxSize=o),t.emit("fetch-done",[null,n],r)}else t.emit("fetch-done",[e],r)})),t}var ie="nr@original",ae=Object.prototype.hasOwnProperty,ce=!1;function ue(e,t){return e||(e=u.ee),n.inPlace=function(e,t,r,o,i){r||(r="");var a,c,u,s="-"===r.charAt(0);for(u=0;u<t.length;u++)c=t[u],de(a=e[c])||(e[c]=n(a,s?c+r:r,o,c,i))},n.flag=ie,n;function n(t,n,o,i,a){return de(t)?t:(n||(n=""),c[ie]=t,fe(t,c,e),c);function c(){var c,u,s,f;try{u=this,c=W()(arguments),s="function"==typeof o?o(c,u):o||{}}catch(t){se([t,"",[c,u,i],s],e)}r(n+"start",[c,u,i],s,a);try{return f=t.apply(u,c)}catch(e){throw r(n+"err",[c,u,e],s,a),e}finally{r(n+"end",[c,u,f],s,a)}}}function r(n,r,o,i){if(!ce||t){var a=ce;ce=!0;try{e.emit(n,r,o,t,i)}catch(t){se([t,n,r,o],e)}ce=a}}}function se(e,t){t||(t=u.ee);try{t.emit("internal-error",e)}catch(e){}}function fe(e,t,n){if(Object.defineProperty&&Object.keys)try{return Object.keys(e).forEach((function(n){Object.defineProperty(t,n,{get:function(){return e[n]},set:function(t){return e[n]=t,t}})})),t}catch(e){se([e],n)}for(var r in e)ae.call(e,r)&&(t[r]=e[r]);return t}function de(e){return!(e&&e instanceof Function&&e.apply&&!e[ie])}function le(e,t,n){var r=e[t];e[t]=function(e,t){var n=t(e);return n[ie]=e,fe(e,n,u.ee),n}(r,n)}function pe(){for(var e=arguments.length,t=new Array(e),n=0;n<e;++n)t[n]=arguments[n];return t}var he={};function ve(e){var t=function(e){return(e||u.ee).get("timer")}(e);if(he[t.debugId])return t;he[t.debugId]=!0;var n=ue(t),r="setTimeout",o="setInterval",i="clearTimeout",a="-start";return n.inPlace(window,[r,"setImmediate"],"setTimeout-"),n.inPlace(window,[o],"setInterval-"),n.inPlace(window,[i,"clearImmediate"],"clearTimeout-"),t.on(o+a,(function(e,t,r){e[0]=n(e[0],"fn-",null,r)})),t.on(r+a,(function(e,t,r){this.method=r,this.timerDuration=isNaN(e[1])?0:+e[1],e[0]=n(e[0],"fn-",this,r)})),t}var me={};function ge(e){var t=function(e){return(e||u.ee).get("raf")}(e);if(me[t.debugId])return t;me[t.debugId]=!0;var n=ue(t);return n.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),t.on("raf-start",(function(e){e[0]=n(e[0],"fn-")})),t}var ye={};function be(e){var t=function(e){return(e||u.ee).get("history")}(e);if(ye[t.debugId])return t;ye[t.debugId]=!0;var n=ue(t),r=window.history&&window.history.constructor&&window.history.constructor.prototype,o=window.history;return r&&r.pushState&&r.replaceState&&(o=r),n.inPlace(o,["pushState","replaceState"],"-"),t}var we={};function Oe(t){var n=function(e){return(e||u.ee).get("jsonp")}(t);if(we[n.debugId])return n;we[n.debugId]=!0;var r=ue(n),o=/[?&](?:callback|cb)=([^&#]+)/,i=/(.*)\.([^.]+)/,a=/^(\w+)(\.|$)(.*)$/,c=["appendChild","insertBefore","replaceChild"];function s(e,t){var n=e.match(a),r=n[1],o=n[3];return o?s(o,t[r]):t[r]}return"addEventListener"in window&&(Node&&Node.prototype&&Node.prototype.appendChild?r.inPlace(Node.prototype,c,"dom-"):(r.inPlace(HTMLElement.prototype,c,"dom-"),r.inPlace(HTMLHeadElement.prototype,c,"dom-"),r.inPlace(HTMLBodyElement.prototype,c,"dom-"))),n.on("dom-start",(function(t){!function(t){if(!t||"string"!=typeof t.nodeName||"script"!==t.nodeName.toLowerCase())return;if("function"!=typeof t.addEventListener)return;var a=(c=t.src,u=c.match(o),u?u[1]:null);var c,u;if(!a)return;var f=function(e){var t=e.match(i);if(t&&t.length>=3)return{key:t[2],parent:s(t[1],window)};return{key:e,parent:window}}(a);if("function"!=typeof f.parent[f.key])return;var d={};function l(){n.emit("jsonp-end",[],d),t.removeEventListener("load",l,(0,e.m)(!1)),t.removeEventListener("error",p,(0,e.m)(!1))}function p(){n.emit("jsonp-error",[],d),n.emit("jsonp-end",[],d),t.removeEventListener("load",l,(0,e.m)(!1)),t.removeEventListener("error",p,(0,e.m)(!1))}r.inPlace(f.parent,[f.key],"cb-",d),t.addEventListener("load",l,(0,e.m)(!1)),t.addEventListener("error",p,(0,e.m)(!1)),n.emit("new-jsonp",[t.src],d)}(t[0])})),n}var xe={};function Ee(e){var t=function(e){return(e||u.ee).get("mutation")}(e);if(xe[t.debugId])return t;xe[t.debugId]=!0;var n=ue(t),r=P.Y.MO;return r&&(window.MutationObserver=function(e){return this instanceof r?new r(n(e,"fn-")):r.apply(this,arguments)},MutationObserver.prototype=r.prototype),t}var je={};function Pe(e){var t=function(e){return(e||u.ee).get("promise")}(e);if(je[t.debugId])return t;je[t.debugId]=!0;var n=u.c,r=ue(t),o=P.Y.PR;return o&&function(){function e(e){var n=t.context(),i=r(e,"executor-",n,null,!1),a=new o(i);return t.context(a).getCtx=function(){return n},a}window.Promise=e,["all","race"].forEach((function(e){var n=o[e];o[e]=function(r){var i=!1;(0,V.D)(r,(function(t,n){Promise.resolve(n).then(c("all"===e),c(!1))}));var a=n.apply(o,arguments);return o.resolve(a);function c(e){return function(){t.emit("propagate",[null,!i],a,!1,!1),i=i||!e}}}})),["resolve","reject"].forEach((function(e){var n=o[e];o[e]=function(e){var r=n.apply(o,arguments);return e!==r&&t.emit("propagate",[e,!0],r,!1,!1),r}})),o.prototype.catch=function(e){return this.then(null,e)},Object.assign(o.prototype,{constructor:{value:e}}),(0,V.D)(Object.getOwnPropertyNames(o),(function(t,n){try{e[n]=o[n]}catch(e){}})),le(o.prototype,"then",(function(e){return function(){var o=this,i=pe.apply(this,arguments),a=n(o);a.promise=o,i[0]=r(i[0],"cb-",a,null,!1),i[1]=r(i[1],"cb-",a,null,!1);var c=e.apply(this,i);return a.nextPromise=c,t.emit("propagate",[o,!0],c,!1,!1),c}})),t.on("executor-start",(function(e){e[0]=r(e[0],"resolve-",this,null,!1),e[1]=r(e[1],"resolve-",this,null,!1)})),t.on("executor-err",(function(e,t,n){e[1](n)})),t.on("cb-end",(function(e,n,r){t.emit("propagate",[r,!0],this.nextPromise,!1,!1)})),t.on("propagate",(function(e,n,r){this.getCtx&&!n||(this.getCtx=function(){if(e instanceof Promise)var n=t.context(e);return n&&n.getCtx?n.getCtx():this})})),e.toString=function(){return""+o}}(),t}var _e={};function Le(e){var t=function(e){return(e||u.ee).get("events")}(e);if(_e[t.debugId])return t;_e[t.debugId]=!0;var n=ue(t,!0),r=XMLHttpRequest,o="addEventListener",i="removeEventListener";function a(e){for(var t=e;t&&!t.hasOwnProperty(o);)t=Object.getPrototypeOf(t);t&&c(t)}function c(e){n.inPlace(e,[o,i],"-",s)}function s(e,t){return e[1]}return"getPrototypeOf"in Object?(a(document),a(window),a(r.prototype)):r.prototype.hasOwnProperty(o)&&(c(window),c(r.prototype)),t.on("addEventListener-start",(function(e,t){var r=e[1];if(null!==r&&("function"==typeof r||"object"==typeof r)){var o=(0,X.X)(r,"nr@wrapped",(function(){var e={object:function(){if("function"!=typeof r.handleEvent)return;return r.handleEvent.apply(r,arguments)},function:r}[typeof r];return e?n(e,"fn-",null,e.name||"anonymous"):r}));this.wrapped=e[1]=o}})),t.on("removeEventListener-start",(function(e){e[1]=this.wrapped||e[1]})),t}var Te={};function Ce(t){var n=t||u.ee,r=function(e){return(e||u.ee).get("xhr")}(n);if(Te[r.debugId])return r;Te[r.debugId]=!0,Le(n);var o=ue(r),i=P.Y.XHR,a=P.Y.MO,c=P.Y.PR,s=P.Y.SI,f="readystatechange",d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],l=[],p=window.XMLHttpRequest.listeners,h=window.XMLHttpRequest=function(t){var n=new i(t);function o(){try{r.emit("new-xhr",[n],n),n.addEventListener(f,m,(0,e.m)(!1))}catch(e){console.error(e);try{r.emit("internal-error",[e])}catch(e){}}}return this.listeners=p?[].concat(p,[o]):[o],this.listeners.forEach((function(e){return e()})),n};function v(e,t){o.inPlace(t,["onreadystatechange"],"fn-",O)}function m(){var e=this,t=r.context(e);e.readyState>3&&!t.resolved&&(t.resolved=!0,r.emit("xhr-resolved",[],e)),o.inPlace(e,d,"fn-",O)}if(function(e,t){for(var n in e)t[n]=e[n]}(i,h),h.prototype=i.prototype,o.inPlace(h.prototype,["open","send"],"-xhr-",O),r.on("send-xhr-start",(function(e,t){v(e,t),function(e){l.push(e),a&&(g?g.then(w):s?s(w):(y=-y,b.data=y))}(t)})),r.on("open-xhr-start",v),a){var g=c&&c.resolve();if(!s&&!c){var y=1,b=document.createTextNode(y);new a(w).observe(b,{characterData:!0})}}else n.on("fn-end",(function(e){e[0]&&e[0].type===f||w()}));function w(){for(var e=0;e<l.length;e++)v(0,l[e]);l.length&&(l=[])}function O(e,t){return t}return r}function Se(e){return Le(e)}function Ie(e){return oe(e)}function Re(e){return be(e)}function ke(e){return ge(e)}function Ae(e){return ve(e)}function He(e){return Ce(e)}function Ne(e,t){return Ne=Object.setPrototypeOf?Object.setPrototypeOf.bind():function(e,t){return e.__proto__=t,e},Ne(e,t)}var ze="nr@seenError",Me=function(e){var t,n;function r(t){var n;(n=e.call(this,t)||this).skipNext=0,n.handleErrors=!1,n.origOnerror=window.onerror;var r=function(e){if(void 0===e)throw new ReferenceError("this hasn't been initialised - super() hasn't been called");return e}(n),o=(0,U.O)(n.agentIdentifier);o.features.err=!0,r.ee.on("fn-start",(function(e,t,n){r.handleErrors&&(r.skipNext+=1)})),r.ee.on("fn-err",(function(e,t,n){r.handleErrors&&!n[ze]&&((0,X.X)(n,ze,(function(){return!0})),this.thrown=!0,qe(n,void 0,r.ee))})),r.ee.on("fn-end",(function(){r.handleErrors&&!this.thrown&&r.skipNext>0&&(r.skipNext-=1)})),r.ee.on("internal-error",(function(e){(0,h.p)("ierr",[e,(0,v.zO)(),!0],void 0,void 0,r.ee)}));var i=window.onerror;window.onerror=function(){var e;return i&&i.apply(void 0,arguments),(e=n).onerrorHandler.apply(e,arguments),!1};try{window.addEventListener("unhandledrejection",(function(e){var t=new Error(""+e.reason);(0,h.p)("err",[t,(0,v.zO)(),!1,{unhandledPromiseRejection:1}],void 0,void 0,n.ee)}))}catch(e){}try{throw new Error}catch(e){"stack"in e&&(Ae(n.ee),ke(n.ee),"addEventListener"in window&&Se(n.ee),o.xhrWrappable&&He(n.ee),r.handleErrors=!0)}return n}return n=e,(t=r).prototype=Object.create(n.prototype),t.prototype.constructor=t,Ne(t,n),r.prototype.onerrorHandler=function(e,t,n,r,o){try{this.skipNext?this.skipNext-=1:qe(o||new De(e,t,n),!0,this.ee)}catch(e){try{(0,h.p)("ierr",[e,(0,v.zO)(),!0],void 0,void 0,this.ee)}catch(e){}}return"function"==typeof this.origOnerror&&this.origOnerror.apply(this,W()(arguments))},r}(y.W);function De(e,t,n){this.message=e||"Uncaught error with no additional information",this.sourceURL=t,this.line=n}function qe(e,t,n){var r=t?null:(0,v.zO)();(0,h.p)("err",[e,r],void 0,void 0,n)}var Be=o(1424),Fe=o(5955),Ge={accountID:void 0,trustKey:void 0,agentID:void 0,licenseKey:void 0,applicationID:void 0,xpid:void 0},Ue={};function Xe(e){if(!e)throw new Error("All loader-config objects require an agent identifier!");if(!Ue[e])throw new Error("LoaderConfig for "+e+" was never set");return Ue[e]}var Ze=1;function We(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:(0,X.X)(e,"nr@id",(function(){return Ze++}))}var Ve=o(5973);function Ye(e){if("string"==typeof e&&e.length)return e.length;if("object"==typeof e){if("undefined"!=typeof ArrayBuffer&&e instanceof ArrayBuffer&&e.byteLength)return e.byteLength;if("undefined"!=typeof Blob&&e instanceof Blob&&e.size)return e.size;if(!("undefined"!=typeof FormData&&e instanceof FormData))try{return JSON.stringify(e).length}catch(e){return}}}var Qe=o(7001),Ke=o(4168),Je=function(){function e(e){this.agentIdentifier=e,this.generateTracePayload=this.generateTracePayload.bind(this),this.shouldGenerateTrace=this.shouldGenerateTrace.bind(this)}var t=e.prototype;return t.generateTracePayload=function(e){if(!this.shouldGenerateTrace(e))return null;var t=Xe(this.agentIdentifier);if(!t)return null;var n=(t.accountID||"").toString()||null,r=(t.agentID||"").toString()||null,o=(t.trustKey||"").toString()||null;if(!n||!r)return null;var i=(0,Ke.M)(),a=(0,Ke.Ht)(),c=Date.now(),u={spanId:i,traceId:a,timestamp:c};return(e.sameOrigin||this.isAllowedOrigin(e)&&this.useTraceContextHeadersForCors())&&(u.traceContextParentHeader=this.generateTraceContextParentHeader(i,a),u.traceContextStateHeader=this.generateTraceContextStateHeader(i,c,n,r,o)),(e.sameOrigin&&!this.excludeNewrelicHeader()||!e.sameOrigin&&this.isAllowedOrigin(e)&&this.useNewrelicHeaderForCors())&&(u.newrelicHeader=this.generateTraceHeader(i,a,c,n,r,o)),u},t.generateTraceContextParentHeader=function(e,t){return"00-"+t+"-"+e+"-01"},t.generateTraceContextStateHeader=function(e,t,n,r,o){return o+"@nr=0-1-"+n+"-"+r+"-"+e+"----"+t},t.generateTraceHeader=function(e,t,n,r,o,i){if(!("btoa"in window&&"function"==typeof window.btoa))return null;var a={v:[0,1],d:{ty:"Browser",ac:r,ap:o,id:e,tr:t,ti:n}};return i&&r!==i&&(a.d.tk=i),btoa(JSON.stringify(a))},t.shouldGenerateTrace=function(e){return this.isDtEnabled()&&this.isAllowedOrigin(e)},t.isAllowedOrigin=function(e){var t=!1,n={};if((0,j.Mt)(this.agentIdentifier,"distributed_tracing")&&(n=(0,j.P_)(this.agentIdentifier).distributed_tracing),e.sameOrigin)t=!0;else if(n.allowed_origins instanceof Array)for(var r=0;r<n.allowed_origins.length;r++){var o=(0,Qe.e)(n.allowed_origins[r]);if(e.hostname===o.hostname&&e.protocol===o.protocol&&e.port===o.port){t=!0;break}}return t},t.isDtEnabled=function(){var e=(0,j.Mt)(this.agentIdentifier,"distributed_tracing");return!!e&&!!e.enabled},t.excludeNewrelicHeader=function(){var e=(0,j.Mt)(this.agentIdentifier,"distributed_tracing");return!!e&&!!e.exclude_newrelic_header},t.useNewrelicHeaderForCors=function(){var e=(0,j.Mt)(this.agentIdentifier,"distributed_tracing");return!!e&&!1!==e.cors_use_newrelic_header},t.useTraceContextHeadersForCors=function(){var e=(0,j.Mt)(this.agentIdentifier,"distributed_tracing");return!!e&&!!e.cors_use_tracecontext_headers},e}();function $e(e,t){return $e=Object.setPrototypeOf?Object.setPrototypeOf.bind():function(e,t){return e.__proto__=t,e},$e(e,t)}var et=["load","error","abort","timeout"],tt=et.length,nt=P.Y.REQ,rt=window.XMLHttpRequest,ot=function(t){var n,r;function o(n){var r;r=t.call(this,n)||this;var o=(0,U.O)(r.agentIdentifier);return!o.xhrWrappable||o.disabled?function(e){if(void 0===e)throw new ReferenceError("this hasn't been initialised - super() hasn't been called");return e}(r):(o.features.xhr=!0,r.dt=new Je(r.agentIdentifier),r.handler=function(e,t,n,o){return(0,h.p)(e,t,n,o,r.ee)},r.wrappedFetch=Ie(r.ee),He(r.ee),function(t,n,r,o){function i(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=O,n.ended=!1,n.xhrGuids={},n.lastSize=null,n.loadCaptureCalled=!1,n.params=this.params||{},n.metrics=this.metrics||{},t.addEventListener("load",(function(e){E(n,t)}),(0,e.m)(!1)),Ve.I&&(Ve.I>34||Ve.I<10)||t.addEventListener("progress",(function(e){n.lastSize=e.loaded}),(0,e.m)(!1))}function a(e){this.params={method:e[0]},x(this,e[1]),this.metrics={}}function c(e,n){var r=Xe(t);"xpid"in r&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",r.xpid);var i=o.generateTracePayload(this.parsedOrigin);if(i){var a=!1;i.newrelicHeader&&(n.setRequestHeader("newrelic",i.newrelicHeader),a=!0),i.traceContextParentHeader&&(n.setRequestHeader("traceparent",i.traceContextParentHeader),i.traceContextStateHeader&&n.setRequestHeader("tracestate",i.traceContextStateHeader),a=!0),a&&(this.dt=i)}}function u(t,r){var o=this.metrics,i=t[0],a=this;if(o&&i){var c=Ye(i);c&&(o.txSize=c)}this.startTime=(0,v.zO)(),this.listener=function(e){try{"abort"!==e.type||a.loadCaptureCalled||(a.params.aborted=!0),("load"!==e.type||a.called===a.totalCbs&&(a.onloadCalled||"function"!=typeof r.onload))&&a.end(r)}catch(e){try{n.emit("internal-error",[e])}catch(e){}}};for(var u=0;u<tt;u++)r.addEventListener(et[u],this.listener,(0,e.m)(!1))}function s(e,t,n){this.cbTime+=e,t?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}function f(e,t){var n=""+We(e)+!!t;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}function d(e,t){var n=""+We(e)+!!t;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}function l(){this.endTime=(0,v.zO)()}function p(e,t){t instanceof rt&&"load"===e[0]&&n.emit("xhr-load-added",[e[1],e[2]],t)}function h(e,t){t instanceof rt&&"load"===e[0]&&n.emit("xhr-load-removed",[e[1],e[2]],t)}function m(e,t,n){t instanceof rt&&("onload"===n&&(this.onload=!0),("load"===(e[0]&&e[0].type)||this.onload)&&(this.xhrCbStart=(0,v.zO)()))}function g(e,t){this.xhrCbStart&&n.emit("xhr-cb-time",[(0,v.zO)()-this.xhrCbStart,this.onload,t],t)}function y(e){var t,n=e[1]||{};"string"==typeof e[0]?t=e[0]:e[0]&&e[0].url?t=e[0].url:window.URL&&e[0]&&e[0]instanceof URL&&(t=e[0].href),t&&(this.parsedOrigin=(0,Qe.e)(t),this.sameOrigin=this.parsedOrigin.sameOrigin);var r=o.generateTracePayload(this.parsedOrigin);if(r&&(r.newrelicHeader||r.traceContextParentHeader))if("string"==typeof e[0]||window.URL&&e[0]&&e[0]instanceof URL){var i={};for(var a in n)i[a]=n[a];i.headers=new Headers(n.headers||{}),c(i.headers,r)&&(this.dt=r),e.length>1?e[1]=i:e.push(i)}else e[0]&&e[0].headers&&c(e[0].headers,r)&&(this.dt=r);function c(e,t){var n=!1;return t.newrelicHeader&&(e.set("newrelic",t.newrelicHeader),n=!0),t.traceContextParentHeader&&(e.set("traceparent",t.traceContextParentHeader),t.traceContextStateHeader&&e.set("tracestate",t.traceContextStateHeader),n=!0),n}}function b(e,t){this.params={},this.metrics={},this.startTime=(0,v.zO)(),this.dt=t,e.length>=1&&(this.target=e[0]),e.length>=2&&(this.opts=e[1]);var n,r=this.opts||{},o=this.target;"string"==typeof o?n=o:"object"==typeof o&&o instanceof nt?n=o.url:window.URL&&"object"==typeof o&&o instanceof URL&&(n=o.href),x(this,n);var i=(""+(o&&o instanceof nt&&o.method||r.method||"GET")).toUpperCase();this.params.method=i,this.txSize=Ye(r.body)||0}function w(e,t){var n;this.endTime=(0,v.zO)(),this.params||(this.params={}),this.params.status=t?t.status:0,"string"==typeof this.rxSize&&this.rxSize.length>0&&(n=+this.rxSize);var o={txSize:this.txSize,rxSize:n,duration:(0,v.zO)()-this.startTime};r("xhr",[this.params,o,this.startTime,this.endTime,"fetch"],this)}function O(e){var t=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var o=0;o<tt;o++)e.removeEventListener(et[o],this.listener,!1);t.aborted||(n.duration=(0,v.zO)()-this.startTime,this.loadCaptureCalled||4!==e.readyState?null==t.status&&(t.status=0):E(this,e),n.cbTime=this.cbTime,r("xhr",[t,n,this.startTime,this.endTime,"xhr"],this))}}function x(e,t){var n=(0,Qe.e)(t),r=e.params;r.hostname=n.hostname,r.port=n.port,r.protocol=n.protocol,r.host=n.hostname+":"+n.port,r.pathname=n.pathname,e.parsedOrigin=n,e.sameOrigin=n.sameOrigin}function E(e,t){e.params.status=t.status;var n=function(e,t){var n=e.responseType;return"json"===n&&null!==t?t:"arraybuffer"===n||"blob"===n||"json"===n?Ye(e.response):"text"===n||""===n||void 0===n?Ye(e.responseText):void 0}(t,e.lastSize);if(n&&(e.metrics.rxSize=n),e.sameOrigin){var r=t.getResponseHeader("X-NewRelic-App-Data");r&&(e.params.cat=r.split(", ").pop())}e.loadCaptureCalled=!0}n.on("new-xhr",i),n.on("open-xhr-start",a),n.on("open-xhr-end",c),n.on("send-xhr-start",u),n.on("xhr-cb-time",s),n.on("xhr-load-added",f),n.on("xhr-load-removed",d),n.on("xhr-resolved",l),n.on("addEventListener-end",p),n.on("removeEventListener-end",h),n.on("fn-end",g),n.on("fetch-before-start",y),n.on("fetch-start",b),n.on("fn-start",m),n.on("fetch-done",w)}(r.agentIdentifier,r.ee,r.handler,r.dt),r)}return r=t,(n=o).prototype=Object.create(r.prototype),n.prototype.constructor=n,$e(n,r),o}(y.W);var it=o(5098);function at(e,t){return at=Object.setPrototypeOf?Object.setPrototypeOf.bind():function(e,t){return e.__proto__=t,e},at(e,t)}var ct="addEventListener",ut="resourcetimingbufferfull",st="bstResource",ft="-start",dt="-end",lt="fn-start",pt="fn-end",ht="bstTimer",vt="pushState",mt=P.Y.EV,gt=function(t){var n,r;function o(n){var r;if(r=t.call(this,n)||this,!(window.performance&&window.performance.timing&&window.performance.getEntriesByType))return function(e){if(void 0===e)throw new ReferenceError("this hasn't been initialised - super() hasn't been called");return e}(r);(0,U.O)(r.agentIdentifier).features.stn=!0;var o=r.ee;function i(e){if((0,h.p)(st,[window.performance.getEntriesByType("resource")],void 0,void 0,o),window.performance.clearResourceTimings)try{window.performance.removeEventListener(ut,i,!1)}catch(e){}else try{window.performance.removeEventListener("webkitresourcetimingbufferfull",i,!1)}catch(e){}}return r.timerEE=Ae(r.ee),r.rafEE=ke(r.ee),Re(r.ee),Se(r.ee),r.ee.on(lt,(function(e,t){e[0]instanceof mt&&(this.bstStart=(0,v.zO)())})),r.ee.on(pt,(function(e,t){var n=e[0];n instanceof mt&&(0,h.p)("bst",[n,t,this.bstStart,(0,v.zO)()],void 0,void 0,o)})),r.timerEE.on(lt,(function(e,t,n){this.bstStart=(0,v.zO)(),this.bstType=n})),r.timerEE.on(pt,(function(e,t){(0,h.p)(ht,[t,this.bstStart,(0,v.zO)(),this.bstType],void 0,void 0,o)})),r.rafEE.on(lt,(function(){this.bstStart=(0,v.zO)()})),r.rafEE.on(pt,(function(e,t){(0,h.p)(ht,[t,this.bstStart,(0,v.zO)(),"requestAnimationFrame"],void 0,void 0,o)})),r.ee.on(vt+ft,(function(e){this.time=(0,v.zO)(),this.startPath=location.pathname+location.hash})),r.ee.on(vt+dt,(function(e){(0,h.p)("bstHist",[location.pathname+location.hash,this.startPath,this.time],void 0,void 0,o)})),(0,it.W)()?((0,h.p)(st,[window.performance.getEntriesByType("resource")],void 0,void 0,o),function(){var e=new PerformanceObserver((function(e,t){var n=e.getEntries();(0,h.p)(st,[n],void 0,void 0,o)}));try{e.observe({entryTypes:["resource"]})}catch(e){}}()):ct in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener(ut,i,(0,e.m)(!1)):window.performance.addEventListener("webkitresourcetimingbufferfull",i,(0,e.m)(!1))),document.addEventListener("scroll",r.noOp,(0,e.m)(!1)),document.addEventListener("keypress",r.noOp,(0,e.m)(!1)),document.addEventListener("click",r.noOp,(0,e.m)(!1)),r}return r=t,(n=o).prototype=Object.create(r.prototype),n.prototype.constructor=n,at(n,r),o.prototype.noOp=function(e){},o}(y.W);function yt(e,t){return yt=Object.setPrototypeOf?Object.setPrototypeOf.bind():function(e,t){return e.__proto__=t,e},yt(e,t)}var bt=function(e){var t,n;function r(t){var n;return n=e.call(this,t)||this,(0,U.O)(n.agentIdentifier).features.ins=!0,n}return n=e,(t=r).prototype=Object.create(n.prototype),t.prototype.constructor=t,yt(t,n),r}(y.W);function wt(e,t){return wt=Object.setPrototypeOf?Object.setPrototypeOf.bind():function(e,t){return e.__proto__=t,e},wt(e,t)}var Ot="fn-start",xt="fn-end",Et="cb-start",jt="cb-end",Pt=window,_t=Pt.location,Lt=function(t){var n,r;function o(n){var r;r=t.call(this,n)||this;var o=(0,U.O)(r.agentIdentifier);if(!Pt.addEventListener||!o.xhrWrappable||o.disabled)return function(e){if(void 0===e)throw new ReferenceError("this hasn't been initialised - super() hasn't been called");return e}(r);o.features.spa=!0;var i,a=0,c=r.ee.get("tracer"),u=Oe(r.ee),s=function(e){return Pe(e)}(r.ee),f=Se(r.ee),d=Ae(r.ee),l=He(r.ee),p=Ie(r.ee),h=Re(r.ee),m=function(e){return Ee(e)}(r.ee);function g(e,t){h.emit("newURL",[""+_t,t])}function y(){a++,i=_t.hash,this["fn-start"]=(0,v.zO)()}function b(){a--,_t.hash!==i&&g(0,!0);var e=(0,v.zO)();this.jsTime=~~this.jsTime+e-this["fn-start"],this["fn-end"]=e}function w(e,t){e.on(t,(function(){this[t]=(0,v.zO)()}))}return r.ee.on(Ot,y),s.on(Et,y),u.on(Et,y),r.ee.on(xt,b),s.on(jt,b),u.on(jt,b),r.ee.buffer([Ot,xt,"xhr-resolved"]),f.buffer([Ot]),d.buffer(["setTimeout-end","clearTimeout-start",Ot]),l.buffer([Ot,"new-xhr","send-xhr-start"]),p.buffer(["fetch-start","fetch-done","fetch-body-start","fetch-body-end"]),h.buffer(["newURL"]),m.buffer([Ot]),s.buffer(["propagate",Et,jt,"executor-err","resolve-start"]),c.buffer([Ot,"no-fn-start"]),u.buffer(["new-jsonp","cb-start","jsonp-error","jsonp-end"]),w(p,"fetch-start"),w(p,"fetch-done"),w(u,"new-jsonp"),w(u,"jsonp-end"),w(u,"cb-start"),h.on("pushState-end",g),h.on("replaceState-end",g),Pt.addEventListener("hashchange",g,(0,e.m)(!0)),Pt.addEventListener("load",g,(0,e.m)(!0)),Pt.addEventListener("popstate",(function(){g(0,a>1)}),(0,e.m)(!0)),r}return r=t,(n=o).prototype=Object.create(r.prototype),n.prototype.constructor=n,wt(n,r),o}(y.W),Tt=o(847),Ct=o(8539),St=o.n(Ct),It=o(441);var Rt=!1;new Promise((function(e,t){if(Rt)e(Rt);else{var n=(0,Be.gG)();try{(0,It.L)(p.Z,n.info),(0,j.Dg)(p.Z,n.init),function(e,t){if(!e)throw new Error("All loader-config objects require an agent identifier!");Ue[e]=new Fe.I(t,Ge),(0,Be.Qy)(e,Ue[e],"loader_config")}(p.Z,n.loader_config),(0,U.s)(p.Z,{}),function(e){var t=(0,Be.fP)(),n=u.ee.get(e),r=n.get("tracer"),o="api-",i="api-ixn-";function a(){}(0,V.D)(["setErrorHandler","finished","addToTrace","inlineHit","addRelease"],(function(e,n){t[n]=s(o,n,!0,"api")})),t.addPageAction=s(o,"addPageAction",!0),t.setCurrentRouteName=s(o,"routeName",!0),t.setPageViewName=function(t,n){if("string"==typeof t)return"/"!==t.charAt(0)&&(t="/"+t),(0,U.O)(e).customTransaction=(n||"http://custom.transaction")+t,s(o,"setPageViewName",!0,"api")()},t.setCustomAttribute=function(t,n){var r,i=(0,It.C)(e);return(0,It.L)(e,Object.assign({},i,{jsAttributes:Object.assign({},i.jsAttributes,(r={},r[t]=n,r))})),s(o,"setCustomAttribute",!0,"api")()},t.interaction=function(){return(new a).get()};var c=a.prototype={createTracer:function(e,t){var o={},i=this,a="function"==typeof t;return(0,h.p)("api-ixn-tracer",[(0,v.zO)(),e,o],i,void 0,n),function(){if(r.emit((a?"":"no-")+"fn-start",[(0,v.zO)(),i,a],o),a)try{return t.apply(this,arguments)}catch(e){throw r.emit("fn-err",[arguments,this,"string"==typeof e?new Error(e):e],o),e}finally{r.emit("fn-end",[(0,v.zO)()],o)}}}};function s(e,t,r,o){return function(){return(0,h.p)("record-supportability",["API/"+t+"/called"],void 0,void 0,n),(0,h.p)(e+t,[(0,v.zO)()].concat(St()(arguments)),r?null:this,o,n),r?void 0:this}}(0,V.D)("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),(function(e,t){c[t]=s(i,t)})),t.noticeError=function(e,t){"string"==typeof e&&(e=new Error(e)),(0,h.p)("record-supportability",["API/noticeError/called"],void 0,void 0,n),(0,h.p)("err",[e,(0,v.zO)(),!1,t],void 0,void 0,n)}}(p.Z),e(Rt=!0)}catch(e){t(e)}}})).then((function(){var e,t,n,r=(0,Tt.K)(p.Z);r.page_view_event&&new E(p.Z),r.page_view_timing&&new L(p.Z),r.metrics&&new G(p.Z),r.jserrors&&new Me(p.Z),r.ajax&&new ot(p.Z),r.session_trace&&new gt(p.Z),r.page_action&&new bt(p.Z),r.spa&&new Lt(p.Z),e="spa",t?setTimeout((function(){return l(e)}),n||1e3):a((function(){return l(e)}))}))}(),i}()}));</script>
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<base href="https://www.infopedia.pt/"><!--[if lte IE 6]></base><![endif]-->
+<title>saudade | Dicionário Infopédia de Português para Estrangeiros</title>
+<meta name="description" content="Definição ou significado de saudade no Dicionário Infopédia de Português para Estrangeiros" />
+<link rel="canonical" href="https://www.infopedia.pt/dicionarios/portugues-estrangeiros/saudade" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#ffffff">
+<meta name="msapplication-TileColor" content="#fda100">
+<meta name="theme-color" content="#ffffff">
+<meta name="author" content="Infopédia" />
+<meta name="HandheldFriendly" content="True">
+<meta name="format-detection" content="telephone=no">
+
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+
+<meta property="og:locale" content="pt_PT" />
+<meta property="place:location:latitude" content="41.145806" />
+<meta property="place:location:longitude" content="-8.622599" />
+<meta property="business:contact_data:street_address" content="Rua da Restauração, 365" />
+<meta property="business:contact_data:locality" content="Porto" />
+<meta property="business:contact_data:postal_code" content="4099-023" />
+<meta property="business:contact_data:country_name" content="Portugal" />
+<meta property="business:contact_data:email" content="" />
+<meta property="business:contact_data:phone_number" content="00351 226 088 300" />
+<meta property="business:contact_data:website" content="https://www.infopedia.pt/" />
+
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@PortoEditora" />
+<meta name="twitter:title" content="saudade | Dicionário Infopédia de Português para Estrangeiros">
+<meta name="twitter:description" content="Definição ou significado de saudade no Dicionário Infopédia de Português para Estrangeiros" />
+<meta name="twitter:creator" content="@PortoEditora" />
+<meta name="twitter:image" content="https://www.infopedia.pt/images/logo-social-250x250.png" />
+<meta name="twitter:image:alt" content="Logo da Infopédia" />
+<meta name="twitter:domain" content="https://www.infopedia.pt/" />
+
+<meta property="og:url" content="https://www.infopedia.pt/dicionarios/portugues-estrangeiros/saudade" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="saudade | Dicionário Infopédia de Português para Estrangeiros" />
+<meta property="og:description" content="Definição ou significado de saudade no Dicionário Infopédia de Português para Estrangeiros" />
+<meta property="og:image" content="https://www.infopedia.pt/images/logo-social-250x250.png" />
+<meta property="og:image:alt" content="Logo da Infopédia" />
+<meta property="og:site_name" content="infopedia.pt - Porto Editora" />
+
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+
+<script defer src="https://www.youtube.com/iframe_api"></script>
+
+<script>(function(){/*
+
+ Copyright The Closure Library Authors.
+ SPDX-License-Identifier: Apache-2.0
+*/
+'use strict';var g=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this||self,m=/^[w+/_-]+[=]{0,2}$/,p=null,q=function(){},r=function(a){var b=typeof a;if("object"==b)if(a){if(a instanceof Array)return"array";if(a instanceof Object)return b;var c=Object.prototype.toString.call(a);if("[object Window]"==c)return"object";if("[object Array]"==c||"number"==typeof a.length&&"undefined"!=typeof a.splice&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("splice"))return"array";
+if("[object Function]"==c||"undefined"!=typeof a.call&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("call"))return"function"}else return"null";else if("function"==b&&"undefined"==typeof a.call)return"object";return b},u=function(a,b){function c(){}c.prototype=b.prototype;a.prototype=new c;a.prototype.constructor=a};var v=function(a,b){Object.defineProperty(l,a,{configurable:!1,get:function(){return b},set:q})};var y=function(a,b){this.b=a===w&&b||"";this.a=x},x={},w={};var aa=function(a,b){a.src=b instanceof y&&b.constructor===y&&b.a===x?b.b:"type_error:TrustedResourceUrl";if(null===p)b:{b=l.document;if((b=b.querySelector&&b.querySelector("script[nonce]"))&&(b=b.nonce||b.getAttribute("nonce"))&&m.test(b)){p=b;break b}p=""}b=p;b&&a.setAttribute("nonce",b)};var z=function(){return Math.floor(2147483648*Math.random()).toString(36)+Math.abs(Math.floor(2147483648*Math.random())^+new Date).toString(36)};var A=function(a,b){b=String(b);"application/xhtml+xml"===a.contentType&&(b=b.toLowerCase());return a.createElement(b)},B=function(a){this.a=a||l.document||document};B.prototype.appendChild=function(a,b){a.appendChild(b)};var C=function(a,b,c,d,e,f){try{var k=a.a,h=A(a.a,"SCRIPT");h.async=!0;aa(h,b);k.head.appendChild(h);h.addEventListener("load",function(){e();d&&k.head.removeChild(h)});h.addEventListener("error",function(){0<c?C(a,b,c-1,d,e,f):(d&&k.head.removeChild(h),f())})}catch(n){f()}};var ba=l.atob("aHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vaW1hZ2VzL2ljb25zL21hdGVyaWFsL3N5c3RlbS8xeC93YXJuaW5nX2FtYmVyXzI0ZHAucG5n"),ca=l.atob("WW91IGFyZSBzZWVpbmcgdGhpcyBtZXNzYWdlIGJlY2F1c2UgYWQgb3Igc2NyaXB0IGJsb2NraW5nIHNvZnR3YXJlIGlzIGludGVyZmVyaW5nIHdpdGggdGhpcyBwYWdlLg=="),da=l.atob("RGlzYWJsZSBhbnkgYWQgb3Igc2NyaXB0IGJsb2NraW5nIHNvZnR3YXJlLCB0aGVuIHJlbG9hZCB0aGlzIHBhZ2Uu"),ea=function(a,b,c){this.b=a;this.f=new B(this.b);this.a=null;this.c=[];this.g=!1;this.i=b;this.h=c},F=function(a){if(a.b.body&&!a.g){var b=
+function(){D(a);l.setTimeout(function(){return E(a,3)},50)};C(a.f,a.i,2,!0,function(){l[a.h]||b()},b);a.g=!0}},D=function(a){for(var b=G(1,5),c=0;c<b;c++){var d=H(a);a.b.body.appendChild(d);a.c.push(d)}b=H(a);b.style.bottom="0";b.style.left="0";b.style.position="fixed";b.style.width=G(100,110).toString()+"%";b.style.zIndex=G(2147483544,2147483644).toString();b.style["background-color"]=I(249,259,242,252,219,229);b.style["box-shadow"]="0 0 12px #888";b.style.color=I(0,10,0,10,0,10);b.style.display=
+"flex";b.style["justify-content"]="center";b.style["font-family"]="Roboto, Arial";c=H(a);c.style.width=G(80,85).toString()+"%";c.style.maxWidth=G(750,775).toString()+"px";c.style.margin="24px";c.style.display="flex";c.style["align-items"]="flex-start";c.style["justify-content"]="center";d=A(a.f.a,"IMG");d.className=z();d.src=ba;d.style.height="24px";d.style.width="24px";d.style["padding-right"]="16px";var e=H(a),f=H(a);f.style["font-weight"]="bold";f.textContent=ca;var k=H(a);k.textContent=da;J(a,
+e,f);J(a,e,k);J(a,c,d);J(a,c,e);J(a,b,c);a.a=b;a.b.body.appendChild(a.a);b=G(1,5);for(c=0;c<b;c++)d=H(a),a.b.body.appendChild(d),a.c.push(d)},J=function(a,b,c){for(var d=G(1,5),e=0;e<d;e++){var f=H(a);b.appendChild(f)}b.appendChild(c);c=G(1,5);for(d=0;d<c;d++)e=H(a),b.appendChild(e)},G=function(a,b){return Math.floor(a+Math.random()*(b-a))},I=function(a,b,c,d,e,f){return"rgb("+G(Math.max(a,0),Math.min(b,255)).toString()+","+G(Math.max(c,0),Math.min(d,255)).toString()+","+G(Math.max(e,0),Math.min(f,
+255)).toString()+")"},H=function(a){a=A(a.f.a,"DIV");a.className=z();return a},E=function(a,b){0>=b||null!=a.a&&0!=a.a.offsetHeight&&0!=a.a.offsetWidth||(fa(a),D(a),l.setTimeout(function(){return E(a,b-1)},50))},fa=function(a){var b=a.c;var c="undefined"!=typeof Symbol&&Symbol.iterator&&b[Symbol.iterator];b=c?c.call(b):{next:g(b)};for(c=b.next();!c.done;c=b.next())(c=c.value)&&c.parentNode&&c.parentNode.removeChild(c);a.c=[];(b=a.a)&&b.parentNode&&b.parentNode.removeChild(b);a.a=null};var ia=function(a,b,c,d,e){var f=ha(c),k=function(n){n.appendChild(f);l.setTimeout(function(){f?(0!==f.offsetHeight&&0!==f.offsetWidth?b():a(),f.parentNode&&f.parentNode.removeChild(f)):a()},d)},h=function(n){document.body?k(document.body):0<n?l.setTimeout(function(){h(n-1)},e):b()};h(3)},ha=function(a){var b=document.createElement("div");b.className=a;b.style.width="1px";b.style.height="1px";b.style.position="absolute";b.style.left="-10000px";b.style.top="-10000px";b.style.zIndex="-10000";return b};var K={},L=null;var M=function(){},N="function"==typeof Uint8Array,O=function(a,b){a.b=null;b||(b=[]);a.j=void 0;a.f=-1;a.a=b;a:{if(b=a.a.length){--b;var c=a.a[b];if(!(null===c||"object"!=typeof c||Array.isArray(c)||N&&c instanceof Uint8Array)){a.g=b-a.f;a.c=c;break a}}a.g=Number.MAX_VALUE}a.i={}},P=[],Q=function(a,b){if(b<a.g){b+=a.f;var c=a.a[b];return c===P?a.a[b]=[]:c}if(a.c)return c=a.c[b],c===P?a.c[b]=[]:c},R=function(a,b,c){a.b||(a.b={});if(!a.b[c]){var d=Q(a,c);d&&(a.b[c]=new b(d))}return a.b[c]};
+M.prototype.h=N?function(){var a=Uint8Array.prototype.toJSON;Uint8Array.prototype.toJSON=function(){var b;void 0===b&&(b=0);if(!L){L={};for(var c="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789".split(""),d=["+/=","+/","-_=","-_.","-_"],e=0;5>e;e++){var f=c.concat(d[e].split(""));K[e]=f;for(var k=0;k<f.length;k++){var h=f[k];void 0===L[h]&&(L[h]=k)}}}b=K[b];c=[];for(d=0;d<this.length;d+=3){var n=this[d],t=(e=d+1<this.length)?this[d+1]:0;h=(f=d+2<this.length)?this[d+2]:0;k=n>>2;n=(n&
+3)<<4|t>>4;t=(t&15)<<2|h>>6;h&=63;f||(h=64,e||(t=64));c.push(b[k],b[n],b[t]||"",b[h]||"")}return c.join("")};try{return JSON.stringify(this.a&&this.a,S)}finally{Uint8Array.prototype.toJSON=a}}:function(){return JSON.stringify(this.a&&this.a,S)};var S=function(a,b){return"number"!==typeof b||!isNaN(b)&&Infinity!==b&&-Infinity!==b?b:String(b)};M.prototype.toString=function(){return this.a.toString()};var T=function(a){O(this,a)};u(T,M);var U=function(a){O(this,a)};u(U,M);var ja=function(a,b){this.c=new B(a);var c=R(b,T,5);c=new y(w,Q(c,4)||"");this.b=new ea(a,c,Q(b,4));this.a=b},ka=function(a,b,c,d){b=new T(b?JSON.parse(b):null);b=new y(w,Q(b,4)||"");C(a.c,b,3,!1,c,function(){ia(function(){F(a.b);d(!1)},function(){d(!0)},Q(a.a,2),Q(a.a,3),Q(a.a,1))})};var la=function(a,b){V(a,"internal_api_load_with_sb",function(c,d,e){ka(b,c,d,e)});V(a,"internal_api_sb",function(){F(b.b)})},V=function(a,b,c){a=l.btoa(a+b);v(a,c)},W=function(a,b,c){for(var d=[],e=2;e<arguments.length;++e)d[e-2]=arguments[e];e=l.btoa(a+b);e=l[e];if("function"==r(e))e.apply(null,d);else throw Error("API not exported.");};var X=function(a){O(this,a)};u(X,M);var Y=function(a){this.h=window;this.a=a;this.b=Q(this.a,1);this.f=R(this.a,T,2);this.g=R(this.a,U,3);this.c=!1};Y.prototype.start=function(){ma();var a=new ja(this.h.document,this.g);la(this.b,a);na(this)};
+var ma=function(){var a=function(){if(!l.frames.googlefcPresent)if(document.body){var b=document.createElement("iframe");b.style.display="none";b.style.width="0px";b.style.height="0px";b.style.border="none";b.style.zIndex="-1000";b.style.left="-1000px";b.style.top="-1000px";b.name="googlefcPresent";document.body.appendChild(b)}else l.setTimeout(a,5)};a()},na=function(a){var b=Date.now();W(a.b,"internal_api_load_with_sb",a.f.h(),function(){var c;var d=a.b,e=l[l.btoa(d+"loader_js")];if(e){e=l.atob(e);
+e=parseInt(e,10);d=l.btoa(d+"loader_js").split(".");var f=l;d[0]in f||"undefined"==typeof f.execScript||f.execScript("var "+d[0]);for(;d.length&&(c=d.shift());)d.length?f[c]&&f[c]!==Object.prototype[c]?f=f[c]:f=f[c]={}:f[c]=null;c=Math.abs(b-e);c=1728E5>c?0:c}else c=-1;0!=c&&(W(a.b,"internal_api_sb"),Z(a,Q(a.a,6)))},function(c){Z(a,c?Q(a.a,4):Q(a.a,5))})},Z=function(a,b){a.c||(a.c=!0,a=new l.XMLHttpRequest,a.open("GET",b,!0),a.send())};(function(a,b){l[a]=function(c){for(var d=[],e=0;e<arguments.length;++e)d[e-0]=arguments[e];l[a]=q;b.apply(null,d)}})("__d3lUW8vwsKlB__",function(a){"function"==typeof window.atob&&(a=window.atob(a),a=new X(a?JSON.parse(a):null),(new Y(a)).start())});}).call(this);
+
+window.__d3lUW8vwsKlB__("WyI3NGU3ZjYxNDNlYmJhNmQ0IixbbnVsbCxudWxsLG51bGwsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2YvQUdTS1d4VXdyQVA4OGU3eFMxX1RWenFWcENVRVpMa25uZDViUW94Y1RUNUFkZ2lLbmE5b0duWU5jY3c4Vm1fVU9wU1hoelpRUE14Ui1ybTJ1Qm0wenhKR0czY1x1MDAzZCJdCixbMjAsImRpdi1ncHQtYWQiLDEwMCwiTnpSbE4yWTJNVFF6WldKaVlUWmtOQVx1MDAzZFx1MDAzZCIsW251bGwsbnVsbCxudWxsLCJodHRwczovL3d3dy5nc3RhdGljLmNvbS8wZW1uL2YvcC83NGU3ZjYxNDNlYmJhNmQ0LmpzP3VzcXBcdTAwM2RDQVEiXQpdCiwiaHR0cHM6Ly9mdW5kaW5nY2hvaWNlc21lc3NhZ2VzLmdvb2dsZS5jb20vbC9BR1NLV3hXYms0enBJcktkTi1tNV9GeUxxLWpkUG9vZW1CZ0R3MEN3MXpIOFhDSnVfdkdxYnVZdUZGZUpnN2FMWkZyV0UxUE1LYU5SV2R4SFlzMTVkc0J1P2FiXHUwMDNkMSIsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2wvQUdTS1d4VWlPdHctZExKZlhvZXZZNHl5c0txN1VHTWFHTTZ5NXZBeVVrcGlCM3VMVUxDQ0YzaEJiWWdFbG1VTmRLT05POGExRDdXN1ZoaUYzRnNRT2EybD9hYlx1MDAzZDJcdTAwMjZzYmZcdTAwM2QxIiwiaHR0cHM6Ly9mdW5kaW5nY2hvaWNlc21lc3NhZ2VzLmdvb2dsZS5jb20vbC9BR1NLV3hVMmcwUjM0aTc0VXFra2xCRkV4OFdCY05fU21YaVJMOXdHZmVONEM2TmtLM29rOEZSNzBvRWxPMERYMzlyTUUxQlpEbnpVazNYcWVtWFBDRkYtP3NiZlx1MDAzZDIiXQo=");
+</script>
+<link rel="preconnect" href="//fonts.gstatic.com">
+<link href="//fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="/klaro/klaro-pe.css" />
+<script defer type="application/javascript" src="/klaro/areas"></script>
+<script defer type="application/javascript" src="/klaro/config"></script>
+<script defer data-config="klaroConfig" type="application/javascript" src="/klaro/klaro-no-css.js">
+</script>
+<script defer type="application/javascript" src="/klaro/klaro-pe.js"></script>
+
+
+<script src="https://www.google.com/recaptcha/api.js?render=6LfdDsAUAAAAABRNnnG1QhcOaxgokW6oESjG7QbF"></script>
+<link rel="stylesheet" type="text/css" href="/css/common/bootstrap.min.css?m=1643215546" />
+<link rel="stylesheet" type="text/css" href="/css/infopedia.css?m=1671118017" />
+<link rel="stylesheet" type="text/css" href="/css/infopedia.labels.css?m=1643215546" />
+<link rel="stylesheet" type="text/css" href="/css/recommend.css?m=1666865428" />
+<link rel="stylesheet" type="text/css" href="/slick/slick.css" />
+<link rel="stylesheet" type="text/css" href="/slick/slick-theme.css" />
+<link rel="stylesheet" type="text/css" href="/css/infopedia-widgets.css?m=1667902040" />
+<link rel="stylesheet" type="text/css" href="/css/comments.css?m=1666865428" />
+<link rel="stylesheet" type="text/css" href="/dicionarios/css/dictionary.css" />
+<link rel="stylesheet" type="text/css" href="/css/infopedia.carousel.css?m=1654529795" />
+<link rel="stylesheet" type="text/css" href="/css/topics-widget.css?m=1660656464" />
+<link rel="stylesheet" type="text/css" href="/css/convguides-widget.css?m=1660205131" />
+</head>
+<body class="DictionaryPage area-dictionaries" page="pt\portoeditora\infopedia\DictionaryLandingPage">
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NJZCVTB"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<nav class="navbar fixed-top">
+<div class="menu-container">
+<div class="float-left menu-container-cell header-logo">
+<a href="/"><img alt="infopédia" src="/images/logo.svg" /></a>
+</div>
+<div class="float-right menu-container-cell login">
+<a href="login?ru=dicionarios/portugues-estrangeiros/saudade">
+<div><img src="/images/menuLoginOff.svg" /><span>Entrar</span></div>
+</a>
+</div>
+<div class="float-right menu-container-cell dicio">
+<ul class="header-menu">
+<li>
+<a href="/dicionarios">
+<img src="/images/menuDictionariesOn.svg" /><span class="active">Dicionários</span>
+</a>
+</li>
+<li>
+<div class="good-portuguese-padding"></div>
+<a href="/bom-portugues/duvidas-da-lingua">
+<div><img src="/images/menuGoodPortugueseOff.svg" /><span>Bom Português</span></div>
+</a>
+</li>
+<li>
+<a href="/jogos">
+<div><img src="/images/menuGamesOff.svg" /><span>Jogos</span></div>
+</a>
+</li>
+<li>
+<div class="books-authors-padding"></div>
+<a href="/livros-autores">
+<div><img src="/images/menuBooksAuthorsOff.svg" /><span>Livros e autores</span></div>
+</a>
+</li>
+<li>
+<a href="/recursos">
+<div><img src="/images/menuResourcesOff.svg" /><span>Recursos</span></div>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+<main role="main" class="container-fluid dictionary">
+<div class="nav-container">
+
+<ul id="seletor-grupo" class="d-none d-lg-table seletor-grupo">
+<li data-grupo="portugues" data-dicio-title="Português para Estrangeiros" data-dicio-lang="pt" data-dicio-uri="portugues-estrangeiros" class="ativo">Língua portuguesa</li>
+<li data-grupo="bilingues" data-dicio-title="Inglês - Português" data-dicio-lang="en" data-dicio-uri="ingles-portugues">Bilingues</li>
+<li data-grupo="verbos" data-dicio-title="Portugueses" data-dicio-lang="pt" data-dicio-uri="verbos-portugueses">Verbos</li>
+</ul>
+
+<div id="search-dicio-container" class="search-dicio-container">
+
+<div id="search-container" class="search-container">
+<div class="dicio-title" title="Português para Estrangeiros">
+<div class="text-cell">
+<div class="d-none d-lg-block desktop">Português para Estrangeiros</div>
+<div class="d-block d-lg-none mobile" style="padding-left: 23px; background: no-repeat top left url('/images/bandeira-pt.svg'); background-size: 17px;">Português para Estrangeiros</div>
+</div>
+<div class="icon-cell"><img src="/images/seta_down.svg" /></div>
+</div>
+<div class="search-bar">
+<form class="form-search-bar" action="/dicionarios/portugues-estrangeiros" method="post">
+<input id="search-bar-input" name="entrada" class="search-bar-input" maxlength="100" type="text" autocomplete="off" title="pesquisar" placeholder="pesquisar" value="saudade" autofocus="">
+<input id="search-bar-express" class="search-bar-express" name="express" type="hidden" />
+</form>
+<div class="search-bar-autocomplete" style="display: none;">
+<ul />
+</div>
+</div>
+<div id="search-bar-mic-button" class="search-bar-mic-button" data-status="off" title="Reconhecimento de voz não suportado neste browser">
+<div class="search-bar-mic-button-logo"></div>
+</div>
+<div id="search-bar-lupa" class="search-bar-lupa"><img src="/images/bt_pesquisar.svg" /></div>
+</div>
+
+<div id="dicio-list-container" class="dicio-list-container">
+
+<ul id="seletor-grupo-mobile" class="d-block d-lg-none seletor-grupo">
+<li data-grupo="portugues" data-dicio-title="Português para Estrangeiros" data-dicio-lang="pt" data-dicio-uri="portugues-estrangeiros" class="ativo">Língua portuguesa</li>
+<li data-grupo="bilingues" data-dicio-title="Inglês - Português" data-dicio-lang="en" data-dicio-uri="ingles-portugues">Bilingues</li>
+<li data-grupo="verbos" data-dicio-title="Portugueses" data-dicio-lang="pt" data-dicio-uri="verbos-portugueses">Verbos</li>
+</ul>
+
+<div class="dicio-container" data-grupo="portugues" style="display: none;">
+<div class="col">
+<div class="portugues-bloco">
+<div><a href="/dicionarios/lingua-portuguesa">Língua Portuguesa</a></div>
+</div>
+<div class="portugues-bloco">
+<div><a href="/dicionarios/lingua-gestual">Língua Gestual Portuguesa</a></div>
+</div>
+<div class="portugues-bloco">
+<div><a href="/dicionarios/siglas-abreviaturas">Siglas e Abreviaturas</a></div>
+</div>
+<div class="portugues-bloco">
+<div><a href="/dicionarios/toponimia">Toponímia</a></div>
+</div>
+<div class="portugues-bloco">
+<div><a href="/dicionarios/antroponimia">Nomes Próprios (Antroponímia)</a></div>
+</div>
+<div class="portugues-bloco">
+<div><a href="/dicionarios/termos-medicos">Termos Médicos</a></div>
+</div>
+</div><div class="col">
+<div class="portugues-bloco">
+<div><a href="/dicionarios/vocabulario">Vocabulário Ortográfico</a></div>
+</div>
+<div class="portugues-bloco">
+<div><a href="/dicionarios/locucoes-expressoes">Locuções Latinas e Expressões Estrangeiras</a></div>
+</div>
+<div class="portugues-bloco">
+<div><a href="/dicionarios/lingua-portuguesa-aao">Língua Portuguesa sem Acordo</a></div>
+</div>
+<div class="portugues-bloco">
+<div><a href="/dicionarios/basico-ilustrado">Básico Ilustrado</a></div>
+</div>
+<div class="portugues-bloco">
+<div class="ativo"><a href="/dicionarios/portugues-estrangeiros">Português para Estrangeiros</a></div>
+</div>
+</div>
+</div>
+<div class="dicio-container" data-grupo="bilingues" style="display: none;">
+<div class="col">
+<div class="bilingues-bloco">
+<div class="bilingues-bloco-lang"><img src="/images/bandeira-en.svg" /></div>
+<div class="bilingues-bloco-dicios">
+<div class="ativo"><a href="/dicionarios/ingles-portugues">Inglês - Português</a></div>
+<div><a href="/dicionarios/portugues-ingles">Português - Inglês</a></div>
+</div>
+</div>
+<div class="bilingues-bloco">
+<div class="bilingues-bloco-lang"><img src="/images/bandeira-fr.svg" /></div>
+<div class="bilingues-bloco-dicios">
+<div><a href="/dicionarios/frances-portugues">Francês - Português</a></div>
+<div><a href="/dicionarios/portugues-frances">Português - Francês</a></div>
+</div>
+</div>
+<div class="bilingues-bloco">
+<div class="bilingues-bloco-lang"><img src="/images/bandeira-es.svg" /></div>
+<div class="bilingues-bloco-dicios">
+<div><a href="/dicionarios/espanhol-portugues">Espanhol - Português</a></div>
+<div><a href="/dicionarios/portugues-espanhol">Português - Espanhol</a></div>
+</div>
+</div>
+<div class="bilingues-bloco">
+<div class="bilingues-bloco-lang"><img src="/images/bandeira-al.svg" /></div>
+<div class="bilingues-bloco-dicios">
+<div><a href="/dicionarios/alemao-portugues">Alemão - Português </a></div>
+<div><a href="/dicionarios/portugues-alemao">Português - Alemão</a></div>
+</div>
+</div>
+<div class="bilingues-bloco">
+<div class="bilingues-bloco-lang"><img src="/images/bandeira-it.svg" /></div>
+<div class="bilingues-bloco-dicios">
+<div><a href="/dicionarios/italiano-portugues">Italiano - Português</a></div>
+<div><a href="/dicionarios/portugues-italiano">Português - Italiano</a></div>
+</div>
+</div>
+</div><div class="col">
+<div class="bilingues-bloco">
+<div class="bilingues-bloco-lang"><img src="/images/bandeira-nl.svg" /></div>
+<div class="bilingues-bloco-dicios">
+<div><a href="/dicionarios/neerlandes-portugues">Neerlandês - Português</a></div>
+<div><a href="/dicionarios/portugues-neerlandes">Português - Neerlandês</a></div>
+</div>
+</div>
+<div class="bilingues-bloco">
+<div class="bilingues-bloco-lang"><img src="/images/bandeira-gr.svg" /></div>
+<div class="bilingues-bloco-dicios">
+<div><a href="/dicionarios/grego-portugues">Grego - Português</a></div>
+<div><a href="/dicionarios/portugues-grego">Português - Grego</a></div>
+</div>
+</div>
+<div class="bilingues-bloco">
+<div class="bilingues-bloco-lang"><img src="/images/bandeira-ch.svg" /></div>
+<div class="bilingues-bloco-dicios">
+<div><a href="/dicionarios/chines-portugues">Chinês - Português</a></div>
+<div><a href="/dicionarios/portugues-chines">Português - Chinês</a></div>
+</div>
+</div>
+<div class="bilingues-bloco">
+<div class="bilingues-bloco-lang"><img src="/images/bandeira-tl.svg" /></div>
+<div class="bilingues-bloco-dicios">
+<div><a href="/dicionarios/tetum-portugues">Tétum - Português</a></div>
+<div><a href="/dicionarios/portugues-tetum">Português - Tétum</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="dicio-container" data-grupo="verbos" style="display: none;">
+<div class="col">
+<div class="ativo"><a href="/dicionarios/verbos-portugueses"><img src="/images/bandeira-pt.svg" />Portugueses</a></div>
+<div><a href="/dicionarios/verbos-ingleses"><img src="/images/bandeira-en.svg" />Ingleses</a></div>
+<div><a href="/dicionarios/verbos-franceses"><img src="/images/bandeira-fr.svg" />Franceses</a></div>
+</div><div class="col">
+<div><a href="/dicionarios/verbos-espanhois"><img src="/images/bandeira-es.svg" />Espanhóis</a></div>
+<div><a href="/dicionarios/verbos-italianos"><img src="/images/bandeira-it.svg" />Italianos</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="klaro-pe-window" class="klaro-pe" style="display: none; position: absolute; bottom: auto; max-width: 700px; width: calc(100% - 30px); margin: auto; left: 0px; right: 0px;">
+<div class="klaro-pe-container" style="width: auto;">
+<div class="klaro-pe-toggle"><img src="/klaro/images/down_b.svg"></img></div>
+<div class="head">
+<div class="title">Este site utiliza <i>cookies</i></div>
+<div class="subtitle">
+<p>Respeitamos a sua privacidade</p>
+</div>
+</div>
+<div class="body" style="max-height: 160px;">
+<p>Este site utiliza <i>cookies</i> (próprios e de terceiros), bem como outras tecnologias semelhantes, com o objetivo de melhorar a experiência de utilização durante a sua visita. Conseguimos, deste modo, melhorar o nosso site apresentando-lhe conteúdos e anúncios relevantes, permitindo a integração de funcionalidades de redes sociais e promovendo a análise de trafego no site. Tendo em consideração as suas preferências na utilização de <i>cookies</i>, poderemos partilhar informações com os nossos parceiros de redes sociais, de análise publicitária e de navegação. Ao selecionar o botão “Aceitar todos” está a consentir a utilização de todos os <i>cookies</i>. Para mais esclarecimentos sobre o tratamento dos seus dados pessoais, consulte a nossa <a href="/politica-de-cookies">Política de <i>Cookies</i></a>. Através da opção <a class="show-config">Personalizar</a> poderá rejeitar ou definir as suas preferências, bem como obter mais informações sobre as tecnologias utilizadas.</p>
+</div>
+<div class="klaro-pe-body-aceitar">
+<div class="button-right" style="width: 80%; margin: 20px auto 10px auto;">Aceitar todos</div>
+</div>
+<a onclick="pt.pe.klaro.show()">
+<div class="button-right-gravar" style="margin: 0px 10% 20px 10%;width: 80%;">Personalizar</div>
+</a>
+</div>
+</div>
+<div class="d-md-none d-lg-none google-pub-container">
+<a href="https://www.wook.pt/&amp;utm_source=infopedia&amp;utm_medium=bannerpreview&amp;utm_campaign=natal2022?a_aid=4d9441353c718" target="_blank"><img class="img-responsive" src="assets/Ads/20221215-inf-320x50-natalfase2.png" title="Natal WOOK" alt="Natal WOOK"></a>
+</div>
+<div class="col-widgets float-left d-none d-lg-block">
+<div class="d-none d-lg-block googleAdsWidget">
+<div> <a href="https://www.wook.pt/&amp;utm_source=infopedia&amp;utm_medium=bannerpreview&amp;utm_campaign=natal2022?a_aid=4d9441353c718" target="_blank"> <div><img class="img-responsive" src="assets/Ads/20221215-inf-300x250-natalfase2-alt.png" title="Natal WOOK" alt="Natal WOOK"></div> </a></div>
+</div>
+<div class="d-none d-lg-block googleAdsWidget">
+<script type="application/javascript" src="/javascript/common/jquery-3.6.0.min.js?m=1643215549"></script>
+<script type="application/javascript" src="/javascript/common/md5.js?m=1643215549"></script>
+<script type="application/javascript" src="/javascript/common/bootstrap.min.js?m=1643215549"></script>
+<script type="application/javascript" src="/javascript/common/hammer-2.0.8.min.js?m=1643215549"></script>
+<script type="application/javascript" src="/slick/slick.js"></script>
+<script type="application/javascript" src="/javascript/infopedia.js?m=1670258168"></script>
+<script type="application/javascript" src="/javascript/infopedia.speech.js?m=1643215549"></script>
+<script type="application/javascript" src="/javascript/infopedia.utils.js?m=1666865427"></script>
+<script type="application/javascript" src="/javascript/infopedia.labels.js?m=1666865427"></script>
+<script type="application/javascript" src="/javascript/jquery.validate.js?m=1643215549"></script>
+<script type="application/javascript" src="/javascript/recommend.js?m=1669288650"></script>
+<script type="application/javascript" src="/javascript/newsletter.js?m=1654789757"></script>
+<script type="application/javascript" src="/javascript/messages_pt_PT.min.js?m=1643215549"></script>
+<script type="application/javascript" src="/javascript/comments.js?m=1661437401"></script>
+<script type="application/javascript" src="/javascript/autoresize.js?m=1654609365"></script>
+<script type="application/javascript" src="/javascript/favorites.js?m=1644483788"></script>
+<script type="application/javascript" src="/javascript/infopedia.speech.synthesis.js?m=1644999578"></script>
+<script type="application/javascript" src="/dicionarios/javascript/dictionary.js"></script>
+<script type="application/javascript" src="/javascript/infopedia.carousel.js?m=1662997970"></script>
+<script type="application/javascript" src="/javascript/topics-widget.js?m=1652189232"></script>
+<script type="application/javascript" src="/javascript/convguides-widget.js?m=1660205131"></script>
+<script type="text/javascript">
+google_ad_client = "ca-pub-2982890988456389";
+/* novaInfop-Coluna300x250 */
+google_ad_slot = "novaInfop-Coluna";
+google_ad_width = 300;
+google_ad_height = 250;
+</script><script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+<div class="d-none d-lg-block googleAdsWidget">
+<script type="text/javascript">
+google_ad_client = "ca-pub-2982890988456389";
+/* novaInfop-Coluna300x250 */
+google_ad_slot = "novaInfop-Coluna";
+google_ad_width = 300;
+google_ad_height = 250;
+</script><script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+<div class="googleAdsWidget">
+<div> <a href="https://www.palavradoano.pt/?intlink=infopedia" target="_blank"> <div><img class="img-responsive" src="assets/Ads/PANOPT2022_widget_votoCandidatas.png" title="PALAVRA DO ANO" alt="PALAVRA DO ANO"></div> </a></div>
+</div>
+<div id="conversation-guide-widget" class="convguide-widget">
+<div class="user-select-none convguides-widget">
+<div class="slider-outer-container">
+<div class="slider-inner-container" data-maxdots="" data-start="1">
+<div class="slider-tile resource-container" style="background-color: #005BBB;" data-link="/guias-de-conversacao/ucraniano-portugues">
+<a>
+<div class="guide-title">Guia de Conversação Ucraniano ↔ Português </div>
+<img class="logo" src="/assets/ConversationGuides/Icons/Untitled-design-1.png" />
+</a>
+</div>
+<div class="slider-tile resource-container" style="background-color: #DB152C;" data-link="/guias-de-conversacao/ingles-portugues">
+<a>
+<div class="guide-title">Guia de Conversação Inglês ↔ Português</div>
+<img class="logo" src="/assets/ConversationGuides/Icons/Untitled-design.png" />
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="user-select-none wordofday-widget">
+<div class="user-select-none container">
+<a href="dicionarios/lingua-portuguesa/políptico">
+<p class="title">Palavra em destaque</p>
+<div class="entrada">políptico</div>
+</a>
+</div>
+</div>
+</div>
+<div class="col-content float-right">
+<div data-hyperlink-area tabindex="0">
+<div class="QuadroDefinicao" data-hyperlink="portugues-estrangeiros" xmlns:tools="http://www.infopedia.pt/java/pt.portoeditora.infopedia.proxy.resources.utils.StringTools"><div class="dol-col-60"><div class="dolEntradaVverbete"><div class="favorites" data-favorite-title="portugues-estrangeiros" data-favorite-uri="/dicionarios/portugues-estrangeiros/saudade" data-favorite-text="saudade"><img src="/images/ico_favoritos.svg"></div><div class="dolVerbeteEntrinfo" data-hyperlink-no=""><a id="expo-"><h1 class="dolEntrinfoEntrada">saudade</h1></a><img class="dolLocucao" onclick="javascript:(document.getElementById(&#039;locucao-src-0_e4cy6ql0&#039;).play());" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsIAAA7CARUoSoAAAAPrSURBVFhH7VhJSywxEE6PO+K+oLigiIgHD24XxQ0EBcWLiHhSFMUNFE8KongRPSmICx79E/4Ij/oD9CLoQfGg4tqvKp3KJJlMT/vmPXjw5oOPqnyppMt0V5LRcV2X/csICfvPIpFgvPg/Ejw5OXEHBwf/TrVhFcfLlJQU13Ect7e3F5r2mN9l3CuYkZHhfn5+cv/t7Y3bWFhcXAy+2rasgzIzM5OvHLG7uxtke6xKjMVV39ragqY9hmgVgzAvL09LDtne3g5d9nji3NycGwqF5BhcTTNGpVWMxeLiYi0xYtAVRGZlZclx6+vrINnjrKIfy8rKtKRUdnZ2Qoh9nI3Z2dl8XFJSEjTtMT8qkpqaGvf29la0IoETRkNdXZ1bXV2tBTw9PTnwutn39zerra21DzYzjsaGhoaIFTPZ09MDoZFjsRgoJjc3F6Rw3/j4uOzb3NzU+pBaA3l4eOjih6xqQ0NDchI/+hXJ8PCwjCsvLwcp3EevGldZ1ZFao6WlRU4yPT0Nkqc3NjZK3Y9dXV1yjI1jY2MydnZ2FiRPn5qakjppRK1BQUgcRHpTU5PU/WgWye7urruwsKBplZWVPNZ81TTH2tqapssi2d/f1z5SOh1+AvzYVWxvb7OjoyM2OTkp54ZV5BYKhFtCamoqt5eXl9wSZILp6enC8wBHmPD8q1MFnA7C8wB7HbdnZ2fcInZ2dhzhMiwK4bLS0lJu7+/vuSXIBF9eXoTn4fn5WXgQBFtBEHx8fAjPw9LSErfmyhKur6+Fx1hBQQG3j4+P3BLkk9PS0oTnQW1He4AJ2HCF5+Hq6kp4dkD1Co+x19dXbs08ZIJ+rxE+XuEFx/HxsUuvtqKiglsTsHELj7G7uztui4qKuCVETfD9/V14wRP8+voSHsNLgQNnM8vJyWE3NzdyArrY4pwrKytSf3h44Bb2SG4lqJyRUChyy1D3qaD7YLSTRCXdZHDPJe3g4EDOQRpR+/rhO3Bgn+K+WjQwUHj+MIvERH5+Pk8Ai+7i4kJOenp6yq35/XGo2foxOTlZ/pXRGO02s7e358LDZdzy8jLI4X7SR0dHNR2pNfyIZ7R60bTR76ij3y0zMzPQDOtVVVVcx35VJ0YIfoRNVkvIpN9lYWNjA4yuDQwMyLF42pj9yAghFldXV7WkVAYpEuLIyIgcV19fD5I9zirG4vz8vJYYsaOjA7rtY1S2trbKMSUlJSDZ45BWMQgnJia05JBBrvxYCBSPNxuz36RVDEr1NSFj3QeJhYWFbl9fH7j2fpVW8Sfs7++XCQb52flTBrum+OD8/Nxpa2vjfnNzM7d/Eon/sMaLRILxIpFgfGDsFzQHZ/3aQvXhAAAAAElFTkSuQmCC" alt="Dicionário de português para estrangeiros - locução saudade"><audio id="locucao-src-0_e4cy6ql0"><source src="https://media.infopedia.pt/p/102/sp/10200/playManifest/entryId/0_e4cy6ql0/flavorId/0_7e92rpnw/format/url/protocol/https/a.mp3" type="audio/mpeg"></source></audio></div><div class="dolPronunciaInfo"><span class="dolSilab">sau.da.de</span><img src="/images/bola-fonet.png"><span class="dolRegfonFonet">sɐuˈdad(ə)</span></div><div class="dolDivisaoCatgram"><span class="dolCatgramTbcat">nome feminino</span><div class="dolCatgramAceps"></div><div class="dolCatgramAceps"><div class="dolAcepsRow"><div class="dolAcepsRightCell"><span class="dolAcepsSubacep"><span class="dolSubacepTraduz"><span class="dolTraduzTrad"> sentimento de tristeza pela ausência ou morte de uma pessoa ou pela perda de uma coisa de que se gostava muito</span></span></span></div></div></div></div><div class="dolDivisaoCatgram"><div class="dolDeclinGenit">saudades</div><span class="dolCatgramTbcat">nome feminino plural</span><div class="dolCatgramAceps"></div><div class="dolCatgramAceps"><div class="dolAcepsRow"><div class="dolAcepsRightCell"><span class="dolAcepsSubacep"><span class="dolSubacepTraduz"><span class="dolTraduzTrad"> cumprimentos que se enviam a pessoas que estão longe ou que já não vemos há muito tempo</span></span></span></div></div></div></div></div><div class="partilharReferenciarContainer">
+<div class="partilharContainer">
+<div class="title">Partilhar</div>
+<ul class="bar"><li class="facebook"><a id="ref_fb" href="https://www.facebook.com/sharer/sharer.php?u=#URI&amp;display=popup&amp;ref=plugin&amp;src=share_button"><img src="/images/ico_FB.svg"></a></li>
+<li class="twitter"><a id="ref_tw" href="https://twitter.com/share?"><img src="/images/ico_twitter.svg"></a></li>
+<li class="whatsapp"><a id="ref_wa" href="https://api.whatsapp.com/send?text="><img src="/images/ico_whatsapp.svg"></a></li>
+<li class="email"><a id="ref_email" href="/dicionarios/portugues-estrangeiros/saudade#"><img src="/images/ico_mail.svg"></a></li>
+</ul></div>
+<div class="comoReferenciarContainer">
+<div class="como-referenciar">Como referenciar <img src="/images/seta_down.svg"></div>
+<div class="como-referenciar-info">
+Porto Editora – <em>saudade</em> no Dicionário infopédia de Português para Estrangeiros [em linha]. Porto: Porto Editora. [consult. 2022-12-17 15:03:58]. Disponível em <label class="current-url">https://www.infopedia.pt/dicionarios/portugues-estrangeiros/saudade</label>
+</div>
+</div>
+</div><a href="/dicionarios/portugues-estrangeiros/saudade"><div id="entradaImageDesktopContainer" class="d-none d-sm-none d-md-block dolEntradaImageDesktop" style="display: none;"><span id="entradaImageDesktop" data-src="/defimages/portugues-estrangeiros/desktop/s/saudade.png" alt="saudade"></span></div></a></div><div class="dol-col-40"><div class="google-pub-container-inner d-md-none d-lg-none"><script type="text/javascript">
+google_ad_client = "ca-pub-2982890988456389";
+/* NovaInfop-mobilefino */
+google_ad_slot = "NovaInfop-mobilefino320x50";
+google_ad_width = 320;
+google_ad_height = 50;
+</script><script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div><div class="dolRelacoesGrupo"><div class="dolRelacoes"><div class="container"><div class="title">sinónimos</div><div id="relacoesSinonimosContainer" class="dolRelacoesAssociacao"><a href="/dicionarios/portugues-estrangeiros/melancolia?intlink=true">melancolia</a>, <a href="/dicionarios/portugues-estrangeiros/nostalgia?intlink=true">nostalgia</a></div></div></div></div><div class="dolProverbiosContainer"><p>Provérbios</p><ul class="dolProverbios" data-total="2" data-visible="3"><li>A saudade é a companheira dos que não têm companhia.</li><li>Saudade é fraco remédio e doce engano.</li></ul></div><div id="support-articles-info" class="support-articles-info"><div class="title">Artigos</div><div class="support-articles-info-body"><ul class="articles"><li><a href="$o-livro-de-elisa?uri=portugues-estrangeiros/saudade"><div class="artigos-apoio-box-content"><div class="artigos-apoio-box-content-titulo">O Livro de Elisa</div><div class="artigos-apoio-box-content-lead">Subintitulado Fragmentos, é um exemplar de prosa poética intimista, "monumento de uma longa saudade"...</div></div></a></li><li><a href="$ramo-de-flores?uri=portugues-estrangeiros/saudade"><div class="artigos-apoio-box-content"><div class="artigos-apoio-box-content-titulo">Ramo de flores</div><div class="artigos-apoio-box-content-lead">Coletânea de poesias líricas, de João de Deus, onde sobressai a temática amorosa ("Sede de amor", "E...</div></div></a></li><li><a href="$afonso-botelho?uri=portugues-estrangeiros/saudade"><div class="artigos-apoio-box-content"><div class="artigos-apoio-box-content-titulo">Afonso Botelho</div><div class="artigos-apoio-box-content-lead">Escritor português, nasceu no ano de 1919, em Bencanta, Coimbra, e faleceu em 1996. Foi aluno de Leo...</div></div></a></li><li><a href="$poesias,1?uri=portugues-estrangeiros/saudade"><div class="artigos-apoio-box-content"><div class="artigos-apoio-box-content-titulo">Poesias</div><div class="artigos-apoio-box-content-lead">Esta edição das Poesias de António Patrício reúne, postumamente, o volume Oceano e as poesias e disp...</div></div></a></li><li><a href="$d.-joao-e-a-mascara?uri=portugues-estrangeiros/saudade"><div class="artigos-apoio-box-content"><div class="artigos-apoio-box-content-titulo">D. João e a Máscara</div><div class="artigos-apoio-box-content-lead">Fábula trágica de António Patrício, publicada em 1924. Nesta peça, o autor nega qualquer finalidade ...</div></div></a></li><li style="display: none;"><a href="$saudosismo?uri=portugues-estrangeiros/saudade"><div class="artigos-apoio-box-content"><div class="artigos-apoio-box-content-titulo">saudosismo</div><div class="artigos-apoio-box-content-lead">Movimento literário, religioso e filosófico, nascido do impulso dos intelectuais que constituíram a ...</div></div></a></li><li style="display: none;"><a href="$antologia-da-poesia-negra-de-expressao?uri=portugues-estrangeiros/saudade"><div class="artigos-apoio-box-content"><div class="artigos-apoio-box-content-titulo">Antologia da Poesia Negra de Expressão Portuguesa</div><div class="artigos-apoio-box-content-lead">Constituindo a primeira apresentação de conjunto, em francês, de poesia africana de língua portugues...</div></div></a></li><li style="display: none;"><a href="$tomas-vieira-da-cruz?uri=portugues-estrangeiros/saudade"><div class="artigos-apoio-box-content"><div class="artigos-apoio-box-content-titulo">Tomás Vieira da Cruz</div><div class="artigos-apoio-box-content-lead">Poeta português nascido em 1900, em Constância, e falecido em 1960, em Lisboa. Em 1924, partiu para ...</div></div></a></li><li style="display: none;"><a href="$bossa-nova?uri=portugues-estrangeiros/saudade"><div class="artigos-apoio-box-content"><div class="artigos-apoio-box-content-titulo">bossa nova</div><div class="artigos-apoio-box-content-lead">Estilo musical nascido no Brasil no final da década de 50. Surgiu do trabalho conjunto de João Gilbe...</div></div></a></li><li style="display: none;"><a href="$historia-da-poesia-moderna-em-portugal?uri=portugues-estrangeiros/saudade"><div class="artigos-apoio-box-content"><div class="artigos-apoio-box-content-titulo">História da Poesia Moderna em Portugal</div><div class="artigos-apoio-box-content-lead">Opúsculo escrito sob a forma de "Carta a J. M. Nogueira Lima sobre A Grinalda". Considerando os "jor...</div></div></a></li><li style="display: none;"><a href="$simone-de-oliveira?uri=portugues-estrangeiros/saudade"><div class="artigos-apoio-box-content"><div class="artigos-apoio-box-content-titulo">Simone de Oliveira</div><div class="artigos-apoio-box-content-lead">Cançonetista portuguesa, de nome completo Simone de Macedo e Oliveira, nascida em 1938, em Lisboa. A...</div></div></a></li><li style="display: none;"><a href="$poesias,3?uri=portugues-estrangeiros/saudade"><div class="artigos-apoio-box-content"><div class="artigos-apoio-box-content-titulo">Poesias</div><div class="artigos-apoio-box-content-lead">Volume póstumo de poesias de Júlio Dinis, que reúne composições inéditas ou anteriormente publicadas...</div></div></a></li><li style="display: none;"><a href="$teixeira-de-pascoaes?uri=portugues-estrangeiros/saudade"><div class="artigos-apoio-box-content"><div class="artigos-apoio-box-content-titulo">Teixeira de Pascoaes</div><div class="artigos-apoio-box-content-lead">Poeta e ensaísta, concluiu os estudos liceais em Coimbra, onde viria a frequentar o curso de Direito...</div></div></a></li><li style="display: none;"><a href="$odes-e-cancoes?uri=portugues-estrangeiros/saudade"><div class="artigos-apoio-box-content"><div class="artigos-apoio-box-content-titulo">Odes e Canções</div><div class="artigos-apoio-box-content-lead">Coletânea de poesias prefaciada por Oliveira Martins (que considera o livro de Luís de Magalhães um ...</div></div></a></li><li style="display: none;"><a href="$camoes-os-lusiadas-e-a-renascenca-em-portugal?uri=portugues-estrangeiros/saudade"><div class="artigos-apoio-box-content"><div class="artigos-apoio-box-content-titulo">Camões, Os Lusíadas e a Renascença em Portugal</div><div class="artigos-apoio-box-content-lead">Obra que surge como a refundição do ensaio de 1872 Os Lusíadas - Ensaio sobre Camões e a sua Obra. N...</div></div></a></li><li style="display: none;"><a href="$mulher-na-lirica-trovadoresca?uri=portugues-estrangeiros/saudade"><div class="artigos-apoio-box-content"><div class="artigos-apoio-box-content-titulo">Mulher na lírica trovadoresca</div><div class="artigos-apoio-box-content-lead">Nas cantigas de amigo, a mulher, protagonizando situações da vivência popular, rural e doméstica, co...</div></div></a></li><li style="display: none;"><a href="$d&#039;aquem-e-d&#039;alem-morte?uri=portugues-estrangeiros/saudade"><div class="artigos-apoio-box-content"><div class="artigos-apoio-box-content-titulo">D'Aquém e d'Além Morte</div><div class="artigos-apoio-box-content-lead">Coletânea de contos de Jaime Cortesão, editada pelas edições da Renascença Portuguesa, em 1913, refl...</div></div></a></li><li style="display: none;"><a href="$henrique-campos?uri=portugues-estrangeiros/saudade"><div class="artigos-apoio-box-content"><div class="artigos-apoio-box-content-titulo">Henrique Campos</div><div class="artigos-apoio-box-content-lead">Realizador de cinema e ator português nascido a 9 de fevereiro de 1909, em Santarém, e falecido a 18...</div></div></a></li><li style="display: none;"><a href="$carlos-do-carmo?uri=portugues-estrangeiros/saudade"><div class="artigos-apoio-box-content"><div class="artigos-apoio-box-content-titulo">Carlos do Carmo</div><div class="artigos-apoio-box-content-lead">Fadista português, de nome completo Carlos Alberto do Carmo Almeida, nascido em 1939 em Lisboa, morr...</div></div></a></li><li style="display: none;"><a href="$coelho-lousada?uri=portugues-estrangeiros/saudade"><div class="artigos-apoio-box-content"><div class="artigos-apoio-box-content-titulo">Coelho Lousada</div><div class="artigos-apoio-box-content-lead">Jornalista, poeta e romancista, nascido a 4 de novembro de 1828, no Porto, foi diretor do Teatro das...</div></div></a></li><li style="display: none;"><a href="$tom-jobim?uri=portugues-estrangeiros/saudade"><div class="artigos-apoio-box-content"><div class="artigos-apoio-box-content-titulo">Tom Jobim</div><div class="artigos-apoio-box-content-lead">Compositor brasileiro, António Carlos Brasileiro de Almeida Jobim nasceu em 1927, no Rio de Janeiro,...</div></div></a></li><li style="display: none;"><a href="$orlanda-amarilis?uri=portugues-estrangeiros/saudade"><div class="artigos-apoio-box-content"><div class="artigos-apoio-box-content-titulo">Orlanda Amarílis</div><div class="artigos-apoio-box-content-lead">Escritora cabo-verdiana, Orlanda Amarílis Lopes Rodrigues Fernandes Ferreira nasceu em 1924 em Assom...</div></div></a></li><li style="display: none;"><a href="$renascenca-portuguesa?uri=portugues-estrangeiros/saudade"><div class="artigos-apoio-box-content"><div class="artigos-apoio-box-content-titulo">Renascença Portuguesa</div><div class="artigos-apoio-box-content-lead">Sociedade criada em 1911, após a instauração da República, no Porto, com o objetivo de promover a cu...</div></div></a></li><li style="display: none;"><a href="$joao-gilberto?uri=portugues-estrangeiros/saudade"><div class="artigos-apoio-box-content"><div class="artigos-apoio-box-content-titulo">João Gilberto</div><div class="artigos-apoio-box-content-lead">Cantor e violonista brasileiro, João Gilberto nasceu em 1931, em Juazeiro, no Brasil, e faleceu a 6 ...</div></div></a></li><li style="display: none;"><a href="$ilhas-de-bruma?uri=portugues-estrangeiros/saudade"><div class="artigos-apoio-box-content"><div class="artigos-apoio-box-content-titulo">Ilhas de Bruma</div><div class="artigos-apoio-box-content-lead">"Numa casa que está rezando ao Mar, / e tem Camões coroado / não de loiro celebrado / mas de espinho...</div></div></a></li><li style="display: none;"><a href="$lenda-da-serra-da-estrela-ou-do-pastor-e-da?uri=portugues-estrangeiros/saudade"><div class="artigos-apoio-box-content"><div class="artigos-apoio-box-content-titulo">Lenda da Serra da Estrela ou do Pastor e da Estrela</div><div class="artigos-apoio-box-content-lead">Esta é a história de um pastor pobre que vivia numa aldeia triste e tinha por única companhia um cão...</div></div></a></li><li style="display: none;"><a href="$jennifer-jones?uri=portugues-estrangeiros/saudade"><div class="artigos-apoio-box-content"><div class="artigos-apoio-box-content-titulo">Jennifer Jones</div><div class="artigos-apoio-box-content-lead">Atriz norte-americana, Phylis Isley nasceu a 2 de março de 1919 em Tulsa, Oklahoma. Estreou-se no ci...</div></div></a></li><li style="display: none;"><a href="$obra-poetica?uri=portugues-estrangeiros/saudade"><div class="artigos-apoio-box-content"><div class="artigos-apoio-box-content-titulo">Obra Poética</div><div class="artigos-apoio-box-content-lead">Colige Mais e Mais... (1932); Tanto (1934); Ainda (1938); Sangue (1952) e o inédito Gérmen, de 1960....</div></div></a></li><li style="display: none;"><a href="$lenda-das-amendoeiras-em-flor?uri=portugues-estrangeiros/saudade"><div class="artigos-apoio-box-content"><div class="artigos-apoio-box-content-titulo">Lenda das Amendoeiras Em Flor</div><div class="artigos-apoio-box-content-lead">Há muitos séculos, reinava em Chelb, a futura Silves, o rei Ibn-Almundim. Este rei nunca tinha conhe...</div></div></a></li><li style="display: none;"><a href="$cantiga-de-amigo?uri=portugues-estrangeiros/saudade"><div class="artigos-apoio-box-content"><div class="artigos-apoio-box-content-titulo">Cantiga de amigo</div><div class="artigos-apoio-box-content-lead">A par da cantiga de amor e da cantiga de escárnio e maldizer, a cantiga de amigo é um dos três grand...</div></div></a></li></ul><div id="verMaisArticles" class="verMaisArticles" data-termo="saudade" data-page="1">ver<span class="mais">+</span></div></div></div><div id="support-articles-info" class="support-articles-info"><div class="title">Livros e Autores</div><div class="support-articles-info-body"><ul class="articles"><li><a href="/livros-autores/autores/valter-hugo-mae"><div class="artigos-apoio-box-content"><div class="artigos-apoio-box-content-titulo">Valter Hugo Mãe</div><div class="artigos-apoio-box-content-lead">O meu pai lia a enciclopédia como se de uma narrativa se tratasse. Quero dizer, lia alfabeticamente coisa depois de coisa, meio a aprender sobre tudo com a única regra da ordem do alfabeto, interessado em qualquer assunto, qualquer detalhe. Assim, durante todos os anos em que o pude conhecer.</div></div></a></li></ul></div></div><div class="partilharReferenciarContainer">
+<div class="partilharContainer">
+<div class="title">Partilhar</div>
+<ul class="bar"><li class="facebook"><a id="ref_fb" href="https://www.facebook.com/sharer/sharer.php?u=#URI&amp;display=popup&amp;ref=plugin&amp;src=share_button"><img src="/images/ico_FB.svg"></a></li>
+<li class="twitter"><a id="ref_tw" href="https://twitter.com/share?"><img src="/images/ico_twitter.svg"></a></li>
+<li class="whatsapp"><a id="ref_wa" href="https://api.whatsapp.com/send?text="><img src="/images/ico_whatsapp.svg"></a></li>
+<li class="email"><a id="ref_email" href="/dicionarios/portugues-estrangeiros/saudade#"><img src="/images/ico_mail.svg"></a></li>
+</ul></div>
+<div class="comoReferenciarContainer">
+<div class="como-referenciar">Como referenciar <img src="/images/seta_down.svg"></div>
+<div class="como-referenciar-info">
+Porto Editora – <em>saudade</em> no Dicionário infopédia de Português para Estrangeiros [em linha]. Porto: Porto Editora. [consult. 2022-12-17 15:03:58]. Disponível em <label class="current-url">https://www.infopedia.pt/dicionarios/portugues-estrangeiros/saudade</label>
+</div>
+</div>
+</div><a href="/dicionarios/portugues-estrangeiros/saudade"><span id="entradaImageMobile" class="d-md-none d-lg-none dolEntradaImage" style="display: none;" data-src="/defimages/portugues-estrangeiros/mobile/s/saudade.png" alt="saudade"></span></a></div></div>
+</div>
+<div class="d-md-none d-lg-none google-pub-container">
+<a href="https://www.portoeditora.pt/noticias/livros-solidarios-da-porto-editora-apoiam-sic-esperanca-e-unicef/215345" target="_blank"><img class="img-responsive" src="assets/Ads/Banner-Conteudos-Mobile.jpg" title="Campanha Solidária de Natal" alt="Campanha Solidária de Natal"></a>
+</div>
+</div>
+<div class="d-lg-none col-widgets mobile-widget-hline float-right">
+<div class="d-none d-lg-block googleAdsWidget">
+<div> <a href="https://www.wook.pt/&amp;utm_source=infopedia&amp;utm_medium=bannerpreview&amp;utm_campaign=natal2022?a_aid=4d9441353c718" target="_blank"> <div><img class="img-responsive" src="assets/Ads/20221215-inf-300x250-natalfase2-alt.png" title="Natal WOOK" alt="Natal WOOK"></div> </a></div>
+</div>
+<div class="d-none d-lg-block googleAdsWidget">
+<script type="text/javascript">
+google_ad_client = "ca-pub-2982890988456389";
+/* novaInfop-Coluna300x250 */
+google_ad_slot = "novaInfop-Coluna";
+google_ad_width = 300;
+google_ad_height = 250;
+</script><script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+<div class="d-none d-lg-block googleAdsWidget">
+<script type="text/javascript">
+google_ad_client = "ca-pub-2982890988456389";
+/* novaInfop-Coluna300x250 */
+google_ad_slot = "novaInfop-Coluna";
+google_ad_width = 300;
+google_ad_height = 250;
+</script><script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+<div class="googleAdsWidget">
+<div> <a href="https://www.palavradoano.pt/?intlink=infopedia" target="_blank"> <div><img class="img-responsive" src="assets/Ads/PANOPT2022_widget_votoCandidatas.png" title="PALAVRA DO ANO" alt="PALAVRA DO ANO"></div> </a></div>
+</div>
+<div id="conversation-guide-widget" class="convguide-widget">
+<div class="user-select-none convguides-widget">
+<div class="slider-outer-container">
+<div class="slider-inner-container" data-maxdots="" data-start="1">
+<div class="slider-tile resource-container" style="background-color: #005BBB;" data-link="/guias-de-conversacao/ucraniano-portugues">
+<a>
+<div class="guide-title">Guia de Conversação Ucraniano ↔ Português </div>
+<img class="logo" src="/assets/ConversationGuides/Icons/Untitled-design-1.png" />
+</a>
+</div>
+<div class="slider-tile resource-container" style="background-color: #DB152C;" data-link="/guias-de-conversacao/ingles-portugues">
+<a>
+<div class="guide-title">Guia de Conversação Inglês ↔ Português</div>
+<img class="logo" src="/assets/ConversationGuides/Icons/Untitled-design.png" />
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="user-select-none wordofday-widget">
+<div class="user-select-none container">
+<a href="dicionarios/lingua-portuguesa/políptico">
+<p class="title">Palavra em destaque</p>
+<div class="entrada">políptico</div>
+</a>
+</div>
+</div>
+</div>
+<div class="shared-data" data-title="saudade" data-type="definição" style="display:none;"></div>
+<div id="recommend-modal" class="modal" style="display: none;">
+<div class="modal-content">
+<span class="close"><img alt="fechar comentários e sugestões" src="/images/bt_X_fechar.svg" /></span>
+<div class="recommend-container">
+<div class="page-title">Recomendar</div>
+<div class="desc-block">
+<div class="title"></div>
+
+<div class="desc">Para recomendar esta página a alguém, basta preencher os campos abaixo:</div>
+</div>
+<div class="recommend-form-container">
+<form id="recommendation-form" name="recommend" class="row form-horizontal" method="post" action="/recommend/sendmessage">
+<label class="col-12 success-message alert alert-success" role="alert" style="display: none;"></label>
+<label class="col-12 error-message alert alert-danger" role="alert" style="display: none;"></label>
+<fieldset>
+<div class="form-group">
+<div class="row">
+<div class="field-label">A sua identificação</div>
+<div class="col-12 form-group-item name floating-label-wrap">
+<input type="hidden" name="token" id="token" class="hidden nolabel" />
+<input type="hidden" name="title" id="token" class="hidden nolabel" value="saudade" />
+<input type="hidden" name="url" id="token" class="hidden nolabel" value="dicionarios/portugues-estrangeiros/saudade" />
+<input id="sendername" name="sendername" value="" placeholder="nome" type="text" class="form-control floating-label-field name-box" required="" maxlength="100" />
+<label for="sendername" class="floating-label">nome</label>
+</div>
+<div class="col-12 form-group-item email floating-label-wrap">
+<input id="senderemail" name="senderemail" value="" placeholder="e-mail" type="text" class="form-control floating-label-field email-box" required="" maxlength="100" />
+<label for="senderemail" class="floating-label">e-mail</label>
+</div>
+</div>
+<div class="row">
+<div class="field-label">A identificação do seu amigo</div>
+<div class="col-12 form-group-item name floating-label-wrap">
+<input id="receivername" name="receivername" value="" placeholder="nome" type="text" class="form-control floating-label-field name-box" required="" maxlength="100" />
+<label for="receivername" class="floating-label">nome</label>
+</div>
+<div class="col-12 form-group-item email floating-label-wrap">
+<input id="receiveremail" name="receiveremail" value="" placeholder="e-mail" type="text" class="form-control floating-label-field email-box" required="" maxlength="100" />
+<label for="receiveremail" class="floating-label">e-mail</label>
+</div>
+<div class="col-12 form-group-item">
+<div class="floating-label-wrap">
+<textarea id="message" name="message" placeholder="mensagem (máximo 1500 caracteres)" class="form-control textarea floating-label-field txta" rows="5" maxlength="500"></textarea>
+<label for="message" class="floating-label">comentário</label>
+</div>
+</div>
+</div>
+</div>
+<div class="form-group col-12 col-lg-6 float-right actions user-select-none ">
+<button id="btn-recommend" name="btn-recommend" type="submit" class="btn btn-default btn-recommend">Confirmar</button>
+</div>
+</fieldset>
+</form>
+</div>
+</div>
+</div>
+</div>
+</main>
+<div id="klaro-pe-overlay" class="overlay" style="display: none;">
+<div class="klaro-pe-cookies-modal-overflow" style="height: 100%; overflow-x: hidden; overflow-y: auto; display:none;">
+<div class="klaro-pe-cookies-modal">
+<div class="cookie-modal-close">
+<img src="/klaro/images/x_b.png"></img>
+</div>
+<div class="klaro-pe-cookies-modal-scroll">
+<div class="scrollbar">
+<div class="header">
+<div class="cookie-modal-text">A sua privacidade é importante</div>
+</div>
+<div class="container">
+</div>
+</div>
+</div>
+<div class="footer">
+<div class="button-right-aceitar hidden-mobile">Aceitar todos os cookies</div>
+<div class="button-right-gravar">Guardar as minhas escolhas</div>
+<div class="button-right-aceitar hidden-desktop">Aceitar todos os cookies</div>
+</div>
+</div>
+</div>
+<div id="klaro-pe-window-bottom" class="klaro-pe" style="display: none;">
+<div class="klaro-pe-container">
+<div class="head" style="border-bottom: none;">
+<div class="klaro-pe-toggle"><img src="/klaro/images/up_b.svg"></div>
+<div class="title">Este site utiliza <i>cookies</i></div>
+<div class="subtitle">
+<p>Respeitamos a sua privacidade</p>
+</div>
+<div class="klaro-pe-head-aceitar">
+<div class="button-right">Aceitar todos</div>
+</div>
+<a onclick="pt.pe.klaro.show()">
+<div class="button-right-gravar" style="margin: 10px 0px 0px 0px;">Personalizar</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer">
+<div id="footer-content" class="container content">
+<div id="footer-header-xs" class="d-block d-sm-none">
+<div class="row">
+<div id="footer-header-arrow" class="col-12">
+<div class="row">
+<div id="footer-header-arrow-up" style="display:none" class="col-12">
+<a title="Esconder atalhos para os dicionários">
+<img alt="infopédia" src="/images/seta_up.svg" />
+</a>
+</div>
+<div id="footer-header-arrow-down" class="col-12">
+<a title="Mostrar atalhos para os dicionários">
+<img alt="infopédia" src="/images/seta_down.svg" />
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="footer-body">
+<div class="row atalhos">
+<div class="pl-sm-0 pl-md-2 col-12 col-sm-3">
+<p class="footer-title">Dicionários</p>
+<ul class="footer-ul footer-text">
+<li><a href="/dicionarios?grupo=portugues">Língua Portuguesa</a></li>
+<li><a href="/dicionarios?grupo=bilingues">Bilingues</a></li>
+<li><a href="/dicionarios?grupo=verbos">Verbos</a></li>
+</ul>
+<a class="footer-title-link" href="/bom-portugues">Bom Português</a>
+</div>
+<div class="pl-sm-0 pl-md-2 col-12 col-sm-3">
+<ul class="footer-ul footer-title">
+<li><a class="footer-title-link" href="/jogos">Jogos</a></li>
+<li><a class="footer-title-link" href="/livros-autores">Livros e Autores</a></li>
+<li><a class="footer-title-link" href="/recursos">Recursos</a></li>
+<li><a class="footer-title-link tariff" href="tarifarios">Tarifários</a></li>
+</ul>
+</div>
+<div class="pl-sm-0 pl-md-2 col-12 col-sm-3">
+<p class="footer-title">Avisos Legais</p>
+<ul class="footer-ul footer-text">
+<li><a href="/termos-e-condicoes-de-acesso">Termos e condições de acesso</a></li>
+<li><a href="/politica-de-privacidade">Política de privacidade</a></li>
+<li><a href="/politica-de-cookies">Política de cookies</a></li>
+<li><a href="https://www.livroreclamacoes.pt/Inicio/" target="livro-reclamacoes">Livro de Reclamações Eletrónico</a></li>
+</ul>
+</div>
+<div class="pl-sm-0 pl-md-2 col-12 col-sm-3">
+<ul class="footer-ul footer-title">
+<li><a class="footer-title-link" href="/faqs">FAQs e Contacto</a></li>
+<li>
+<p>Siga-nos</p>
+<ul class="footer-ul footer-menu">
+<li><a id="ref_fb" target="social-media" href="https://www.facebook.com/infopedia.pt/"><img src="/images/footer/facebook_ico_footer.svg" /></a></li>
+<li><a id="ref_yt" target="social-media" href="https://www.youtube.com/channel/UCmOoONR0MhPy1IFIIertCSQ"><img src="/images/footer/yt_ico_footer.svg" /></a></li>
+<li><a id="ref_ig" target="social-media" href="https://www.instagram.com/infopedia.pt/"><img src="/images/footer/insta_ico_footer.svg" /></a></li>
+</ul>
+</li>
+</ul>
+<a class="footer-newsletter-button btn user-select-none" href="/subscrever-newsletter">Subscreva comunicações</a>
+</div>
+</div>
+<div id="footer-copyright" class="row copyright">
+<div class="col-12">
+<p> © 2003-2022 Porto Editora. Todos os direitos reservados. Rua da Restauração, 365, 4099-023 Porto.</p>
+<p> Este site está conforme o novo Acordo Ortográfico.</p>
+</div>
+</div>
+</div>
+<div id="test-is-mobile" class="d-lg-none"></div>
+<div id="test-is-smartphone" class="d-md-none"></div>
+<div id="test-is-tablet" class="d-lg-none"></div>
+<div id="test-is-desktop" class="d-none d-lg-block"></div>
+</div>
+</footer>
+<div id="fixed-bar" style="display:none;">
+<div id="bar-inner">
+<a href="/apoio/artigos/$jazigos-minerais-por-meteorizacao?uri=portugues-ingles/satura%C3%A7%C3%A3o#" title="back to top">
+<div class="scroll-top"><img style="" src="/images/seta_up_branca.svg"></div>
+</a>
+</div>
+</div>
+
+<script defer src="/javascript/jquery.hyperLink-1.0.0.js"></script>
+<script>
+    var pt = pt || {};
+    pt.portoeditora = pt.portoeditora || {};
+    pt.portoeditora.infopedia = pt.portoeditora.infopedia || {};
+    pt.portoeditora.infopedia.hyperlinkHost = 'https://proxy-infoclique.infopedia.pt';
+</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.eu01.nr-data.net","licenseKey":"NRJS-51878d9935646189485","applicationID":"284592733","transactionName":"MhBSZQoZCERTAEZdVwtac0QLDAlaHRNdRkwQEkVUC1UDREYRU1pfABxCXgs=","queueTime":0,"applicationTime":221,"atts":"HldRE0IDG0o=","errorBeacon":"bam.eu01.nr-data.net","agent":""}</script></body>
+</html>

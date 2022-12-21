@@ -1,0 +1,974 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <title>O que e saudade?</title>
+    <meta name="description" content="Saudade é uma das palavras mais presentes na poesia de amor da língua portuguesa e também na música popular. &quot;Saudade&quot; descreve a mistura dos sentimentos de">
+    <link rel="apple-touch-icon" sizes="57x57" href="favicon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="favicon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="favicon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="favicon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="favicon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="favicon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="favicon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="favicon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="favicon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="favicon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
+    <link rel="manifest" href="favicon/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="favicon/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+            <style>
+            /*** Start global ***/
+            *,
+            *::before,
+            *::after {
+                box-sizing: border-box;
+            }
+            html {
+                font-family: sans-serif;
+                line-height: 1.15;
+                -webkit-text-size-adjust: 100%;
+                -webkit-tap-highlight-color: rgba($black, 0);
+            }
+            body {
+                margin: 0;
+                font-size: 1rem;
+                font-weight: 400;
+                line-height: 1.5;
+                color: #000;
+                font-family: Arial,Helvetica,sans-serif;
+                overflow-x: hidden;
+            }
+            aside, footer, header, main {
+                display: block;
+            }
+            h1, h2, h3, h4, h5, h6 {
+                margin-top: 0;
+                margin-bottom: 15px;
+            }
+            h1 {
+                font-size: 2.1rem;
+                line-height: 1.2;
+            }
+            a {
+                color: #0090e3;
+                text-decoration: none;
+            }
+            a:hover {
+                text-decoration: underline;
+            }
+            h3 {
+                margin:30px 0 10px 0;
+            }
+            h3 a {
+                text-decoration: none;
+            }
+            .container {
+                width: 1100px;
+                max-width: 100%;
+                margin: auto;
+                display: flex;
+            }
+            @media screen and (max-width: 768px) {
+                .container {
+                    display: block;
+                }
+            }
+            header .container,
+            footer .container {
+                padding-left: 20px;
+                padding-right: 20px;
+                align-items: center;
+            }
+            .btn {
+                background: #0090e3;
+                color: #fff;
+                border-radius: 3px;
+                padding: 5px 10px;
+                display: inline-flex;
+                align-items: center;
+            }
+            .btn:hover {
+                text-decoration: none;
+            }
+            .btn-red {
+                background: #f05555;
+            }
+            .btn svg {
+                margin-right: 10px;
+                fill: #000;
+                width:18px;
+                height: 18px;
+            }
+
+            /*** Start header ***/
+            header {
+                position: relative;
+                z-index: 99;
+                padding: 15px 0;
+                background-color: #000;
+            }
+            .logo {
+                display: flex;
+                align-items: center;
+                height: 46px;
+                margin-right: 50px;
+            }
+            @media screen and (max-width: 768px) {
+                .logo {
+                    margin: auto;
+                }
+            }
+            .logo svg  {
+                position: relative;
+            }
+            @media screen and (max-width: 768px) {
+                .logo svg  {
+                    top: 0;
+                }
+            }
+            .search-header {
+                position: relative;
+                width: 100%;
+            }
+            .search-header .input-group {
+                border: 1px solid #ddd;
+                border-radius: 5px;
+                display: flex;
+                background: #fff;
+                align-items: center;
+            }
+            .search-header .input-group svg {
+                margin: 0 5px 0 15px;
+            }
+            #search-header-input {
+                padding:12px 10px;
+                width: calc(100% - 40px);
+                border: none;
+                border-radius: 5px;
+                outline:none;
+            }
+            #search-header-result {
+                position: absolute;
+                top: 55px;
+                list-style: none;
+                touch-action: manipulation;
+                background: #fff;
+                padding: 15px;
+                width: 100%;
+                border: 1px solid #ddd;
+                border-radius: 5px;
+                z-index: 5;
+                box-shadow: 0 0 20px rgba(0,0,0, 0.1);
+            }
+            @media screen and (max-width: 768px) {
+                #search-header-result {
+                    width: calc(100vw - 40px);
+                }
+            }
+            #search-header-result:after {
+                transform: rotate(135deg);
+                width: 12px;
+                height: 12px;
+                top: -7px;
+                content: '';
+                display: block;
+                position: absolute;
+                background: #fff;
+                left: 48%;
+                border: 1px solid #ddd;
+                border-top: 0 none;
+                border-right: 0 none;
+            }
+            #search-header-result ul {
+                padding:0;
+                margin:0;
+                list-style:none;
+            }
+            #search-header-result ul li {
+                border-bottom: 1px solid #e5e5e5;
+                display: block;
+                padding: .5rem 0;
+            }
+            #search-header-result ul li:last-child {
+                border:none;
+            }
+            .main-nav {
+                margin-left: 50px;
+                order: 2;
+                display: flex;
+                align-items: center;
+            }
+            @media screen and (max-width: 768px) {
+                .main-nav {
+                    margin: auto;
+                }
+            }
+            .main-nav ul {
+                display: flex;
+                list-style:none;
+                padding:0;
+                margin:0;
+            }
+            .main-nav ul li {
+                margin:0 15px;
+                white-space: nowrap;
+                list-style:none;
+            }
+            .main-nav ul li:first-child {
+                margin-left: 0;
+            }
+            .main-nav ul li:last-child {
+                margin-right: 0;
+            }
+            .main-nav ul li a{
+                color: #fff;
+                padding: 10px 0;
+                display: inline-block;
+            }
+            /*** Start footer ***/
+            footer {
+                background-color: #000;
+                padding: 20px 0 120px 0;
+                color: #fff;
+            }
+            footer .footer-links {
+                display: flex;
+                width: 100%;
+                justify-content: space-between;
+                align-items: center;
+            }
+            footer .footer-links ul {
+                display: flex;
+                list-style: none;
+                margin: 0;
+                padding: 0;
+            }
+            footer .footer-links ul li {
+                margin: 0 15px;
+            }
+            footer .footer-links ul.social li {
+                margin: 0 10px;
+            }
+            footer .footer-links ul li:first-child {
+                margin-left: 0;
+            }
+            footer .footer-links ul li:last-child {
+                margin-right: 0;
+            }
+            footer .footer-links ul li a {
+                color: white;
+                padding:5px 0;
+                display: inline-block;
+            }
+            footer .footer-links ul li a:hover {
+                text-decoration: underline;
+            }
+            @media screen and (max-width: 768px) {
+                footer div {
+                    flex-direction: column;
+                    text-align: center;
+                }
+                footer .footer-links ul.social {
+                    margin-top: 10px;
+                }
+            }
+            /*** Start content ***/
+            main {
+                width: 65%;
+            }
+            .full {
+                width: 100%;
+            }
+            aside {
+                width: 35%;
+            }
+            main, aside {
+                padding: 30px 20px;
+            }
+            @media screen and (max-width: 768px) {
+                main, aside {
+                    width: 100%;
+                }
+            }
+            aside .inner {
+                margin-bottom: 30px;
+            }
+            aside .inner .title-holder {
+                position: relative;
+            }
+            aside .inner .title-holder:before {
+                content: "";
+                position: absolute;
+                left: 0;
+                bottom: 6px;
+                width: 100%;
+                height: 12px;
+                background-image: linear-gradient(45deg, #eeeeee 20%, #ffffff 20%, #ffffff 50%, #eeeeee 50%, #eeeeee 70%, #ffffff 70%, #ffffff 100%);
+                background-size: 10px 10px;
+            }
+            aside .inner .title {
+                background: #fff;
+                display: inline-block;
+                font-weight: bold;
+                padding-right: 15px;
+                position: relative;
+            }
+            aside .inner ul {
+                margin:0;
+                padding: 15px 0;
+                list-style:none;
+                background: #fff;
+                border-bottom: 2px solid #eee;
+            }
+            aside .inner ul li {
+                margin-bottom: 10px;
+                display: flex;
+                line-height: normal; font-size: 0.9rem;
+            }
+            aside .inner ul li span {
+                background: #f5c345;
+                color: #333;
+                padding: 0 15px;
+                margin: 0 15px 0 0;
+                border-radius: 3px;
+                font-size: 0.9rem;
+                height: 28px;
+                display: inline-flex;
+                align-items: center;
+            }
+            aside .inner ul li a {
+                display: inline-block;
+                margin-top: 6px;
+            }
+            .rating__stars {
+                --star-size: 24px;
+                --star-color: #ddd;
+                --star-background: #ffbf00;
+                --percent: calc(var(--rating) / 5 * 100%);
+                display: inline-block;
+                font-size: var(--star-size);
+                font-family: Times;
+                position: relative;
+                top: 2px;
+            }
+            .rating__stars:before {
+                content: '★★★★★';
+                letter-spacing: 3px;
+                background: linear-gradient(90deg, var(--star-background) var(--percent), var(--star-color) var(--percent));
+                -webkit-background-clip: text;
+                -webkit-text-fill-color: transparent;
+            }
+            .embed-responsive {
+                position: relative;
+                display: block;
+                width: 100%;
+                padding: 0;
+                overflow: hidden;
+            }
+
+            .embed-responsive:before {
+                display: block;
+                content: "";
+                padding-top: 56.25%;
+            }
+
+            .embed-responsive iframe {
+                position: absolute;
+                top: 0;
+                bottom: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                border: 0;
+            }
+            /* Style the list */
+            ul.breadcrumb {
+                padding: 10px 0px;
+                list-style: none;
+            }
+
+            /* Display list items side by side */
+            ul.breadcrumb li {
+                display: inline;
+                font-size: 18px;
+            }
+
+            /* Add a slash symbol (/) before/behind each list item */
+            ul.breadcrumb li+li:before {
+                padding: 8px;
+                color: black;
+                content: "/\00a0";
+            }
+
+            /* Add a color to all links inside the list */
+            ul.breadcrumb li a {
+                color: #0090e3;
+                text-decoration: none;
+            }
+
+            /* Add a color on mouse-over */
+            ul.breadcrumb li a:hover {
+                text-decoration: underline;
+            }
+
+            .d-none {
+                display: none;
+            }
+            .d-block {
+                display: block;
+            }
+
+            @media (min-width: 992px) {
+                .d-md-block {
+                    display: block!important;
+                }
+                .d-md-none {
+                    display: none!important;
+                }
+            }
+        </style>
+                                        <!-- Quantcast Choice. Consent Manager Tag v2.0 (for TCF 2.0) -->
+<script type="text/javascript" async=true>
+    (function() {
+        var host = window.location.hostname;
+        var element = document.createElement('script');
+        var firstScript = document.getElementsByTagName('script')[0];
+        var url = 'https://quantcast.mgr.consensu.org'
+            .concat('/choice/', 'He6NsVBfMn23v', '/', host, '/choice.js')
+        var uspTries = 0;
+        var uspTriesLimit = 3;
+        element.async = true;
+        element.type = 'text/javascript';
+        element.src = url;
+
+        firstScript.parentNode.insertBefore(element, firstScript);
+
+        function makeStub() {
+            var TCF_LOCATOR_NAME = '__tcfapiLocator';
+            var queue = [];
+            var win = window;
+            var cmpFrame;
+
+            function addFrame() {
+                var doc = win.document;
+                var otherCMP = !!(win.frames[TCF_LOCATOR_NAME]);
+
+                if (!otherCMP) {
+                    if (doc.body) {
+                        var iframe = doc.createElement('iframe');
+
+                        iframe.style.cssText = 'display:none';
+                        iframe.name = TCF_LOCATOR_NAME;
+                        doc.body.appendChild(iframe);
+                    } else {
+                        setTimeout(addFrame, 5);
+                    }
+                }
+                return !otherCMP;
+            }
+
+            function tcfAPIHandler() {
+                var gdprApplies;
+                var args = arguments;
+
+                if (!args.length) {
+                    return queue;
+                } else if (args[0] === 'setGdprApplies') {
+                    if (
+                        args.length > 3 &&
+                        args[2] === 2 &&
+                        typeof args[3] === 'boolean'
+                    ) {
+                        gdprApplies = args[3];
+                        if (typeof args[2] === 'function') {
+                            args[2]('set', true);
+                        }
+                    }
+                } else if (args[0] === 'ping') {
+                    var retr = {
+                        gdprApplies: gdprApplies,
+                        cmpLoaded: false,
+                        cmpStatus: 'stub'
+                    };
+
+                    if (typeof args[2] === 'function') {
+                        args[2](retr);
+                    }
+                } else {
+                    queue.push(args);
+                }
+            }
+
+            function postMessageEventHandler(event) {
+                var msgIsString = typeof event.data === 'string';
+                var json = {};
+
+                try {
+                    if (msgIsString) {
+                        json = JSON.parse(event.data);
+                    } else {
+                        json = event.data;
+                    }
+                } catch (ignore) {}
+
+                var payload = json.__tcfapiCall;
+
+                if (payload) {
+                    window.__tcfapi(
+                        payload.command,
+                        payload.version,
+                        function(retValue, success) {
+                            var returnMsg = {
+                                __tcfapiReturn: {
+                                    returnValue: retValue,
+                                    success: success,
+                                    callId: payload.callId
+                                }
+                            };
+                            if (msgIsString) {
+                                returnMsg = JSON.stringify(returnMsg);
+                            }
+                            if (event && event.source && event.source.postMessage) {
+                                event.source.postMessage(returnMsg, '*');
+                            }
+                        },
+                        payload.parameter
+                    );
+                }
+            }
+
+            while (win) {
+                try {
+                    if (win.frames[TCF_LOCATOR_NAME]) {
+                        cmpFrame = win;
+                        break;
+                    }
+                } catch (ignore) {}
+
+                if (win === window.top) {
+                    break;
+                }
+                win = win.parent;
+            }
+            if (!cmpFrame) {
+                addFrame();
+                win.__tcfapi = tcfAPIHandler;
+                win.addEventListener('message', postMessageEventHandler, false);
+            }
+        };
+
+        makeStub();
+
+        var uspStubFunction = function() {
+            var arg = arguments;
+            if (typeof window.__uspapi !== uspStubFunction) {
+                setTimeout(function() {
+                    if (typeof window.__uspapi !== 'undefined') {
+                        window.__uspapi.apply(window.__uspapi, arg);
+                    }
+                }, 500);
+            }
+        };
+
+        var checkIfUspIsReady = function() {
+            uspTries++;
+            if (window.__uspapi === uspStubFunction && uspTries < uspTriesLimit) {
+                console.warn('USP is not accessible');
+            } else {
+                clearInterval(uspInterval);
+            }
+        };
+
+        if (typeof window.__uspapi === 'undefined') {
+            window.__uspapi = uspStubFunction;
+            var uspInterval = setInterval(checkIfUspIsReady, 6000);
+        }
+    })();
+</script>
+<!-- End Quantcast Choice. Consent Manager Tag v2.0 (for TCF 2.0) -->            <script async src="https://tags.refinery89.com/v2/todasasrespostaspt.js"></script>
+            
+                <script async src="https://www.googletagmanager.com/gtag/js?id=G-EWG8N9N2E0"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'G-EWG8N9N2E0');
+        </script>
+    </head>
+<body>
+
+<header>
+    <div class="container">
+        <span class="logo">
+        <a href="/">
+            <svg width="251.35" height="45" viewBox="0 0 942 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M68.1407 93.8492C64.1379 93.8492 60.8971 97.1852 60.8971 101.188C60.8971 105.096 64.0424 108.527 68.1407 108.527C72.239 108.527 75.4798 105.096 75.4798 101.188C75.4798 97.1852 72.1441 93.8492 68.1407 93.8492Z" fill="white"/>
+            <path d="M69.38 38.2818C56.5129 38.2818 50.6036 45.9066 50.6036 51.0535C50.6036 54.7709 53.7487 56.4864 56.3223 56.4864C61.469 56.4864 59.3722 49.1474 69.094 49.1474C73.8598 49.1474 77.6723 51.2444 77.6723 55.6287C77.6723 60.7759 72.3348 63.7303 69.1895 66.3991C66.4255 68.7818 62.8036 72.6898 62.8036 80.8866C62.8036 85.8427 64.1377 87.2725 68.0457 87.2725C72.716 87.2725 73.6689 85.1758 73.6689 83.3648C73.6689 78.4085 73.7646 75.5491 79.0067 71.4509C81.58 69.4493 89.6817 62.968 89.6817 54.0086C89.6817 45.0491 81.58 38.2818 69.38 38.2818Z" fill="white"/>
+            <path d="M70 0C108.687 0 140 31.3078 140 70V134.531C140 137.552 137.552 140 134.531 140H70C31.3132 140 0 108.692 0 70C0 31.313 31.3078 0 70 0ZM70 129.062H129.062V70C129.062 37.3579 102.647 10.9375 70 10.9375C37.3579 10.9375 10.9375 37.3535 10.9375 70C10.9375 102.642 37.3535 129.062 70 129.062Z" fill="#2D6FF7"/>
+            <path d="M167.314 42.1797V55.168H176.348V65.5195H167.314V91.8867C167.314 93.8398 167.689 95.2396 168.438 96.0859C169.186 96.9323 170.618 97.3555 172.734 97.3555C174.297 97.3555 175.68 97.2415 176.885 97.0137V107.707C174.118 108.553 171.27 108.977 168.34 108.977C158.444 108.977 153.398 103.98 153.203 93.9863V65.5195H145.488V55.168H153.203V42.1797H167.314ZM180.547 81.0957C180.547 75.8548 181.556 71.1836 183.574 67.082C185.592 62.9805 188.49 59.8066 192.266 57.5605C196.074 55.3145 200.485 54.1914 205.498 54.1914C212.627 54.1914 218.438 56.3724 222.93 60.7344C227.454 65.0964 229.977 71.0208 230.498 78.5078L230.596 82.1211C230.596 90.2266 228.333 96.737 223.809 101.652C219.284 106.535 213.213 108.977 205.596 108.977C197.979 108.977 191.891 106.535 187.334 101.652C182.809 96.7695 180.547 90.1289 180.547 81.7305V81.0957ZM194.658 82.1211C194.658 87.1341 195.602 90.9753 197.49 93.6445C199.378 96.2812 202.08 97.5996 205.596 97.5996C209.014 97.5996 211.683 96.2975 213.604 93.6934C215.524 91.0566 216.484 86.8574 216.484 81.0957C216.484 76.1803 215.524 72.3717 213.604 69.6699C211.683 66.9681 208.981 65.6172 205.498 65.6172C202.048 65.6172 199.378 66.9681 197.49 69.6699C195.602 72.3392 194.658 76.4896 194.658 82.1211ZM237.09 81.1934C237.09 72.9577 238.929 66.3984 242.607 61.5156C246.318 56.6328 251.38 54.1914 257.793 54.1914C262.936 54.1914 267.184 56.112 270.537 59.9531V33H284.697V108H271.953L271.27 102.385C267.754 106.779 263.229 108.977 257.695 108.977C251.478 108.977 246.481 106.535 242.705 101.652C238.962 96.737 237.09 89.9173 237.09 81.1934ZM251.201 82.2188C251.201 87.1667 252.064 90.959 253.789 93.5957C255.514 96.2324 258.021 97.5508 261.309 97.5508C265.671 97.5508 268.747 95.7116 270.537 92.0332V71.1836C268.779 67.5052 265.736 65.666 261.406 65.666C254.603 65.666 251.201 71.1836 251.201 82.2188ZM326.25 108C325.599 106.73 325.127 105.152 324.834 103.264C321.416 107.072 316.973 108.977 311.504 108.977C306.328 108.977 302.031 107.479 298.613 104.484C295.228 101.49 293.535 97.7135 293.535 93.1562C293.535 87.5573 295.602 83.2604 299.736 80.2656C303.903 77.2708 309.909 75.7572 317.754 75.7246H324.248V72.6973C324.248 70.2559 323.613 68.3027 322.344 66.8379C321.107 65.373 319.137 64.6406 316.436 64.6406C314.059 64.6406 312.188 65.2103 310.82 66.3496C309.486 67.4889 308.818 69.0514 308.818 71.0371H294.707C294.707 67.9772 295.651 65.1452 297.539 62.541C299.427 59.9368 302.096 57.9023 305.547 56.4375C308.997 54.9401 312.871 54.1914 317.168 54.1914C323.678 54.1914 328.838 55.8353 332.646 59.123C336.488 62.3783 338.408 66.9681 338.408 72.8926V95.793C338.441 100.806 339.141 104.598 340.508 107.17V108H326.25ZM314.58 98.1855C316.663 98.1855 318.584 97.7298 320.342 96.8184C322.1 95.8743 323.402 94.6211 324.248 93.0586V83.9766H318.975C311.911 83.9766 308.151 86.418 307.695 91.3008L307.646 92.1309C307.646 93.8887 308.265 95.3372 309.502 96.4766C310.739 97.6159 312.432 98.1855 314.58 98.1855ZM377.861 93.4004C377.861 91.6751 376.999 90.3242 375.273 89.3477C373.581 88.3385 370.846 87.4434 367.07 86.6621C354.505 84.0254 348.223 78.6868 348.223 70.6465C348.223 65.959 350.16 62.0527 354.033 58.9277C357.939 55.7702 363.034 54.1914 369.316 54.1914C376.022 54.1914 381.377 55.7702 385.381 58.9277C389.417 62.0853 391.436 66.1868 391.436 71.2324H377.324C377.324 69.2142 376.673 67.554 375.371 66.252C374.069 64.9173 372.035 64.25 369.268 64.25C366.891 64.25 365.052 64.7871 363.75 65.8613C362.448 66.9355 361.797 68.3027 361.797 69.9629C361.797 71.5254 362.529 72.7949 363.994 73.7715C365.492 74.7155 367.998 75.5456 371.514 76.2617C375.029 76.9453 377.992 77.7266 380.4 78.6055C387.855 81.3398 391.582 86.0762 391.582 92.8145C391.582 97.6322 389.515 101.538 385.381 104.533C381.247 107.495 375.908 108.977 369.365 108.977C364.938 108.977 360.999 108.195 357.549 106.633C354.131 105.038 351.445 102.873 349.492 100.139C347.539 97.3717 346.562 94.3932 346.562 91.2031H359.941C360.072 93.7096 360.999 95.6302 362.725 96.9648C364.45 98.2995 366.761 98.9668 369.658 98.9668C372.36 98.9668 374.395 98.4622 375.762 97.4531C377.161 96.4115 377.861 95.0605 377.861 93.4004ZM434.746 108C434.225 106.958 433.802 105.103 433.477 102.434C429.277 106.796 424.264 108.977 418.438 108.977C413.229 108.977 408.949 107.512 405.596 104.582C402.275 101.62 400.615 97.8763 400.615 93.3516C400.615 87.8503 402.699 83.5859 406.865 80.5586C411.064 77.4987 416.956 75.9688 424.541 75.9688H433.33V71.8184C433.33 68.6608 432.386 66.1543 430.498 64.2988C428.61 62.4108 425.827 61.4668 422.148 61.4668C418.926 61.4668 416.224 62.2806 414.043 63.9082C411.862 65.5358 410.771 67.5052 410.771 69.8164H401.689C401.689 67.1797 402.617 64.6406 404.473 62.1992C406.361 59.7253 408.9 57.7721 412.09 56.3398C415.312 54.9076 418.844 54.1914 422.686 54.1914C428.773 54.1914 433.542 55.7214 436.992 58.7812C440.443 61.8086 442.233 65.9915 442.363 71.3301V95.6465C442.363 100.497 442.982 104.354 444.219 107.219V108H434.746ZM419.756 101.115C422.588 101.115 425.273 100.383 427.812 98.918C430.352 97.4531 432.191 95.5488 433.33 93.2051V82.3652H426.25C415.182 82.3652 409.648 85.6042 409.648 92.082C409.648 94.9141 410.592 97.1276 412.48 98.7227C414.368 100.318 416.794 101.115 419.756 101.115ZM487.285 93.9863C487.285 91.5449 486.357 89.6569 484.502 88.3223C482.679 86.9551 479.473 85.7832 474.883 84.8066C470.326 83.8301 466.696 82.6582 463.994 81.291C461.325 79.9238 459.339 78.2962 458.037 76.4082C456.768 74.5202 456.133 72.2741 456.133 69.6699C456.133 65.3405 457.956 61.6784 461.602 58.6836C465.28 55.6888 469.967 54.1914 475.664 54.1914C481.654 54.1914 486.504 55.7376 490.215 58.8301C493.958 61.9225 495.83 65.8776 495.83 70.6953H486.748C486.748 68.2214 485.69 66.0892 483.574 64.2988C481.491 62.5085 478.854 61.6133 475.664 61.6133C472.376 61.6133 469.805 62.3294 467.949 63.7617C466.094 65.194 465.166 67.0658 465.166 69.377C465.166 71.5579 466.029 73.2018 467.754 74.3086C469.479 75.4154 472.588 76.4733 477.08 77.4824C481.605 78.4915 485.267 79.696 488.066 81.0957C490.866 82.4954 492.933 84.1882 494.268 86.1738C495.635 88.127 496.318 90.5195 496.318 93.3516C496.318 98.0716 494.43 101.864 490.654 104.729C486.878 107.561 481.979 108.977 475.957 108.977C471.725 108.977 467.982 108.228 464.727 106.73C461.471 105.233 458.916 103.15 457.061 100.48C455.238 97.7786 454.326 94.8652 454.326 91.7402H463.359C463.522 94.7676 464.727 97.1764 466.973 98.9668C469.251 100.725 472.246 101.604 475.957 101.604C479.375 101.604 482.109 100.92 484.16 99.5527C486.243 98.153 487.285 96.2975 487.285 93.9863ZM536.357 68.4004C534.437 68.14 532.744 68.0098 531.279 68.0098C525.941 68.0098 522.441 69.8164 520.781 73.4297V108H506.67V55.168H520L520.391 61.4668C523.223 56.6165 527.145 54.1914 532.158 54.1914C533.721 54.1914 535.186 54.403 536.553 54.8262L536.357 68.4004ZM566.533 108.977C558.786 108.977 552.471 106.6 547.588 101.848C542.738 97.0951 540.312 90.7637 540.312 82.8535V81.4863C540.312 76.1803 541.338 71.444 543.389 67.2773C545.439 63.0781 548.337 59.8555 552.08 57.6094C555.856 55.3307 560.153 54.1914 564.971 54.1914C572.197 54.1914 577.878 56.4701 582.012 61.0273C586.178 65.5846 588.262 72.0462 588.262 80.4121V86.1738H554.619C555.075 89.6243 556.442 92.3913 558.721 94.4746C561.032 96.5579 563.945 97.5996 567.461 97.5996C572.897 97.5996 577.145 95.6302 580.205 91.6914L587.139 99.4551C585.023 102.45 582.158 104.794 578.545 106.486C574.932 108.146 570.928 108.977 566.533 108.977ZM564.922 65.6172C562.122 65.6172 559.844 66.5612 558.086 68.4492C556.361 70.3372 555.254 73.0391 554.766 76.5547H574.395V75.4316C574.329 72.3066 573.483 69.8978 571.855 68.2051C570.228 66.4798 567.917 65.6172 564.922 65.6172ZM624.932 93.4004C624.932 91.6751 624.069 90.3242 622.344 89.3477C620.651 88.3385 617.917 87.4434 614.141 86.6621C601.576 84.0254 595.293 78.6868 595.293 70.6465C595.293 65.959 597.23 62.0527 601.104 58.9277C605.01 55.7702 610.104 54.1914 616.387 54.1914C623.092 54.1914 628.447 55.7702 632.451 58.9277C636.488 62.0853 638.506 66.1868 638.506 71.2324H624.395C624.395 69.2142 623.743 67.554 622.441 66.252C621.139 64.9173 619.105 64.25 616.338 64.25C613.962 64.25 612.122 64.7871 610.82 65.8613C609.518 66.9355 608.867 68.3027 608.867 69.9629C608.867 71.5254 609.6 72.7949 611.064 73.7715C612.562 74.7155 615.068 75.5456 618.584 76.2617C622.1 76.9453 625.062 77.7266 627.471 78.6055C634.925 81.3398 638.652 86.0762 638.652 92.8145C638.652 97.6322 636.585 101.538 632.451 104.533C628.317 107.495 622.979 108.977 616.436 108.977C612.008 108.977 608.07 108.195 604.619 106.633C601.201 105.038 598.516 102.873 596.562 100.139C594.609 97.3717 593.633 94.3932 593.633 91.2031H607.012C607.142 93.7096 608.07 95.6302 609.795 96.9648C611.52 98.2995 613.831 98.9668 616.729 98.9668C619.43 98.9668 621.465 98.4622 622.832 97.4531C624.232 96.4115 624.932 95.0605 624.932 93.4004ZM695.342 82.0723C695.342 90.2103 693.486 96.737 689.775 101.652C686.097 106.535 681.117 108.977 674.834 108.977C669.495 108.977 665.182 107.121 661.895 103.41V128.312H647.783V55.168H660.869L661.357 60.3438C664.775 56.2422 669.235 54.1914 674.736 54.1914C681.247 54.1914 686.309 56.6003 689.922 61.418C693.535 66.2357 695.342 72.8763 695.342 81.3398V82.0723ZM681.23 81.0469C681.23 76.1315 680.352 72.3392 678.594 69.6699C676.868 67.0007 674.346 65.666 671.025 65.666C666.598 65.666 663.555 67.3587 661.895 70.7441V92.375C663.62 95.8581 666.696 97.5996 671.123 97.5996C677.861 97.5996 681.23 92.082 681.23 81.0469ZM701.934 81.0957C701.934 75.8548 702.943 71.1836 704.961 67.082C706.979 62.9805 709.876 59.8066 713.652 57.5605C717.461 55.3145 721.872 54.1914 726.885 54.1914C734.014 54.1914 739.824 56.3724 744.316 60.7344C748.841 65.0964 751.364 71.0208 751.885 78.5078L751.982 82.1211C751.982 90.2266 749.72 96.737 745.195 101.652C740.671 106.535 734.6 108.977 726.982 108.977C719.365 108.977 713.278 106.535 708.721 101.652C704.196 96.7695 701.934 90.1289 701.934 81.7305V81.0957ZM716.045 82.1211C716.045 87.1341 716.989 90.9753 718.877 93.6445C720.765 96.2812 723.467 97.5996 726.982 97.5996C730.4 97.5996 733.07 96.2975 734.99 93.6934C736.911 91.0566 737.871 86.8574 737.871 81.0957C737.871 76.1803 736.911 72.3717 734.99 69.6699C733.07 66.9681 730.368 65.6172 726.885 65.6172C723.434 65.6172 720.765 66.9681 718.877 69.6699C716.989 72.3392 716.045 76.4896 716.045 82.1211ZM789.287 93.4004C789.287 91.6751 788.424 90.3242 786.699 89.3477C785.007 88.3385 782.272 87.4434 778.496 86.6621C765.931 84.0254 759.648 78.6868 759.648 70.6465C759.648 65.959 761.585 62.0527 765.459 58.9277C769.365 55.7702 774.46 54.1914 780.742 54.1914C787.448 54.1914 792.803 55.7702 796.807 58.9277C800.843 62.0853 802.861 66.1868 802.861 71.2324H788.75C788.75 69.2142 788.099 67.554 786.797 66.252C785.495 64.9173 783.46 64.25 780.693 64.25C778.317 64.25 776.478 64.7871 775.176 65.8613C773.874 66.9355 773.223 68.3027 773.223 69.9629C773.223 71.5254 773.955 72.7949 775.42 73.7715C776.917 74.7155 779.424 75.5456 782.939 76.2617C786.455 76.9453 789.417 77.7266 791.826 78.6055C799.281 81.3398 803.008 86.0762 803.008 92.8145C803.008 97.6322 800.941 101.538 796.807 104.533C792.673 107.495 787.334 108.977 780.791 108.977C776.364 108.977 772.425 108.195 768.975 106.633C765.557 105.038 762.871 102.873 760.918 100.139C758.965 97.3717 757.988 94.3932 757.988 91.2031H771.367C771.497 93.7096 772.425 95.6302 774.15 96.9648C775.876 98.2995 778.187 98.9668 781.084 98.9668C783.786 98.9668 785.82 98.4622 787.188 97.4531C788.587 96.4115 789.287 95.0605 789.287 93.4004ZM829.033 42.1797V55.168H838.066V65.5195H829.033V91.8867C829.033 93.8398 829.408 95.2396 830.156 96.0859C830.905 96.9323 832.337 97.3555 834.453 97.3555C836.016 97.3555 837.399 97.2415 838.604 97.0137V107.707C835.837 108.553 832.988 108.977 830.059 108.977C820.163 108.977 815.117 103.98 814.922 93.9863V65.5195H807.207V55.168H814.922V42.1797H829.033ZM876.543 108C875.892 106.73 875.42 105.152 875.127 103.264C871.709 107.072 867.266 108.977 861.797 108.977C856.621 108.977 852.324 107.479 848.906 104.484C845.521 101.49 843.828 97.7135 843.828 93.1562C843.828 87.5573 845.895 83.2604 850.029 80.2656C854.196 77.2708 860.202 75.7572 868.047 75.7246H874.541V72.6973C874.541 70.2559 873.906 68.3027 872.637 66.8379C871.4 65.373 869.43 64.6406 866.729 64.6406C864.352 64.6406 862.48 65.2103 861.113 66.3496C859.779 67.4889 859.111 69.0514 859.111 71.0371H845C845 67.9772 845.944 65.1452 847.832 62.541C849.72 59.9368 852.389 57.9023 855.84 56.4375C859.29 54.9401 863.164 54.1914 867.461 54.1914C873.971 54.1914 879.131 55.8353 882.939 59.123C886.781 62.3783 888.701 66.9681 888.701 72.8926V95.793C888.734 100.806 889.434 104.598 890.801 107.17V108H876.543ZM864.873 98.1855C866.956 98.1855 868.877 97.7298 870.635 96.8184C872.393 95.8743 873.695 94.6211 874.541 93.0586V83.9766H869.268C862.204 83.9766 858.444 86.418 857.988 91.3008L857.939 92.1309C857.939 93.8887 858.558 95.3372 859.795 96.4766C861.032 97.6159 862.725 98.1855 864.873 98.1855ZM928.154 93.4004C928.154 91.6751 927.292 90.3242 925.566 89.3477C923.874 88.3385 921.139 87.4434 917.363 86.6621C904.798 84.0254 898.516 78.6868 898.516 70.6465C898.516 65.959 900.452 62.0527 904.326 58.9277C908.232 55.7702 913.327 54.1914 919.609 54.1914C926.315 54.1914 931.67 55.7702 935.674 58.9277C939.71 62.0853 941.729 66.1868 941.729 71.2324H927.617C927.617 69.2142 926.966 67.554 925.664 66.252C924.362 64.9173 922.327 64.25 919.561 64.25C917.184 64.25 915.345 64.7871 914.043 65.8613C912.741 66.9355 912.09 68.3027 912.09 69.9629C912.09 71.5254 912.822 72.7949 914.287 73.7715C915.785 74.7155 918.291 75.5456 921.807 76.2617C925.322 76.9453 928.285 77.7266 930.693 78.6055C938.148 81.3398 941.875 86.0762 941.875 92.8145C941.875 97.6322 939.808 101.538 935.674 104.533C931.54 107.495 926.201 108.977 919.658 108.977C915.231 108.977 911.292 108.195 907.842 106.633C904.424 105.038 901.738 102.873 899.785 100.139C897.832 97.3717 896.855 94.3932 896.855 91.2031H910.234C910.365 93.7096 911.292 95.6302 913.018 96.9648C914.743 98.2995 917.054 98.9668 919.951 98.9668C922.653 98.9668 924.688 98.4622 926.055 97.4531C927.454 96.4115 928.154 95.0605 928.154 93.4004Z" fill="white"/>
+        </svg>
+        </a>
+        </span>
+        <span class="main-nav">
+            <ul>
+                <li><a href="/artigos">Artigos</a></li>
+                <li><a href="/tendendo">Tendências</a></li>
+                <li><a href="/popular">+Populares</a></li>
+            </ul>
+        </span>
+        <span class="search-header">
+            <span class="input-group">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="18" height="18"><path fill="#2D6FF7" d="M495 466.2L377.2 348.4c29.2-35.6 46.8-81.2 46.8-130.9C424 103.5 331.5 11 217.5 11 103.4 11 11 103.5 11 217.5S103.4 424 217.5 424c49.7 0 95.2-17.5 130.8-46.7L466.1 495c8 8 20.9 8 28.9 0 8-7.9 8-20.9 0-28.8zm-277.5-83.3C126.2 382.9 52 308.7 52 217.5S126.2 52 217.5 52C308.7 52 383 126.3 383 217.5s-74.3 165.4-165.5 165.4z"></path></svg>
+                <input type="text" id="search-header-input" placeholder="Procure por qualquer pergunta" data-target="search-header-result">
+            </span>
+            <div id="search-header-result" style="display:none;"></div>
+        </span>
+    </div>
+</header>
+            <div style="margin-top: 30px; display: flex; align-items: center; justify-content: center;" class="d-none d-md-block">
+            <div style="min-height:250px;" class="r89-desktop-billboard-atf d-none d-md-block"></div>
+        </div>
+    
+<div class="container">
+<main>
+    <div>
+        
+        <h1>O que e saudade?</h1>
+        <b><svg style="float: left;margin-right: 10px;" width="21" height="21" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M10 5a2 2 0 1 1-4 0 2 2 0 0 1 4 0zM8 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm6 5c0 1-1 1-1 1H3s-1 0-1-1 1-4 6-4 6 3 6 4zm-1-.004c-.001-.246-.154-.986-.832-1.664C11.516 10.68 10.289 10 8 10c-2.29 0-3.516.68-4.168 1.332-.678.678-.83 1.418-.832 1.664h10z"/>
+            </svg>Perguntado por: Erica Patrícia de Fernandes</b>&nbsp;&nbsp;|&nbsp;&nbsp;Última atualização: 4. Februar 2022</b><br>
+        <div class="rating__stars" style="--rating: 4.7;" aria-label="A pontuação é 4.7 de 5."></div>
+        <span>Pontuação: 4.7/5</span>
+        (<span>15 avaliações</span>)
+        <p><p>Saudade é uma das palavras mais presentes na poesia de amor da língua portuguesa e também na música popular. "Saudade" descreve a mistura dos sentimentos de perda, falta, distância e amor.</p></p>
+
+                    <div style="text-align: center; margin: 20px">
+                <div style="min-height:280px;" class="r89-mobile-billboard-top d-block d-md-none"></div>
+            </div>
+        
+        <h2>Como explicar o que é saudade?</h2>
+        <p>Saudade é um sentimento causado pela distância ou ausência de algo ou alguém. Tem origem no latim, com o significado de solidão. ... O termo saudade gerou muitos derivados, como saudosismo, e aquele que sente saudades de algo ou alguma coisa, é o saudosista.<p>
+
+        <h2>Como descrever uma saudade?</h2>
+        <p>Saudade é um sentimento muito mais forte do que simplesmente sentir falta de alguém. É uma nostalgia profunda, com um carinho gigante. É o sentimento de querer que alguém esteja perto, é um olhar para o passado com amor. É difícil descrever a saudade, mas é tão fácil senti-la.</p>
+
+                    <div style="text-align: center; margin: 20px">
+                <div style="min-height:250px;" class="r89-outstream-video"></div>
+            </div>
+        
+        <h2>Quais são os sintomas da saudade?</h2>
+        <p><div>13 sinais de que você está com sintomas de saudade</div><div><ol><li>Você se pega pensando na pessoa várias vezes ao dia. ... </li><li>Parece que tudo te lembra aquela pessoa. ... </li><li>Em um momento você fica feliz lembrando dela, no outro se toca que está longe e fica arrasada. ... </li><li>Às vezes é tão forte que chega a doer fisicamente o coração.</li></ol><div></div></div></p>
+
+        <h2>Porque a gente sente saudade?</h2>
+        <p>De acordo com a psicóloga e psicoterapeuta Olga Inês Tessari, saudade é um sentimento que faz parte da natureza humana, que se manifesta em algum momento da vida e está relacionada a pessoas, fatos ou situações vivenciadas no passado. ... A saudade pode ter um significado positivo ou negativo.</p>
+
+                    <div style="text-align: center; margin: 20px">
+                <div style="min-height:250px;" class="r89-desktop-rectangle-btf d-none d-md-block"></div>
+                <div style="min-height:280px;" class="r89-mobile-rectangle-mid d-md-none"></div>
+            </div>
+        
+                    <h2>o que é saudade?</h2>
+            <p><div class="embed-responsive embed-responsive-16by9">
+            <iframe loading="lazy" title="o que é saudade?" src="https://www.youtube.com/embed/YQJCytWVpyM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div></p>
+            </div>
+
+    <div style="margin-top: 30px;">
+    <b><svg style="float:left;margin-right: 10px;" width="21" height="21" viewBox="0 0 16 16" fill="#1fae5b" xmlns="http://www.w3.org/2000/svg">
+            <path fill-rule="evenodd" d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16zm.93-9.412l-2.29.287-.082.38.45.083c.294.07.352.176.288.469l-.738 3.468c-.194.897.105 1.319.808 1.319.545 0 1.178-.252 1.465-.598l.088-.416c-.2.176-.492.246-.686.246-.275 0-.375-.193-.304-.533L8.93 6.588zM8 5.5a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"/>
+
+        </svg>44 questões relacionadas encontradas</b>
+            <div>
+        <h3>O que fazer quando você está com saudade de alguém?</h3>
+                <p><div>Especialistas dão dicas de como transformar a saudade em algo que pode fazer bem</div><div><ol><li>'Tento lembrar deles sempre com alegria' Rosângela Lopes. ... </li><li>Respeitar a dor do outro é fundamental. ... </li><li>Viver o luto. ... </li><li>Arrumar uma distração. ... </li><li>Manter a vida normal. ... </li><li>Não se isolar. ... </li><li>Conversar sobre a saudade. ... </li><li>Evitar vícios.</li></ol><div></div></div></p>
+        </div>
+
+                            
+            <div>
+        <h3>Quando sentir saudades de alguém que amamos?</h3>
+                <p>A distância faz a gente sentir saudade de quem amamos, mas o tempo e a coragem nos fazem seguir em frente em nossa vida. Dê valor as coisas enquanto as possui. Pois sentir saudade não é motivo suficiente para tê-las de volta. Ando tão cansada de tudo isso, de lembrar como era bom antigamente e sentir saudades.</p>
+        </div>
+
+                            
+            <div>
+        <h3>É possível uma pessoa ficar doente de saudade?</h3>
+                <p>— Muita gente usa mal o termo saudade, para definir uma lamentação do que não se tem. Quem fica nessa tristeza e apatia pode adoecer fisicamente, porque o organismo começa a sofrer devido à ausência de espírito e vitalidade no corpo.</p>
+        </div>
+
+                            
+            <div>
+        <h3>É possível passar mal de saudade?</h3>
+                <p>Saudade pode provocar sintomas parecidos aos da crise de abstinência, indica estudo. RIO - Ficar longe da pessoa amada pode provocar sensações semelhantes a da abstinência de drogas.</p>
+        </div>
+
+                                    <div style="text-align: center;">
+                    <div style="min-height:250px;" class="r89-desktop-rectangle-btf-1 d-none d-md-block"></div>
+                    <div style="min-height:280px;" class="r89-mobile-rectangle-infinite-1 d-md-none"></div>
+                </div>
+                    
+            <div>
+        <h3>Como fazer a pessoa sentir sua falta no whatsapp?</h3>
+                <p>Para isso, não seja drástica. Dessa forma, comece a dar gelo aos poucos, deixando ele perceber que está te perdendo. Se você é muito simpática, manda mensagens todos os dias, fala com ele direto, é excessivamente carinhosa, pare agora!</p>
+        </div>
+
+                            
+            <div>
+        <h3>Quais tipos de saudade?</h3>
+                <p>As quatro formas de saudade: presente, nostálgica, magoada e insana.</p>
+        </div>
+
+                            
+            <div>
+        <h3>O que significa saudade amor?</h3>
+                <p>A saudade é um paradoxo: ao mesmo tempo em que aperta o nosso coração, preenche ele de amor. ... Ao sentir saudade revivemos automaticamente momentos, sensações e sentimentos. Através dela, acessamos todo um passado já vivido e também um futuro que ficou por viver.</p>
+        </div>
+
+                            
+            <div>
+        <h3>O que é ser uma pessoa saudosista?</h3>
+                <p>Saudosismo é a admiração excessiva por aspectos do passado, desde comportamentos, hábitos, princípios e outros ideais obsoletos e ultrapassados. O indivíduo que age com saudosismo é considerado um saudosista.</p>
+        </div>
+
+                                    <div style="text-align: center;">
+                    <div style="min-height:250px;" class="r89-desktop-rectangle-btf-2 d-none d-md-block"></div>
+                    <div style="min-height:280px;" class="r89-mobile-rectangle-infinite-2 d-md-none"></div>
+                </div>
+                    
+            <div>
+        <h3>O que tem de bom na saudade?</h3>
+                <p>Pesquisadores apontam que a saudade traz conforto e significado para as nossas vidas. Da mesma forma, esse sentimento nostálgico reforça a impressão de que estamos conectados com pessoas, confirmando nossa identidade por meio do pertencimento a um grupo social.</p>
+        </div>
+
+                            
+            <div>
+        <h3>Quanto tempo leva para uma pessoa sentir sua falta?</h3>
+                <p>Há casos em que após algumas horas ou dias ele se arrependa do que fez e já começa a sentir falta, enquanto em outros casos o ex vai sentir essa falta após uma ou duas semanas, por exemplo. Saiba que cada pessoa leva um tempo diferente para assimilar o que aconteceu e não é todos os casos em que o ex volta.</p>
+        </div>
+
+                            
+            <div>
+        <h3>Pode uma pessoa ficar doente por amor?</h3>
+                <p>O amor patológico pode atingir, principalmente as mulheres com mais de 30 anos e que não têm um relacionamento estável. As mulheres estão mais seletivas e depois de determinada idade, quando encontram um parceiro, ficam doentes por ele e são capazes de fazer tudo para não perder essa relação.</p>
+        </div>
+
+                            
+            <div>
+        <h3>Como saber se uma pessoa orgulhosa sente sua falta?</h3>
+                <p><div>Conheça agora os 7 sinais mais frequentes que um homem dá quando está com saudades.</div><div><ol><li>Ele te manda mensagem nas redes sociais e no WhatsApp sempre. ... </li><li>Ligações sem motivos. ... </li><li>Indiretas no Facebook, Instagram e até no Twitter. ... </li><li>Ele sempre te chama quando você está online. ... </li><li>O assunto não importa. ... </li><li>Ele fala de você para os amigos.</li></ol><div></div></div></p>
+        </div>
+
+                                    <div style="text-align: center;">
+                    <div style="min-height:250px;" class="r89-desktop-rectangle-btf-lazy d-none d-md-block"></div>
+                    <div style="min-height:280px;" class="r89-mobile-rectangle-infinite-lazy d-md-none"></div>
+                </div>
+                    
+            <div>
+        <h3>O que a saudade pode causar doenças?</h3>
+                <p>O sentimento de solidão, que é quando a pessoa está ou se sente só, traz consequências ruins à saúde, pois causa tristeza, interfere no bem-estar e facilita o desenvolvimento de doenças como estresse, ansiedade ou depressão.</p>
+        </div>
+
+                            
+            <div>
+        <h3>É normal sentir tanta falta de alguém?</h3>
+                <p>Como dissemos, sentir falta é normal, mas precisamos não focar tanto nela. Para saber mais informações sobre como tratar esse e outros tipos de sentimento, faça um curso de Psicanálise.</p>
+        </div>
+
+                            
+            <div>
+        <h3>Qual a diferença de sentir saudade e sentir falta?</h3>
+                <p>Sentir falta é diferente de sentir saudade. A saudade bate, agonia, estremece. ... A saudade é a certeza que a pessoa vai voltar. A falta, é o querer ter de volta, mas saber que não vai ter.</p>
+        </div>
+
+                            
+            <div>
+        <h3>O que significa sentir saudades de uma pessoa?</h3>
+                <p>É um sentimento de agonia em que, mesmo que a presença ainda esteja entrelaçada à memória, ela já não existe. Já se foi, partiu, deixando marcas e não mais voltará. É o querer ter de volta e saber que não vai ter. Sentir falta não ocorre o tempo todo, mas, quando ocorre, entristece, pesa.</p>
+        </div>
+
+                                    <div style="text-align: center;">
+                    <div style="min-height:250px;" class="r89-desktop-rectangle-btf-lazy d-none d-md-block"></div>
+                    <div style="min-height:280px;" class="r89-mobile-rectangle-infinite-lazy d-md-none"></div>
+                </div>
+                    
+            <div>
+        <h3>Como identificar um texto saudosista?</h3>
+                <p>Quanto à linguagem utilizada, os Saudosistas davam preferência a uma expressividade mais tradicional, clássica, através do “verso escultural” de Pascoaes, e não se preocupavam muito em analisar o subconsciente. Davam, antes, preferência ao pensamento intuitivo e à criação de mitos.</p>
+        </div>
+
+                            
+            <div>
+        <h3>Qual a diferença entre nostalgia saudade e saudosismo?</h3>
+                <p>A nostalgia não se resume somente na saudade das pessoas, mas também na saudade dos lugares que um dia moramos, frequentamos e dos bons momentos que foram passados ao lado de pessoas que sentimos falta. ... O saudosista é aquele que quer viver do passado, enquanto o nostálgico, faz do passado, inspiração para a vida.</p>
+        </div>
+
+                            
+            <div>
+        <h3>O que é saudosismo no romantismo?</h3>
+                <p>Sentimentalismo ou saudosismo:<br><br> No romantismo exaltam-se os sentidos e tudo o que é provocado pelo impulso. Certos sentimentos como a saudade (saudosismo), a tristeza, a nostalgia e a desilusão são constantes na obra romântica. Segundo Massaud Moisés no livro “A Literatura Portuguesa”: “…</p>
+        </div>
+
+                            
+            <div>
+        <h3>Quais são os tipos de sentimentos?</h3>
+                <p>Um sentimento é considerado positivo quando provoca uma sensação de bem-estar, gerando prazer e satisfação. Um sentimento é considerado negativo quando provoca uma sensação de mal-estar, gerando incômodo e desagrado.</p>
+        </div>
+
+                                    <div style="text-align: center;">
+                    <div style="min-height:250px;" class="r89-desktop-rectangle-btf-lazy d-none d-md-block"></div>
+                    <div style="min-height:280px;" class="r89-mobile-rectangle-infinite-lazy d-md-none"></div>
+                </div>
+                    
+    
+        <div style="display: flex">
+                            <div style="flex-grow: 1; margin-top: 20px;">
+                    &#8592; <i>Artigo anterior</i><br>
+                    <a href="/como-por-codigo-na-steam">Como por codigo na steam?</a>
+                </div>
+                                        <div style="text-align: right; margin-top: 20px; flex-grow: 1;">
+                    <i>Artigo seguinte</i> &#8594;<br>
+                    <a href="/com-quantos-meses-os-dentes-nascem">Com quantos meses os dentes nascem?</a>
+                </div>
+                    </div>
+    </div>
+</main>
+
+<aside>
+
+        <div class="inner">
+        <div class="title-holder">
+            <span class="title">Questões semelhantes</span>
+        </div>
+        <ul>
+                            <li><span>27</span><a href="/como-saber-quantas-parcelas-do-seguro-desemprego-tenho-direito">Como saber quantas parcelas do seguro desemprego tenho direito?</a></li>
+                            <li><span>37</span><a href="/qual-o-animal-que-representa-oxum">Qual o animal que representa Oxum?</a></li>
+                            <li><span>30</span><a href="/onde-colocar-tomada-20a">Onde colocar tomada 20A?</a></li>
+                            <li><span>34</span><a href="/de-quem-madara-gostava">De quem Madara gostava?</a></li>
+                            <li><span>34</span><a href="/como-fazer-um-sistema-escalonado">Como fazer um sistema escalonado?</a></li>
+                            <li><span>45</span><a href="/como-organizar-minhas-fotos-reveladas">Como organizar minhas fotos reveladas?</a></li>
+                            <li><span>15</span><a href="/qual-a-expectativa-do-bitcoin-para-2022">Qual a expectativa do bitcoin para 2022?</a></li>
+                            <li><span>44</span><a href="/quanto-tempo-para-ver-o-resultado-do-radiesse">Quanto tempo para ver o resultado do Radiesse?</a></li>
+                            <li><span>22</span><a href="/o-que-significa-f1-score">O que significa F1 score?</a></li>
+                            <li><span>37</span><a href="/quanto-ganha-um-aposentado-do-exercito">Quanto ganha um aposentado do Exército?</a></li>
+                    </ul>
+    </div>
+
+        <div class="inner">
+        <div class="title-holder" style="margin-bottom: 20px;">
+            <span class="title">PUB</span>
+        </div>
+        <div class="text-align: center;">
+            <div style="min-height:600px;" class="r89-desktop-hpa-atf d-none d-md-block"></div>
+            <div style="min-height:280px;" class="r89-mobile-rectangle-low d-md-none"></div>
+        </div>
+    </div>
+            <div class="inner">
+        <div class="title-holder">
+            <span class="title">Perguntas populares</span>
+        </div>
+        <ul>
+                            <li><span>32</span><a href="/qual-era-o-qi-de-leonardo-da-vinci">Qual era o QI de Leonardo da Vinci?</a></li>
+                            <li><span>24</span><a href="/quantas-aulas-praticas-de-carros-2021">Quantas aulas práticas de carros 2021?</a></li>
+                            <li><span>29</span><a href="/qual-a-especie-de-contrato-utilizado-para-a-alienacao-de-estabelecimento-empresarial">Qual a espécie de contrato utilizado para a alienação de estabelecimento empresarial?</a></li>
+                            <li><span>15</span><a href="/em-que-ep-conta-a-historia-do-doflamingo">Em que EP conta a história do doflamingo?</a></li>
+                            <li><span>21</span><a href="/qual-material-mais-barato-para-fazer-uma-bancada">Qual material mais barato para fazer uma bancada?</a></li>
+                            <li><span>33</span><a href="/como-sao-classificados-os-agregados-quanto-ao-peso-especifico">Como são classificados os agregados quanto ao peso específico?</a></li>
+                            <li><span>19</span><a href="/como-ocorre-a-execucao-penal">Como ocorre a execução penal?</a></li>
+                            <li><span>41</span><a href="/o-que-sao-residuos-classe-3">O que são resíduos Classe 3?</a></li>
+                            <li><span>43</span><a href="/o-que-significa-frutas-na-macumba">O que significa frutas na macumba?</a></li>
+                            <li><span>23</span><a href="/como-impermeabilizar-paredes-ja-rebocadas">Como impermeabilizar paredes já rebocadas?</a></li>
+                    </ul>
+    </div>
+
+    
+</aside>
+</div>
+
+<footer>
+    <div class="container">
+        <div class="footer-links">
+            <div>
+                Copyright 2020 TodasAsRespostas.pt
+            </div>
+            <div>
+                <ul class="social">
+                    <li>
+                        <a href="https://twitter.com/respostas_pt" target="_blank">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 512 512"><path fill="currentColor" d="M512 97.248c-19.04 8.352-39.328 13.888-60.48 16.576 21.76-12.992 38.368-33.408 46.176-58.016-20.288 12.096-42.688 20.64-66.56 25.408C411.872 60.704 384.416 48 354.464 48c-58.112 0-104.896 47.168-104.896 104.992 0 8.32.704 16.32 2.432 23.936-87.264-4.256-164.48-46.08-216.352-109.792-9.056 15.712-14.368 33.696-14.368 53.056 0 36.352 18.72 68.576 46.624 87.232-16.864-.32-33.408-5.216-47.424-12.928v1.152c0 51.008 36.384 93.376 84.096 103.136-8.544 2.336-17.856 3.456-27.52 3.456-6.72 0-13.504-.384-19.872-1.792 13.6 41.568 52.192 72.128 98.08 73.12-35.712 27.936-81.056 44.768-130.144 44.768-8.608 0-16.864-.384-25.12-1.44C46.496 446.88 101.6 464 161.024 464c193.152 0 298.752-160 298.752-298.688 0-4.64-.16-9.12-.384-13.568 20.832-14.784 38.336-33.248 52.608-54.496z"></path></svg>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.facebook.com/Todas-As-Respostas-110048161373598" target="_blank">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 96.124 96.123"><path fill="currentColor" d="M72.089.02L59.624 0C45.62 0 36.57 9.285 36.57 23.656v10.907H24.037a1.96 1.96 0 00-1.96 1.961v15.803a1.96 1.96 0 001.96 1.96H36.57v39.876a1.96 1.96 0 001.96 1.96h16.352a1.96 1.96 0 001.96-1.96V54.287h14.654a1.96 1.96 0 001.96-1.96l.006-15.803a1.963 1.963 0 00-1.961-1.961H56.842v-9.246c0-4.444 1.059-6.7 6.848-6.7l8.397-.003a1.96 1.96 0 001.959-1.96V1.98A1.96 1.96 0 0072.089.02z"></path></svg>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.instagram.com/todasasrespostas/" target="_blank">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 169.063 169.063"><path fill="currentColor" d="M122.406 0H46.654C20.929 0 0 20.93 0 46.655v75.752c0 25.726 20.929 46.655 46.654 46.655h75.752c25.727 0 46.656-20.93 46.656-46.655V46.655C169.063 20.93 148.133 0 122.406 0zm31.657 122.407c0 17.455-14.201 31.655-31.656 31.655H46.654C29.2 154.063 15 139.862 15 122.407V46.655C15 29.201 29.2 15 46.654 15h75.752c17.455 0 31.656 14.201 31.656 31.655v75.752z"/><path fill="currentColor" d="M84.531 40.97c-24.021 0-43.563 19.542-43.563 43.563 0 24.02 19.542 43.561 43.563 43.561s43.563-19.541 43.563-43.561c0-24.021-19.542-43.563-43.563-43.563zm0 72.123c-15.749 0-28.563-12.812-28.563-28.561 0-15.75 12.813-28.563 28.563-28.563s28.563 12.813 28.563 28.563c0 15.749-12.814 28.561-28.563 28.561zM129.921 28.251c-2.89 0-5.729 1.17-7.77 3.22a11.053 11.053 0 00-3.23 7.78c0 2.891 1.18 5.73 3.23 7.78 2.04 2.04 4.88 3.22 7.77 3.22 2.9 0 5.73-1.18 7.78-3.22 2.05-2.05 3.22-4.89 3.22-7.78 0-2.9-1.17-5.74-3.22-7.78-2.04-2.05-4.88-3.22-7.78-3.22z"/></svg>
+
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.pinterest.pt/TodasAsRespostas/" target="_blank">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24"><path fill="currentColor" d="M12.326 0C5.747.001 2.25 4.216 2.25 8.812c0 2.131 1.191 4.79 3.098 5.633.544.245.472-.054.94-1.844a.425.425 0 00-.102-.417c-2.726-3.153-.532-9.635 5.751-9.635 9.093 0 7.394 12.582 1.582 12.582-1.498 0-2.614-1.176-2.261-2.631.428-1.733 1.266-3.596 1.266-4.845 0-3.148-4.69-2.681-4.69 1.49 0 1.289.456 2.159.456 2.159S6.781 17.4 6.501 18.539c-.474 1.928.064 5.049.111 5.318.029.148.195.195.288.073.149-.195 1.973-2.797 2.484-4.678.186-.685.949-3.465.949-3.465.503.908 1.953 1.668 3.498 1.668 4.596 0 7.918-4.04 7.918-9.053C21.733 3.596 17.62 0 12.326 0z"/></svg>
+
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div>
+                <ul>
+                    <li><a href="/sobre-nos">Sobre nós</a></li>
+                    <li><a href="/contato">Contato</a></li>
+                    <li><a href="/privacidade-e-cookies" rel="nofollow">Privacidade e Cookies</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+
+    
+    <script>
+        let autocompleteListener = function(e) {
+            let target = document.getElementById(e.target.dataset.target);
+            let query = e.target.value;
+
+            if (!query) {
+                target.style.display = 'none';
+                target.innerHTML = '';
+                return;
+            }
+
+            let xhr = new XMLHttpRequest();
+
+            xhr.onload = function () {
+                if (xhr.status >= 200 && xhr.status < 300) {
+                    target.style.display = 'block';
+                    target.innerHTML = xhr.response;
+                } else {
+                    target.style.display = 'none';
+                    target.innerHTML = '';
+                }
+            };
+
+            xhr.open('GET', '/search/autocomplete?q='+encodeURIComponent(query));
+            xhr.send();
+        };
+
+        document.getElementById('search-header-input').addEventListener('keyup', autocompleteListener);
+
+        let element = document.getElementById('search-home-input');
+
+        if (element) {
+            element.addEventListener('keyup', autocompleteListener)
+        }
+    </script>
+</body>
+</html>

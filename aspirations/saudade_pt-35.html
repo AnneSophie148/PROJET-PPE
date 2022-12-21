@@ -1,0 +1,1323 @@
+<!DOCTYPE html>
+<html class="no-svg" lang="pt-PT">
+
+	<head><meta charset="UTF-8"><script>if(navigator.userAgent.match(/MSIE|Internet Explorer/i)||navigator.userAgent.match(/Trident\/7\..*?rv:11/i)){var href=document.location.href;if(!href.match(/[?&]nowprocket/)){if(href.indexOf("?")==-1){if(href.indexOf("#")==-1){document.location.href=href+"?nowprocket=1"}else{document.location.href=href.replace("#","?nowprocket=1#")}}else{if(href.indexOf("#")==-1){document.location.href=href+"&nowprocket=1"}else{document.location.href=href.replace("#","&nowprocket=1#")}}}}</script><script>class RocketLazyLoadScripts{constructor(){this.triggerEvents=["keydown","mousedown","mousemove","touchmove","touchstart","touchend","wheel"],this.userEventHandler=this._triggerListener.bind(this),this.touchStartHandler=this._onTouchStart.bind(this),this.touchMoveHandler=this._onTouchMove.bind(this),this.touchEndHandler=this._onTouchEnd.bind(this),this.clickHandler=this._onClick.bind(this),this.interceptedClicks=[],window.addEventListener("pageshow",(e=>{this.persisted=e.persisted})),window.addEventListener("DOMContentLoaded",(()=>{this._preconnect3rdParties()})),this.delayedScripts={normal:[],async:[],defer:[]},this.allJQueries=[]}_addUserInteractionListener(e){document.hidden?e._triggerListener():(this.triggerEvents.forEach((t=>window.addEventListener(t,e.userEventHandler,{passive:!0}))),window.addEventListener("touchstart",e.touchStartHandler,{passive:!0}),window.addEventListener("mousedown",e.touchStartHandler),document.addEventListener("visibilitychange",e.userEventHandler))}_removeUserInteractionListener(){this.triggerEvents.forEach((e=>window.removeEventListener(e,this.userEventHandler,{passive:!0}))),document.removeEventListener("visibilitychange",this.userEventHandler)}_onTouchStart(e){"HTML"!==e.target.tagName&&(window.addEventListener("touchend",this.touchEndHandler),window.addEventListener("mouseup",this.touchEndHandler),window.addEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.addEventListener("mousemove",this.touchMoveHandler),e.target.addEventListener("click",this.clickHandler),this._renameDOMAttribute(e.target,"onclick","rocket-onclick"))}_onTouchMove(e){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler),e.target.removeEventListener("click",this.clickHandler),this._renameDOMAttribute(e.target,"rocket-onclick","onclick")}_onTouchEnd(e){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler)}_onClick(e){e.target.removeEventListener("click",this.clickHandler),this._renameDOMAttribute(e.target,"rocket-onclick","onclick"),this.interceptedClicks.push(e),e.preventDefault(),e.stopPropagation(),e.stopImmediatePropagation()}_replayClicks(){window.removeEventListener("touchstart",this.touchStartHandler,{passive:!0}),window.removeEventListener("mousedown",this.touchStartHandler),this.interceptedClicks.forEach((e=>{e.target.dispatchEvent(new MouseEvent("click",{view:e.view,bubbles:!0,cancelable:!0}))}))}_renameDOMAttribute(e,t,n){e.hasAttribute&&e.hasAttribute(t)&&(event.target.setAttribute(n,event.target.getAttribute(t)),event.target.removeAttribute(t))}_triggerListener(){this._removeUserInteractionListener(this),"loading"===document.readyState?document.addEventListener("DOMContentLoaded",this._loadEverythingNow.bind(this)):this._loadEverythingNow()}_preconnect3rdParties(){let e=[];document.querySelectorAll("script[type=rocketlazyloadscript]").forEach((t=>{if(t.hasAttribute("src")){const n=new URL(t.src).origin;n!==location.origin&&e.push({src:n,crossOrigin:t.crossOrigin||"module"===t.getAttribute("data-rocket-type")})}})),e=[...new Map(e.map((e=>[JSON.stringify(e),e]))).values()],this._batchInjectResourceHints(e,"preconnect")}async _loadEverythingNow(){this.lastBreath=Date.now(),this._delayEventListeners(),this._delayJQueryReady(this),this._handleDocumentWrite(),this._registerAllDelayedScripts(),this._preloadAllScripts(),await this._loadScriptsFromList(this.delayedScripts.normal),await this._loadScriptsFromList(this.delayedScripts.defer),await this._loadScriptsFromList(this.delayedScripts.async);try{await this._triggerDOMContentLoaded(),await this._triggerWindowLoad()}catch(e){}window.dispatchEvent(new Event("rocket-allScriptsLoaded")),this._replayClicks()}_registerAllDelayedScripts(){document.querySelectorAll("script[type=rocketlazyloadscript]").forEach((e=>{e.hasAttribute("src")?e.hasAttribute("async")&&!1!==e.async?this.delayedScripts.async.push(e):e.hasAttribute("defer")&&!1!==e.defer||"module"===e.getAttribute("data-rocket-type")?this.delayedScripts.defer.push(e):this.delayedScripts.normal.push(e):this.delayedScripts.normal.push(e)}))}async _transformScript(e){return await this._littleBreath(),new Promise((t=>{const n=document.createElement("script");[...e.attributes].forEach((e=>{let t=e.nodeName;"type"!==t&&("data-rocket-type"===t&&(t="type"),n.setAttribute(t,e.nodeValue))})),e.hasAttribute("src")?(n.addEventListener("load",t),n.addEventListener("error",t)):(n.text=e.text,t());try{e.parentNode.replaceChild(n,e)}catch(e){t()}}))}async _loadScriptsFromList(e){const t=e.shift();return t?(await this._transformScript(t),this._loadScriptsFromList(e)):Promise.resolve()}_preloadAllScripts(){this._batchInjectResourceHints([...this.delayedScripts.normal,...this.delayedScripts.defer,...this.delayedScripts.async],"preload")}_batchInjectResourceHints(e,t){var n=document.createDocumentFragment();e.forEach((e=>{if(e.src){const i=document.createElement("link");i.href=e.src,i.rel=t,"preconnect"!==t&&(i.as="script"),e.getAttribute&&"module"===e.getAttribute("data-rocket-type")&&(i.crossOrigin=!0),e.crossOrigin&&(i.crossOrigin=e.crossOrigin),n.appendChild(i)}})),document.head.appendChild(n)}_delayEventListeners(){let e={};function t(t,n){!function(t){function n(n){return e[t].eventsToRewrite.indexOf(n)>=0?"rocket-"+n:n}e[t]||(e[t]={originalFunctions:{add:t.addEventListener,remove:t.removeEventListener},eventsToRewrite:[]},t.addEventListener=function(){arguments[0]=n(arguments[0]),e[t].originalFunctions.add.apply(t,arguments)},t.removeEventListener=function(){arguments[0]=n(arguments[0]),e[t].originalFunctions.remove.apply(t,arguments)})}(t),e[t].eventsToRewrite.push(n)}function n(e,t){let n=e[t];Object.defineProperty(e,t,{get:()=>n||function(){},set(i){e["rocket"+t]=n=i}})}t(document,"DOMContentLoaded"),t(window,"DOMContentLoaded"),t(window,"load"),t(window,"pageshow"),t(document,"readystatechange"),n(document,"onreadystatechange"),n(window,"onload"),n(window,"onpageshow")}_delayJQueryReady(e){let t=window.jQuery;Object.defineProperty(window,"jQuery",{get:()=>t,set(n){if(n&&n.fn&&!e.allJQueries.includes(n)){n.fn.ready=n.fn.init.prototype.ready=function(t){e.domReadyFired?t.bind(document)(n):document.addEventListener("rocket-DOMContentLoaded",(()=>t.bind(document)(n)))};const t=n.fn.on;n.fn.on=n.fn.init.prototype.on=function(){if(this[0]===window){function e(e){return e.split(" ").map((e=>"load"===e||0===e.indexOf("load.")?"rocket-jquery-load":e)).join(" ")}"string"==typeof arguments[0]||arguments[0]instanceof String?arguments[0]=e(arguments[0]):"object"==typeof arguments[0]&&Object.keys(arguments[0]).forEach((t=>{delete Object.assign(arguments[0],{[e(t)]:arguments[0][t]})[t]}))}return t.apply(this,arguments),this},e.allJQueries.push(n)}t=n}})}async _triggerDOMContentLoaded(){this.domReadyFired=!0,await this._littleBreath(),document.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this._littleBreath(),window.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this._littleBreath(),document.dispatchEvent(new Event("rocket-readystatechange")),await this._littleBreath(),document.rocketonreadystatechange&&document.rocketonreadystatechange()}async _triggerWindowLoad(){await this._littleBreath(),window.dispatchEvent(new Event("rocket-load")),await this._littleBreath(),window.rocketonload&&window.rocketonload(),await this._littleBreath(),this.allJQueries.forEach((e=>e(window).trigger("rocket-jquery-load"))),await this._littleBreath();const e=new Event("rocket-pageshow");e.persisted=this.persisted,window.dispatchEvent(e),await this._littleBreath(),window.rocketonpageshow&&window.rocketonpageshow({persisted:this.persisted})}_handleDocumentWrite(){const e=new Map;document.write=document.writeln=function(t){const n=document.currentScript,i=document.createRange(),r=n.parentElement;let o=e.get(n);void 0===o&&(o=n.nextSibling,e.set(n,o));const s=document.createDocumentFragment();i.setStart(s,0),s.appendChild(i.createContextualFragment(t)),r.insertBefore(s,o)}}async _littleBreath(){Date.now()-this.lastBreath>45&&(await this._requestAnimFrame(),this.lastBreath=Date.now())}async _requestAnimFrame(){return document.hidden?new Promise((e=>setTimeout(e))):new Promise((e=>requestAnimationFrame(e)))}static run(){const e=new RocketLazyLoadScripts;e._addUserInteractionListener(e)}}RocketLazyLoadScripts.run();</script>
+			
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<script type="application/ld+json">
+	{
+		"@context": "https://schema.org",
+		"@type": "NewsArticle",
+		"mainEntityOfPage": {
+			"@type": "WebPage",
+			"@id": "https://lisboasecreta.co/poemas-sobre-a-saudade-portugues/"
+		},
+		"headline": "Poemas sobre a saudade, este sentimento tão português",
+				"description": "Não há sentimento mais português do que a saudade. E não há poeta que resista ao tema. Nos tempos que correm, recordamos alguns poemas sobre a saudade.",
+						"image": {
+			"@type": "ImageObject",
+			"url": "https://lisboasecreta.co/wp-content/uploads/2020/04/Poemas-sobre-a-saudade-este-sentimento-tão-português-@thought-catalog.jpg",
+			"width": 2000,
+			"height": 1333
+		},
+				"author": {
+			"@type": "Person",
+			"name": "Carolina Bessa",
+									"url": "https://lisboasecreta.co/author/carolina-bessa/"
+		},
+		"publisher": {
+			"@type": "NewsMediaOrganization",
+						"logo": {
+				"@type": "ImageObject",
+				"url": "https://lisboasecreta.co/wp-content/uploads/2022/03/13_FRAPOR_PO_LISBOA_LIS_ON_SEO_LOGO_NewsArticle.png",
+				"width": 600,
+				"height": 60
+			},
+						"name": "Lisboa Secreta",
+						"sameAs": [
+							"https://lisboasecreta.co/sobre-nos/",															"https://www.facebook.com/lisboasecreta/",									"https://twitter.com/lisboasecreta",									"https://www.instagram.com/lisboasecreta/",									"https://www.youtube.com/channel/UCf2UiJFaD8PDYTUO7FyT7qg?sub_confirmation=1"										],
+						"parentOrganization": {
+				"@type": "NewsMediaOrganization",
+				"url": "https://secretmedianetwork.com/",
+				"name": "Secret Media Network"
+			}
+		},
+				"articleSection": "Cultura",
+				"articleBody": "Com a pandemia e agora com a guerra na Ucrânia, vivemos tempos de grande incerteza, e em que nos é pedido isolamento e distanciamento social. Nunca a saudade foi tão apertada. Nem sempre podemos estar com a nossa família ou com os nossos amigos e, por vezes, até somos obrigados a ficar em casa. A [&hellip;]",
+		"isAccessibleForFree": true,
+		"inLanguage": "pt-PT",
+				"alternativeHeadline": "Não há palavra ou sentimento tão português quanto a saudade.",
+				"datePublished": "2020-04-09T18:13:29Z",
+		"dateModified": "2020-04-09T17:13:29Z"
+	}
+
+	</script>
+	<meta name="theme-color" content="#ffc41f">
+	<meta name="facebook-domain-verification" content="0o6r2p9kmie23lhwejh8psxuho457o">
+<link rel="manifest" href="/php/manifest.json.php">
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script type="rocketlazyloadscript" async src="https://www.googletagmanager.com/gtag/js?id=UA-117519821-1"></script>
+<script type="rocketlazyloadscript">
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'UA-117519821-1', {"custom_map":{"dimension1":"referrer"},"optimize_id":"OPT-MPVRZ6S"});
+</script>
+<script type="rocketlazyloadscript">const googleAnalyticsId = 'UA-117519821-1';</script>
+	<!-- Facebook Pixel Code -->
+	<script type="rocketlazyloadscript">
+		!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+			n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+			n.push=n;n.loaded=!0;n.version='2.0';n.agent='secretmedianetwork';n.queue=[];t=b.createElement(e);t.async=!0;
+			t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+			document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+		let smn_facebook_pixel = {
+			"pixel_id": "1543543449260625",
+			"enable_advanced_events": "yes",
+			"fire_delay": "0"
+		},
+		smn_facebook_pixel_args = [];
+
+		// Extend args
+		if ( 'yes' === smn_facebook_pixel.enable_advanced_events ) {
+			smn_facebook_pixel_args.userAgent = navigator.userAgent;
+			smn_facebook_pixel_args.language = navigator.language;
+
+			if ( document.referrer.indexOf( document.domain ) < 0 ) {
+				smn_facebook_pixel_args.referrer = document.referrer;
+			}
+		}
+
+		fbq('init', smn_facebook_pixel.pixel_id, smn_facebook_pixel.user);
+
+		setTimeout( function() {
+			fbq('track', "PageView", smn_facebook_pixel_args);
+		}, smn_facebook_pixel.fire_delay * 1000 );
+	</script>
+	<!-- End Facebook Pixel Code -->
+<script type="rocketlazyloadscript">let isCocacolaDMPActive = false;</script>
+<script type="rocketlazyloadscript">
+	function e(e){var t=!(arguments.length>1&&void 0!==arguments[1])||arguments[1],c=document.createElement("script");c.src=e,t?c.type="module":(c.async=!0,c.type="text/javascript",c.setAttribute("nomodule",""));var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(c,n)}function t(t,c,n){var a,o,r;null!==(a=t.marfeel)&&void 0!==a||(t.marfeel={}),null!==(o=(r=t.marfeel).cmd)&&void 0!==o||(r.cmd=[]),t.marfeel.config=n,t.marfeel.config.accountId=c;var i="https://sdk.mrf.io/statics";e("".concat(i,"/marfeel-sdk.js?id=").concat(c),!0),e("".concat(i,"/marfeel-sdk.es5.js?id=").concat(c),!1)}!function(e,c){var n=arguments.length>2&&void 0!==arguments[2]?arguments[2]:{};t(e,c,n)}(window,489,{} /*config*/);
+</script>
+<link rel="preload" as="font" type="font/woff2" href="https://lisboasecreta.co/wp-content/themes/secretmedianetwork/fonts/montserrat-latin.woff2" crossorigin>
+<style data-theme-custom-fonts>
+	/* fallback */
+	@font-face {
+		font-family: Verdana;
+		ascent-override: 100%;
+		descent-override: 22%;
+		line-gap-override: normal;
+		src: local(Verdana);
+	}
+	/* latin */
+	@font-face {
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: 400;
+		font-display: block;
+		src: url(https://lisboasecreta.co/wp-content/themes/secretmedianetwork/fonts/montserrat-latin.woff2) format('woff2');
+		unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+	}
+	/* latin-ext */
+	@font-face {
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: 400;
+		font-display: block;
+		src: url(https://lisboasecreta.co/wp-content/themes/secretmedianetwork/fonts/montserrat-latin-ext.woff2) format('woff2');
+		unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+	}
+	/* latin */
+	@font-face {
+		font-family: Montserrat;
+		font-style: italic;
+		font-weight: 400;
+		font-display: block;
+		src: url(https://lisboasecreta.co/wp-content/themes/secretmedianetwork/fonts/montserrat-latin-italic.woff2) format('woff2');
+		unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+	}
+	/* latin-ext */
+	@font-face {
+		font-family: Montserrat;
+		font-style: italic;
+		font-weight: 400;
+		font-display: block;
+		src: url(https://lisboasecreta.co/wp-content/themes/secretmedianetwork/fonts/montserrat-latin-ext-italic.woff2) format('woff2');
+		unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+	}
+	/* latin */
+	@font-face {
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: 500;
+		font-display: block;
+		src: url(https://lisboasecreta.co/wp-content/themes/secretmedianetwork/fonts/montserrat-latin.woff2) format('woff2');
+		unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+	}
+	/* latin-ext */
+	@font-face {
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: 500;
+		font-display: swap;
+		src: url(https://lisboasecreta.co/wp-content/themes/secretmedianetwork/fonts/montserrat-latin-ext.woff2) format('woff2');
+		unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+	}
+	/* latin */
+	@font-face {
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: 600;
+		font-display: block;
+		src: url(https://lisboasecreta.co/wp-content/themes/secretmedianetwork/fonts/montserrat-latin.woff2) format('woff2');
+		unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+	}
+	/* latin-ext */
+	@font-face {
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: 600;
+		font-display: block;
+		src: url(https://lisboasecreta.co/wp-content/themes/secretmedianetwork/fonts/montserrat-latin-ext.woff2) format('woff2');
+		unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+	}
+</style>
+<style>
+	:root {
+	--theme-primary-color: 		#ffc41f;
+		--theme-primary-color-rgb: 255, 196, 31;
+	--profile-cards-color: 		#ffc41f;
+		--contrast-color: #000000;
+	--font-stack-primary-font: 'Montserrat', 'Verdana', sans-serif;
+}
+							.top-bar-social-media [data-social-media-name="Facebook"] {
+				color: #1877f2;
+			}
+			.top-bar-social-media [data-social-media-name="Facebook"]:focus {
+				outline: 0.063rem dotted #1877f2;
+			}
+								.top-bar-social-media [data-social-media-name="Twitter"] {
+				color: #1da1f2;
+			}
+			.top-bar-social-media [data-social-media-name="Twitter"]:focus {
+				outline: 0.063rem dotted #1da1f2;
+			}
+								.top-bar-social-media [data-social-media-name="Instagram"] {
+				color: #fbad50;
+			}
+			.top-bar-social-media [data-social-media-name="Instagram"]:focus {
+				outline: 0.063rem dotted #fbad50;
+			}
+								.top-bar-social-media [data-social-media-name="Youtube"] {
+				color: #c4302b;
+			}
+			.top-bar-social-media [data-social-media-name="Youtube"]:focus {
+				outline: 0.063rem dotted #c4302b;
+			}
+			</style>
+<!-- Quantcast Choice. Consent Manager Tag v2.0 (for TCF 2.0) -->
+<script type="rocketlazyloadscript">
+	(function() {
+		var host = window.location.hostname;
+		var element = document.createElement('script');
+		var firstScript = document.getElementsByTagName('script')[0];
+		var url = 'https://cmp.quantcast.com'
+			.concat('/choice/', 'q9DDm3u57PCdF', '/', host, '/choice.js');
+		var uspTries = 0;
+		var uspTriesLimit = 3;
+		element.async = true;
+		element.type = 'text/javascript';
+		element.src = url;
+
+		firstScript.parentNode.insertBefore(element, firstScript);
+
+		function makeStub() {
+			var TCF_LOCATOR_NAME = '__tcfapiLocator';
+			var queue = [];
+			var win = window;
+			var cmpFrame;
+
+			function addFrame() {
+				var doc = win.document;
+				var otherCMP = !!(win.frames[TCF_LOCATOR_NAME]);
+
+				if (!otherCMP) {
+					if (doc.body) {
+						var iframe = doc.createElement('iframe');
+
+						iframe.style.cssText = 'display:none';
+						iframe.name = TCF_LOCATOR_NAME;
+						doc.body.appendChild(iframe);
+					} else {
+						setTimeout(addFrame, 5);
+					}
+				}
+				return !otherCMP;
+			}
+
+			function tcfAPIHandler() {
+				var gdprApplies;
+				var args = arguments;
+
+				if (!args.length) {
+					return queue;
+				} else if (args[0] === 'setGdprApplies') {
+					if (
+						args.length > 3 &&
+						args[2] === 2 &&
+						typeof args[3] === 'boolean'
+					) {
+						gdprApplies = args[3];
+						if (typeof args[2] === 'function') {
+							args[2]('set', true);
+						}
+					}
+				} else if (args[0] === 'ping') {
+					var retr = {
+						gdprApplies: gdprApplies,
+						cmpLoaded: false,
+						cmpStatus: 'stub'
+					};
+
+					if (typeof args[2] === 'function') {
+						args[2](retr);
+					}
+				} else {
+					if(args[0] === 'init' && typeof args[3] === 'object') {
+						args[3] = { ...args[3], tag_version: 'V2' };
+					}
+					queue.push(args);
+				}
+			}
+
+			function postMessageEventHandler(event) {
+				var msgIsString = typeof event.data === 'string';
+				var json = {};
+
+				try {
+					if (msgIsString) {
+						json = JSON.parse(event.data);
+					} else {
+						json = event.data;
+					}
+				} catch (ignore) {}
+
+				var payload = json.__tcfapiCall;
+
+				if (payload) {
+					window.__tcfapi(
+						payload.command,
+						payload.version,
+						function(retValue, success) {
+							var returnMsg = {
+								__tcfapiReturn: {
+									returnValue: retValue,
+									success: success,
+									callId: payload.callId
+								}
+							};
+							if (msgIsString) {
+								returnMsg = JSON.stringify(returnMsg);
+							}
+							if (event && event.source && event.source.postMessage) {
+								event.source.postMessage(returnMsg, '*');
+							}
+						},
+						payload.parameter
+					);
+				}
+			}
+
+			while (win) {
+				try {
+					if (win.frames[TCF_LOCATOR_NAME]) {
+						cmpFrame = win;
+						break;
+					}
+				} catch (ignore) {}
+
+				if (win === window.top) {
+					break;
+				}
+				win = win.parent;
+			}
+			if (!cmpFrame) {
+				addFrame();
+				win.__tcfapi = tcfAPIHandler;
+				win.addEventListener('message', postMessageEventHandler, false);
+			}
+		};
+
+		makeStub();
+
+		var uspStubFunction = function() {
+			var arg = arguments;
+			if (typeof window.__uspapi !== uspStubFunction) {
+				setTimeout(function() {
+					if (typeof window.__uspapi !== 'undefined') {
+						window.__uspapi.apply(window.__uspapi, arg);
+					}
+				}, 500);
+			}
+		};
+
+		var checkIfUspIsReady = function() {
+			uspTries++;
+			if (window.__uspapi === uspStubFunction && uspTries < uspTriesLimit) {
+				console.warn('USP is not accessible');
+			} else {
+				clearInterval(uspInterval);
+			}
+		};
+
+		if (typeof window.__uspapi === 'undefined') {
+			window.__uspapi = uspStubFunction;
+			var uspInterval = setInterval(checkIfUspIsReady, 6000);
+		}
+	})();
+</script>
+<!-- End Quantcast Choice. Consent Manager Tag v2.0 (for TCF 2.0) -->
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v19.10 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Poemas sobre a saudade, este sentimento tão português - Lisboa Secreta</title><style id="rocket-critical-css">ul{box-sizing:border-box}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}:root{--bs-blue:#0d6efd;--bs-indigo:#6610f2;--bs-purple:#6f42c1;--bs-pink:#d63384;--bs-red:#dc3545;--bs-orange:#fd7e14;--bs-yellow:#ffc107;--bs-green:#198754;--bs-teal:#20c997;--bs-cyan:#0dcaf0;--bs-white:#fff;--bs-gray:#6c757d;--bs-gray-dark:#343a40;--bs-gray-100:#f8f9fa;--bs-gray-200:#e9ecef;--bs-gray-300:#dee2e6;--bs-gray-400:#ced4da;--bs-gray-500:#adb5bd;--bs-gray-600:#6c757d;--bs-gray-700:#495057;--bs-gray-800:#343a40;--bs-gray-900:#212529;--bs-primary:#0d6efd;--bs-secondary:#6c757d;--bs-success:#198754;--bs-info:#0dcaf0;--bs-warning:#ffc107;--bs-danger:#dc3545;--bs-light:#f8f9fa;--bs-dark:#212529;--bs-primary-rgb:13, 110, 253;--bs-secondary-rgb:108, 117, 125;--bs-success-rgb:25, 135, 84;--bs-info-rgb:13, 202, 240;--bs-warning-rgb:255, 193, 7;--bs-danger-rgb:220, 53, 69;--bs-light-rgb:248, 249, 250;--bs-dark-rgb:33, 37, 41;--bs-white-rgb:255, 255, 255;--bs-black-rgb:0, 0, 0;--bs-body-color-rgb:33, 37, 41;--bs-body-bg-rgb:255, 255, 255;--bs-font-sans-serif:system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";--bs-font-monospace:SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;--bs-gradient:linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));--bs-body-font-family:var(--font-stack-primary-font);--bs-body-font-size:1rem;--bs-body-font-weight:400;--bs-body-line-height:1.5;--bs-body-color:#212529;--bs-body-bg:#fff}*,*::before,*::after{box-sizing:border-box}@media (prefers-reduced-motion:no-preference){:root{scroll-behavior:smooth}}body{margin:0;font-family:var(--bs-body-font-family);font-size:var(--bs-body-font-size);font-weight:var(--bs-body-font-weight);line-height:var(--bs-body-line-height);color:var(--bs-body-color);text-align:var(--bs-body-text-align);background-color:var(--bs-body-bg);-webkit-text-size-adjust:100%}h5,h1{margin-top:0;margin-bottom:.5rem;font-weight:500;line-height:1.2}h1{font-size:calc(1.375rem + 1.5vw)}@media (min-width:1200px){h1{font-size:2.5rem}}h5{font-size:1.25rem}p{margin-top:0;margin-bottom:1rem}ul{padding-left:2rem}ul{margin-top:0;margin-bottom:1rem}strong{font-weight:bolder}a{color:#0d6efd;text-decoration:underline}figure{margin:0 0 1rem}img,svg{vertical-align:middle}label{display:inline-block}button{border-radius:0}input,button{margin:0;font-family:inherit;font-size:inherit;line-height:inherit}button{text-transform:none}button,[type=button],[type=submit]{-webkit-appearance:button}::-moz-focus-inner{padding:0;border-style:none}::-webkit-datetime-edit-fields-wrapper,::-webkit-datetime-edit-text,::-webkit-datetime-edit-minute,::-webkit-datetime-edit-hour-field,::-webkit-datetime-edit-day-field,::-webkit-datetime-edit-month-field,::-webkit-datetime-edit-year-field{padding:0}::-webkit-inner-spin-button{height:auto}[type=search]{outline-offset:-2px;-webkit-appearance:textfield}::-webkit-search-decoration{-webkit-appearance:none}::-webkit-color-swatch-wrapper{padding:0}::file-selector-button{font:inherit}::-webkit-file-upload-button{font:inherit;-webkit-appearance:button}.container{width:100%;padding-right:var(--bs-gutter-x,.75rem);padding-left:var(--bs-gutter-x,.75rem);margin-right:auto;margin-left:auto}@media (min-width:576px){.container{max-width:540px}}@media (min-width:768px){.container{max-width:720px}}@media (min-width:992px){.container{max-width:960px}}@media (min-width:1200px){.container{max-width:1140px}}.row{--bs-gutter-x:1.5rem;--bs-gutter-y:0;display:flex;flex-wrap:wrap;margin-top:calc(-1*var(--bs-gutter-y));margin-right:calc(-0.5*var(--bs-gutter-x));margin-left:calc(-0.5*var(--bs-gutter-x))}.row>*{flex-shrink:0;width:100%;max-width:100%;padding-right:calc(var(--bs-gutter-x)*.5);padding-left:calc(var(--bs-gutter-x)*.5);margin-top:var(--bs-gutter-y)}.col-12{flex:0 0 auto;width:100%}@media (min-width:768px){.col-md-4{flex:0 0 auto;width:33.33333333%}.col-md-8{flex:0 0 auto;width:66.66666667%}}.img-fluid{max-width:100%;height:auto}.fade:not(.show){opacity:0}.modal{position:fixed;top:0;left:0;z-index:1055;display:none;width:100%;height:100%;overflow-x:hidden;overflow-y:auto;outline:0}.modal-dialog{position:relative;width:auto;margin:.5rem}.modal.fade .modal-dialog{transform:translate(0,-50px)}.modal-dialog-centered{display:flex;align-items:center;min-height:calc(100% - 1rem)}.modal-content{position:relative;display:flex;flex-direction:column;width:100%;background-color:#fff;background-clip:padding-box;border:1px solid rgba(0,0,0,.2);border-radius:.3rem;outline:0}.modal-header{display:flex;flex-shrink:0;align-items:center;justify-content:space-between;padding:1rem 1rem;border-bottom:1px solid #dee2e6;border-top-left-radius:calc(0.3rem - 1px);border-top-right-radius:calc(0.3rem - 1px)}.modal-title{margin-bottom:0;line-height:1.5}.modal-body{position:relative;flex:1 1 auto;padding:1rem}@media (min-width:576px){.modal-dialog{max-width:500px;margin:1.75rem auto}.modal-dialog-centered{min-height:calc(100% - 3.5rem)}}.d-none{display:none!important}.w-100{width:100%!important}.mb-0{margin-bottom:0!important}.text-center{text-align:center!important}@media (min-width:768px){.d-md-block{display:block!important}}@media (min-width:992px){.d-lg-block{display:block!important}}.sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}a{text-decoration:none}.smn-global-parent-wrapper{background-color:#fff}.container{max-width:1140px}h1{font-size:1.75rem;line-height:1.25;font-weight:700}@media (min-width:768px){h1{font-size:3.75rem}}h5{font-size:1.0625rem;font-weight:500}@media (min-width:768px){h5{font-size:1.125rem}}a{color:var(--theme-primary-color)}.wrapper,.infinite-container{position:relative}*,*::before,*::after{word-break:break-word;word-wrap:break-word}input[type=submit],button{background-color:var(--theme-primary-color);border:none;color:#fff;padding:.625rem .9375rem;font-weight:700;text-transform:uppercase;font-family:var(--font-stack-primary-font);color:#fff}figure.single__featured-image-container{max-width:100%;height:auto}.overflow-x-hidden{overflow-x:hidden}body{font-family:var(--font-stack-primary-font)}.pg-body--border-top{border-top:.625rem solid var(--theme-primary-color)}.main-content-container{background-color:#fff;padding:.75rem .75rem}@media (min-width:992px){.main-content-container{padding:1.5rem .75rem}}h1,h5{font-family:var(--font-stack-primary-font)}input[type=search]::-webkit-search-decoration,input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-results-button,input[type=search]::-webkit-search-results-decoration{-webkit-appearance:none}.search-results-container{position:fixed;display:none;top:0;left:0;z-index:9999;width:100%;height:100%;background:#fff;background:rgba(255,255,255,.95);text-align:center;padding-top:6rem;overflow-x:hidden;overflow-y:auto}.search-results-container__tip{font-size:.75rem;text-transform:uppercase;letter-spacing:1px}.search-results-container__input{margin:1.875rem auto 0;background:rgba(0,0,0,0);font-size:3.75rem;line-height:5.3125rem;font-weight:300;text-align:center;border:0;padding-left:1.875rem;padding-right:1.875rem;outline:0;display:flex;width:100%}@media (min-width:576px){.search-results-container__input{font-size:7.5rem;line-height:9.6875rem}}.search-results-container__close{position:fixed;font-size:2.5rem;right:1.875rem;top:1.875rem}.top-bar-social-media{list-style:none;margin-top:1rem;padding-left:0;float:right;text-align:left}.top-bar-social-media__item{display:inline-block;min-width:1.875rem;min-height:2.5rem;margin-left:.25rem}.search-icon-block__container{padding:.625rem;float:left;position:relative}@media (min-width:992px){.search-icon-block__container{top:.3125rem}}.navbar-sticky .search-icon-block__container{top:0}.navbar-sticky{display:none}.smn-menu{display:flex;align-items:center;position:relative}.smn-menu::after{content:"";position:absolute;display:block;top:0;right:0;height:100%;width:1.5rem;background-image:linear-gradient(90deg,rgba(255,255,255,0) 0%,#FFFFFF 75%)}.smn-menu__list{position:relative;width:100%}.smn-menu-list{display:flex;padding:0;list-style:none;overflow-y:auto;scroll-snap-type:x mandatory;scroll-behavior:smooth;-ms-overflow-style:none;scrollbar-width:none;margin:0}.smn-menu-list::-webkit-scrollbar{display:none}.smn-menu-list__item{flex:0 0 auto;scroll-snap-align:start;margin-right:1rem}.smn-menu-list__link{display:table-cell;height:2.5rem;vertical-align:middle;font-family:var(--font-stack-primary-font);font-size:.8125rem;font-weight:600;text-transform:uppercase;color:#000;padding:0}.smn-body-offcanvas-menu__overlay{display:none}.smn-offcanvas-menu{position:fixed;top:0;left:0;height:100%;display:none;border-top:.25rem solid var(--theme-primary-color);width:90vw;max-width:22.5rem;background-color:#fff;overflow-y:auto;z-index:1055;transform:translate(-100%)}.smn-offcanvas-menu__header{border-bottom:solid .0625rem #000}.smn-offcanvas-menu__section{padding:1rem}.smn-offcanvas-menu .smn-offcanvas-menu-section__title{display:block;font-size:1rem;font-family:var(--font-stack-primary-font);margin-bottom:.5rem}.smn-offcanvas-menu .smn-offcanvas-menu-section__list{list-style:none;width:100%;padding-left:0;margin-bottom:0;font-size:.875rem}.smn-offcanvas-menu .smn-offcanvas-menu-section__list--two-columns{-moz-columns:2;columns:2}.smn-offcanvas-menu .smn-offcanvas-menu-section__list li{margin-bottom:.5rem}.smn-offcanvas-menu .smn-offcanvas-menu-section__list a{color:#343a40}.smn-offcanvas-menu .smn-offcanvas-menu-section--gray{background-color:#f6f6f6}.smn-offcanvas-menu .top-bar-social-media{float:none;font-size:1.5rem;margin:0}.smn-offcanvas-menu-header{display:flex;align-items:center;padding:0 0 0 .75rem;height:3.5rem}.smn-offcanvas-menu-header__logo{flex:1}.smn-offcanvas-menu-header__logo img{max-height:1.75rem;width:auto}.smn-offcanvas-menu-header__close{flex:0 0 auto;padding:0;width:3.5rem;height:3.5rem;font-size:1rem;background:none;color:#000;line-height:1em;margin-left:.5rem;border-left:solid .0625rem #000}.single__featured-image-container{position:relative}.single__title{font-family:var(--font-stack-primary-font);font-weight:700;font-style:normal;text-transform:none;font-size:1.75rem;line-height:1.16;letter-spacing:0;margin-bottom:1rem}@media (min-width:768px){.single__title{font-size:3rem}}.single__subtitle{font-family:var(--font-stack-primary-font);font-size:1rem;color:#787474;font-weight:300;margin-bottom:1.25rem}@media (min-width:768px){.single__subtitle{font-size:1.25rem}}.single__author{font-size:.75rem;text-transform:uppercase;color:#787474;letter-spacing:1px;margin-top:.9375rem;margin-bottom:1.25rem}.single__author__avatar{display:inline-block;margin-right:.5rem}.single__author__avatar a{display:inline-block;width:1.5rem;height:1.5rem}.single__author__avatar img{border-radius:50%}.single__author__bull-divider{display:inline-block;margin:0 .25rem}.single__author__date{display:inline-block}.single__author a{color:#787474}.article__content p:empty{display:none}.loading-fever-spinner{display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:#10212e;background:rgba(16,33,46,.3);z-index:9999}.loading-fever-spinner__image{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);max-width:6.25rem;height:auto}.layout-sidebar__sticky{position:sticky;top:5.1875rem;margin-bottom:.9375rem}.smn-header-placeholder{display:none}.smn-header{width:100%;border-top:solid .25rem var(--theme-primary-color);border-bottom:solid .0625rem #000}.smn-header__wrapper{width:100%;display:flex;flex-wrap:wrap;align-items:flex-start;padding:0;margin:.75rem auto 0}@media (min-width:576px){.smn-header__wrapper{margin:1rem auto 0}}@media (min-width:1200px){.smn-header__wrapper{padding:0 1rem}}.smn-header__bars{min-width:2.5rem;min-height:2.5rem;padding:.375rem .75rem;margin-right:.5rem;border-right:.0625rem solid #000;background:none;color:#000}@media (min-width:1200px){.smn-header__bars{border-left:.0625rem solid #000}}.smn-header__logo{position:relative;top:.25rem;flex:1;max-width:37.5rem;margin-right:1rem;padding-left:.75rem}@media (min-width:1200px){.smn-header__logo{padding-left:0}}.smn-header__logo .smn-header-logo__full{max-height:1.875rem;width:auto;vertical-align:bottom}.smn-header .smn-header-addons__subscribe{border-left:.0625rem solid #dee2e6;display:flex;padding:.375rem .375rem .375rem .75rem}.smn-header .smn-header-subscribe__label{display:none}@media (min-width:576px){.smn-header .smn-header-subscribe__label{display:inline}}.smn-header__addons{display:flex;flex:0 0 auto;justify-content:flex-end;align-items:center;width:auto;margin-left:auto;padding-left:.5rem;padding-right:.5rem;margin-right:1rem}@media (min-width:1200px){.smn-header__addons{margin-right:0}}.smn-header__menu{align-self:center;flex:1}@media (min-width:1200px){.smn-header__menu{border-right:.0625rem solid #000}}.smn-header__break{position:relative;height:.75rem;width:100%}.smn-header__break:after{content:"";position:absolute;bottom:0;left:50%;transform:translateX(-50vw);display:block;border-bottom:solid .0625rem #000;width:100vw}@media (min-width:576px){.smn-header__break{height:1rem}}.smn-header.navbar-sticky{display:inherit}.smn-header-addons__subscribe{display:flex;align-items:center;color:var(--theme-primary-color)}.smn-header-addons__social-media{display:none;margin-left:.5rem;border-left:.0625rem solid #dee2e6}@media (min-width:768px){.smn-header-addons__social-media{display:inherit}}.smn-header-addons__social-media ul{display:flex;align-items:center;margin:0}.smn-header-addons__social-media ul li{margin-left:.5rem;font-size:1.5rem}.smn-header-addons__search{top:0;margin-left:.5rem;padding:0 0 0 .5rem;min-width:1.6875rem;font-size:1.125rem;border-left:.0625rem solid #dee2e6;float:none}.smn-header-subscribe__icon-wrapper{display:inline-block;min-width:1.5625rem}.smn-header-subscribe__icon{font-size:1.125rem}.smn-header-subscribe__label{font-size:.875rem;margin-left:.25rem}@media (max-width:767.98px){body .smn-header__wrapper{padding-right:0;padding-left:0}}.mc4wp-form{overflow:hidden}.mc4wp-form strong{margin-bottom:.625rem}.mc4wp-form__description{font-size:.875rem}.mc4wp-form-fields{float:left;width:100%;position:relative;margin-bottom:1rem}.mc4wp-form-fields p{margin-bottom:.3125rem}.mc4wp-form-fields input{border:0;margin:0}.mc4wp-form-fields .field-email{float:left;width:60%}.mc4wp-form-fields .field-email input{padding:.75rem .3125rem;height:2.8125rem;color:#222;width:100%}.mc4wp-form-fields .field-submit{float:left;width:40%;background-color:#fff}.mc4wp-form-fields .field-submit input{width:100%;padding:.75rem .3125rem;height:2.8125rem;color:#fff;background:var(--theme-primary-color);font-family:var(--font-stack-primary-font);text-transform:uppercase;font-size:.9375rem;line-height:1.25rem;letter-spacing:.0625rem}.mc4wp-form-fields .field-terms{margin-bottom:0;font-size:.75rem}.mc4wp-form-fields .field-terms input{margin:0 .3125rem 0 0;position:relative;top:.375rem;width:1.25rem;height:1.25rem}.mc4wp-form-fields .field-terms label{font-weight:400}.sidebar-container .mc4wp-form strong{text-transform:uppercase;font-weight:400;font-size:1.125rem}.sidebar-container .mc4wp-form__description{margin-bottom:.625rem}.sidebar-container .mc4wp-form .field-email{width:70%}.sidebar-container .mc4wp-form .field-email input{padding:.75rem .3125rem;height:2.375rem;font-size:.875rem;border-left:.0625rem solid #000;border-bottom:.0625rem solid #000;border-top:.0625rem solid #000}.sidebar-container .mc4wp-form .field-submit{width:30%}.sidebar-container .mc4wp-form .field-submit input{padding:.625rem .125rem;height:2.375rem;font-size:.625rem;line-height:.875rem;letter-spacing:0}.sidebar-container .mc4wp-form .field-terms a{color:var(--theme-primary-color)}.sidebar-container .mc4wp-form,.smn-home-section__mailchimp-offcanvas-area .mc4wp-form{position:relative;background-color:var(--theme-primary-color);overflow:hidden;padding:1rem;margin-bottom:1.5rem;border:solid .0625rem #000}.sidebar-container .mc4wp-form>div,.smn-home-section__mailchimp-offcanvas-area .mc4wp-form>div{position:relative;z-index:1}.sidebar-container .mc4wp-form::after,.smn-home-section__mailchimp-offcanvas-area .mc4wp-form::after{content:"";position:absolute;border-radius:100%;width:31.25rem;height:31.25rem;top:0;left:100%;transform:translate(-50%,-50%);background-color:rgba(255,255,255,.16);box-shadow:0 0 0 12.5rem rgba(255,255,255,.08)}.sidebar-container .mc4wp-form::before,.smn-home-section__mailchimp-offcanvas-area .mc4wp-form::before{content:"";position:absolute;border-radius:100%;width:12.5rem;height:12.5rem;top:0;left:100%;transform:translate(-50%,-50%);background-color:rgba(255,255,255,.08)}.sidebar-container .mc4wp-form-fields,.smn-home-section__mailchimp-offcanvas-area .mc4wp-form-fields{margin-bottom:0}.sidebar-container .field-submit,.smn-home-section__mailchimp-offcanvas-area .field-submit{border:solid .0625rem #000}.sidebar-container .field-submit input,.smn-home-section__mailchimp-offcanvas-area .field-submit input{height:2.25rem!important;color:var(--contrast-color)}.mc4wp-form .field-submit input{font-family:var(--font-stack-primary-font)}.new-home__mailchimp-area .mc4wp-form{background:none;border:none}.branded-content-category{position:relative}.branded-content-category::before,.branded-content-category::after{content:" ";position:absolute;display:block;height:100%;top:0;width:calc((100% - 1140px)/2);background-repeat:no-repeat;background-size:auto 100%;background-attachment:fixed;z-index:0}.branded-content-category::before{left:0;background-position:left -6% top}.branded-content-category::after{right:0;background-position:right -8% top}.main-content-container{position:relative;z-index:2}.floating-share-buttons{display:none;position:fixed;bottom:0;left:0;z-index:1000;text-align:center;width:100%}.floating-share-buttons__button{display:inline-block;text-align:center;font-size:1.25rem;padding:.625rem;color:#fff;width:33.3333333%;min-height:2.5rem}.floating-share-buttons__button.facebook{background-color:#3b5998}.floating-share-buttons__button.twitter{background-color:#1da1f2}.floating-share-buttons__button.copy-link{background-color:#aaa;display:none}@media (min-width:576px){.floating-share-buttons__button.copy-link{display:inline-block}}.floating-share-buttons__button.whatsapp{background-color:#25d366}@media (min-width:576px){.floating-share-buttons__button.whatsapp{display:none}}@media (min-width:992px){.floating-share-buttons{display:block;top:50%;bottom:auto;transform:translate(0,-50%);left:0;width:auto}.floating-share-buttons__button{display:block;text-align:center;font-size:1.25rem;padding:.3125rem;color:#fff;width:2.5rem}}.google-ad-manager-skyscraper-ads{position:absolute;top:0;height:100%;z-index:1}.google-ad-manager-skyscraper-ads__left{right:calc(100% - (100% - 1140px)/2);text-align:right}.google-ad-manager-skyscraper-ads__right{left:calc(100% - (100% - 1140px)/2);text-align:left}.google-ad-manager-out-article-top-ads{display:none;text-align:center}@media (min-width:1140px){.google-ad-manager-out-article-top-ads{display:block}}.single-post .google-ad-manager-fixed-mobile-ads{bottom:3.125rem}.google-ad-manager-fixed-mobile-ads{position:fixed;bottom:0;left:0;width:100%;overflow:hidden;display:block;z-index:999}.google-ad-manager-fixed-mobile-ads__close{position:absolute;background:rgba(0,0,0,.7);padding:0;width:1.5625rem;height:1.5625rem;top:0;right:0}.google-ad-manager-fixed-mobile-ads>div{text-align:center;background-color:#fff}@media (min-width:1140px){.google-ad-manager-fixed-mobile-ads{display:none}}body{overflow-x:hidden}.google-ad-manager-ads-header>div,.google-ad-manager-ads-sidebar>div{background-color:#f6f6f6}.smn-new-gpt-ad{background-color:#f6f6f6}.gpt-centered>div:not(.smn-new-ad-label){margin:0 auto}.gpt-margin-bottom{margin-bottom:1rem}.google-ad-manager-ads-header>div{margin-bottom:1rem}.smn-ad-height-250{height:18.625rem}.smn-ad-height-600{height:40.5rem}.gpt-oop-ad-slot{height:0;overflow:hidden}.global-wrapper{position:relative;width:100%;max-width:71.25rem;padding-left:1rem;padding-right:1rem;margin-left:auto;margin-right:auto}.pg-body--border-top{border:0}.smn-home-section__mailchimp-offcanvas-area{flex:1}.new-home .mc4wp-form strong,.new-home__mailchimp-offcanvas-area .mc4wp-form strong{font-family:var(--font-stack-primary-font);font-weight:600;text-transform:none}.new-home .mc4wp-form .field-terms a,.new-home__mailchimp-offcanvas-area .mc4wp-form .field-terms a{color:var(--contrast-color);text-decoration:underline}.new-home .new-home__mailchimp-area .mc4wp-form .field-terms a{color:var(--theme-primary-color)}.new-home__modal-subscribe .close{background:none;color:#000}.smn-contrast-color,.smn-contrast-color *,.smn-contrast-color a{color:var(--contrast-color)}.sidebar-container .mc4wp-form *{color:var(--contrast-color)}.sidebar-container .mc4wp-form .field-terms a{color:var(--contrast-color)}.new-home__mailchimp-area .field-submit input{color:var(--contrast-color)}.new-home .new-home__mailchimp-area .mc4wp-form strong,.new-home__mailchimp-area .mc4wp-form strong{color:#000}.new-home__mailchimp-area .mc4wp-form *{color:#000}</style>
+	<meta name="description" content="Não há sentimento mais português do que a saudade. E não há poeta que resista ao tema. Nos tempos que correm, recordamos alguns poemas sobre a saudade." />
+	<link rel="canonical" href="https://lisboasecreta.co/poemas-sobre-a-saudade-portugues/" />
+	<meta property="og:locale" content="pt_PT" />
+	<meta property="og:type" content="article" />
+<meta property="og:title" content="Poemas sobre a saudade, este sentimento tão português" />
+	<meta property="og:description" content="Não há sentimento mais português do que a saudade. E não há poeta que resista ao tema. Nos tempos que correm, recordamos alguns poemas sobre a saudade." />
+	<meta property="og:url" content="https://lisboasecreta.co/poemas-sobre-a-saudade-portugues/" />
+	<meta property="og:site_name" content="Lisboa Secreta" />
+	<meta property="article:published_time" content="2020-04-09T18:13:29+00:00" />
+	<meta property="article:modified_time" content="2020-04-09T17:13:29+00:00" />
+	<meta property="og:image" content="https://offloadmedia.feverup.com/lisboasecreta.co/wp-content/uploads/2020/04/21160140/Poemas-sobre-a-saudade-este-sentimento-ta%CC%83o-portugue%CC%82s-%40thought-catalog.jpg" />
+	<meta property="og:image:width" content="2000" />
+	<meta property="og:image:height" content="1333" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="author" content="Carolina Bessa" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Escrito por" />
+	<meta name="twitter:data1" content="Carolina Bessa" />
+	<meta name="twitter:label2" content="Tempo estimado de leitura" />
+	<meta name="twitter:data2" content="5 minutos" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://lisboasecreta.co/poemas-sobre-a-saudade-portugues/","url":"https://lisboasecreta.co/poemas-sobre-a-saudade-portugues/","name":"Poemas sobre a saudade, este sentimento tão português - Lisboa Secreta","isPartOf":{"@id":"https://lisboasecreta.co/#website"},"primaryImageOfPage":{"@id":"https://lisboasecreta.co/poemas-sobre-a-saudade-portugues/#primaryimage"},"image":{"@id":"https://lisboasecreta.co/poemas-sobre-a-saudade-portugues/#primaryimage"},"thumbnailUrl":"https://lisboasecreta.co/wp-content/uploads/2020/04/Poemas-sobre-a-saudade-este-sentimento-tão-português-@thought-catalog.jpg","datePublished":"2020-04-09T18:13:29+00:00","dateModified":"2020-04-09T17:13:29+00:00","description":"Não há sentimento mais português do que a saudade. E não há poeta que resista ao tema. Nos tempos que correm, recordamos alguns poemas sobre a saudade.","breadcrumb":{"@id":"https://lisboasecreta.co/poemas-sobre-a-saudade-portugues/#breadcrumb"},"inLanguage":"pt-PT","potentialAction":[{"@type":"ReadAction","target":["https://lisboasecreta.co/poemas-sobre-a-saudade-portugues/"]}]},{"@type":"ImageObject","inLanguage":"pt-PT","@id":"https://lisboasecreta.co/poemas-sobre-a-saudade-portugues/#primaryimage","url":"https://lisboasecreta.co/wp-content/uploads/2020/04/Poemas-sobre-a-saudade-este-sentimento-tão-português-@thought-catalog.jpg","contentUrl":"https://lisboasecreta.co/wp-content/uploads/2020/04/Poemas-sobre-a-saudade-este-sentimento-tão-português-@thought-catalog.jpg","width":2000,"height":1333,"caption":"Foto por @thought-catalog"},{"@type":"BreadcrumbList","@id":"https://lisboasecreta.co/poemas-sobre-a-saudade-portugues/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://lisboasecreta.co/"},{"@type":"ListItem","position":2,"name":"Cultura","item":"https://lisboasecreta.co/cultura/"},{"@type":"ListItem","position":3,"name":"Poemas sobre a saudade, este sentimento tão português"}]},{"@type":"WebSite","@id":"https://lisboasecreta.co/#website","url":"https://lisboasecreta.co/","name":"Lisboa Secreta","description":"Os melhores segredos de Lisboa","publisher":{"@id":"https://lisboasecreta.co/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://lisboasecreta.co/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"pt-PT"},{"@type":"Organization","@id":"https://lisboasecreta.co/#organization","name":"Lisboa Secreta","url":"https://lisboasecreta.co/","logo":{"@type":"ImageObject","inLanguage":"pt-PT","@id":"https://lisboasecreta.co/#/schema/logo/image/","url":"https://offloadmedia.feverup.com/lisboasecreta.co/wp-content/uploads/2022/06/02053531/lisboasecreta.co-logo.png","contentUrl":"https://offloadmedia.feverup.com/lisboasecreta.co/wp-content/uploads/2022/06/02053531/lisboasecreta.co-logo.png","width":968,"height":100,"caption":"Lisboa Secreta"},"image":{"@id":"https://lisboasecreta.co/#/schema/logo/image/"}}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.instagram.com' />
+<script type="rocketlazyloadscript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/lisboasecreta.co\/wp-includes\/js\/wp-emoji-release.min.js?ver=98aad71ed5cffef96f1515a0482cfd7a"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="preload" id="wp-block-library-css" href="https://lisboasecreta.co/wp-includes/css/dist/block-library/style.min.css?ver=98aad71ed5cffef96f1515a0482cfd7a" as="style" media="all" />
+<noscript><link rel="stylesheet" href="https://lisboasecreta.co/wp-includes/css/dist/block-library/style.min.css?ver=98aad71ed5cffef96f1515a0482cfd7a"></noscript>
+<link rel='preload'  href='https://lisboasecreta.co/wp-includes/css/classic-themes.min.css?ver=1' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"  media='all' />
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='preload'  href='https://lisboasecreta.co/wp-content/themes/secretmedianetwork/dist/css/app.css?ver=4.5.42' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"  media='all' />
+<style id='rocket-lazyload-inline-css'>
+.rll-youtube-player{position:relative;padding-bottom:56.23%;height:0;overflow:hidden;max-width:100%;}.rll-youtube-player:focus-within{outline: 2px solid currentColor;outline-offset: 5px;}.rll-youtube-player iframe{position:absolute;top:0;left:0;width:100%;height:100%;z-index:100;background:0 0}.rll-youtube-player img{bottom:0;display:block;left:0;margin:auto;max-width:100%;width:100%;position:absolute;right:0;top:0;border:none;height:auto;-webkit-transition:.4s all;-moz-transition:.4s all;transition:.4s all}.rll-youtube-player img:hover{-webkit-filter:brightness(75%)}.rll-youtube-player .play{height:100%;width:100%;left:0;top:0;position:absolute;background:url(https://lisboasecreta.co/wp-content/plugins/wp-rocket/assets/img/youtube.png) no-repeat center;background-color: transparent !important;cursor:pointer;border:none;}
+</style>
+<link rel="https://api.w.org/" href="https://lisboasecreta.co/wp-json/" /><link rel="alternate" type="application/json" href="https://lisboasecreta.co/wp-json/wp/v2/posts/20592" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://lisboasecreta.co/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://lisboasecreta.co/wp-includes/wlwmanifest.xml" />
+
+<link rel='shortlink' href='https://lisboasecreta.co/?p=20592' />
+<link rel="alternate" type="application/json+oembed" href="https://lisboasecreta.co/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flisboasecreta.co%2Fpoemas-sobre-a-saudade-portugues%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://lisboasecreta.co/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flisboasecreta.co%2Fpoemas-sobre-a-saudade-portugues%2F&#038;format=xml" />
+		<meta property="fb:pages" content="153887072038742" />
+		<link rel="icon" href="https://lisboasecreta.co/wp-content/uploads/2022/03/cropped-Lisboa-Secreta-unified-favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://lisboasecreta.co/wp-content/uploads/2022/03/cropped-Lisboa-Secreta-unified-favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://lisboasecreta.co/wp-content/uploads/2022/03/cropped-Lisboa-Secreta-unified-favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://lisboasecreta.co/wp-content/uploads/2022/03/cropped-Lisboa-Secreta-unified-favicon-270x270.png" />
+<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript><script type="rocketlazyloadscript">
+/*! loadCSS rel=preload polyfill. [c]2017 Filament Group, Inc. MIT License */
+(function(w){"use strict";if(!w.loadCSS){w.loadCSS=function(){}}
+var rp=loadCSS.relpreload={};rp.support=(function(){var ret;try{ret=w.document.createElement("link").relList.supports("preload")}catch(e){ret=!1}
+return function(){return ret}})();rp.bindMediaToggle=function(link){var finalMedia=link.media||"all";function enableStylesheet(){link.media=finalMedia}
+if(link.addEventListener){link.addEventListener("load",enableStylesheet)}else if(link.attachEvent){link.attachEvent("onload",enableStylesheet)}
+setTimeout(function(){link.rel="stylesheet";link.media="only x"});setTimeout(enableStylesheet,3000)};rp.poly=function(){if(rp.support()){return}
+var links=w.document.getElementsByTagName("link");for(var i=0;i<links.length;i++){var link=links[i];if(link.rel==="preload"&&link.getAttribute("as")==="style"&&!link.getAttribute("data-loadcss")){link.setAttribute("data-loadcss",!0);rp.bindMediaToggle(link)}}};if(!rp.support()){rp.poly();var run=w.setInterval(rp.poly,500);if(w.addEventListener){w.addEventListener("load",function(){rp.poly();w.clearInterval(run)})}else if(w.attachEvent){w.attachEvent("onload",function(){rp.poly();w.clearInterval(run)})}}
+if(typeof exports!=="undefined"){exports.loadCSS=loadCSS}
+else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
+</script>
+<style>
+.single__subtitle{font-family:"Montserrat",sans-serif;font-size:1rem;color:#787474;font-weight:300;margin-bottom:1.25rem}@media (min-width: 768px){.single__subtitle{font-size:1.375rem}}
+body .google-ad-manager-ads-header>div {
+    margin-bottom: 0;
+}
+.article__content .gpt-margin-bottom {
+    margin-bottom: 0;
+}
+</style>
+
+
+						<style data-critical-css-common> .smn-ad-height-50 { height: 6.125rem; } .smn-ad-height-90 { height: 8.625rem; } .smn-ad-height-100 { height: 9.25rem; } .smn-ad-height-250 { height: 18.625rem; } .smn-ad-height-600 { height: 40.5rem; } .gpt-margin-bottom { margin-bottom: 1rem; } article+.gpt-margin-bottom, .gpt-margin-bottom+.gpt-margin-bottom { margin-bottom: 1rem; } .top-bar-social-media__item { display: inline-block; min-width: 1.875rem; min-height: 2.5rem; } .smn-header-logo { min-height: 2.5rem; } </style><style data-critical-css-single> .wp-caption, .single__featured-image-container { position: relative; } .wp-caption .wp-caption-text, .wp-caption .single__featured-image-caption, .single__featured-image-container .wp-caption-text, .single__featured-image-container .single__featured-image-caption { position: absolute; bottom: 0; left: 0; padding: 0.25rem 0.5rem 0.25rem 0.5rem; font-size: .75rem; line-height: 1.25; } .single__subtitle { font-family: "Montserrat", sans-serif; font-size: 1rem; font-weight: 300; margin-bottom: 1.25rem } @media (min-width: 768px) { .single__subtitle { font-size: 1.25rem; } } </style>
+		</head>
+
+	<body class="pg-body pg-body--border-top post-template-default single single-post postid-20592 single-format-standard wp-custom-logo">
+
+		<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>
+
+		<div class="smn-global-parent-wrapper">
+			<div class="smn-body-offcanvas-menu__overlay"></div>
+
+		<!-- Facebook Pixel Code -->
+<noscript>
+	<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1543543449260625&ev=PageView&noscript=1" alt="">
+</noscript>
+<!-- End Facebook Pixel Code -->
+
+		<div class="search-results-container" >
+	<div class="search-results-container__close">
+		<span id="close-search-overlay" tabindex="0">&times;</span>
+	</div>
+	<p class="search-results-container__tip">TIPO EM SUA PESQUISA E PRESSIONE ENTER</p>
+	<form class="search-results-container__form" method="POST" action="#">
+		<label class="sr-only" for="common-search-input">Buscar</label>
+		<input type="search" placeholder="Buscar" class="search-results-container__input" id="common-search-input" autocomplete="off" autofocus>
+	</form>
+	<div class="container">
+		<div class="row">
+			<div class="col-12">
+				<div class="search-results-container__results"></div>
+			</div>
+		</div>
+	</div>
+</div>
+
+			<div class="loading-fever-spinner">
+				<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="loading-fever-spinner__image" alt="Carregando..." data-lazy-src="https://lisboasecreta.co/wp-content/themes/secretmedianetwork/images/generic-animated-spinner.svg"><noscript><img src="https://lisboasecreta.co/wp-content/themes/secretmedianetwork/images/generic-animated-spinner.svg" class="loading-fever-spinner__image" alt="Carregando..."></noscript>
+			</div>
+
+							<div class="smn-header-placeholder"></div>
+<header class="smn-header navbar-sticky" >
+	<div class="global-wrapper smn-header__wrapper">
+		<div class="smn-header__logo smn-header-logo">
+						<a href="https://lisboasecreta.co">
+		<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%2079'%3E%3C/svg%3E" alt="Lisboa Secreta" class="img-fluid smn-header-logo__full" width="768" height="79" data-lazy-src="https://offloadmedia.feverup.com/lisboasecreta.co/wp-content/uploads/2022/06/02053531/lisboasecreta.co-logo-768x79.png"><noscript><img src="https://offloadmedia.feverup.com/lisboasecreta.co/wp-content/uploads/2022/06/02053531/lisboasecreta.co-logo-768x79.png" alt="Lisboa Secreta" class="img-fluid smn-header-logo__full" width="768" height="79"></noscript>
+			</a>
+						</div>
+		<div class="smn-header__addons smn-header-addons">
+						<div class="smn-header-addons__subscribe smn-header-subscribe" data-bs-toggle="modal" data-bs-target=".new-home__modal-subscribe" tabindex="0" role="button" aria-label="Abrir pop-up do formulário de inscrição">
+				<span class="smn-header-subscribe__icon-wrapper">
+					<i class="far fa-envelope fa-fw smn-header-subscribe__icon"></i>
+				</span>
+				<span class="smn-header-subscribe__label"> Subscrever</span>
+			</div>
+						<div class="smn-header-addons__social-media">
+				<div class="new-home__header-social-media">
+	<ul class="top-bar-social-media">
+									<li class="top-bar-social-media__item">
+					<a href="https://www.facebook.com/lisboasecreta/"
+					   data-social-media-name="Facebook" target="_blank"
+					   rel="sponsored noopener noreferrer"
+					   data-has-ga="true"
+					   data-ga-type="click"
+					   aria-label="Facebook"
+					   data-category="follow_buttons_header"
+					   data-action="facebook">
+													<i class="fab fa-facebook fa-fw"></i>
+											</a>
+				</li>
+							<li class="top-bar-social-media__item">
+					<a href="https://twitter.com/lisboasecreta"
+					   data-social-media-name="Twitter" target="_blank"
+					   rel="sponsored noopener noreferrer"
+					   data-has-ga="true"
+					   data-ga-type="click"
+					   aria-label="Twitter"
+					   data-category="follow_buttons_header"
+					   data-action="twitter">
+													<i class="fab fa-twitter fa-fw"></i>
+											</a>
+				</li>
+							<li class="top-bar-social-media__item">
+					<a href="https://www.instagram.com/lisboasecreta/"
+					   data-social-media-name="Instagram" target="_blank"
+					   rel="sponsored noopener noreferrer"
+					   data-has-ga="true"
+					   data-ga-type="click"
+					   aria-label="Instagram"
+					   data-category="follow_buttons_header"
+					   data-action="instagram">
+													<i class="fab fa-instagram fa-fw"></i>
+											</a>
+				</li>
+							<li class="top-bar-social-media__item">
+					<a href="https://www.youtube.com/channel/UCf2UiJFaD8PDYTUO7FyT7qg?sub_confirmation=1"
+					   data-social-media-name="Youtube" target="_blank"
+					   rel="sponsored noopener noreferrer"
+					   data-has-ga="true"
+					   data-ga-type="click"
+					   aria-label="Youtube"
+					   data-category="follow_buttons_header"
+					   data-action="youtube">
+													<i class="fab fa-youtube fa-fw"></i>
+											</a>
+				</li>
+						</ul>
+</div>
+
+			</div>
+			<div id="search-action-top-bar"
+				role="button"
+				class="smn-header-addons__search search-icon-block__container"
+				tabindex="0"
+				data-has-ga="true"
+				data-ga-type="click"
+				data-category="search_click"
+				data-action="click"
+				aria-label="Buscar"
+			>
+				<i class="far fa-search"></i>
+			</div>
+		</div>
+		<div class="smn-header__break"></div>
+		<button type="button" class="smn-header__bars new-home__burger-menu-bars toggle-offcanvas-menu" aria-label="Abrir o menu sidenav">
+			<i class="far fa-bars"></i>
+		</button>
+		<nav class="smn-header__menu smn-menu">
+				<ul class="smn-menu__list smn-menu-list  new-home__menu-items-wrapper no-class">
+					<li class=" menu-item menu-item-type-taxonomy menu-item-object-category menu-item-75 smn-menu-list__item">
+				<a  href="https://lisboasecreta.co/o-que-fazer/"
+				   class="smn-menu-list__link"
+				>
+					O Que Fazer
+				</a>
+			</li>
+					<li class=" menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19 smn-menu-list__item">
+				<a  href="https://lisboasecreta.co/noticias/"
+				   class="smn-menu-list__link"
+				>
+					Notícias
+				</a>
+			</li>
+					<li class=" menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20 smn-menu-list__item">
+				<a  href="https://lisboasecreta.co/gastronomia/"
+				   class="smn-menu-list__link"
+				>
+					Gastronomia
+				</a>
+			</li>
+					<li class=" menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-1722 smn-menu-list__item">
+				<a  href="https://lisboasecreta.co/cultura/"
+				   class="smn-menu-list__link"
+				>
+					Cultura
+				</a>
+			</li>
+					<li class=" menu-item menu-item-type-taxonomy menu-item-object-category menu-item-32724 smn-menu-list__item">
+				<a  href="https://lisboasecreta.co/viagens/"
+				   class="smn-menu-list__link"
+				>
+					Viagens
+				</a>
+			</li>
+					<li class=" menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1723 smn-menu-list__item">
+				<a  href="https://lisboasecreta.co/natureza-bem-estar/"
+				   class="smn-menu-list__link"
+				>
+					Natureza & Bem-estar
+				</a>
+			</li>
+					<li class=" menu-item menu-item-type-taxonomy menu-item-object-category menu-item-32723 smn-menu-list__item">
+				<a  href="https://lisboasecreta.co/guias-secretos/"
+				   class="smn-menu-list__link"
+				>
+					Guias Secretos
+				</a>
+			</li>
+			</ul>
+		</nav>
+	</div>
+</header>
+			
+						<div class="infinite-container">
+					<div class="floating-share-buttons">
+	<a class="floating-share-buttons__button facebook" aria-label="Share on Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Flisboasecreta.co%2Fpoemas-sobre-a-saudade-portugues%2F%3Futm_source%3Dlisboasecreta_web_share%26utm_medium%3Dpost%26utm_term%3Dpoemas-sobre-a-saudade-portugues%26utm_term%3Dfacebook" data-has-ga="true" data-ga-type="click" data-category="shared_content_sticky" data-action="facebook" rel="sponsored noopener noreferrer">
+		<i class="fab fa-facebook-f"></i>
+	</a><a class="floating-share-buttons__button twitter" aria-label="Share on Twitter" target="_blank" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Flisboasecreta.co%2Fpoemas-sobre-a-saudade-portugues%2F%3Futm_source%3Dlisboasecreta_web_share%26utm_medium%3Dpost%26utm_term%3Dpoemas-sobre-a-saudade-portugues%26utm_term%3Dtwitter" data-has-ga="true" data-ga-type="click" data-category="shared_content_sticky" data-action="twitter" rel="sponsored noopener noreferrer">
+		<i class="fab fa-twitter"></i>
+	</a><span class="floating-share-buttons__button copy-link smn-copy-to-clipboard"
+		   aria-label="Copy to clipboard"
+		   data-has-ga="true"
+		   data-ga-type="click"
+		   data-category="shared_content_sticky"
+		   data-action="copy_url"
+		   data-bs-toggle="popover"
+		   data-bs-placement="bottom"
+		   data-bs-content="Copiado!"
+		   data-bs-animation="true"
+		   data-clipboard-text="https://lisboasecreta.co/poemas-sobre-a-saudade-portugues/?utm_source=lisboasecreta_web_share&utm_medium=post&utm_term=poemas-sobre-a-saudade-portugues&utm_term=clipboard"
+		   tabindex="0"
+		>
+		<i class="fas fa-clipboard"></i>
+	</span><a class="floating-share-buttons__button whatsapp" aria-label="Share on WhatsApp" target="_blank" href="https://api.whatsapp.com/send?phone=&text=https%3A%2F%2Flisboasecreta.co%2Fpoemas-sobre-a-saudade-portugues%2F%3Futm_source%3Dlisboasecreta_web_share%26utm_medium%3Dpost%26utm_term%3Dpoemas-sobre-a-saudade-portugues%26utm_term%3Dwhatsapp" data-has-ga="true" data-ga-type="click" data-category="shared_content_sticky" data-action="whatsapp" rel="sponsored noopener noreferrer">
+		<i class="fab fa-whatsapp"></i>
+	</a>
+</div>
+										<div id="div-sky_left-desktop" class="google-ad-manager-skyscraper-ads google-ad-manager-skyscraper-ads__left"></div>
+	<div id="div-sky_right-desktop" class="google-ad-manager-skyscraper-ads google-ad-manager-skyscraper-ads__right"></div>
+				<div class="wrapper
+					branded-content-category smn-category-6 															"
+				>
+												<div class="gpt-centered gpt-margin-bottom google-ad-manager-ads-header w-100 text-center overflow-x-hidden smn-new-gpt-ad smn-ad-height-250 d-none d-lg-block mb-0">
+		<div id="div-megabanner_first-desktop" ></div>
+	</div>
+					<div class="container main-content-container">
+						<div class="row">
+									<div id="div-oop-desktop" class="gpt-oop-ad-slot"></div>
+		<div id="div-oop-mobile" class="gpt-oop-ad-slot"></div>
+		<div id="div-skin-desktop" class="gpt-skin-ad-slot"></div>
+	<div class="col-12">
+	<section class="article-content">
+		<header>
+			<h1 class="single__title word-breaker">Poemas sobre a saudade, este sentimento tão português</h1>
+							<p class="single__subtitle">Não há palavra ou sentimento tão português quanto a saudade.</p>
+					</header>
+		<p class="single__author">
+			<span class="single__author__avatar">
+				<a href="/author/carolina-bessa/">
+					<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E" alt="Carolina Bessa" class="img-fluid" width="24" height="24" data-lazy-src="https://secure.gravatar.com/avatar/1058fffca5e9adca4267647b62ed5489?s=24&d=mm&r=g"><noscript><img src="https://secure.gravatar.com/avatar/1058fffca5e9adca4267647b62ed5489?s=24&d=mm&r=g" alt="Carolina Bessa" class="img-fluid" width="24" height="24"></noscript>
+				</a>
+			</span>
+			<a href="/author/carolina-bessa/" class="notranslate"> Carolina Bessa</a> <span class="single__author__bull-divider">&bull;</span> <time class="single__author__date" datetime="2020-04-09T18:13:29+01:00">Abril 9, 2020</time>
+		</p>
+	</section>
+</div>
+																					<main id="content"
+								  class="content-wrapper col-md-8">
+									<div class="content-wrapper">
+	<article class="post-type-post article post-main-content" id="post-20592"
+			 data-metatitle="Poemas sobre a saudade, este sentimento tão português - Lisboa Secreta"
+					 data-post-id="20592"
+			 data-scrollnumber="1"
+			 data-url="https://lisboasecreta.co/poemas-sobre-a-saudade-portugues/"
+			 data-post-slug="poemas-sobre-a-saudade-portugues"
+			 data-copy-url="https://lisboasecreta.co/poemas-sobre-a-saudade-portugues/?utm_content=poemas-sobre-a-saudade-portugues&utm_source=lisboasecreta&utm_medium=post"
+			 data-primary-category-slug="cultura"
+			 data-primary-category-id="6"
+			 data-main-category="Cultura"
+			 data-main-category-id="6"
+			 data-main-category-slug="cultura"
+			 data-categories-slug="cultura"
+	>
+
+		<section class="article__content">
+						<figure class="single__featured-image-container">
+				<img
+				 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20682'%3E%3C/svg%3E"
+					class="img-fluid"
+					alt="livro de poemas"
+					width="1024"
+					height="682"
+			 data-lazy-src="https://lisboasecreta.co/wp-content/uploads/2020/04/Poemas-sobre-a-saudade-este-sentimento-tão-português-@thought-catalog-1024x682.jpg"	><noscript><img
+					src="https://lisboasecreta.co/wp-content/uploads/2020/04/Poemas-sobre-a-saudade-este-sentimento-tão-português-@thought-catalog-1024x682.jpg"
+					class="img-fluid"
+					alt="livro de poemas"
+					width="1024"
+					height="682"
+				></noscript>
+									<figcaption class="single__featured-image-caption">Foto por @thought-catalog</figcaption>
+							</figure>
+						<div class="article__body">
+				<p>Com a pandemia e agora com a guerra na Ucrânia, <strong>vivemos tempos de grande incerteza,</strong> e em que nos é pedido isolamento e distanciamento social.</p>
+<p><strong>Nunca a saudade foi tão apertada.</strong> Nem sempre podemos estar com a nossa família ou com os nossos amigos e, por vezes, até somos obrigados a ficar em casa.</p>
+<p><strong>A saudade não se explica, sente-se.</strong> E hoje, todos os portugueses a sentem da mesma maneira e com a mesma intensidade.</p>
+<p>Este é também um tema recorrente na literatura portuguesa, seja prosa ou poesia. Hoje, por ser Dia Internacional da Poesia, partilhamos alguns <strong>poemas sobre a saudade. </strong></p>
+<p><strong>A saudade é um sentimento único e tão bonito. </strong>O facto de sentirmos saudade significa que vivemos. E que temos algo bom à nossa espera<strong> quando tudo isto passar. </strong></p>
+<p>Junta-te e (re)lê estes <strong>poemas portugueses connosco:</strong></p>
+<h4 style="text-align: center;">Espero, Sophia de Mello Breyner Andresen</h4>
+<p style="text-align: center;"><em>Espero sempre por ti o dia inteiro,</em><br />
+<em>Quando na praia sobe, de cinza e oiro,</em><br />
+<em>O nevoeiro</em><br />
+<em>E há em todas as coisas o agoiro</em><br />
+<em>De uma fantástica vinda.</em></p>
+<h4 style="text-align: center;">Minha Terra, Florbela Espanca</h4>
+<p style="text-align: center;"><em>A. J. Emídio Amaro</em></p>
+<p style="text-align: center;"><em>Ó minha terra na planicie rasa,</em><br />
+<em>Branca de sol e cal e de luar,</em><br />
+<em>Minha terra que nunca viu o mar</em><br />
+<em>Onde tenho o meu pâo e a minha casa&#8230;</em></p>
+<p style="text-align: center;"><em>Minha terra de tardes sem uma asa,</em><br />
+<em>Sem um bater de folha&#8230; a dormitar&#8230;</em><br />
+<em>Meu anel de rubis a flamejar,</em><br />
+<em>Minha terra mourisca a arder em brasa!</em></p>
+<p style="text-align: center;"><em>Minha terra onde meu irmâo nasceu&#8230;</em><br />
+<em>Aonde a mâe que eu tive e que morreu,</em><br />
+<em>Foi moça e loira, amou e foi amada&#8230;</em></p>
+<p style="text-align: center;"><em>Truz&#8230; truz&#8230; truz&#8230; Eu não tenho onde me acoite,</em><br />
+<em>Sou um pobre de longe, é quase noite&#8230;</em><br />
+<em>Terra, quero dormir&#8230; dá-me pousada!</em></p>
+<h4 style="text-align: center;">Quis Deixar-me A Que Eu Adoro, Luíz Vaz de Camões</h4>
+<p style="text-align: center;"><em>Apartava-se Nise de Montano,</em><br />
+<em>Em cuja alma, partindo-se, ficava,</em><br />
+<em>Que o pastor na memória a debuxava,</em><br />
+<em>Por poder sustentar-se deste engano.</em></p>
+<p style="text-align: center;"><em>Por ũa praia do Índico Oceano</em><br />
+<em>Sobre o curvo cajado se encostava,</em><br />
+<em>E os olhos pelas águas alongava,</em><br />
+<em>Que pouco se doíam de seu dano.</em></p>
+<p style="text-align: center;"><em>Pois com tamanha mágoa e saudade,</em><br />
+<em>(Dizia) quis deixar-me a que eu adoro,</em><br />
+<em>Por testemunhas tomo céu e estrelas.</em></p>
+<p style="text-align: center;"><em>Mas se em vós, ondas, mora piedade,</em><br />
+<em>Levai também as lágrimas que choro,</em><br />
+<em>Pois assim me levais a causa delas.</em></p>
+<h4 style="text-align: center;">Saudade, Mia Couto</h4>
+<p style="text-align: center;"><em>Magoa-me a saudade</em><br />
+<em>do sobressalto dos corpos</em><br />
+<em>ferindo-se de ternura</em><br />
+<em>dói-me a distante lembrança</em><br />
+<em>do teu vestido</em><br />
+<em>caindo aos nossos pés</em></p>
+<p style="text-align: center;"><em>Magoa-me a saudade</em><br />
+<em>do tempo em que te habitava</em><br />
+<em>como o sal ocupa o mar</em><br />
+<em>como a luz recolhendo-se</em><br />
+<em>nas pupilas desatentas</em></p>
+<p style="text-align: center;"><em>Seja eu de novo tua sombra, teu desejo</em><br />
+<em>tua noite sem remédio</em><br />
+<em>tua virtude, tua carência</em><br />
+<em>eu</em><br />
+<em>que longe de ti sou fraco</em><br />
+<em>eu</em><br />
+<em>que já fui água, seiva vegetal</em><br />
+<em>sou agora gota trémula, raiz exposta</em></p>
+<p style="text-align: center;"><em>Traz</em><br />
+<em>de novo, meu amor,</em><br />
+<em>a transparência da água</em><br />
+<em>dá ocupação à minha ternura vadia</em><br />
+<em>mergulha os teus dedos</em><br />
+<em>no feitiço do meu peito</em><br />
+<em>e espanta na gruta funda de mim</em><br />
+<em>os animais que atormentam o meu sono</em></p>
+<h4 style="text-align: center;">Fímbria de Melancolia, Vergílio Ferreira</h4>
+<p style="text-align: center;"><em>Fímbria de melancolia,</em><br />
+<em>memória incerta da dor,</em><br />
+<em>ouço-a no gravador,</em><br />
+<em>no fado que não se ouvia</em><br />
+<em>quando ouvia o seu clamor.</em></p>
+<p style="text-align: center;"><em>Porque era já no passado</em><br />
+<em>o presente dessa hora</em><br />
+<em>e que me ressoa agora</em><br />
+<em>a um outro mais alongado.</em></p>
+<p style="text-align: center;"><em>Assim a dor que se sente</em><br />
+<em>no outro obscuro de nós</em><br />
+<em>nunca fala a nossa voz</em><br />
+<em>mas de quem de nós ausente,</em><br />
+<em>só a nós próprios consente</em><br />
+<em>quando não estamos nós</em><br />
+<em>mas mais sós do que ao estar sós.</em></p>
+<p style="text-align: center;"><em>Onde então estamos nós?</em></p>
+<h4 style="text-align: center;">Nostalgia, Florbela Espanca</h4>
+<p style="text-align: center;"><em>Nesse País de lenda, que me encanta,</em><br />
+<em>Ficaram meus brocados, que despi,</em><br />
+<em>E as jóias que p&#8217;las aias reparti</em><br />
+<em>Como outras rosas de Rainha Santa!</em></p>
+<p style="text-align: center;"><em>Tanta opala que eu tinha! Tanta, tanta!</em><br />
+<em>Foi por lá que as semeei e que as perdi&#8230;</em><br />
+<em>Mostrem-me esse País onde eu nasci!</em><br />
+<em>Mostrem-me o Reino de que eu sou Infanta!</em></p>
+<p style="text-align: center;"><em>O meu País de sonho e de ansiedade,</em><br />
+<em>Não sei se esta quimera que me assombra,</em><br />
+<em>É feita de mentira ou de verdade!</em></p>
+<p style="text-align: center;"><em>Quero voltar! Não sei por onde vim&#8230;</em><br />
+<em>Ah! Não ser mais que a sombra duma sombra</em><br />
+<em>Por entre tanta sombra igual a mim!</em></p>
+<h4 style="text-align: center;">Tenho Uma Saudade Tão braba, Vitorino Nemésio</h4>
+<p style="text-align: center;"><em>Tenho uma saudade tão braba</em><br />
+<em>Da ilha onde já não moro,</em><br />
+<em>Que em velho só bebo a baba</em><br />
+<em>Do pouco pranto que choro.</em></p>
+<p style="text-align: center;"><em>Os meus parentes, com dó,</em><br />
+<em>Bem me querem levar,</em><br />
+<em>Mas talvez que nem meu pó</em><br />
+<em>Mereça a Deus lá ficar.</em></p>
+<p style="text-align: center;"><em>Enfim, só Nosso Senhor</em><br />
+<em>Há-de decidir se posso</em><br />
+<em>Morrer lá com esta dor,</em><br />
+<em>A meio de um Padre Nosso.</em></p>
+<p style="text-align: center;">Quando se diz «Seja feita»<br />
+Eu sentirei na garganta<br />
+A mão da Morte, direita<br />
+A este peito, que ainda canta.</p>
+<div class="smn-tracklink-cta" style="text-align: center;">Sabes onde podes encontrar muitos outros poemas como estes? Numa destas <a rel="noopener noreferrer" class="shortcode-outbound-link" href="https://lisboasecreta.co/8-livrarias-que-tens-de-descobrir-em-lisboa/"
+			data-has-ga="true" data-ga-type="click" data-category="outbound_link"
+			data-action="cta" data-label="https://lisboasecreta.co/8-livrarias-que-tens-de-descobrir-em-lisboa/" >8 livrarias espalhadas pela cidade.</a></div>
+<figure class="op-interactive">
+<blockquote class="wp-embedded-content" data-secret="938ZCp3DXe"><p><a href="https://lisboasecreta.co/8-livrarias-que-tens-de-descobrir-em-lisboa/">8 livrarias que tens mesmo que descobrir em Lisboa</a></p></blockquote>
+<p><iframe loading="lazy" class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="&#8220;8 livrarias que tens mesmo que descobrir em Lisboa&#8221; &#8212; Lisboa Secreta" src="about:blank" data-secret="938ZCp3DXe" width="500" height="282" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" data-rocket-lazyload="fitvidscompatible" data-lazy-src="https://lisboasecreta.co/8-livrarias-que-tens-de-descobrir-em-lisboa/embed/#?secret=938ZCp3DXe"></iframe><noscript><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="&#8220;8 livrarias que tens mesmo que descobrir em Lisboa&#8221; &#8212; Lisboa Secreta" src="https://lisboasecreta.co/8-livrarias-que-tens-de-descobrir-em-lisboa/embed/#?secret=938ZCp3DXe" data-secret="938ZCp3DXe" width="500" height="282" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></noscript></figure>
+
+			</div>
+			<hr class="single__meta-line-divider">
+								</section>
+
+				<footer>
+			<div class="post-list-view-home__category-wrapper">
+													<a href="https://lisboasecreta.co/cultura/" class="post-list-view-home__category-link">Cultura</a>
+							</div>
+					</footer>
+	</article>
+</div>
+							</main>
+														<aside class="layout-sidebar col-md-4 d-md-block d-none" >
+								<div class="layout-sidebar__sticky new-home">
+											<div class="gpt-centered gpt-margin-bottom google-ad-manager-ads-sidebar w-100 text-center overflow-x-hidden smn-new-gpt-ad smn-ad-height-600 d-none d-lg-block">
+		<div id="div-mpu_first-desktop"></div>
+	</div>
+										<div class="sidebar-container"><script type="rocketlazyloadscript">(function() {
+	window.mc4wp = window.mc4wp || {
+		listeners: [],
+		forms: {
+			on: function(evt, cb) {
+				window.mc4wp.listeners.push(
+					{
+						event   : evt,
+						callback: cb
+					}
+				);
+			}
+		}
+	}
+})();
+</script><!-- Mailchimp for WordPress v4.8.11 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-1232" method="post" data-id="1232" data-name="Newsletter form" ><div class="mc4wp-form-fields"><div class="new-home__form-text">
+	<p><strong class="mc4wp-form__title">Recebe-nos na tua inbox</strong></p>
+	<p class="mc4wp-form__description mc4wp-form__hidden">Subscreve a nossa newsletter para saberes as últimas novidades da tua cidade.</p>
+</div>
+<div class="new-home__form-field">
+  	<p class="field-email"><input type="email" name="EMAIL" placeholder="E-mail" required /></p>
+	<p class="field-submit"><input type="submit" value="Subscrever" /></p>
+	<p class="field-terms"><label><input name="AGREE_TO_TERMS" type="checkbox" value="1" required=""> Aceito os <a href="https://feverup.com/legal/all_pt.html" target="_blank" rel="nofollow noopener noreferrer">termos e condições</a></label></p>
+</div></div><label style="display: none !important;">Deixe este campo vazio se for humano: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1671288855" /><input type="hidden" name="_mc4wp_form_id" value="1232" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /><div class="mc4wp-response"></div></form><!-- / Mailchimp for WordPress Plugin --></div>
+								</div>
+							</aside>
+																											</div>
+					</div>
+									</div>
+			</div>
+
+			
+			
+			
+			
+					<footer >
+	<div class="smn-footer" id="footer">
+		<div class="global-wrapper">
+			<div class="smn-footer__main">
+				<a class="smn-footer__logo" href="https://secretmedianetwork.com/pt-pt/" target="_blank" rel="nofollow noopener noreferrer">
+					<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20165%2072'%3E%3C/svg%3E"
+						class="img-fluid" alt="Secret Media Network"
+						width="165"
+						height="72"
+				 data-lazy-src="https://lisboasecreta.co/wp-content/themes/secretmedianetwork/images/secret-media-network-new-logo.svg"	><noscript><img src="https://lisboasecreta.co/wp-content/themes/secretmedianetwork/images/secret-media-network-new-logo.svg"
+						class="img-fluid" alt="Secret Media Network"
+						width="165"
+						height="72"
+					></noscript>
+				</a>
+				<a class="smn-button smn-button--small smn-button--footer-up">
+					SUBIR <i class="far fa-arrow-up"></i>
+				</a>
+			</div>
+			<div class="smn-footer__aside">
+															<div class="new-home__footer-social-media">
+	<ul class="top-bar-social-media">
+									<li class="top-bar-social-media__item">
+					<a href="https://www.facebook.com/lisboasecreta/"
+					   data-social-media-name="Facebook" target="_blank"
+					   rel="sponsored noopener noreferrer"
+					   data-has-ga="true"
+					   data-ga-type="click"
+					   aria-label="Facebook"
+					   data-category="follow_buttons_header"
+					   data-action="facebook">
+													<i class="fab fa-facebook fa-fw"></i>
+											</a>
+				</li>
+							<li class="top-bar-social-media__item">
+					<a href="https://twitter.com/lisboasecreta"
+					   data-social-media-name="Twitter" target="_blank"
+					   rel="sponsored noopener noreferrer"
+					   data-has-ga="true"
+					   data-ga-type="click"
+					   aria-label="Twitter"
+					   data-category="follow_buttons_header"
+					   data-action="twitter">
+													<i class="fab fa-twitter fa-fw"></i>
+											</a>
+				</li>
+							<li class="top-bar-social-media__item">
+					<a href="https://www.instagram.com/lisboasecreta/"
+					   data-social-media-name="Instagram" target="_blank"
+					   rel="sponsored noopener noreferrer"
+					   data-has-ga="true"
+					   data-ga-type="click"
+					   aria-label="Instagram"
+					   data-category="follow_buttons_header"
+					   data-action="instagram">
+													<i class="fab fa-instagram fa-fw"></i>
+											</a>
+				</li>
+							<li class="top-bar-social-media__item">
+					<a href="https://www.youtube.com/channel/UCf2UiJFaD8PDYTUO7FyT7qg?sub_confirmation=1"
+					   data-social-media-name="Youtube" target="_blank"
+					   rel="sponsored noopener noreferrer"
+					   data-has-ga="true"
+					   data-ga-type="click"
+					   aria-label="Youtube"
+					   data-category="follow_buttons_header"
+					   data-action="youtube">
+													<i class="fab fa-youtube fa-fw"></i>
+											</a>
+				</li>
+						</ul>
+</div>
+
+										<div class="smn-footer__menu">
+						<div class="footer__column footer__column-2">			<div class="textwidget"><p><a href="https://lisboasecreta.co/sobre-nos/" data-about-page=""><strong>Sobre a Lisboa Secreta</strong></a> <a href="/quem-somos/" target="_blank" rel="nofollow noopener noreferrer"><strong>Quem somos</strong></a></p>
+<p><a href="https://forms.zohopublic.eu/fever/form/AnunciaconnoscoPT/formperma/d_UCiKg7IKoavOKdv2trO6ExewdJmMCFHAQyITxMRwk" target="_blank" rel="noopener"><strong>Anuncia connosco</strong></a></p>
+<p><a href="https://feverup.typeform.com/to/RUClla" target="_blank" rel="nofollow noopener noreferrer"><strong>Promove o teu evento</strong></a></p>
+</div>
+		</div>
+													<a class="smn-footer__contact-link" href="mailto:lisboa@secretmedianetwork.com">Contacto</a>
+											</div>
+							</div>
+		</div>
+	</div>
+	</footer>
+<script type="rocketlazyloadscript">
+	var googleAdManagerData = {
+		isActive: false,
+		isStandardAdsActive: false,
+		isPremiumAdsActive: false,
+		isCMPVerificationDisabled: false,
+		typeOfPage: "post",
+		categorySlug: "",
+		generalSlotID: "21975301918",
+		slotHeader: "",
+		slotSidebar: "",
+		slotIntext: "",
+		slotSkyscraperLeft: "",
+		slotSkyscraperRight: "",
+		slotOutOfArticleTop: "",
+		slotFixed: "",
+		slotInskin: "",
+		idIntextVideoAd: null,
+		isHeaderAdShown: false,
+		isSidebarAdShown: false,
+		isIntextAdShown: false,
+		initialViewport: window.innerWidth,
+		utmSource: "lisboasecreta",
+				categorySlugsArray: ["cultura"],
+				isAdTestingModeEnabled: false,
+		isSkinAdRestricted: false,
+				primaryCategory: "cultura",
+				postId: 20592
+	};
+		googleAdManagerData.isActive = true;
+			googleAdManagerData.isStandardAdsActive = true;
+	googleAdManagerData.isPremiumAdsActive = true;
+		var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+</script>
+<script type="rocketlazyloadscript">
+	let isQuantcastPrivacyAcceptedForCocacola = false;
+	const IABVendorList =
+		{
+			"GOOGLE_ADVERTISING_PRODUCTS": 755,
+			"SMARTCLIP_EUROPE_GMBH": 115,
+			"SMARTCLIP_HISPANIA_SL": 531,
+			"SEEDTAG_ADVERTISING_SL": 157,
+			"SALESFORCE": 506
+		}
+
+	function loadScript(src, additionalParameters = {}, callback) {
+		let script, ready, adjacentScript;
+		ready = false;
+		script = document.createElement('script');
+		script.src = src;
+		for (const parameter in additionalParameters) {
+			script.setAttribute(parameter, additionalParameters[parameter]);
+		}
+		script.onload = script.onreadystatechange = function () {
+			if (!ready && (!this.readyState || 'complete' === this.readyState)) {
+				ready = true;
+				if ('undefined' !== typeof callback) {
+					callback();
+				}
+			}
+		};
+		adjacentScript = document.getElementsByTagName('script')[0];
+		adjacentScript.parentNode.insertBefore(script, adjacentScript);
+	}
+
+	if ("function" === typeof window.__tcfapi) {
+		let isFirstTriggerDMP = true;
+		window.__tcfapi('addEventListener', 2, function (tcData, listenerSuccess) {
+			if (null !== tcData && ('tcloaded' === tcData.eventStatus || 'useractioncomplete' === tcData.eventStatus)) {
+				const consents = tcData.vendor.consents;
+												if (listenerSuccess && consents.hasOwnProperty(IABVendorList.GOOGLE_ADVERTISING_PRODUCTS) &&
+					true === consents[IABVendorList.GOOGLE_ADVERTISING_PRODUCTS]) {
+					loadScript('https://securepubads.g.doubleclick.net/tag/js/gpt.js', {
+						"async": true,
+						"defer": true
+					});
+				}
+																isFirstTriggerDMP = false;
+			}
+		});
+	}
+</script>
+		
+					<nav class="smn-offcanvas-menu" >
+	<div class="smn-offcanvas-menu__header smn-offcanvas-menu-header">
+		<div class="smn-offcanvas-menu-header__logo">
+						<a href="https://lisboasecreta.co">
+		<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%2079'%3E%3C/svg%3E" alt="Lisboa Secreta" class="img-fluid smn-header-logo__full" width="768" height="79" data-lazy-src="https://offloadmedia.feverup.com/lisboasecreta.co/wp-content/uploads/2022/06/02053531/lisboasecreta.co-logo-768x79.png"><noscript><img src="https://offloadmedia.feverup.com/lisboasecreta.co/wp-content/uploads/2022/06/02053531/lisboasecreta.co-logo-768x79.png" alt="Lisboa Secreta" class="img-fluid smn-header-logo__full" width="768" height="79"></noscript>
+			</a>
+			</div>
+		<button class="smn-offcanvas-menu-header__close toggle-offcanvas-menu" aria-label="Fechar menu sidenav"><i class="far fa-times"></i></button>
+	</div>
+	<section>
+			</section>
+			<section class="smn-offcanvas-menu__section smn-offcanvas-menu-section">
+			<strong class="smn-offcanvas-menu-section__title">Categorias</strong>
+			<ul class="smn-offcanvas-menu-section__list smn-offcanvas-menu-section__list--two-columns">
+									<li>
+						<a href="https://lisboasecreta.co/o-que-fazer/">
+							O Que Fazer
+						</a>
+					</li>
+									<li>
+						<a href="https://lisboasecreta.co/noticias/">
+							Notícias
+						</a>
+					</li>
+									<li>
+						<a href="https://lisboasecreta.co/gastronomia/">
+							Gastronomia
+						</a>
+					</li>
+									<li>
+						<a href="https://lisboasecreta.co/cultura/">
+							Cultura
+						</a>
+					</li>
+									<li>
+						<a href="https://lisboasecreta.co/viagens/">
+							Viagens
+						</a>
+					</li>
+									<li>
+						<a href="https://lisboasecreta.co/natureza-bem-estar/">
+							Natureza & Bem-estar
+						</a>
+					</li>
+									<li>
+						<a href="https://lisboasecreta.co/guias-secretos/">
+							Guias Secretos
+						</a>
+					</li>
+							</ul>
+		</section>
+		<section class="smn-offcanvas-menu__section smn-offcanvas-menu-section smn-offcanvas-menu-section--gray">
+		<ul class="smn-offcanvas-menu-section__list">
+							<li><a href="mailto:lisboa@secretmedianetwork.com">Contacto</a></li>
+														<li><a href="https://lisboasecreta.co/sobre-nos/">Sobre a Lisboa Secreta</a></li>
+										<li><a href="https://forms.zohopublic.eu/fever/form/AnunciaconnoscoPT/formperma/d_UCiKg7IKoavOKdv2trO6ExewdJmMCFHAQyITxMRwk" target="_blank" rel="noopener noreferrer nofollow">Anuncia connosco</a></li>
+								</ul>
+				<strong class="smn-offcanvas-menu-section__title">Siga-nos</strong>
+		<div class="new-home__slide-menu__social-media">
+	<ul class="top-bar-social-media">
+									<li class="top-bar-social-media__item">
+					<a href="https://www.facebook.com/lisboasecreta/"
+					   data-social-media-name="Facebook" target="_blank"
+					   rel="sponsored noopener noreferrer"
+					   data-has-ga="true"
+					   data-ga-type="click"
+					   aria-label="Facebook"
+					   data-category="follow_buttons_header"
+					   data-action="facebook">
+													<i class="fab fa-facebook fa-fw"></i>
+											</a>
+				</li>
+							<li class="top-bar-social-media__item">
+					<a href="https://twitter.com/lisboasecreta"
+					   data-social-media-name="Twitter" target="_blank"
+					   rel="sponsored noopener noreferrer"
+					   data-has-ga="true"
+					   data-ga-type="click"
+					   aria-label="Twitter"
+					   data-category="follow_buttons_header"
+					   data-action="twitter">
+													<i class="fab fa-twitter fa-fw"></i>
+											</a>
+				</li>
+							<li class="top-bar-social-media__item">
+					<a href="https://www.instagram.com/lisboasecreta/"
+					   data-social-media-name="Instagram" target="_blank"
+					   rel="sponsored noopener noreferrer"
+					   data-has-ga="true"
+					   data-ga-type="click"
+					   aria-label="Instagram"
+					   data-category="follow_buttons_header"
+					   data-action="instagram">
+													<i class="fab fa-instagram fa-fw"></i>
+											</a>
+				</li>
+							<li class="top-bar-social-media__item">
+					<a href="https://www.youtube.com/channel/UCf2UiJFaD8PDYTUO7FyT7qg?sub_confirmation=1"
+					   data-social-media-name="Youtube" target="_blank"
+					   rel="sponsored noopener noreferrer"
+					   data-has-ga="true"
+					   data-ga-type="click"
+					   aria-label="Youtube"
+					   data-category="follow_buttons_header"
+					   data-action="youtube">
+													<i class="fab fa-youtube fa-fw"></i>
+											</a>
+				</li>
+						</ul>
+</div>
+
+			</section>
+		<aside class="smn-offcanvas-menu-section__mailchimp smn-home-section__mailchimp-offcanvas-area smn-contrast-color">
+		<div class="sidebar-container new-home__mailchimp-offcanvas-area"><script type="rocketlazyloadscript">(function() {
+	window.mc4wp = window.mc4wp || {
+		listeners: [],
+		forms: {
+			on: function(evt, cb) {
+				window.mc4wp.listeners.push(
+					{
+						event   : evt,
+						callback: cb
+					}
+				);
+			}
+		}
+	}
+})();
+</script><!-- Mailchimp for WordPress v4.8.11 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-4" class="mc4wp-form mc4wp-form-1232" method="post" data-id="1232" data-name="Newsletter form" ><div class="mc4wp-form-fields"><div class="new-home__form-text">
+	<p><strong class="mc4wp-form__title">Recebe-nos na tua inbox</strong></p>
+	<p class="mc4wp-form__description mc4wp-form__hidden">Subscreve a nossa newsletter para saberes as últimas novidades da tua cidade.</p>
+</div>
+<div class="new-home__form-field">
+  	<p class="field-email"><input type="email" name="EMAIL" placeholder="E-mail" required /></p>
+	<p class="field-submit"><input type="submit" value="Subscrever" /></p>
+	<p class="field-terms"><label><input name="AGREE_TO_TERMS" type="checkbox" value="1" required=""> Aceito os <a href="https://feverup.com/legal/all_pt.html" target="_blank" rel="nofollow noopener noreferrer">termos e condições</a></label></p>
+</div></div><label style="display: none !important;">Deixe este campo vazio se for humano: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1671288855" /><input type="hidden" name="_mc4wp_form_id" value="1232" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-4" /><div class="mc4wp-response"></div></form><!-- / Mailchimp for WordPress Plugin --></div>
+	</aside>
+	</nav>
+			<aside class="modal fade new-home new-home__modal new-home__modal-subscribe" tabindex="-1">
+	<div class="modal-dialog modal-dialog-centered">
+		<div class="modal-content">
+			<div class="modal-header">
+				<h5 class="modal-title">Subscrever</h5>
+				<button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
+					<i class="far fa-times"></i>
+				</button>
+			</div>
+			<div class="modal-body">
+									<div class="sidebar-container new-home__mailchimp-area"><script type="rocketlazyloadscript">(function() {
+	window.mc4wp = window.mc4wp || {
+		listeners: [],
+		forms: {
+			on: function(evt, cb) {
+				window.mc4wp.listeners.push(
+					{
+						event   : evt,
+						callback: cb
+					}
+				);
+			}
+		}
+	}
+})();
+</script><!-- Mailchimp for WordPress v4.8.11 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-3" class="mc4wp-form mc4wp-form-1232" method="post" data-id="1232" data-name="Newsletter form" ><div class="mc4wp-form-fields"><div class="new-home__form-text">
+	<p><strong class="mc4wp-form__title">Recebe-nos na tua inbox</strong></p>
+	<p class="mc4wp-form__description mc4wp-form__hidden">Subscreve a nossa newsletter para saberes as últimas novidades da tua cidade.</p>
+</div>
+<div class="new-home__form-field">
+  	<p class="field-email"><input type="email" name="EMAIL" placeholder="E-mail" required /></p>
+	<p class="field-submit"><input type="submit" value="Subscrever" /></p>
+	<p class="field-terms"><label><input name="AGREE_TO_TERMS" type="checkbox" value="1" required=""> Aceito os <a href="https://feverup.com/legal/all_pt.html" target="_blank" rel="nofollow noopener noreferrer">termos e condições</a></label></p>
+</div></div><label style="display: none !important;">Deixe este campo vazio se for humano: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1671288855" /><input type="hidden" name="_mc4wp_form_id" value="1232" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-3" /><div class="mc4wp-response"></div></form><!-- / Mailchimp for WordPress Plugin --></div>
+							</div>
+		</div>
+	</div>
+</aside>
+		
+							<div class="google-ad-manager-fixed-mobile-ads collapse show">
+			<button class="google-ad-manager-fixed-mobile-ads__close" type="button" data-bs-toggle="collapse" data-bs-target=".google-ad-manager-fixed-mobile-ads" aria-expanded="true">
+				&times;
+			</button>
+			<div class="google-ad-manager-fixed-mobile-ads__inner gpt-centered" id="div-megabanner_first-mobile"></div>
+		</div>
+			
+		<script type="rocketlazyloadscript">(function() {function maybePrefixUrlField() {
+	if (this.value.trim() !== '' && this.value.indexOf('http') !== 0) {
+		this.value = "http://" + this.value;
+	}
+}
+
+var urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]');
+if (urlFields) {
+	for (var j=0; j < urlFields.length; j++) {
+		urlFields[j].addEventListener('blur', maybePrefixUrlField);
+	}
+}
+})();</script><script type="rocketlazyloadscript" src='//www.instagram.com/embed.js?ver=1.0' id='instagram-embed-js' defer></script>
+<script id='ads-js-extra'>
+var ads_settings = {"cmp_disabled":"","debug_mode":"","bypass_consent":""};
+</script>
+<script type="rocketlazyloadscript" src='https://lisboasecreta.co/wp-content/themes/secretmedianetwork/dist/js/ads.js?ver=4.5.42' id='ads-js' defer></script>
+<script id='app-js-extra'>
+var dynamic_title = {"is_user_logged_in":"","label":"Sentimos a tua falta..."};
+var HBOQuiz = {"WrongAnswerText":"","SecretLink":""};
+var wpi18n = {"advertisement":"Publicidade","email_share_message":"Eu%20vi%20isso%20e%20pensei%20em%20voc%C3%AA%21"};
+var ajax_call = {"ajaxurl":"https:\/\/lisboasecreta.co\/wp-admin\/admin-ajax.php","nonce":"bbeeff73a7","blog_url":"https:\/\/lisboasecreta.co"};
+var ab_tests = {"infiniteScroll":"normal","post_display_optimization_experiment_id":"","profile_card_sessions_experiment_id":""};
+var share_on = {"twitter":"lisboasecreta"};
+</script>
+<script type="rocketlazyloadscript" src="https://lisboasecreta.co/wp-content/themes/secretmedianetwork/dist/js/app.js?ver=4.5.42" defer></script>
+<script type="rocketlazyloadscript" src='https://lisboasecreta.co/wp-content/themes/secretmedianetwork/dist/js/hashScroller.js?ver=4.5.42' id='hashScroller-js' defer></script>
+<script type="rocketlazyloadscript" src='https://lisboasecreta.co/wp-content/themes/secretmedianetwork/dist/js/smnOptimizer.js?ver=4.5.42' id='smnOptimizer-js' defer></script>
+<script type="rocketlazyloadscript" src="https://lisboasecreta.co/wp-content/themes/secretmedianetwork/dist/js/fonts.js?ver=4.5.42" defer></script>
+<script type="rocketlazyloadscript" src="https://lisboasecreta.co/wp-content/plugins/mailchimp-for-wp/assets/js/forms.js?ver=4.8.11" defer></script>
+<script>window.lazyLoadOptions=[{elements_selector:"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:".rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://lisboasecreta.co/wp-content/plugins/wp-rocket/assets/js/lazyload/17.5/lazyload.min.js"></script><script>function lazyLoadThumb(e){var t='<img data-lazy-src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"><noscript><img src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"></noscript>',a='<button class="play" aria-label="play Youtube video"></button>';return t.replace("ID",e)+a}function lazyLoadYoutubeIframe(){var e=document.createElement("iframe"),t="ID?autoplay=1";t+=0===this.parentNode.dataset.query.length?'':'&'+this.parentNode.dataset.query;e.setAttribute("src",t.replace("ID",this.parentNode.dataset.src)),e.setAttribute("frameborder","0"),e.setAttribute("allowfullscreen","1"),e.setAttribute("allow", "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"),this.parentNode.parentNode.replaceChild(e,this.parentNode)}document.addEventListener("DOMContentLoaded",function(){var e,t,p,a=document.getElementsByClassName("rll-youtube-player");for(t=0;t<a.length;t++)e=document.createElement("div"),e.setAttribute("data-id",a[t].dataset.id),e.setAttribute("data-query", a[t].dataset.query),e.setAttribute("data-src", a[t].dataset.src),e.innerHTML=lazyLoadThumb(a[t].dataset.id),a[t].appendChild(e),p=e.querySelector('.play'),p.onclick=lazyLoadYoutubeIframe});</script>
+	<script>"use strict";function wprRemoveCPCSS(){var preload_stylesheets=document.querySelectorAll('link[data-rocket-async="style"][rel="preload"]');if(preload_stylesheets&&0<preload_stylesheets.length)for(var stylesheet_index=0;stylesheet_index<preload_stylesheets.length;stylesheet_index++){var media=preload_stylesheets[stylesheet_index].getAttribute("media")||"all";if(window.matchMedia(media).matches)return void setTimeout(wprRemoveCPCSS,200)}var elem=document.getElementById("rocket-critical-css");elem&&"remove"in elem&&elem.remove()}window.addEventListener?window.addEventListener("load",wprRemoveCPCSS):window.attachEvent&&window.attachEvent("onload",wprRemoveCPCSS);</script><noscript><link rel='stylesheet' id='classic-theme-styles-css' href='https://lisboasecreta.co/wp-includes/css/classic-themes.min.css?ver=1' media='all' /><link rel='stylesheet' id='app-css' href='https://lisboasecreta.co/wp-content/themes/secretmedianetwork/dist/css/app.css?ver=4.5.42' media='all' /></noscript></body>
+</html>
+<!--
+Performance optimized by Redis Object Cache. Learn more: https://wprediscache.com
+
+Retrieved 5338 objects (5 MB) from Redis using PhpRedis (v5.3.7).
+-->
+
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me -->

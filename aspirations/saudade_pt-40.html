@@ -1,0 +1,2558 @@
+
+
+
+	
+
+<!DOCTYPE html>
+
+<html lang="pt">
+
+    
+
+<head>
+
+    
+<!-- Google analytics code -->
+
+<div id="analytics_code">
+	
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-63788575-2"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'UA-63788575-2');
+		</script>
+	
+</div>
+
+    <title> Algumas curiosidades da palavra saudade - O nosso idioma - Ciberdúvidas da Língua Portuguesa</title>
+
+    <!-- Meta values -->
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Tudo, aqui, à volta da língua portuguesa – o idioma oficial de Angola, Brasil, Cabo Verde, Guiné-Bissau, Moçambique, Portugal, São Tomé e Príncipe e Timor-Leste.">
+    <meta name="keywords" content="Ciberdúvidas, Língua Portuguesa, Português, Acordo Ortográfico, Dúvidas, Perguntas, Respostas">
+    <meta name="author" content="Ciberdúvidas/ISCTE-IUL">
+    <meta name="google-site-verification" content="MTbFtzD7PB6jy8egHCWrfJ8KUsl_u5stItyI2KSCjc8" />
+    
+        <meta property="og:image" content="https://ciberduvidas.iscte-iul.pt/assets/static/img/2020/01/04/1578159475063_saudade_2.jpg" />
+        <meta name="twitter:image" content="https://ciberduvidas.iscte-iul.pt/assets/static/img/2020/01/04/1578159475063_saudade_2.jpg" />
+    
+
+    <!-- Humans.txt & Robots.txt -->
+    <link rel="author" href="humans.txt" />
+    <link rel="robots" href="robots.txt" />
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/png" href="/favicon.ico" />
+
+
+    <link rel="stylesheet" href="/assets/css/font-awesome.min.css" />
+    <!--[if IE 7]>
+    <link rel="stylesheet" href="/assets/css/font-awesome-ie7.min.css">
+    <![endif]-->
+
+    <!-- Material Design Icons -->
+    <link rel="stylesheet" href="/assets/css/materialdesignicons.min.css">
+
+    <!-- bootstrap-datetimepicker.min.js style sheet -->
+    <link rel="stylesheet" href="/assets/css/bootstrap-datetimepicker.min.css">
+
+    <link rel="stylesheet" href="/assets/css/plyr.css" />
+
+    <!-- My styles -->
+    
+    <link rel="stylesheet" media="screen" href="/assets/css/body.css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Import for JQuery (this is the only javascript being imported here) -->
+    <script type="text/javascript" src="/assets/js/jquery-1.9.0.min.js"></script>
+    <script type="text/javascript" src="/javascriptRoutes"></script>
+
+    <script src="/assets/js/plyr.js"></script>
+
+</head>
+
+
+    <body>
+    <script type="text/javascript" src="/assets/js/urlBase64ToUint8array.js"></script>
+    <script type="text/javascript" src="/assets/js/web-push.js"></script>
+    <script type="text/javascript">
+        function newSelected(selectedText){
+            var url = window.location.href;
+            var date = new Date();
+            var day = date.getDate();
+            var month = date.getMonth() + 1;
+            var year = date.getFullYear();
+            if(day < 10){
+                day='0'+day;
+            }
+
+            if(month < 10){
+                month = '0' + month;
+            }
+
+            var newSelected = "'" + selectedText + "'\n\n" +
+            "in Ciberdúvidas da Língua Portuguesa, " + url + " [consultado em " + day + "-" + month + "-" + year + "]";
+            // e.clipboardData is initially empty, but we can set it to the
+            // data that we want copied onto the clipboard.
+
+            return newSelected;
+        }
+
+        
+            $(document).ready(function(){
+                setupClickableBehaviour();
+
+                $('.date-picker').datetimepicker({pickTime:false, language:'pt'});
+                $('.date-time-picker').datetimepicker({language:'pt'});
+
+                $('.centered').center();
+
+                adjustImagesInWrappers();
+
+                setAdTracker();
+
+                //var alert = "Relembramos que pode copiar e redistribuir o material disponibilizado neste site, mas deve atribuir o devido crédito e não usar para fins comerciais. Para mais detalhes consulte <a href='https://creativecommons.org/licenses/by-nc-nd/2.5/pt' target='_blank'>https://creativecommons.org/licenses/by-nc-nd/2.5/pt</a>";
+
+                /*$("body").bind("copy", function(e){
+                    bootbox.alert(alert);
+                });
+
+                $("body").bind("cut", function(){
+                    bootbox.alert(alert);
+                });*/
+
+                document.addEventListener('copy', function(e) {
+                    var selectedText = ""
+                    if (window.getSelection){ // all modern browsers and IE9+
+                        selectedText = window.getSelection().toString()
+                    }
+
+                    e.clipboardData.setData('text/plain', newSelected(selectedText));
+                    //e.clipboardData.setData('text/html', newSelected);
+
+                    // This is necessary to prevent the current document selection from
+                    // being written to the clipboard.
+                    e.preventDefault();
+                });
+
+                // Overwrite what is copied to the clipboard.
+                document.addEventListener('cut', function(e) {
+                    var selectedText = ""
+                    if (window.getSelection){ // all modern browsers and IE9+
+                        selectedText = window.getSelection().toString()
+                    }
+
+                    e.clipboardData.setData('text/plain', newSelected(selectedText));
+                    //e.clipboardData.setData('text/html', newSelected);
+
+                    // This is necessary to prevent the current document selection from
+                    // being written to the clipboard.
+                    e.preventDefault();
+                });
+            });
+        
+    </script>
+        <div class="body-content">
+            
+
+            
+
+<script type="text/javascript">
+    function dismissWarningMessage(elem){
+        jsRoutes.controllers.ApplicationController.dismissWarningMessage().ajax({
+            type: "POST"
+        })
+        .done(function(data){
+            $(elem).parent().parent().hide();
+        });
+    }
+</script>
+
+
+            
+
+
+<div  id="top_navbar" role="navigation" class="">
+    <div class="inner-container">
+        <div class="wrapper">
+            <div class="logo-wrapper">
+                <div class="logo-img-wrapper">
+                    <a href="/" title="Índice">
+                        <img src="/assets/img/logo_lg.png" alt="Ciberdúvidas - O portal de dúvidas da língua Portuguesa" title="Ciberdúvidas - O portal de dúvidas da língua Portuguesa" class="logo-lg img-responsive">
+                    </a>
+                </div>
+            </div>
+
+            <nav class="menu-wrapper" role="navigation">
+                <ul class="main-menu">
+                    <li><a href="/" class="" title="Início">Início</a></li>
+                    <li><a href="/contacto" class="" title="Perguntar">Perguntar</a></li>
+                    <li><a href="/consultorio" class="" title="Respostas">Respostas</a></li>
+                    <li><a href="/artigos" class="selected" title="Na 1ª pessoa">Na 1.ª pessoa</a></li>
+                    <li><a href="/atualidades" class="" title="Atualidades">Atualidades</a></li>
+                    <li><a href="/outros" class="" title="Outros">Outros</a></li>
+                    <li><a href="/covid-19-na-lingua" class="" title="A covid-19 na língua">A covid-19 na língua</a></li>
+                </ul>
+            </nav>
+
+            <div class="user-menu-wrapper">
+                <div class="user-menu">
+                    <ul>
+                        
+                            <li>
+                                <a href="/pesquisa" id="top_navbar_search_button" title="Pesquisa"><i class="fa fa-search"></i></a>
+                            </li>
+                        
+                        <li class="hidden-lg">
+                            <a href="#" id="user_menu_button_xs" title="Menu de utilizador"><span><i class="fa fa-bars"></i></span></a>
+                        </li>
+                        <li class="hidden-xs hidden-sm hidden-md">
+                            
+                                <!--
+                                <a href="/login" id="user_menu_login"><span><i class="mdi mdi-login"></i></span></a>
+                                -->
+                            
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="top_navbar_hidden_search" class="not-visible">
+    <div class="inner-container">
+        <div class="wrapper">
+            <form action="/pesquisa" method="post" id="top_navbar_search_form">
+                <input type="hidden" name="csrfToken" value="1c613dddfd2c850f6dbd513dd685bed4651c8268-1671289498165-a26052103058aead4990fee1"/>
+                <div class="input-group">
+                    <input type="text" id="searchTerm" name="searchTerm" class="form-control" placeholder="Pesquisar" />
+                    <span class="input-group-btn">
+                        <button class="default" type="submit"><i class="mdi mdi-magnify"></i></button>
+                    </span>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<div id="top_navbar_hidden_menu" class="not-visible">
+    <div class="inner-container">
+        <div class="wrapper">
+            <div class="nav-menu-block menu-block hidden-lg">
+                <div class="title">
+                    Navegação
+                </div>
+                <div class="content">
+                    <ul>
+                        <li><a href="/" class="" title="Início">Início</a></li>
+                        <li><a href="/contacto" class="" title="Perguntar">Perguntar</a></li>
+                        <li><a href="/consultorio" class="" title="Respostas">Respostas</a></li>
+                        <li><a href="/artigos" class="selected" title="Na 1ª pessoa">Na 1.ª pessoa</a></li>
+                        <li><a href="/atualidades" class="" title="Atualidades">Atualidades</a></li>
+                        <li><a href="/outros" class="" title="Outros">Outros</a></li>
+                        <li><a href="/covid-19-na-lingua" class="" title="A covid-19 na língua">A covid-19 na língua</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            
+                <!--
+                <div class="user-menu-block menu-block">
+                    <div class="title">
+                        Utilizador
+                    </div>
+                    <div class="content">
+                        <ul>
+                            <li>
+                                <a href="/login"><i class="fa fa-sign-in"></i> Iniciar Sessão</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                -->
+            
+
+            <div class="clearfix hidden-sm hidden-md hidden-lg"></div>
+
+            
+                
+            
+
+        </div>
+    </div>
+</div>
+
+
+            
+
+
+            <div class="content-container">
+                
+	    <div class="container-with-sidebar-block">
+	    	<div class="block-content">
+	    		<div class="container-content">
+
+					<div class="article-crumbs">
+						<a href="/">Início</a>
+						<i class="fa fa-angle-right"></i>
+						
+							<a href="/artigos">Português na 1.ª pessoa</span></a>
+						
+						
+							<i class="fa fa-angle-right"></i>
+							
+								<a href="/artigos/rubricas/idioma">O nosso idioma</span></a>
+							
+						
+						<i class="fa fa-angle-right"></i>
+						<span class="active">Artigo</span>
+					</div>
+
+					
+						<div class="single-article " itemscope itemtype="http://schema.org/NewsArticle">
+							<div class="article-wrapper">
+								
+									<div class="article-photo not-visible">
+										<div class="photo img-wrapper">
+											<img src="/assets/static/img/2020/01/04/1578159475063_saudade_2.jpg" alt="Algumas curiosidades da palavra saudade" class="img-adjust" itemprop="image"/>
+										</div>
+									</div>
+								
+
+								<div class="article-container">
+									<div class="article-category-data hidden-xs">
+										
+											
+												<a href="/artigos/rubricas/idioma">
+											
+												O nosso idioma
+											</a>
+										
+
+										
+									</div>
+
+									<div class="article-title">
+										<div class="title" itemprop="headline"> Algumas curiosidades da palavra <i>saudade</i> </div>
+
+										
+											<div class="subtitle" itemprop="alternativeHeadline">Da origem ao alargamento dos significados </div>
+										
+
+									</div>
+
+									<div class="article-authorship">
+										
+											
+										
+
+										
+											<span class="publish-date">
+												<span class="hidden-xs">
+													<i class="fa fa-clock-o"></i> 4 de janeiro de 2020
+												</span>
+												<span class="hidden-sm hidden-md hidden-lg">
+													<i class="fa fa-clock-o"></i> 4 jan. 2020
+												</span>
+											</span>
+											<meta itemprop="datePublished" content="2020-01-04T17:27:00Z"/>
+										
+
+										<span class="nr-views">
+											<i class="fa fa-eye"></i> 6K
+										</span>
+
+										
+
+										
+											
+
+
+
+	
+
+	<div class="share-buttons">
+		<span class="hidden-xs">
+			<span class="st_facebook_hcount" st_image="https://ciberduvidas.iscte-iul.pt/assets/static/img/2020/01/04/1578159475063_saudade_2.jpg"></span>
+			<span class="st_twitter_hcount" st_title=" Algumas curiosidades da palavra &lt;i&gt;saudade&lt;/i&gt;" st_image="https://ciberduvidas.iscte-iul.pt/assets/static/img/2020/01/04/1578159475063_saudade_2.jpg"></span>
+			<span class="st_email_hcount" st_image="https://ciberduvidas.iscte-iul.pt/assets/static/img/2020/01/04/1578159475063_saudade_2.jpg"></span>
+			<span class="st_sharethis_hcount" st_image="https://ciberduvidas.iscte-iul.pt/assets/static/img/2020/01/04/1578159475063_saudade_2.jpg" displayText=""></span>
+		</span>
+
+		
+
+		<span class="hidden-sm hidden-md hidden-lg">
+			<span class="st_facebook" st_image="https://ciberduvidas.iscte-iul.pt/assets/static/img/2020/01/04/1578159475063_saudade_2.jpg"></span>
+			<span class="st_twitter" st_title=" Algumas curiosidades da palavra &lt;i&gt;saudade&lt;/i&gt;" st_image="https://ciberduvidas.iscte-iul.pt/assets/static/img/2020/01/04/1578159475063_saudade_2.jpg"></span>
+			<span class="st_email" st_image="https://ciberduvidas.iscte-iul.pt/assets/static/img/2020/01/04/1578159475063_saudade_2.jpg"></span>
+			<span class="st_sharethis" st_image="https://ciberduvidas.iscte-iul.pt/assets/static/img/2020/01/04/1578159475063_saudade_2.jpg"></span>
+		</span>
+
+		<script type="text/javascript">var switchTo5x=true;</script>
+		<script type="text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script>
+		<script type="text/javascript">stLight.options({publisher: "6fd2b206-ed53-428d-a2f4-736a91dca4f9", onhover: false, doNotHash: true, doNotCopy: true, hashAddressBar: false});</script>
+	</div>
+
+
+										
+									</div>
+
+									<div class="article-content" itemprop="articleBody">
+										<div class="auto-link-element"><p>«<em><strong>Saudade</strong> definia a solidão que os portugueses tinham da sua terra, familiares e amigos, quando estes partiam para o Brasil.</em>»</p>
+<p>&#xa0;</p>
+<p>É uma das palavras mais referidas quando falamos de Portugal, pelo seu significado, mas&#xa0;também&#xa0;pela ideia de que não existe uma tradução possível em outros idiomas, tornando-a 'exclusiva'. Partilhamos&#xa0;alguns factos e curiosidades sobre a palavra <strong>saudade</strong>.</p>
+<p><span style="box-sizing: inherit; font-weight: bold;"><img title="" src="/assets/static/img/2020/01/04/1578159747600_saudade_1.jpg" alt="" width="298" height="207"><br>A simbologia da palavra <em>saudade</em></span></p>
+<p><strong>Saudade</strong> representa um conjunto de sentimentos, normalmente causados pela distância ou ausência de algo ou alguém. Esta ausência pode ser física ou não, isto é, pode sentir-se saudade quando alguma relação de amizade, por exemplo, termina. Esta palavra expressa, então, um sentimento que envolve afetividade.</p>
+<p><span style="box-sizing: inherit; font-weight: bold;">Qual é a sua origem e o seu significado?</span></p>
+<p>A palavra <strong>saudade</strong> faz parte do vocabulário quotidiano dos portugueses e, também, do povo brasileiro. Mas afinal, qual é a sua verdadeira origem?</p>
+<p>Existem algumas especulações sobre a origem de <strong>saudade</strong>. Há quem defenda que a palavra vem do árabe <em>saudah</em><sup>1</sup>. Outros entendem que a sua origem vem do latim <em>solitas</em>, que significa «solidão».</p>
+<p>Alguns especialistas indicam que palavras como <em>saud</em>, <em>saudá</em> e <em>suaida</em> significam «sangue pisado» e «preto dentro do coração». A metáfora perfeita para alguém que carrega no seu coração uma profunda tristeza, tristeza esta que pode ser causada pela saudade.</p>
+<p>Os árabes utilizam o termo <em>as-saudá</em> quando se querem referir a uma doença do fígado, diagnosticada por estes como «melancolia do paciente».</p>
+<p>Para outros especialistas, seguindo a perspetiva de Carolina Michaelis ou José Pedro Machado, a palavra <strong>saudade</strong> vem do latim <em>solitate</em><sup>2</sup>, que significa «isolamento, solidão».</p>
+<p>Em certos idiomas, o significado de <em>solitate</em> foi mantido, como é o caso do castelhano (<em>soledad</em>), do italiano (<em>solitudine</em>) ou do francês (<em>solitude</em>)<sup>3</sup>. Em português e no galego (<em>soidade</em>) alterou-se com o tempo. Assim sendo, quando alguém dizia «tenho saudades de casa» significava que sentia “solidão” por não estar em casa.</p>
+<p>De qualquer das formas, os portugueses foram atribuindo outros significados a <strong>saudade</strong><sup>4</sup>. Dizem até que passou a fazer parte do dicionário dos portugueses no tempo dos Descobrimentos Marítimos. <strong>Saudade</strong> definia a solidão que os portugueses tinham da sua terra, familiares e amigos, quando estes partiam para o Brasil.</p>
+<p>Hoje, <strong>saudade</strong> é utilizada para uma série de situações e acontecimentos: quando nos referimos a alguém que faleceu e que nos traz grandes lembranças, quando alguma pessoa que nos era especial parte (para outro país, cidade), quando há muito não saboreamos um prato que adoramos. O mesmo acontece quando visitamos uma cidade e gostaríamos de lá voltar, quando relembramos um momento feliz da nossa vida, dos filhos quando são mais pequenos ou de casa, quando estamos longe.</p>
+<p>Podemos ainda utilizar a palavra numa expressão como «matar a saudade», quando queremos acabar com a melancolia ou solidão que sentimos.</p>
+<p><span style="font-size: 8pt;"><em>1. <strong>N.E.</strong> – A tese arábica da origem da palavra é discutível, como foi <a href="https://ciberduvidas.iscte-iul.pt/consultorio/perguntas/a-origem-da-palavra-saudade/29869" target="_blank">aqui </a>explicado por <a href="https://ciberduvidas.iscte-iul.pt/autores/carlos-rocha/433/pagina/1" target="_blank">Carlos Rocha</a>, coordenador executivo do Ciberdúvidas.&#xa0;</em></span></p>
+<p><span style="font-size: 8pt;"><em>2. </em></span><span style="font-size: 8pt;"><em><span style="font-size: 8pt;"><em><strong>N.E.</strong> – </em></span>Esclareça-se que </em>solitate<em> era a forma vulgar correspondente ao latim clássico </em>solitatem<em>, caso acusativo de solitas, -atis. Recorde-se também que os nomes, adjetivos e pronomes latinos variavam não só em número e género, mas também em caso, ou seja, a forma das palavras variava de acordo com a sua função sintática. Contudo, no latim vulgar, esta variação em caso foi-se reduzindo gradualmente até se perder na maioria das línguas românicas, entre elas, o português. Cf. "<a href="/consultorio/perguntas/casos-nominativo-vocativo-acusativo-etc/5988" target="_blank">Acusativo, ablativo, dativo, instrumental (locativo), nominativo, genitivo e vocativo</a>" e "'<a href="/consultorio/perguntas/a-etimologia-das-palavras-do-portugues/32018" target="_blank">A etimologia das palavras do português</a>".</em></span></p>
+<p><span style="font-size: 8pt;"><em>3. </em></span><span style="font-size: 8pt;"><em><span style="font-size: 8pt;"><em><strong>N.E.</strong> – </em></span>A expansão dos significados da palavra&#xa0;<strong>saudade</strong> é explorada por<a href="https://ciberduvidas.iscte-iul.pt/autores/onesimo-teotonio-almeida/654/pagina/1" target="_blank"> Onésimo Teotónio Almeida</a>, no seu artigo "Saudade&#xa0;– um mistério sem mistério" (<a href="https://ciberduvidas.iscte-iul.pt/artigos/rubricas/idioma/saudade--um-misterio-sem-misterio/3308" target="_blank">aqui </a>transcrito).&#xa0;</em></span></p>
+<p><span style="font-size: 8pt;"><em>4.&#xa0;<strong>N.E.</strong>&#xa0;<span style="font-size: 8pt;">–&#xa0;</span>Refira-se que o italiano&#xa0;solitudine&#xa0;e o francês&#xa0;solitude&#xa0;não vêm do latim&#xa0;solitas, -atis, mas sim de&#xa0;solitudo&#xa0;-inis. A forma solitas, atestada&#xa0; no latim arcaico e imperial, manteve-se nas línguas românicas da Península Ibérica (cf. A. Ernout et A. Meillet,&#xa0;<a href="https://www.wook.pt/livro/dictionnaire-etymologique-de-la-langue-latine-histoire-des-mots-4e-edition-alfred-meillet/7719049" target="_blank">Dictionnaire étymologique de la langue latine. Histoire des mots</a>).</em></span></p></div>
+
+										<div class="clearfix"></div>
+
+										
+											<div class="top-buffer-20">
+												<strong><small>Fonte</small></strong>
+											</div>
+											<div class="source"><p>Artigo publicado originalmente na página eletrónica da <em><a href="https://www.nationalgeographic.com/" target="_blank">National Geographic</a></em>, em 30 de dezembro de 2019 (aqui transcrito com a devida vénia).</p></div>
+										
+									</div>
+								</div>
+							</div>
+
+						</div>
+
+						
+
+						<div class="copyright-block">
+							<a href="http://creativecommons.org/licenses/by-nc-nd/2.5/pt/" rel="nofollow" target="_blank" title="Atribuição-NãoComercial-SemDerivações 2.5 Portugal (CC BY-NC-ND 2.5 PT) - Clique para saber mais detalhes">
+								<img src="/assets/img/commons.png" alt="Creative Commons">
+							</a>
+							<span class="copyright-msg">Os conteúdos disponibilizados neste sítio estão licenciados pela Creative Commons.</span>
+						</div>
+					
+			    </div>
+
+		    	<div class="sidebar-content">
+					
+
+<div class="row-block">
+	
+		
+
+	
+		<div class="sidebar-block">
+			<div class="block-no-title"></div>
+
+			
+
+			<div class="block-content">
+				<style>
+	.ad-block {
+		position: relative;
+	    padding-bottom: 83%;
+	    height: 0;
+	    overflow: hidden;
+	}
+
+	.ad-block object {
+	    position: absolute;
+	    top:0;
+	    left: 0;
+	    width: 100%;
+	    height: 100%;
+            z-index: 100;
+	}
+
+	.ad-block #linker {
+	    position: absolute;
+	    top:0;
+	    left: 0;
+	    width: 100%;
+	    height: 100%;
+            z-index: 200;
+	}
+
+	#ad_block_indeg1 img {
+		max-width: 100%;
+	}
+</style>
+
+<div id="ad_block_indeg1">
+	<a href="http://indeg.iscte-iul.pt/?utm_source=ciberduvidas&utm_medium=banner&utm_term=indeg-iscte&utm_campaign=ciberduvidas-advertise" target="_blank" title="INDEG-ISCTE" rel="follow" class="ad-button">
+		<img src="/assets/static/img/ad_content/indeg_iscte_ciberduvidas.gif" title="INDEG ISCTE" alt="INDEG ISCTE" />
+	</a>
+</div>
+
+<!--
+<div id="ad_block_iscte">
+	<a href="https://www.iscte-iul.pt/conteudos/estudantes/informacao-academica/concursos-especiais-de-acesso/maiores-de-23/1218/maiores-de-23?utm_source=ciberduvidas&utm_medium=banner&utm_term=iscte&utm_campaign=ciberduvidas-advertise" target="_blank" title="Concurso Especial de Acesso para Maiores de 23" rel="follow" class="ad-button">
+		<img src="/assets/static/img/ad_content/ciberduvidas_iscte_m23.gif" title="Concurso Especial de Acesso para Maiores de 23" alt="Concurso Especial de Acesso para Maiores de 23" />
+	</a>
+</div>
+-->
+
+<script type="text/javascript">
+	$(document).ready(function(){
+		// var ad_blocks = ["ad_block_indeg1", "ad_block_iscte"];
+		var ad_blocks = ["ad_block_indeg1"];
+		var chosen_item = Math.floor(Math.random() * ad_blocks.length);
+		for (var i = ad_blocks.length - 1; i >= 0; i--) {
+			if(i != chosen_item){
+				$('#' + ad_blocks[i]).hide();
+			}
+		}
+	});
+</script>
+			</div>
+		</div>
+	
+
+	
+
+	
+		
+			
+				<div class="sidebar-block">
+					<div class="block-title">Textos Relacionados</div>
+
+					<div class="block-content">
+						<ul>
+							
+									<li>
+										<a href="/artigos/4373" title="As palavras para 2021">As palavras para 2021</a>
+										<br/>
+										<span class="small">
+											
+												O nosso idioma
+											
+											
+												 - 
+											 	2021-01-19
+											
+										</span>
+									</li>
+							
+									<li>
+										<a href="/consultorio/perguntas/a-traducao-de-saudade-em-catalao-e-romeno/32452" title="A tradução de <i>saudade</i> em catalão e romeno">A tradução de <i>saudade</i> em catalão e romeno</a>
+										<br/>
+										<span class="small">
+											
+												Consultório
+											
+											
+												 - 
+											 	2013-10-25
+											
+										</span>
+									</li>
+							
+									<li>
+										<a href="/consultorio/perguntas/ainda-sobre-a-origem-da-palavra-saudade/30110" title="Ainda sobre a origem da palavra <i>saudade</i>">Ainda sobre a origem da palavra <i>saudade</i></a>
+										<br/>
+										<span class="small">
+											
+												Consultório
+											
+											
+												 - 
+											 	2011-07-28
+											
+										</span>
+									</li>
+							
+									<li>
+										<a href="/consultorio/perguntas/a-origem-da-palavra-saudade/29869" title="A origem da palavra <i>saudade</i>">A origem da palavra <i>saudade</i></a>
+										<br/>
+										<span class="small">
+											
+												Consultório
+											
+											
+												 - 
+											 	2011-06-03
+											
+										</span>
+									</li>
+							
+									<li>
+										<a href="/consultorio/perguntas/a-fonetica-da-palavra-saudade/26050" title="A fonética da palavra <i>saudade</i>">A fonética da palavra <i>saudade</i></a>
+										<br/>
+										<span class="small">
+											
+												Consultório
+											
+											
+												 - 
+											 	2009-03-20
+											
+										</span>
+									</li>
+							
+									<li>
+										<a href="/consultorio/perguntas/o-aumentativo-e-o-diminutivo-da-palavra-saudade/22614" title="O aumentativo e o diminutivo da palavra <i>saudade</i>">O aumentativo e o diminutivo da palavra <i>saudade</i></a>
+										<br/>
+										<span class="small">
+											
+												Consultório
+											
+											
+												 - 
+											 	2008-01-28
+											
+										</span>
+									</li>
+							
+									<li>
+										<a href="/consultorio/perguntas/saudade-saudades/2998" title="Saudade, saudades">Saudade, saudades</a>
+										<br/>
+										<span class="small">
+											
+												Consultório
+											
+											
+												 - 
+											 	1998-12-24
+											
+										</span>
+									</li>
+							
+						</ul>
+					</div>
+				</div>
+			
+		
+	
+
+	
+		<div class="sidebar-block">
+			<div class="block-title">Rubricas</div>
+
+			<div class="block-content">
+				<ul>
+					
+						
+							<li>
+								
+									<a href="/artigos/rubricas/acordo" class="" title="Acordo Ortográfico">
+								
+									Acordo Ortográfico
+								</a>
+							</li>
+						
+					
+						
+					
+						
+							<li>
+								
+									<a href="/artigos/rubricas/controversias" class="" title="Controvérsias">
+								
+									Controvérsias
+								</a>
+							</li>
+						
+					
+						
+					
+						
+							<li>
+								
+									<a href="/artigos/rubricas/ensino" class="" title="Ensino">
+								
+									Ensino
+								</a>
+							</li>
+						
+					
+						
+							<li>
+								
+									<a href="/artigos/rubricas/literatura" class="" title="Literatura">
+								
+									Literatura
+								</a>
+							</li>
+						
+					
+						
+							<li>
+								
+									<a href="/artigos/rubricas/lusofonias" class="" title="Lusofonias">
+								
+									Lusofonias
+								</a>
+							</li>
+						
+					
+						
+							<li>
+								
+									<a href="/artigos/rubricas/idioma" class="selected" title="O nosso idioma">
+								
+									O nosso idioma
+								</a>
+							</li>
+						
+					
+						
+							<li>
+								
+									<a href="/artigos/rubricas/pelourinho" class="" title="Pelourinho">
+								
+									Pelourinho
+								</a>
+							</li>
+						
+					
+						
+					
+				</ul>
+			</div>
+		</div>
+	
+
+	
+		<div class="sidebar-block">
+			<div class="block-title">Áreas temáticas</div>
+
+			<div class="block-content">
+				<ul>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/&#x27;O%20portugu%C3%AAs%20nos%208%20pa%C3%ADses%20da%20CPLP" class="" title="&#x27;O português nos 8 países da CPLP">
+								
+							
+								&#x27;O português nos 8 países da CPLP 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/A%20arte%20do%20uso%20da%20linguagem" class="" title="A arte do uso da linguagem">
+								
+							
+								A arte do uso da linguagem 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/A%20covid-19%20na%20l%C3%ADngua" class="" title="A covid-19 na língua">
+								
+							
+								A covid-19 na língua 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/A%20l%C3%ADngua%20nas%20rela%C3%A7%C3%B5es%20humanas" class="" title="A língua nas relações humanas">
+								
+							
+								A língua nas relações humanas 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/A%20l%C3%ADngua%20no%20contexto%20escolar" class="" title="A língua no contexto escolar">
+								
+							
+								A língua no contexto escolar 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/A%20l%C3%ADngua%20portuguesa%20vista%20por%20estrangeiros" class="" title="A língua portuguesa vista por estrangeiros">
+								
+							
+								A língua portuguesa vista por estrangeiros 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Acordo%20Ortogr%C3%A1fico" class="" title="Acordo Ortográfico">
+								
+							
+								Acordo Ortográfico 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Acrografia" class="" title="Acrografia">
+								
+							
+								Acrografia 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Anglicismos" class="" title="Anglicismos">
+								
+							
+								Anglicismos 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Anglofilia" class="" title="Anglofilia">
+								
+							
+								Anglofilia 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Antropon%C3%ADmia" class="" title="Antroponímia">
+								
+							
+								Antroponímia 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Aportuguesamento%20de%20termos%20estrangeiros" class="" title="Aportuguesamento de termos estrangeiros">
+								
+							
+								Aportuguesamento de termos estrangeiros 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Atitudes%20lingu%C3%ADsticas" class="" title="Atitudes linguísticas">
+								
+							
+								Atitudes linguísticas 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Autoria%20vs.%20revis%C3%A3o%20de%20textos" class="" title="Autoria vs. revisão de textos">
+								
+							
+								Autoria vs. revisão de textos 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Biografia%20" class="" title="Biografia ">
+								
+							
+								Biografia  
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Bord%C3%B5es%20lingu%C3%ADsticos" class="" title="Bordões linguísticos">
+								
+							
+								Bordões linguísticos 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Brasil" class="" title="Brasil">
+								
+							
+								Brasil 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Ciberd%C3%BAvidas%20da%20L%C3%ADngua%20Portuguesa" class="" title="Ciberdúvidas da Língua Portuguesa">
+								
+							
+								Ciberdúvidas da Língua Portuguesa 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Ci%C3%AAncia%20e%20tecnologia" class="" title="Ciência e tecnologia">
+								
+							
+								Ciência e tecnologia 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Classe%20de%20Palavras" class="" title="Classe de Palavras">
+								
+							
+								Classe de Palavras 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Classes%20de%20palavras" class="" title="Classes de palavras">
+								
+							
+								Classes de palavras 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Concord%C3%A2ncia" class="" title="Concordância">
+								
+							
+								Concordância 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Curiosidades" class="" title="Curiosidades">
+								
+							
+								Curiosidades 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Deixis" class="" title="Deixis">
+								
+							
+								Deixis 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Desporto" class="" title="Desporto">
+								
+							
+								Desporto 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Dia%20Mundial%20da%20L%C3%ADngua%20Portuguesa" class="" title="Dia Mundial da Língua Portuguesa">
+								
+							
+								Dia Mundial da Língua Portuguesa 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Dicion%C3%A1rios" class="" title="Dicionários">
+								
+							
+								Dicionários 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Discrimina%C3%A7%C3%A3o" class="" title="Discriminação">
+								
+							
+								Discriminação 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Discurso%20pol%C3%ADtico" class="" title="Discurso político">
+								
+							
+								Discurso político 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Efem%C3%A9rides" class="" title="Efemérides">
+								
+							
+								Efemérides 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Emprego%20do%20h%C3%ADfen" class="" title="Emprego do hífen">
+								
+							
+								Emprego do hífen 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Ensino" class="" title="Ensino">
+								
+							
+								Ensino 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Ensino%20do%20Portugu%C3%AAs%20no%20estrangeiro" class="" title="Ensino do Português no estrangeiro">
+								
+							
+								Ensino do Português no estrangeiro 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Escritores%20e%20poetas" class="" title="Escritores e poetas">
+								
+							
+								Escritores e poetas 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Esp%C3%A9cies%20bot%C3%A2nicas" class="" title="Espécies botânicas">
+								
+							
+								Espécies botânicas 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Estilo%20e%20registos%20lingu%C3%ADsticos" class="" title="Estilo e registos linguísticos">
+								
+							
+								Estilo e registos linguísticos 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Estrangeirismos" class="" title="Estrangeirismos">
+								
+							
+								Estrangeirismos 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Etimologia" class="" title="Etimologia">
+								
+							
+								Etimologia 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Evolu%C3%A7%C3%A3o%20das%20l%C3%ADnguas" class="" title="Evolução das línguas">
+								
+							
+								Evolução das línguas 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Evolu%C3%A7%C3%A3o%20sem%C3%A2ntica" class="" title="Evolução semântica">
+								
+							
+								Evolução semântica 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Express%C3%A3o%20Escrita" class="" title="Expressão Escrita">
+								
+							
+								Expressão Escrita 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Express%C3%A3o%20Oral" class="" title="Expressão Oral">
+								
+							
+								Expressão Oral 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Express%C3%B5es%20correntes" class="" title="Expressões correntes">
+								
+							
+								Expressões correntes 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Express%C3%B5es%20idiom%C3%A1ticas,%20frases%20feitas" class="" title="Expressões idiomáticas, frases feitas">
+								
+							
+								Expressões idiomáticas, frases feitas 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Fala%20vs.%20escrita" class="" title="Fala vs. escrita">
+								
+							
+								Fala vs. escrita 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Fon%C3%A9tica" class="" title="Fonética">
+								
+							
+								Fonética 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Frases%20populares" class="" title="Frases populares">
+								
+							
+								Frases populares 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Futebol%C3%AAs" class="" title="Futebolês">
+								
+							
+								Futebolês 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Galicismos" class="" title="Galicismos">
+								
+							
+								Galicismos 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/G%C3%A9nero" class="" title="Género">
+								
+							
+								Género 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/G%C3%A9nero%20e%20linguagem%20inclusiva" class="" title="Género e linguagem inclusiva">
+								
+							
+								Género e linguagem inclusiva 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/G%C3%A9nero%20na%20l%C3%ADngua" class="" title="Género na língua">
+								
+							
+								Género na língua 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Gent%C3%ADlicos" class="" title="Gentílicos">
+								
+							
+								Gentílicos 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Gerundismo" class="" title="Gerundismo">
+								
+							
+								Gerundismo 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/G%C3%ADrias" class="" title="Gírias">
+								
+							
+								Gírias 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Grafologia" class="" title="Grafologia">
+								
+							
+								Grafologia 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Gram%C3%A1tica" class="" title="Gramática">
+								
+							
+								Gramática 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Guerra%20na%20Ucr%C3%A2nia" class="" title="Guerra na Ucrânia">
+								
+							
+								Guerra na Ucrânia 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Halloween%2FDia%20das%20Bruxas" class="" title="Halloween/Dia das Bruxas">
+								
+							
+								Halloween/Dia das Bruxas 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Hist%C3%B3ria%20da%20L%C3%ADngua" class="" title="História da Língua">
+								
+							
+								História da Língua 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Hist%C3%B3ria%20das%20reformas%20ortogr%C3%A1ficas" class="" title="História das reformas ortográficas">
+								
+							
+								História das reformas ortográficas 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Hist%C3%B3rias%20de%20palavras" class="" title="Histórias de palavras">
+								
+							
+								Histórias de palavras 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Homenagens" class="" title="Homenagens">
+								
+							
+								Homenagens 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Identidade%20lingu%C3%ADstica" class="" title="Identidade linguística">
+								
+							
+								Identidade linguística 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Idioma%20peculiar" class="" title="Idioma peculiar">
+								
+							
+								Idioma peculiar 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/In%20memoriam" class="" title="In memoriam">
+								
+							
+								In memoriam 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Incorre%C3%A7%C3%B5es%20lingu%C3%ADsticas" class="" title="Incorreções linguísticas">
+								
+							
+								Incorreções linguísticas 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Interjei%C3%A7%C3%B5es" class="" title="Interjeições">
+								
+							
+								Interjeições 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Interpreta%C3%A7%C3%A3o%20dos%20prov%C3%A9rbios" class="" title="Interpretação dos provérbios">
+								
+							
+								Interpretação dos provérbios 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Int%C3%A9rpretes%20e%20tradutores" class="" title="Intérpretes e tradutores">
+								
+							
+								Intérpretes e tradutores 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Jos%C3%A9%20Saramago" class="" title="José Saramago">
+								
+							
+								José Saramago 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Leitura" class="" title="Leitura">
+								
+							
+								Leitura 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/L%C3%A9xico" class="" title="Léxico">
+								
+							
+								Léxico 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/L%C3%A9xico%20da%20covid-19" class="" title="Léxico da covid-19">
+								
+							
+								Léxico da covid-19 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/L%C3%A9xico%20pol%C3%ADtico" class="" title="Léxico político">
+								
+							
+								Léxico político 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/L%C3%ADngua%20e%20religi%C3%A3o" class="" title="Língua e religião">
+								
+							
+								Língua e religião 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/L%C3%ADngua%20pluric%C3%AAntrica%20e%20multicultural" class="" title="Língua pluricêntrica e multicultural">
+								
+							
+								Língua pluricêntrica e multicultural 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/L%C3%ADngua,%20cultura%20e%20sociedade" class="" title="Língua, cultura e sociedade">
+								
+							
+								Língua, cultura e sociedade 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/L%C3%ADngua,%20cultura%20e%20tradi%C3%A7%C3%A3o" class="" title="Língua, cultura e tradição">
+								
+							
+								Língua, cultura e tradição 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Linguagem%20inclusiva" class="" title="Linguagem inclusiva">
+								
+							
+								Linguagem inclusiva 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Linguagem%20jur%C3%ADdica" class="" title="Linguagem jurídica">
+								
+							
+								Linguagem jurídica 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Linguagem%20politica" class="" title="Linguagem politica">
+								
+							
+								Linguagem politica 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Linguagem%20preconceituosa" class="" title="Linguagem preconceituosa">
+								
+							
+								Linguagem preconceituosa 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Lingu%C3%ADstica" class="" title="Linguística">
+								
+							
+								Linguística 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Lisboa" class="" title="Lisboa">
+								
+							
+								Lisboa 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Literatura" class="" title="Literatura">
+								
+							
+								Literatura 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Livros" class="" title="Livros">
+								
+							
+								Livros 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Mais%20bem%20vs.%20melhor" class="" title="Mais bem vs. melhor">
+								
+							
+								Mais bem vs. melhor 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Mai%C3%BAsculas%20e%20min%C3%BAsculas" class="" title="Maiúsculas e minúsculas">
+								
+							
+								Maiúsculas e minúsculas 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Mau%20uso%20da%20l%C3%ADngua%20no%20espa%C3%A7o%20p%C3%BAblico" class="" title="Mau uso da língua no espaço público">
+								
+							
+								Mau uso da língua no espaço público 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Maus%20usos%20da%20l%C3%ADngua" class="" title="Maus usos da língua">
+								
+							
+								Maus usos da língua 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Modismos" class="" title="Modismos">
+								
+							
+								Modismos 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/M%C3%BAsica%20em%20portugu%C3%AAs" class="" title="Música em português">
+								
+							
+								Música em português 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Neologismos" class="" title="Neologismos">
+								
+							
+								Neologismos 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/O%20poliglotismo%20dos%20portugueses" class="" title="O poliglotismo dos portugueses">
+								
+							
+								O poliglotismo dos portugueses 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/O%20portugu%C3%AAs%20do%20Brasil" class="" title="O português do Brasil">
+								
+							
+								O português do Brasil 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/O%20portugu%C3%AAs%20em%20Angola" class="" title="O português em Angola">
+								
+							
+								O português em Angola 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/O%20portugu%C3%AAs%20em%20Mo%C3%A7ambique" class="" title="O português em Moçambique">
+								
+							
+								O português em Moçambique 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/O%20portugu%C3%AAs%20em%20Timor" class="" title="O português em Timor">
+								
+							
+								O português em Timor 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/O%20portugu%C3%AAs%20no%20mundo" class="" title="O português no mundo">
+								
+							
+								O português no mundo 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/O%20portugu%C3%AAs%20nos%208%20pa%C3%ADses%20da%20CPLP" class="" title="O português nos 8 países da CPLP">
+								
+							
+								O português nos 8 países da CPLP 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/O%20portugu%C3%AAs%20nos%20PALOP%20+%20Timor-Leste" class="" title="O português nos PALOP + Timor-Leste">
+								
+							
+								O português nos PALOP + Timor-Leste 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/O%20texto%20e%20a%20sua%20elabora%C3%A7%C3%A3o" class="" title="O texto e a sua elaboração">
+								
+							
+								O texto e a sua elaboração 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/O%20uso%20e%20abuso%20da%20l%C3%ADngua%20inglesa" class="" title="O uso e abuso da língua inglesa">
+								
+							
+								O uso e abuso da língua inglesa 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Onom%C3%A1stica" class="" title="Onomástica">
+								
+							
+								Onomástica 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Onomatopeias" class="" title="Onomatopeias">
+								
+							
+								Onomatopeias 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Ortofonia" class="" title="Ortofonia">
+								
+							
+								Ortofonia 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Ortografia" class="" title="Ortografia">
+								
+							
+								Ortografia 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Palavras" class="" title="Palavras">
+								
+							
+								Palavras 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Paron%C3%ADmia" class="" title="Paronímia">
+								
+							
+								Paronímia 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Polissemia" class="" title="Polissemia">
+								
+							
+								Polissemia 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Pol%C3%ADtica%20de%20l%C3%ADngua" class="" title="Política de língua">
+								
+							
+								Política de língua 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Pol%C3%ADtica%20lingu%C3%ADstica" class="" title="Política linguística">
+								
+							
+								Política linguística 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Pontua%C3%A7%C3%A3o" class="" title="Pontuação">
+								
+							
+								Pontuação 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Portugu%C3%AAs%20do%20Brasil%20vs%20Portugu%C3%AAs%20europeu" class="" title="Português do Brasil vs Português europeu">
+								
+							
+								Português do Brasil vs Português europeu 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Portugu%C3%AAs,%20l%C3%ADngua%20t%C3%A9cnica%20e%20cient%C3%ADfica" class="" title="Português, língua técnica e científica">
+								
+							
+								Português, língua técnica e científica 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Pragm%C3%A1tica" class="" title="Pragmática">
+								
+							
+								Pragmática 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Preconceito%20lingu%C3%ADstico%20no%20trabalho%20" class="" title="Preconceito linguístico no trabalho ">
+								
+							
+								Preconceito linguístico no trabalho  
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Presidenciais%20brasileiras,%202022" class="" title="Presidenciais brasileiras, 2022">
+								
+							
+								Presidenciais brasileiras, 2022 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Quest%C3%B5es%20de%20tradu%C3%A7%C3%A3o" class="" title="Questões de tradução">
+								
+							
+								Questões de tradução 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Racismo%20vs.%20xenofobia" class="" title="Racismo vs. xenofobia">
+								
+							
+								Racismo vs. xenofobia 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Reg%C3%AAncia%20preposinais" class="" title="Regência preposinais">
+								
+							
+								Regência preposinais 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Reg%C3%AAncias%20preposicionais" class="" title="Regências preposicionais">
+								
+							
+								Regências preposicionais 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Regionalismos" class="" title="Regionalismos">
+								
+							
+								Regionalismos 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Religi%C3%A3o" class="" title="Religião">
+								
+							
+								Religião 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Sobre%20o%20Ciberd%C3%BAvidas%20da%20L%C3%ADngua%20Portuguesa" class="" title="Sobre o Ciberdúvidas da Língua Portuguesa">
+								
+							
+								Sobre o Ciberdúvidas da Língua Portuguesa 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Sotaques" class="" title="Sotaques">
+								
+							
+								Sotaques 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Tabu%C3%ADsmos" class="" title="Tabuísmos">
+								
+							
+								Tabuísmos 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Testes%20e%20v%C3%ADdeos" class="" title="Testes e vídeos">
+								
+							
+								Testes e vídeos 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Topon%C3%ADmia" class="" title="Toponímia">
+								
+							
+								Toponímia 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Tradu%C3%A7%C3%A3o%20e%20tradutores" class="" title="Tradução e tradutores">
+								
+							
+								Tradução e tradutores 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Trocadilhos" class="" title="Trocadilhos">
+								
+							
+								Trocadilhos 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Uni%C3%A3o%20Europeia" class="" title="União Europeia">
+								
+							
+								União Europeia 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Unidade%20e%20diversidade%20da%20l%C3%ADngua" class="" title="Unidade e diversidade da língua">
+								
+							
+								Unidade e diversidade da língua 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Uso%20e%20norma" class="" title="Uso e norma">
+								
+							
+								Uso e norma 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Valor%20econ%C3%B3mico%20do%20portugu%C3%AAs" class="" title="Valor económico do português">
+								
+							
+								Valor económico do português 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Verbos" class="" title="Verbos">
+								
+							
+								Verbos 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/V%C3%ADcios%20de%20linguagem" class="" title="Vícios de linguagem">
+								
+							
+								Vícios de linguagem 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Vocabul%C3%A1rio" class="" title="Vocabulário">
+								
+							
+								Vocabulário 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Vocabul%C3%A1rio%20desportivo" class="" title="Vocabulário desportivo">
+								
+							
+								Vocabulário desportivo 
+							</a>
+						</li>
+					
+						<li>
+							
+								
+									<a href="/artigos/rubricas/idioma/areas/Vocabul%C3%A1rio%20tecnocr%C3%A1tico" class="" title="Vocabulário tecnocrático">
+								
+							
+								Vocabulário tecnocrático 
+							</a>
+						</li>
+					
+				</ul>
+			</div>
+		</div>
+	
+
+	
+	
+	
+
+	
+</div>
+		    	</div>
+			</div>
+		</div>
+<script>
+  $(function(){
+  	$("span.audio").each(function(){
+  		var that = $(this);
+  		var id = $(this).attr("data-id");
+  		jsRoutes.controllers.BackofficeAudioController.isAudioAlive().ajax({
+  			method: "POST",
+  			data: {id: id}
+  		}).done(function(data){
+			$(that).html("<audio id='player' controls><source src='" + $(that).attr('data-path') + "' type='" + $(that).attr('data-mimetype') + "' /></audio>");
+			$(that).show();
+  		}).fail(function(){
+			$(that).html("");
+		});
+  	});
+  });
+
+  const player = new Plyr('#player');
+</script>
+
+	
+            </div>
+
+            
+
+
+<script type="text/javascript">
+	$(function(){
+        if (!('serviceWorker' in navigator)) {
+          // Service Worker isn't supported on this browser, disable or hide UI.
+          console.log("Service worker not supported");
+          noPush = true;
+        }
+
+        if (!('PushManager' in window)) {
+          // Push isn't supported on this browser, disable or hide UI.
+          console.log("Push Notifications not supported");
+          noPush = true;
+        }
+
+		if(!noPush){
+			navigator.serviceWorker.getRegistrations().then(function([reg]) {
+				if(reg){
+					reg.pushManager.getSubscription().then(function(subscription) {
+						if(subscription){
+							$("#remove-notifs").show();
+						}else{
+							$("#add-notifs").show();
+						}
+					})
+				}else{
+					$("#add-notifs").show();
+				}
+			})
+		}
+	})
+</script>
+<div id="footer">
+	<div class="inner-container">
+		<div class="wrapper">
+			<div class="about-us-block footer-block">
+				<div class="title">
+					Quem Somos
+					<!--
+					<span class="float-right medium">
+						<a href="">Ver mais</a>
+					</span>
+					-->
+				</div>
+
+				<div class="content">
+					<p>
+						Este é um espaço de esclarecimento, informação, debate e promoção da língua portuguesa, numa perspetiva
+					 	de afirmação dos valores culturais dos oito países de língua oficial portuguesa, fundado em 1997.
+					 	Na diversidade de todos, o mesmo mar por onde navegamos e nos reconhecemos.
+					</p>
+					<p><b><a href="/quem-somos" title="Ver mais">Ver mais</a></b></p>
+				</div>
+			</div>
+
+			<div class="subjects-block footer-block">
+				<div class="title">
+					Rubricas
+				</div>
+
+				<div class="content">
+					<div class="row-block">
+
+						
+							
+								<div class="col-xs-6">
+									<ul>
+										
+											
+												
+												<li><a href="/artigos/rubricas/acordo" title="Acordo Ortográfico">Acordo Ortográfico</a></li>
+											
+										
+											
+												
+												<li><a href="/artigos/rubricas/antologia" title="Antologia">Antologia</a></li>
+											
+										
+											
+												
+												<li><a href="/artigos/rubricas/controversias" title="Controvérsias">Controvérsias</a></li>
+											
+										
+											
+												
+												<li><a href="/artigos/rubricas/diversidades" title="Diversidades">Diversidades</a></li>
+											
+										
+											
+												
+													</ul></div><div class="col-xs-6"><ul>
+												
+												<li><a href="/artigos/rubricas/ensino" title="Ensino">Ensino</a></li>
+											
+										
+											
+												
+												<li><a href="/artigos/rubricas/literatura" title="Literatura">Literatura</a></li>
+											
+										
+											
+												
+												<li><a href="/artigos/rubricas/lusofonias" title="Lusofonias">Lusofonias</a></li>
+											
+										
+											
+												
+												<li><a href="/artigos/rubricas/idioma" title="O nosso idioma">O nosso idioma</a></li>
+											
+										
+											
+												
+													</ul></div><div class="col-xs-6"><ul>
+												
+												<li><a href="/artigos/rubricas/pelourinho" title="Pelourinho">Pelourinho</a></li>
+											
+										
+											
+										
+									</ul>
+								</div>
+							
+						
+
+					</div>
+				</div>
+			</div>
+
+			<div class="categories-block footer-block">
+				<div class="title">
+					Ligações
+				</div>
+
+				<div class="content">
+					<div class="row-block">
+						<div class="col-xs-6">
+							<ul>
+								<li><a href="/quem-somos/contactos/937" title="Contactos">Contactos</a></li>
+								
+								<li><a href="/quem-somos/patrocinadores-e-parcerias/938" title="Parceiros">Parceiros</a></li>
+								<li><a href="/quem-somos/ajuda/1118" title="Ajuda">Ajuda</a></li>
+							</ul>
+						</div>
+						<div class="col-xs-6">
+							<ul>
+								<!--<li><a href="/glossario/erros">Erros Mais Frequentes</a></li>-->
+								<li><a href="http://www.ciberescola.com" target="_blank" title="Ciberescola">Ciberescola</a></li>
+								<li><a href="http://www.cibercursoslp.com" target="_blank" title="Cibercursos">Cibercursos</a></li>
+								<li><a href="/quem-somos/ligacoes/936" title="Endereços úteis">Endereços úteis</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="follow-us-block footer-block">
+				<div class="title">
+					Siga-nos
+				</div>
+
+				<div class="content">
+					<ul>
+						<li>
+							<a href="https://www.facebook.com/ciberduvidas" target="_blank" title="Facebook" data-noicon="no-icon">
+								<span class="fa-stack fa-lg">
+									<i class="fa fa-circle fa-stack-2x"></i>
+									<i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+								</span>
+							</a>
+						</li>
+						<li>
+							<a href="/rss" title="RSS">
+								<span class="fa-stack fa-lg">
+									<i class="fa fa-circle fa-stack-2x"></i>
+									<i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+								</span>
+							</a>
+						</li>
+						<li>
+							<a href="/boletim/subscrever" title="Newsletter">
+								<span class="fa-stack fa-lg">
+									<i class="fa fa-circle fa-stack-2x"></i>
+									<i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+								</span>
+							</a>
+						</li>
+						<li id="add-notifs" style="display:none">
+							<a href="#add-notifs" onclick="askPermission()" title="Adicionar notificações">
+								<span class="fa-stack fa-lg">
+									<i class="fa fa-circle fa-stack-2x"></i>
+									<i class="fa fa-bell fa-stack-1x fa-inverse"></i>
+								</span>
+							</a>
+						</li>
+						<li id="remove-notifs" style="display:none">
+							<a href="#remove-notifs" onclick="askPermission()" title="Remover notificações">
+								<span class="fa-stack fa-lg">
+									<i class="fa fa-circle fa-stack-2x"></i>
+									<i class="fa fa-bell-slash fa-stack-1x fa-inverse"></i>
+								</span>
+							</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div id="bottom_footer">
+	<div class="inner-container">
+		<div class="wrapper">
+			<div class="arrow-up">
+				<a href="#" class="button button-primary" title="Voltar acima"><i class="fa fa-chevron-up"></i></a>
+			</div>
+
+			<div class="content">
+				<ul>
+					<li><a href="http://www.ciberescola.com/" target="_blank" title="Ciberescola" data-noicon="no-icon"><img src="/assets/img/ciber-escola-logo.png" alt="Ciberescola" class="img-responsive" /></a></li>
+					<li><a href="http://www.cibercursoslp.com/" target="_blank" title="Cibercursos" data-noicon="no-icon"><img src="/assets/img/ciber-cursos-logo.png" alt="Cibercursos" class="img-responsive" /></a></li>
+					<li><a href="http://www.portugal.gov.pt/pt/ministerios/medu.aspx" target="_blank" title="Ministério da Educação" data-noicon="no-icon"><img src="/assets/img/patrocinadores-ME.png" alt="Ministério da Educação" class="img-responsive" /></a></li>
+					<li><a href="http://www.cm-lisboa.pt/" target="_blank" title="Câmara Municipal de Lisboa" data-noicon="no-icon"><img src="/assets/img/logo_cml_v2.png" alt="Câmara Municipal de Lisboa" class="img-responsive" /></a></li>
+					<li><a href="http://www.iscte-iul.pt/" target="_blank" title="ISCTE" data-noicon="no-icon"><img src="/assets/img/iscte_iul_logo.png" alt="ISCTE-Instituto Universitário de Lisboa" class="img-responsive" /></a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+            <script type="text/javascript">
+	function notifHide(){
+		var now = new Date();
+		now.setMonth(now.getMonth()+1);
+		document.cookie = "hideNotifs=longLiveHideNotifs; expires=" + now.toUTCString() + "; path=/";
+		$("#notifications-bar").addClass("hidden");
+	}
+
+	$(function(){
+		var found = false;
+		if(document.cookie){
+			var cookies = document.cookie.split(";")
+			for(var i=0; i < cookies.length; i++){
+				var cookieSplit = cookies[i].split("=")
+				var key = cookieSplit[0].trim();
+				var value = cookieSplit[1].trim();
+				if(key == 'hideNotifs' && value == 'longLiveHideNotifs'){
+					found = true;
+				}
+			}
+
+		}
+
+        if (!('serviceWorker' in navigator)) {
+          // Service Worker isn't supported on this browser, disable or hide UI.
+          console.log("Service worker not supported");
+          noPush = true;
+        }
+
+        if (!('PushManager' in window)) {
+          // Push isn't supported on this browser, disable or hide UI.
+          console.log("Push Notifications not supported");
+          noPush = true;
+        }
+
+		if(found !== true && !noPush){
+			$("#notifications-bar").show();
+		}
+
+        if(!noPush){
+            navigator.serviceWorker.getRegistrations().then(function([reg]) {
+                if(reg){
+                  reg.pushManager.getSubscription().then(function(subscription) {
+                    if(subscription){
+                        $("#notifications-bar").hide();
+                    }
+                  })
+                }
+             })
+        }
+	})
+</script>
+
+<section id="notifications-bar" style="display:none">
+    <div id="wrapper">
+        <div class="info"><p>Se pretende receber notificações de cada vez que um conteúdo do Ciberdúvidas é atualizado, subscreva as notificações clicando no botão <b>Subscrever notificações</b></p></div>
+        <div class="container">
+            <a href="#" class="btn btn-default btn-success" onclick="askPermission()">Subscrever notificações</a>
+            <a href="#" class="btn btn-default" onclick="notifHide()">Fechar</a>
+        </div>
+    </div>
+</section>
+        </div>
+
+        
+
+
+
+    <!-- Javascript -->
+    <!-- JQuery has already been imported at this point -->
+    <script type="text/javascript" src="/assets/js/jquery.autocomplete.min.js"></script>
+    <script type="text/javascript" src="/assets/js/jquery.sortElements.js" ></script>
+    <script type="text/javascript" src="/assets/js/sortable.js" ></script>
+    <script type="text/javascript" src="/assets/js/underscore.js"></script>
+    <script type="text/javascript" src="/assets/js/moment.min.js"></script>
+    <!-- Bootstrap -->
+    <script type="text/javascript" src="/assets/js/bootstrap.min.js"></script>
+    <!-- bootstrap-datetimepicker.min.js -->
+    <script type="text/javascript" src="/assets/js/locales/bootstrap-datetimepicker.pt.js"></script>
+    <script type="text/javascript" src="/assets/js/bootstrap-datetimepicker.min.js"></script>
+    <!-- bootbox.js -->
+    <script type="text/javascript" src="/assets/js/bootbox.min.js"></script>
+
+    <script type="text/javascript" src="/assets/js/main.js"></script>
+    <script type="text/javascript" src="/assets/js/homepage.js"></script>
+    <script type="text/javascript" src="/assets/js/utils/validation.js"></script>
+
+    <!-- Javascript includes -->
+    
+        <script type="text/javascript" src="/assets/js/fo/auto_link_generator.js"></script>
+    
+
+
+
+        
+    
+
+    <!-- HCaptcha recaptcha code -->
+
+    <script type="text/javascript">
+		function successCallback() {
+			console.log("callback!");
+    		$('button.recaptcha-disabled-button').removeAttr('disabled');
+		};
+
+        var onloadCallback = function() {
+        	if ($('#recaptcha_div').length){ // Check if recaptcha div exists
+        		console.log("loading hcaptcha");
+            	hcaptcha.render('recaptcha_div', {'sitekey' : '5ea397ad-cb35-4f3b-9945-24f0e2ad5583', "theme": "light", "callback" : "successCallback"});
+            }
+        };
+    </script>
+
+    <script src="https://hcaptcha.com/1/api.js?hl=pt-PT&onload=onloadCallback&render=explicit" async defer></script>
+
+
+        
+<!-- Ad code -->
+
+<div id="ad_code">
+	
+		<script>
+			if($('#ad_block').length){
+				console.log("Ad block is present");
+				// Insert Google Ads code here
+			}else{
+				console.log("No ad block is present");
+			}
+		</script>
+	
+</div>
+
+    </body>
+</html>

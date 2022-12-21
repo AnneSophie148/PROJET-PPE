@@ -1,0 +1,1038 @@
+<!doctype html>
+<html lang="en-US">
+
+<head>
+	<!-- Load rudderstack and other scripts -->
+	 <script type="text/javascript">
+	
+			! function() {
+				var e = window.rudderanalytics = window.rudderanalytics || [];
+				e.methods = ["load", "page", "track", "identify", "alias", "group", "ready", "reset", "getAnonymousId", "setAnonymousId"], e.factory = function(t) {
+					return function() {
+						var r = Array.prototype.slice.call(arguments);
+						return r.unshift(t), e.push(r), e
+					}
+				};
+				for (var t = 0; t < e.methods.length; t++) {
+					var r = e.methods[t];
+					e[r] = e.factory(r)
+				}
+				e.loadJS = function(e, t) {
+					var r = document.createElement("script");
+					r.type = "text/javascript", r.async = !0, r.src = "https://cdn.rudderlabs.com/v1.1/rudder-analytics.min.js";
+					var a = document.getElementsByTagName("script")[0];
+					a.parentNode.insertBefore(r, a)
+				}, e.loadJS(), e.load("20jrwYp78awvBGKv2swJXWNXdzV", "https://thriveworkpif.dataplane.rudderstack.com"), e.page()
+			}();
+			// Load GTM
+		(function(w, d, s, l, i) {
+			w[l] = w[l] || [];
+			w[l].push({
+				'gtm.start': new Date().getTime(),
+				event: 'gtm.js'
+			});
+			var f = d.getElementsByTagName(s)[0],
+				j = d.createElement(s),
+				dl = l != 'dataLayer' ? '&l=' + l : '';
+			j.async = true;
+			j.src =
+				'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+			f.parentNode.insertBefore(j, f);
+		})(window, document, 'script', 'dataLayer', 'GTM-PBGD374');
+</script>
+<script src="https://cdn.split.io/sdk/split-10.21.1.min.js"></script>		<meta charset="UTF-8" />
+<script type="text/javascript">
+var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,initializeOnLoaded:function(o){gform.domLoaded&&gform.scriptsLoaded?o():!gform.domLoaded&&gform.scriptsLoaded?window.addEventListener("DOMContentLoaded",o):document.addEventListener("gform_main_scripts_loaded",o)},hooks:{action:{},filter:{}},addAction:function(o,n,r,t){gform.addHook("action",o,n,r,t)},addFilter:function(o,n,r,t){gform.addHook("filter",o,n,r,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,n){gform.removeHook("action",o,n)},removeFilter:function(o,n,r){gform.removeHook("filter",o,n,r)},addHook:function(o,n,r,t,i){null==gform.hooks[o][n]&&(gform.hooks[o][n]=[]);var e=gform.hooks[o][n];null==i&&(i=n+"_"+e.length),gform.hooks[o][n].push({tag:i,callable:r,priority:t=null==t?10:t})},doHook:function(n,o,r){var t;if(r=Array.prototype.slice.call(r,1),null!=gform.hooks[n][o]&&((o=gform.hooks[n][o]).sort(function(o,n){return o.priority-n.priority}),o.forEach(function(o){"function"!=typeof(t=o.callable)&&(t=window[t]),"action"==n?t.apply(null,r):r[0]=t.apply(null,r)})),"filter"==n)return r[0]},removeHook:function(o,n,t,i){var r;null!=gform.hooks[o][n]&&(r=(r=gform.hooks[o][n]).filter(function(o,n,r){return!!(null!=i&&i!=o.tag||null!=t&&t!=o.priority)}),gform.hooks[o][n]=r)}});
+</script>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<link rel="shortcut icon" href="https://thriveworks.com/wp-content/themes/Thriveworks-Three/images/favicon.png" />
+	<link rel="pingback" href="https://thriveworks.com/xmlrpc.php" />
+	<link rel="preconnect" href="https://cdnjs.cloudflare.com" />
+	<link rel="preconnect" href="https://fonts.gstatic.com" />
+		<style type="text/css">
+		@font-face{font-family:'Open Sans';font-style:italic;font-weight:400;font-stretch:100%;font-display:swap;src:url(https://fonts.gstatic.com/s/opensans/v27/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuU6FxZCJgg.woff2) format('woff2')}@font-face{font-family:'Open Sans';font-style:italic;font-weight:500;font-stretch:100%;font-display:swap;src:url(https://fonts.gstatic.com/s/opensans/v27/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuU6FxZCJgg.woff2) format('woff2')}@font-face{font-family:'Open Sans';font-style:italic;font-weight:600;font-stretch:100%;font-display:swap;src:url(https://fonts.gstatic.com/s/opensans/v27/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuU6FxZCJgg.woff2) format('woff2')}@font-face{font-family:'Open Sans';font-style:normal;font-weight:400;font-stretch:100%;font-display:swap;src:url(https://fonts.gstatic.com/s/opensans/v27/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2) format('woff2')}@font-face{font-family:'Open Sans';font-style:normal;font-weight:500;font-stretch:100%;font-display:swap;src:url(https://fonts.gstatic.com/s/opensans/v27/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2) format('woff2')}@font-face{font-family:'Open Sans';font-style:normal;font-weight:600;font-stretch:100%;font-display:swap;src:url(https://fonts.gstatic.com/s/opensans/v27/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2) format('woff2')}@font-face{font-family:'Open Sans';font-style:normal;font-weight:900;font-stretch:100%;font-display:swap;src:url(https://fonts.gstatic.com/s/opensans/v27/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2) format('woff2')}@font-face{font-family:'Open Sans Condensed';font-style:italic;font-weight:300;font-display:swap;src:url(https://fonts.gstatic.com/s/opensanscondensed/v15/z7NHdQDnbTkabZAIOl9il_O6KJj73e7Fd_-7suD8Rb2V-ggZSw.woff2) format('woff2')}@font-face{font-family:'Open Sans Condensed';font-style:normal;font-weight:300;font-display:swap;src:url(https://fonts.gstatic.com/s/opensanscondensed/v15/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff1GhDuXMR7eS2Ao.woff2) format('woff2')}@font-face{font-family:'Open Sans Condensed';font-style:normal;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/opensanscondensed/v15/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmDuXMR7eS2Ao.woff2) format('woff2')}
+	</style>
+	<style type="text/css">
+		* {
+			font-synthesis: none;
+		}
+
+		@media screen and (max-width:980px) {
+			.mobile_menu_bar {
+				left: -5px
+			}
+		}
+
+		#top-menu li a {
+			position: relative;
+			left: -5px
+		}
+
+		.button-bar {
+			color: #50b9ea;
+			font-size: 28px;
+		}
+	</style>
+
+	<title>Reflective Vs. Restorative Nostalgia | Thriveworks</title>
+<meta name="dc.title" content="Reflective Vs. Restorative Nostalgia | Thriveworks" />
+<meta name="dc.description" content="This Thriveworks blog details the difference between restorative and reflective nostalgia, and how to harness the emotional power of nostalgic memories." />
+<meta name="dc.relation" content="https://thriveworks.com/blog/restorative-vs-reflective-nostalgia-learn-to-spot-the-differences-and-combat-memory-distortions/" />
+<meta name="dc.source" content="https://thriveworks.com/" />
+<meta name="dc.language" content="en_US" />
+<meta name="description" content="This Thriveworks blog details the difference between restorative and reflective nostalgia, and how to harness the emotional power of nostalgic memories." />
+<meta property="article:published_time" content="2021-11-24T15:32:59-05:00" />
+<meta property="article:modified_time" content="2022-08-17T16:21:46-04:00" />
+<meta property="og:updated_time" content="2022-08-17T16:21:46-04:00" />
+<meta name="robots" content="index, follow" />
+<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<link rel="canonical" href="https://thriveworks.com/blog/restorative-vs-reflective-nostalgia/" />
+<meta property="og:url" content="https://thriveworks.com/blog/restorative-vs-reflective-nostalgia-learn-to-spot-the-differences-and-combat-memory-distortions/" />
+<meta property="og:site_name" content="Thriveworks" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="article:author" content="https://www.facebook.com/Thriveworks/" />
+<meta property="article:publisher" content="https://www.facebook.com/Thriveworks/" />
+<meta property="article:section" content="Coping Skills" />
+<meta property="article:tag" content="ego" />
+<meta property="article:tag" content="healthy relationships" />
+<meta property="article:tag" content="human behavior" />
+<meta property="article:tag" content="long-term memory" />
+<meta property="article:tag" content="memory" />
+<meta property="article:tag" content="mental health" />
+<meta property="og:title" content="Reflective Vs. Restorative Nostalgia | Thriveworks" />
+<meta property="og:description" content="This Thriveworks blog details the difference between restorative and reflective nostalgia, and how to harness the emotional power of nostalgic memories." />
+<meta property="og:image" content="https://thriveworks.com/wp-content/uploads/2021/11/pexels-lisa-1808242.png" />
+<meta property="og:image:secure_url" content="https://thriveworks.com/wp-content/uploads/2021/11/pexels-lisa-1808242.png" />
+<meta property="og:image:width" content="1024" />
+<meta property="og:image:height" content="664" />
+<meta property="og:image:alt" content="white-and-green-wooden-house-miniature" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@Thriveworks" />
+<meta name="twitter:creator" content="@Thriveworks" />
+<meta name="twitter:title" content="Reflective Vs. Restorative Nostalgia | Thriveworks" />
+<meta name="twitter:description" content="This Thriveworks blog details the difference between restorative and reflective nostalgia, and how to harness the emotional power of nostalgic memories." />
+<meta name="twitter:image" content="https://thriveworks.com/wp-content/uploads/2021/11/pexels-lisa-1808242.png?w=1024" />
+<link rel='dns-prefetch' href='//thriveworks.com' />
+<link rel='dns-prefetch' href='//cdn.callrail.com' />
+<link rel='dns-prefetch' href='//cdn.parsely.com' />
+<meta name="google" content="nositelinkssearchbox" />
+<link rel="alternate" type="application/rss+xml" title="Thriveworks &raquo; Restorative vs. reflective nostalgia: Learn to spot the differences and combat memory distortions Comments Feed" href="https://thriveworks.com/blog/restorative-vs-reflective-nostalgia/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/thriveworks.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1.1"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='all-css-0' href='https://thriveworks.com/_static/??-eJyVkdFOwzAMRX+IzJRNQzwgfoIfcFMvM3OTKHYp/XuyCtAqeCAvka+Tc29kw5ydT9EoGmSZAkeFYAWjChrdlE5tEeqOO696B39QJDRWnQqgKpmCcA+n+sjhTJpGgkpuGruR4y87O1cbhddz4XeaU7moqzXRatenZFq/lFevH9VuJGzLerSh11S1Oo0TemrDOA700ZjEMQi5XlJoAwfKWOy6DadT7zIG0sZoYX/ZzIajl2mowJvCSAPj1743IgsuVJxQQL/8D693t/obehmfu+Nj93D/tD8cPgGM6P+V' type='text/css' media='all' />
+<style id='wpseopress-local-business-style-inline-css'>
+span.wp-block-wpseopress-local-business-field{margin-right:8px}
+
+</style>
+<link rel='stylesheet' id='all-css-4' href='https://thriveworks.com/wp-includes/css/classic-themes.min.css?m=1670271011g' type='text/css' media='all' />
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='all-css-6' href='https://thriveworks.com/_static/??-eJxtjUsOwjAMRC+EawJVEQvEWdrUagP5WLHTits3RbCC1YxH4ze4MtgUlaIi+zK5KMg5LW6kLGhFUPTlqanugH+6mWw9gZOowOrGibSKzqBzCUPsna+8MnhnfxChwJfyIOXePsGYpnuPfoL95x5upruY0/F6btsNAVtAPA==' type='text/css' media='all' />
+<script type="text/javascript" src="https://thriveworks.com/_static/??-eJzTLy/QzcxLzilNSS3WzwKiwtLUokoopZebmaeXVayjj0+Rbm5melFiSSpUsX2uraGZuYGRuaGBoVEWAK9DIhM=" ></script><link rel="https://api.w.org/" href="https://thriveworks.com/wp-json/" /><link rel="alternate" type="application/json" href="https://thriveworks.com/wp-json/wp/v2/posts/204177" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://thriveworks.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://thriveworks.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.1.1" />
+<link rel='shortlink' href='https://thriveworks.com/?p=204177' />
+<link rel="alternate" type="application/json+oembed" href="https://thriveworks.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fthriveworks.com%2Fblog%2Frestorative-vs-reflective-nostalgia%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://thriveworks.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fthriveworks.com%2Fblog%2Frestorative-vs-reflective-nostalgia%2F&#038;format=xml" />
+	<style>img#wpstats{display:none}</style>
+				<script>
+			document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
+		</script>
+				<style>
+			.no-js img.lazyload { display: none; }
+			figure.wp-block-image img.lazyloading { min-width: 150px; }
+							.lazyload, .lazyloading { opacity: 0; }
+				.lazyloaded {
+					opacity: 1;
+					transition: opacity 400ms;
+					transition-delay: 0ms;
+				}
+					</style>
+		<meta name="parsely-title" content="Restorative vs. reflective nostalgia: Learn to spot the differences and combat memory distortions" />
+<meta name="parsely-link" content="http://thriveworks.com/blog/restorative-vs-reflective-nostalgia/" />
+<meta name="parsely-type" content="post" />
+<meta name="parsely-image-url" content="https://thriveworks.com/wp-content/uploads/2021/11/pexels-lisa-1808242.png?w=150&amp;h=150&amp;crop=1" />
+<meta name="parsely-pub-date" content="2021-11-24T20:32:59Z" />
+<meta name="parsely-section" content="Coping Skills" />
+<meta name="parsely-tags" content="ego,healthy relationships,human behavior,long-term memory,memory,mental health" />
+<meta name="parsely-author" content="Jason Crosby" />
+<script type="text/javascript">
+		var ajaxurl = "https://thriveworks.com/wp-admin/admin-ajax.php";
+		var website_url = "https://thriveworks.com";
+		var current_page_id = "204177";
+		var get_pagination_value = "start";
+		</script><script type="application/ld+json">
+			{
+				"@context": "https://schema.org",
+				"@type": "Article",
+				"headline": "Restorative vs. reflective nostalgia: Learn to spot the differences and combat memory distortions",
+				"image": [ "https://thriveworks.com/wp-content/uploads/2021/11/pexels-lisa-1808242.png"],
+				"datePublished": "2021-11-24",
+				"author": [{
+					"@type": "Person",
+					"name": "Jason Crosby",
+					"jobTitle": "Mental Health Writer",
+					"url": "https://thriveworks.com/blog/author/jasoncro/"
+				}]
+			}
+			</script><style>.breadcrumb {list-style: none;margin:0}.breadcrumb li {margin:0;display:inline-block;position:relative;}.breadcrumb li::after{content:'';margin-left:5px;margin-right:5px;}.breadcrumb li:last-child::after{display:none}</style></head>
+
+<body class="post-template-default single single-post postid-204177 single-format-standard is-single is-singular is-desktop is-sidebar-sidebar-blog is-sidebar-banner-header-widget is-sidebar-footer_locations_one is-sidebar-footer_locations_two is-sidebar-footer_locations_three is-sidebar-footer_locations_four elementor-default elementor-kit-187037">
+	<noscript><iframe  height="0" width="0" style="display:none;visibility:hidden" data-src="https://www.googletagmanager.com/ns.html?id=GTM-PBGD374" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></iframe></noscript>
+
+	<style>
+  .BeaconFabButtonFrame {
+	display: none !important;
+  }
+</style>
+<script>
+	const uuidv4 = '02ce85ea-bd46-4d3b-8166-387a90d5ab0b';
+	const anonymousId = localStorage.getItem('anonymousId') || uuidv4;
+	globalThis.anonymousId = anonymousId
+	localStorage.setItem('anonymousId', anonymousId)
+
+	var VIP_GO_APP_ENVIRONMENT = 'production';
+	var treatment_name = 'WORDPRESS_CHAT_BUTTON_TEST';
+	var authkey = 'j7ofd94c2124639n1jsc2dng9vo1hophc8vf';
+
+	if ('production' === VIP_GO_APP_ENVIRONMENT) {
+		authkey = '1tfb9q4tnj2q39jcp78s8m77dpb57coi42ta';
+		treatment_name = 'WORDPRESS_CHAT_BUTTON_PRODUCTION';
+	}
+
+	var factory = splitio({
+		core: {
+			authorizationKey: authkey,
+			key: anonymousId,
+		}
+	});
+
+	var client = factory.client();
+	client.on(client.Event.SDK_READY, function() {
+		var treatment = client.getTreatment(treatment_name);
+		if (treatment === 'on') {
+			jQuery('.close-helpscout-facade').css('display','flex');
+			jQuery('.open-helpscout-facade').css('display','flex');
+
+			window.loadHelpScout = function() {
+				!function(e,t,n){function a(){let e=t.getElementsByTagName("script")[0],n=t.createElement("script");n.type="text/javascript",n.async=1,n.defer=1,n.src="https://beacon-v2.helpscout.net",e.parentNode.insertBefore(n,e)}if(e.Beacon=n=function(t,n,a){e.Beacon.readyQueue.push({method:t,options:n,data:a})},n.readyQueue=[],"complete"===t.readyState)return a();e.attachEvent?e.attachEvent("onload",a):e.addEventListener("load",a,!1)}(window,document,window.Beacon||function(){});
+				window.Beacon('init', 'f06713d2-ab80-4317-a881-f19c9389aa07')
+				window.Beacon('open')
+				document.querySelector(".open-helpscout-facade").style.visibility = "hidden";
+			}
+			window.closeHelpScout = function() {
+				document.querySelector(".open-helpscout-facade").style.visibility = "visible";
+				window.Beacon('destroy')
+			}
+		} else if (treatment === 'off') {
+		} else {
+		}
+	});
+
+	rudderanalytics.setAnonymousId(anonymousId);
+
+</script>
+
+
+<div
+	 class="close-helpscout-facade"
+     style="border-radius: 55px;
+			height: 55px;
+			z-index: 9;
+			position: fixed;
+			transform: scale(1);
+			width: 105px;
+			z-index: 99998;
+			font-weight: 600;
+			bottom: 15px;
+			right: 15px;
+			background: rgb(80, 185, 234);
+			align-items: center;
+			justify-content: center;
+			color: white;
+			cursor: pointer;
+			display:none;"
+			onClick="window.closeHelpScout()">
+		Close
+</div>
+<div class="open-helpscout-facade"
+   style="border-radius: 55px;
+			z-index: 10;
+			height: 55px;
+			position: fixed;
+			transform: scale(1);
+			width: 105px;
+			z-index: 99998;
+			font-weight: 600;
+			bottom: 15px;
+			right: 15px;
+			background: rgb(80, 185, 234);
+			align-items: center;
+			justify-content: center;
+			color: white;
+			cursor: pointer;
+			display:none;"
+			onClick="window.loadHelpScout();">
+		<svg width="24" height="22" xmlns="http://www.w3.org/2000/svg"><path d="M20.347 20.871l-.003-.05c0 .017.001.034.003.05zm-.243-4.278a2 2 0 0 1 .513-1.455c1.11-1.226 1.383-2.212 1.383-4.74C22 5.782 18.046 2 13.125 2h-2.25C5.954 2 2 5.78 2 10.399c0 4.675 4.01 8.626 8.875 8.626h2.25c.834 0 1.606-.207 3.212-.798a2 2 0 0 1 1.575.083l2.355 1.161-.163-2.878zM10.875 0h2.25C19.13 0 24 4.656 24 10.399c0 2.6-.25 4.257-1.9 6.08l.243 4.279c.072.845-.807 1.471-1.633 1.162l-3.682-1.816c-1.212.446-2.527.921-3.903.921h-2.25C4.869 21.025 0 16.142 0 10.4 0 4.656 4.869 0 10.875 0z" fill="#FFF"></path></svg>
+		&nbsp;&nbsp;Chat
+</div>
+<script async>
+
+</script>
+	<div id="page-container">
+		<header class="fixed-top">
+
+	<div id="banner-wrapper" class="banner-wrapper ">
+		<div class="container">
+							<div id="header-widget" class=" hw-widget widget-area text-right" role="complementary">
+					<div class="bn-widget"><p>Need help? Give us a call <a href="tel:855-641-1379">855-641-1379</a> </p></div>				</div>
+
+					</div>
+	</div>
+
+
+	<nav id="top-menu" class="navbar  navbar-expand-lg container" role="navigation">
+		<!-- <div class="container-fluid	"> -->
+		<a href="/">
+			<div style="width: 90px;" class="mr-5">
+				<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="Layer_1" x="0" y="0" version="1.1" viewBox="0 0 843.9 341.9"><style>.st1{fill:#55b1d8}</style><path fill="#55b1d8" fill-rule="evenodd" d="M248.3 204.3a8.5 8.5 0 1 1-8.5 8.5 8.4 8.4 0 0 1 8.5-8.5" clip-rule="evenodd"/><path d="M811.2 203.2a12.4 12.4 0 0 0-21.3 8.8 12.3 12.3 0 0 0 12.4 12.4 12.6 12.6 0 0 0 12.5-12.4 12 12 0 0 0-3.6-8.8m-8.8-5.6c4 0 7.6 1.6 10.3 4.2a14.8 14.8 0 0 1 0 20.6 14.8 14.8 0 0 1-20.6 0 14.8 14.8 0 0 1 0-20.6c2.7-2.6 6.3-4.2 10.3-4.2z" class="st1"/><path d="M797.6 204.6v14.8h2.4v-5.9h1.9l3.4 5.9h2.9l-3.7-6.2a4.2 4.2 0 0 0 3.4-4.3c0-2.4-1.7-4.4-5.3-4.4h-5zm7.9 4.5c0 1.5-.9 2.5-2.8 2.5H800v-5h2.7c2 0 2.8 1 2.8 2.5z" class="st1"/><path fill="#166eac" d="M415.1 281h-13.9c-2.8 8.4-10.2 14.3-21.8 14.3-13.2 0-24.2-8.6-25.2-24.4h62.1c.3-2.7.4-5 .4-7.8a35.5 35.5 0 0 0-37.3-37.1c-22.7 0-38.4 15.5-38.4 40 0 24.7 16.3 40.3 38.4 40.3 19.3 0 31.8-11.1 35.7-25.3m-36.2-44.1c13.3 0 24.7 8.4 24.5 23.5h-49.1c1.4-15.1 11.9-23.5 24.6-23.5zm-115.7-10.3 30.5 78.8h15l30.5-78.7h-13.8l-24.1 66.8-24.2-66.8-13.9-.1zm-21.4 78.8h12.9v-78.8h-12.9v78.8zm-37.9-42.3c0-11.1 9.4-23.4 21.7-23.4h1.1l6.6-13.3H229c-12.3 0-20.7 4.1-25.1 12.7v-12.6H191v78.8h12.9v-42.2zm-89.6 42.3h12.9v-43c0-16.7 6.9-25 20.1-25 13 0 17.3 8.1 17.3 24v43.9h12.8v-45.8c0-22.3-9.4-33.3-26.7-33.3a25.6 25.6 0 0 0-23.5 12.6v-34.7l-12.9-6.7v108zM25 208h33.5v97.3h12.9V208h33v-10.5H25V208z"/><path d="M787.9 283.6c-.4-27.8-45.7-17.7-45.7-36.1 0-6.2 5.7-10.8 15.2-10.8 10.3 0 16.3 5.7 16.9 13.5h12.9c-.8-15.2-12.2-24.4-29.3-24.4-17.3 0-28.5 9.8-28.5 21.7 0 28.9 45.9 18.9 45.9 36.1 0 6.4-5.7 11.5-15.9 11.5-10.9 0-17.6-5.7-18.3-13.2h-13.3c.9 14.2 13.6 24.1 31.8 24.1 17.1 0 28.5-9.6 28.3-22.4m-118.4 21.8h12.9v-34.3l30.5 34.3h17.6l-36.7-39 37.3-39.9h-18l-30.6 35.6v-64.6l-12.9 6.6v101.3zm-123.6-39.6c0-19.6 12.3-28.8 25.9-28.8 13.3 0 26.2 9.2 26.2 28.8 0 19.7-13.2 28.9-26.7 28.9-13.4.1-25.4-9.2-25.4-28.9zm65.3 0a38 38 0 0 0-39.3-40 38 38 0 0 0-39.3 40c0 24.7 16.7 40.3 38.7 40.3a38.5 38.5 0 0 0 39.9-40.3zm-167.4 39.6h13.3l18.7-61.7 18.7 61.7h13.3l25.2-78.8h-13.7l-17.6 66.5-18.7-66.5h-13.2l-19.3 66.3-17.9-66.3h-13.2l24.4 78.8zm189.6-42.3c0-11.1 9.4-23.4 21.7-23.4h1.1l6.6-13.3h-4.3c-12.3 0-20.7 4.1-25.1 12.7v-12.6h-12.9v78.8h12.9v-42.2z" class="st1"/><path fill="#ffe412" fill-rule="evenodd" d="m220.6 212.8-65.5-17.7c-1 5.8-1.8 11.7-2.2 17.7h67.7zm-49-68.4 57.1 48.9-42.6-73.6a202.3 202.3 0 0 0-14.5 24.7zm23.9-37.1 42.2 80-14.4-107.5a190.2 190.2 0 0 0-27.8 27.5zm41.4-37.5 11.4 115.4 37.9-139a186.8 186.8 0 0 0-49.3 23.6zm71.4-29-49.5 146.5 109.5-148a196.6 196.6 0 0 0-60 1.5zm83.5 3.3-124 149.2L459.3 77.5a189.8 189.8 0 0 0-67.5-33.4zm85.8 49.6L273.7 202.3l246.5-43.1c-9.5-24.8-24.2-47-42.6-65.5zm49.6 87-251.3 32.1h256.7c-1-11-2.8-21.7-5.4-32.1zm-369.1.4 64.6 21.2-58.1-41.7c-2.5 6.7-4.7 13.5-6.5 20.5z" clip-rule="evenodd"/></svg>
+			</div>
+		</a>
+
+		<button id="top-menu-toggler" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler d-sm-block d-xs-block d-md-block d-lg-none d-xl-none d-block" data-target="#navbarSupportedContent" data-toggle="collapse" type="button">
+			<i class="fa fa-bars navbar-toggler-icon button-bar open "></i>
+			<i class="fa fa-times navbar-toggler-icon button-bar cross"></i>
+		</button>
+
+		<div id="navbarSupportedContent" class="collapse navbar-collapse"><ul id="menu-top-menu-main" class="navbar-nav navbar-expand-xl ml-auto"><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-219871" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-219871 nav-item"><a title="About us" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle nav-link" id="menu-item-dropdown-219871">About us</a>
+<ul class="dropdown-menu" aria-labelledby="menu-item-dropdown-219871" role="menu">
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-227425" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-227425 nav-item"><a title="About" href="/professional-counseling/" class="dropdown-item">About</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-227426" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-227426 nav-item"><a title="Contact us" href="/contact-thriveworks/" class="dropdown-item">Contact us</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-219875" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-219875 nav-item"><a title="380+ locations" href="/find-counselor/" class="dropdown-item">380+ locations</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-219876" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-219876 nav-item"><a title="Online therapy" href="/online-counseling/" class="dropdown-item">Online therapy</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-219877" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-219877 nav-item"><a title="Psychiatry/medication" href="/psychiatry/" class="dropdown-item">Psychiatry/medication</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-227424" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-227424 nav-item"><a title="TherapyLand" href="/therapyland/" class="dropdown-item">TherapyLand</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-219874" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-219874 nav-item"><a title="Pricing" href="https://thriveworks.com/pricing/" class="dropdown-item">Pricing</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-219873" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-219873 nav-item"><a title="Client resources" href="/why-thriveworks/" class="dropdown-item">Client resources</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-219878" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-219878 nav-item"><a title="Careers" href="/careers/" class="dropdown-item">Careers</a></li>
+</ul>
+</li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-219880" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-219880 nav-item"><a title="FAQ" href="/faq/" class="nav-link">FAQ</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-225270" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-225270 nav-item"><a title="Learn" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle nav-link" id="menu-item-dropdown-225270">Learn</a>
+<ul class="dropdown-menu" aria-labelledby="menu-item-dropdown-225270" role="menu">
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-225262" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-225262 nav-item"><a title="Anxiety" href="https://thriveworks.com/help-with/anxiety/" class="dropdown-item">Anxiety</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-225266" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-225266 nav-item"><a title="Children&#039;s mental health" href="https://thriveworks.com/help-with/children-teens-adolescents/" class="dropdown-item">Children&#039;s mental health</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-225267" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-225267 nav-item"><a title="Depression" href="https://thriveworks.com/help-with/depression/" class="dropdown-item">Depression</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-225268" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-225268 nav-item"><a title="Grief &amp; loss" href="https://thriveworks.com/help-with/grief-loss/" class="dropdown-item">Grief &amp; loss</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-225269" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-225269 nav-item"><a title="Life transition" href="https://thriveworks.com/help-with/life-transition/" class="dropdown-item">Life transition</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-225263" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-225263 nav-item"><a title="Relationships" href="https://thriveworks.com/help-with/relationships/" class="dropdown-item">Relationships</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-225264" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-225264 nav-item"><a title="Self-care" href="https://thriveworks.com/help-with/self-care/" class="dropdown-item">Self-care</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-225265" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-225265 nav-item"><a title="Stress" href="https://thriveworks.com/help-with/stress/" class="dropdown-item">Stress</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-219881" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent active menu-item-219881 nav-item"><a title="See all topics" href="https://thriveworks.com/help-with/mental-health-topics/" class="dropdown-item">See all topics</a></li>
+</ul>
+</li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-219882" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-219882 nav-item"><a title="For business" href="/business-care/" class="nav-link">For business</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-219883" class="blue-cta menu-item menu-item-type-custom menu-item-object-custom menu-item-219883 nav-item"><a title="Book a session" href="/app/providers" class="nav-link">Book a session</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-219884" class="login-btn menu-item menu-item-type-custom menu-item-object-custom menu-item-219884 nav-item"><a title="Log in" href="/login" class="nav-link">Log in</a></li>
+</ul></div>	</nav>
+</header>
+		<div id="main-area">
+<div id="main-content" class="blog-layout single-highlight">
+	<div class="container">
+		<div class="row">
+			<div class="col-12 col-md-8 blog-col">
+				<div class="breadcrumb-blog">
+					<div>
+						<a href="/" class="home"> <img  width="20" height="17" data-src="https://thriveworks.com/wp-content/themes/Thriveworks-Three/assets/img/home-icon.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://thriveworks.com/wp-content/themes/Thriveworks-Three/assets/img/home-icon.png" width="20" height="17"></noscript></a>
+						<i class=" fa fa-angle-right" aria-hidden="true"></i>
+						 <a href="/help-with/mental-health-topics/" class="cate"> <span>Learn</span></a> <i class="fa fa-angle-right" aria-hidden="true"></i> <a href="https://thriveworks.com/help-with/coping-skills/" class="sub-cate"><span>Coping Skills</span></a>, <a href="https://thriveworks.com/help-with/mental-health-topics/" class="sub-sub-cate"><span>Mental Health Topics</span></a>					</div>
+				</div>
+
+				<h1 class="mb-4" >Restorative vs. reflective nostalgia: Learn to spot the differences and combat memory distortions</h1>
+			</div>
+		</div>
+		<div class="row mobile-reverse">
+			<div class="col-12 col-md-8 blog-col">
+				<div class="left-area-blog">
+					<div id="content-area" class="clearfix container1">
+						<div id="left-area">
+
+															<article id="post-204177" class="single-post">
+
+									<div class=" entry-content">
+																					<div class="accordion">
+												<div class="acc-title arrow-up">
+													<div class="title-h4">Highlights</div>
+													<img   data-src="https://thriveworks.com/wp-content/themes/Thriveworks-Three/assets/img/arrow-up.png" class="img up lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img class="img up" src="https://thriveworks.com/wp-content/themes/Thriveworks-Three/assets/img/arrow-up.png"></noscript>
+													<img   data-src="https://thriveworks.com/wp-content/themes/Thriveworks-Three/assets/img/arrow-down.png" class="img down lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img class="img down" src="https://thriveworks.com/wp-content/themes/Thriveworks-Three/assets/img/arrow-down.png"></noscript>
+												</div>
+												<div class="acc-description">
+													<ul>
+<li>Nostalgia is a familiar feeling, but there are actually two different types—reflective and restorative nostalgia.</li>
+<li>Restorative nostalgia involves happy memories and associations with the past. When we feel restoratively nostalgic, we’re likely to feel motivated to seek out new and rewarding experiences.</li>
+<li>Conversely, reflective nostalgia may often make us feel gloomy and disappointed, making it seem that the present moment doesn’t compare with our memories, preventing us from moving forward and making new positive experiences.</li>
+<li>Though they might sound like polar opposites, both types of nostalgia can be empowering experiences, if we learn to harness their emotional power.<span style="font-weight: 400;"> </span></li>
+<li>Feeling reflectively nostalgic can be counteracted by remembering that the present moment holds hope for us—we <i>can </i>make new friends, happy memories, or achieve success with a positive mindset.</li>
+<li>Feeling restoratively nostalgic is a special sensation, one that we can treasure while still remembering that the grass always appears greener on the other side.</li>
+</ul>
+												</div>
+											</div>
+										
+
+										<div class="blog-content">
+											<p>Has an old photo, song, or smell ever resurfaced and brought distant memories surging back to you? The psychological rush of remembering days gone by has a bittersweet quality, one that can be difficult to express. We’ve all felt nostalgic, but we may not be as familiar with the two types of nostalgia: restorative and reflective. While restorative nostalgia makes us feel positive about our past and motivates us to seek out new possibilities and experiences, reflective nostalgia often leaves us upset and wistful, thinking that our best days are behind us.</p>
+<p><span style="font-weight: 400;">When we feel positive about memories from our past, </span><a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01133/full" target="_blank" rel="noopener"><span style="font-weight: 400;">studies indicate</span></a><span style="font-weight: 400;"> that our brains are rewarding or even bribing us into seeking out positive experiences in order to keep the good vibes flowing. In contrast, feelings of reflective nostalgia cause us to shut ourselves off to new possibilities; in this state of mind, we might actually be susceptible to developing depression or anxiety. Despite the drastically different ways that restorative and reflective nostalgia affect us, psychologists now know that our ability to recall past events isn’t very accurate. Most </span><a href="https://thriveworks.com/blog/long-and-short-term-memory/"><span style="font-weight: 400;">memories</span></a><span style="font-weight: 400;">, good or bad (and especially those </span><a href="https://thriveworks.com/blog/heightened-emotions-unreliable-memories/"><span style="font-weight: 400;">attached to strong emotions</span></a><span style="font-weight: 400;">), are almost always distorted in some way. </span></p>
+<p><span style="font-weight: 400;">But as long as we don’t turn our backs on the present moment, or give up on the future, there’s nothing wrong with taking a restoratively nostalgic walk down memory lane. In fact, it could help set us up for success in our personal lives and prompt us to continually form healthy habits and relationships. The only thing to remember? The view in hindsight, whatever we see, isn’t real. </span></p>
+<div class='featured_image_wrapper'><img width="1024" height="664"   alt="white-and-green-wooden-house-miniature" decoding="async" data-srcset="https://thriveworks.com/wp-content/uploads/2021/11/pexels-lisa-1808242.png 1080w, https://thriveworks.com/wp-content/uploads/2021/11/pexels-lisa-1808242.png?resize=300,194 300w, https://thriveworks.com/wp-content/uploads/2021/11/pexels-lisa-1808242.png?resize=768,498 768w, https://thriveworks.com/wp-content/uploads/2021/11/pexels-lisa-1808242.png?resize=1024,664 1024w"  data-src="https://thriveworks.com/wp-content/uploads/2021/11/pexels-lisa-1808242.png?w=1024" data-sizes="(max-width: 1024px) 100vw, 1024px" class="attachment-large size-large wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="1024" height="664" src="https://thriveworks.com/wp-content/uploads/2021/11/pexels-lisa-1808242.png?w=1024" class="attachment-large size-large wp-post-image" alt="white-and-green-wooden-house-miniature" decoding="async" srcset="https://thriveworks.com/wp-content/uploads/2021/11/pexels-lisa-1808242.png 1080w, https://thriveworks.com/wp-content/uploads/2021/11/pexels-lisa-1808242.png?resize=300,194 300w, https://thriveworks.com/wp-content/uploads/2021/11/pexels-lisa-1808242.png?resize=768,498 768w, https://thriveworks.com/wp-content/uploads/2021/11/pexels-lisa-1808242.png?resize=1024,664 1024w" sizes="(max-width: 1024px) 100vw, 1024px" /></noscript></div>
+<h2><b>Reflective vs. Restorative Nostalgia </b></h2>
+<p><span style="font-weight: 400;">Reflective nostalgia was first described in the 17th century when </span><a href="https://www.tandfonline.com/doi/abs/10.1080/10350330.2014.950008" target="_blank" rel="noopener"><span style="font-weight: 400;">Swiss physician Dr. Johannes Hofer</span></a><span style="font-weight: 400;"> noted that soldiers who were stationed abroad would often long for their home country, experiencing a dejectedness that sometimes resulted in near depressive-like symptoms. Though not clearly understood at that time, the profound emotional effect of their memories could not be mistaken. </span></p>
+<p><span style="font-weight: 400;">When the past is viewed through the lens of reflective nostalgia, we’re typically closed off to the possibility of change and are reflecting back on old memories in order to seek refuge. We don’t see potential in the present moment because we’re overtaken by how much we miss the past. It’s common to feel reflectively nostalgic when:</span><span style="font-weight: 400;"><br />
+</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Going through a breakup, divorce, or </span><a href="https://thriveworks.com/blog/coping-loss-friendship-connections-evolve-adulthood/"><span style="font-weight: 400;">loss of a friendship</span></a></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Grieving the death of a loved one</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Experiencing failure, personally or professionally </span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Struggling with </span><a href="https://thriveworks.com/depression-counseling/"><span style="font-weight: 400;">depression</span></a><span style="font-weight: 400;">, </span><a href="https://thriveworks.com/anxiety-disorder-counseling/"><span style="font-weight: 400;">anxiety</span></a><span style="font-weight: 400;">, or other mental health conditions </span></li>
+</ul>
+<p><span style="font-weight: 400;">When the past is analyzed with rose-tinted glasses, we miss the whole picture. We forget the toiling, frustration, and dissonance involved with many of our memories, which can feel blissful in an illusory way. People may feel restoratively nostalgic when: </span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Celebrating an anniversary in a relationship, or getting together during the holidays</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">They wish to ignore certain aspects of the past</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Achieving success in their personal or professional lives </span></li>
+</ul>
+<p><span style="font-weight: 400;">Regardless of whether you’re experiencing reflective or restorative nostalgia, it’s important to recognize and harness the emotional power of these unique psychological experiences. You can clear the haze associated with memory distortions from your train of thought by taking a moment to recognize </span><i><span style="font-weight: 400;">how </span></i><span style="font-weight: 400;">you feel about the memory in question. </span></p>
+<h2><b>How to Cope with Reflective Nostalgic Memories</b></h2>
+<p><span style="font-weight: 400;">If you’re reflectively experiencing nostalgic memories, it’s prudent to: </span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><b>Mentally pump the brakes before spiraling downward—but not too quickly</b><span style="font-weight: 400;">. When a sour emotion surfaces while you’re reminiscing, you’re better off critically evaluating that memory. You might’ve made a mistake, said something disastrous, or been selfish. Perhaps the person you lost, the opportunity you missed, or the breakthrough moment that never came seems to be holding you underwater. Keep in mind, the situation </span><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0164024" target="_blank" rel="noopener"><span style="font-weight: 400;">probably wasn’t as bad</span></a><span style="font-weight: 400;"> as you remember it being. </span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Trust that there will be more chances to connect and prove yourself.</b><span style="font-weight: 400;"> The question is whether or not you’re open to </span><a href="https://www.sciencedirect.com/science/article/pii/S0022103120304017" target="_blank" rel="noopener"><span style="font-weight: 400;">new possibilities</span></a><span style="font-weight: 400;">. Although most nostalgic memories are seen through rose-colored glasses, they’re an important way to remember that there are positive people and opportunities for us to yet experience. After all, the past is proof. </span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Consider whether it’s time to</b> <b>make new friends, find a new partner, or rekindle an old passion</b><b>.</b><span style="font-weight: 400;"> If we want something that we used to have, we’ll need to work for it—and we have to accept that we’ll encounter at least some resistance in our efforts.</span></li>
+</ul>
+<p><span style="font-weight: 400;">Unlike restorative nostalgia, sensations of reflective nostalgia aren’t pleasant. Evaluate whether your negative emotions could be attached to an underlying mental health condition. Reflecting too long on adversity or negative experiences we’ve had can negatively affect our mental health. A therapist or<a href="https://thriveworks.com/find-counselor/ "> counselor </a>might be able to help you identify harmful thoughts or associations that may be clouding your view of the past. </span></p>
+<h2><b>How to Harness Restorative Nostalgic Memories</b><span style="font-weight: 400;"> </span></h2>
+<p><span style="font-weight: 400;">When you feel the rush of restorative nostalgia, try to: </span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><b>Soak it all in, but don’t dwell in the past for too long.</b> <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2020.02185/full" target="_blank" rel="noopener"><span style="font-weight: 400;">If you’re thinking</span></a><span style="font-weight: 400;"> about lost friends, an old relationship, or a breakthrough career moment, the good times you’re remembering can be a motivating way to continue pushing forward, especially when life may seem to remove many relationships and opportunities from our lives </span><span style="font-weight: 400;">over time</span><span style="font-weight: 400;">. </span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Remind yourself that the best optimists are also realists. </b><span style="font-weight: 400;">Adversity is an aspect of reality we often have to contend with. Just because what you’re able to recall seems amazing doesn’t mean that it’s an accurate depiction of that relationship, event, or opportunity. There </span><i><span style="font-weight: 400;">were </span></i><span style="font-weight: 400;">bad aspects, unique setbacks, and challenges attached to whatever you remember. Don’t make rash decisions based on nostalgic memories—there’s no going back. </span></li>
+<li aria-level="1"><b>Note that you could be exaggerating how “great” things were. </b><span style="font-weight: 400;">Looking back might feel good and cast those positive social interactions, achievements, or settings in a golden light. This is great, but the present moment is all we have. Does your current life contain the things that you’re reminiscing about? Why or why not? Pondering this may reveal </span><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7786399/" target="_blank" rel="noopener"><span style="font-weight: 400;">what and who makes us happy, as unique individuals</span></a><span style="font-weight: 400;">.</span></li>
+</ul>
+<p><span style="font-weight: 400;">Feeling nostalgic can be an empowering experience or an overpowering wave. Yet if we slow down enough to process properly, we can take advantage of both reflective and restorative nostalgic moments. The biggest difference between these two psychological phenomena is how radically different they each affect our emotions. When those old memories come barrelling towards us, we can use them as our fuel—or succumb to viewing them as our failures.  </span></p>
+										</div>
+
+									</div> <!-- .entry-content -->
+								</article>
+													</div> <!-- #left-area -->
+					</div>
+				</div>
+			</div>
+			<div class="col-12 col-md-4">
+				<!-- right side -->
+				<div class="reviewed-users">
+	<div class="reviewed-list">
+		<div class="reviewed-list-item">
+			<div class="ds-avatar">
+				<img alt='Jason Crosby'  data-srcset='https://thriveworks.com/wp-content/uploads/2021/06/thriveworks-jason-crosby-128x128.png 2x'  height='64' width='64' decoding='async' data-src='https://thriveworks.com/wp-content/uploads/2021/06/thriveworks-jason-crosby-64x64.png' class='avatar avatar-64 photo lazyload' src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==' /><noscript><img alt='Jason Crosby' src='https://thriveworks.com/wp-content/uploads/2021/06/thriveworks-jason-crosby-64x64.png' srcset='https://thriveworks.com/wp-content/uploads/2021/06/thriveworks-jason-crosby-128x128.png 2x' class='avatar avatar-64 photo' height='64' width='64' decoding='async'/></noscript>			</div>
+
+			<div class="reviewed-by">
+				<div class="reviewed-label">Written by</div>
+				<a class="reviewed-name" href="https://thriveworks.com/blog/author/jasoncro/">Jason Crosby</a>
+			</div>
+		</div>
+
+		
+			</div>
+
+	<div class="reviewed-text-block">
+		<div class="reviewed-tags-text">
+			Published Nov 24, 2021, 6 min read.<br/>		</div>
+		<div class="reviewed-tags-div">
+							<a href="javascript:;" style="background:url('https://thriveworks.com/wp-content/themes/Thriveworks-Three/assets/img/fact-icon.png') #f9f9f9;" class="tag-btn tag-icon" data-toggle="modal" data-target="#factCheckedModal"> Fact-checked</a>
+			
+							<a href="javascript:;" class="tag-btn" data-toggle="modal" data-target="#whyTrustModal"> Why trust Thriveworks?</a>
+					</div>
+	</div>
+</div>
+
+
+<!-- Fact Checked Modal -->
+<div class="modal fade blog-popup" id="factCheckedModal" tabindex="-1" aria-labelledby="factCheckedModalLabel" aria-hidden="true">
+	<div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+		<div class="modal-content modal-radius  p-3">
+			<div class="modal-header border-0">
+				<div class="modal-title modal-heading pb-0" id="factCheckedModalLabel">What does "fact-checked" mean?</div>
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+					<span aria-hidden="true">&times;</span>
+				</button>
+			</div>
+			<div class="modal-body pt-0">
+				<div class="modal-text">
+					<p>We only use authoritative, trusted, and current sources. In addition, we get information straight from our <a href="/mental-health-experts/">clinical and medical experts</a> who also verify the overall accuracy of our content. This ensures we provide valuable resources to our readers. Read our <a href="/editorial-policy/">editorial policy</a> for more information.</p>
+				</div>
+			</div>
+			<div class="modal-footer border-0 pt-0">
+				<button type="button" class="btn btn-outline-secondary" data-dismiss="modal">Close</button>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Why Trust Modal -->
+<div class="modal fade blog-popup" id="whyTrustModal" tabindex="-1" aria-labelledby="whyTrustModalLabel" aria-hidden="true">
+	<div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+		<div class="modal-content modal-radius  p-3">
+			<div class="modal-header border-0">
+				<div class="modal-title modal-heading pb-0" id="whyTrustModalLabel">Why you can trust Thriveworks</div>
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+					<span aria-hidden="true">&times;</span>
+				</button>
+			</div>
+			<div class="modal-body pt-0">
+				<div class="modal-text">
+					<p>Thriveworks was established in 2008, with the ultimate mission of helping people live happy and successful lives. In addition to providing exceptional clinical care and customer service, we accomplish our mission by offering important information about mental health and self-improvement.</p>
+<p>We are dedicated to providing you with valuable resources that educate and empower you to live better. First, we research extensively, referring to and referencing authoritative sources that provide additional value. In addition, we meet with our clinical experts to better understand and gather information about a topic before and while writing.</p>
+<p>We also enforce a tiered review process in which at least three individuals — one or more being licensed clinical experts — review, edit, and approve each piece of content before it is published. Finally, we frequently update old content to reflect the most up-to-date information.</p>
+				</div>
+			</div>
+			<div class="modal-footer border-0 pt-0">
+				<button type="button" class="btn btn-outline-secondary" data-dismiss="modal">Close</button>
+			</div>
+		</div>
+	</div>
+</div>
+
+				<div class="related-article-side-bar">
+			<div class="title-h3">Recent articles</div>
+					<article class="related-articles">
+				<img width="150" height="150"   alt="Person sitting on a bench with hands in their hair" decoding="async" loading="lazy" data-src="https://thriveworks.com/wp-content/uploads/2022/12/pexels-inzmam-khan-1134204-2.jpg?w=150&amp;h=150&amp;crop=1" class="attachment-thumbnail size-thumbnail wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="150" height="150" src="https://thriveworks.com/wp-content/uploads/2022/12/pexels-inzmam-khan-1134204-2.jpg?w=150&amp;h=150&amp;crop=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Person sitting on a bench with hands in their hair" decoding="async" loading="lazy" /></noscript>				<div class="article-description">
+					<a href="https://thriveworks.com/help-with/coping-skills/unhealthy-coping-mechanisms/" class="cta-click-article title right-rail">
+						<p>What are unhealthy coping mechanisms, and how do they affect me?</p>
+					</a>
+				</div>
+			</article>
+					<article class="related-articles">
+				<img width="150" height="150"   alt="Woman in orange t-shirt watching the sunset while holding up a heart with two hands" decoding="async" loading="lazy" data-src="https://thriveworks.com/wp-content/uploads/2022/12/pexels-hassan-ouajbir-1535244.jpg?w=150&amp;h=150&amp;crop=1" class="attachment-thumbnail size-thumbnail wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="150" height="150" src="https://thriveworks.com/wp-content/uploads/2022/12/pexels-hassan-ouajbir-1535244.jpg?w=150&amp;h=150&amp;crop=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Woman in orange t-shirt watching the sunset while holding up a heart with two hands" decoding="async" loading="lazy" /></noscript>				<div class="article-description">
+					<a href="https://thriveworks.com/help-with/coping-skills/coping-mechanisms/" class="cta-click-article title right-rail">
+						<p>Healthy coping mechanisms and strategies: Behaviors that can set you up for success</p>
+					</a>
+				</div>
+			</article>
+					<article class="related-articles">
+				<img width="150" height="150"   alt="thoughtful-young-ethnic-women-having-conversation-at-table-at-home" decoding="async" loading="lazy" data-src="https://thriveworks.com/wp-content/uploads/2022/07/pexels-cottonbro-6963307-1.jpg?w=150&amp;h=150&amp;crop=1" class="attachment-thumbnail size-thumbnail wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="150" height="150" src="https://thriveworks.com/wp-content/uploads/2022/07/pexels-cottonbro-6963307-1.jpg?w=150&amp;h=150&amp;crop=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="thoughtful-young-ethnic-women-having-conversation-at-table-at-home" decoding="async" loading="lazy" /></noscript>				<div class="article-description">
+					<a href="https://thriveworks.com/help-with/coping-skills/how-to-deal-with-passive-aggressive-behavior/" class="cta-click-article title right-rail">
+						<p>How can I keep passive-aggressive behavior from affecting me?</p>
+					</a>
+				</div>
+			</article>
+				<div class="view-btn">
+			<a href="https://thriveworks.com/help-with/coping-skills/">View all </a>
+		</div>
+	
+			<div class="right-cta">
+			<p><span>Want to talk to a therapist?</span> We have over 2,000 providers across the US ready to help you in person or online.</p>
+			<div class="right-cta-btns">
+				<a href="https://thriveworks.com/app/providers"  class="right-cta-book-btn btn blue right-rail">
+					Book a session				</a>
+				<a href="tel:855-641-1379">855-641-1379</a>
+			</div>
+		</div>
+	
+</div>
+
+			</div>
+
+		</div>
+	</div> <!-- Left Area -->
+</div> <!-- #main-content -->
+<div class="spacer-25"></div><section class="tabs">
+    <div class="container tab-container">
+        <div class="row justify-content-center">
+            <div class="col-12 px-0">
+                <ul class="tab-list">
+                                            <li class="active">Author</li>
+                                                                            </ul>
+
+                <div class="tab-content">
+
+                    
+                    <!-- tab-author -->
+                    <div class="tab-author tab-inner-wrapper">
+                        <div class="inner-content">
+                            <img alt='Jason Crosby'  data-srcset='https://thriveworks.com/wp-content/uploads/2021/06/thriveworks-jason-crosby-192x192.png 2x'  height='96' width='96' decoding='async' data-src='https://thriveworks.com/wp-content/uploads/2021/06/thriveworks-jason-crosby-96x96.png' class='avatar avatar-96 photo lazyload' src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==' /><noscript><img alt='Jason Crosby' src='https://thriveworks.com/wp-content/uploads/2021/06/thriveworks-jason-crosby-96x96.png' srcset='https://thriveworks.com/wp-content/uploads/2021/06/thriveworks-jason-crosby-192x192.png 2x' class='avatar avatar-96 photo' height='96' width='96' decoding='async'/></noscript>                            <div class="content">
+                                <p style="margin-bottom:10px;">Written by <a href="https://thriveworks.com/blog/author/jasoncro/"> Jason Crosby </a></p>
+                                <p>Jason Crosby is a Senior Copywriter at Thriveworks. He received his BA in English Writing from Montana State University with a minor in English Literature. Previously, Jason was a freelance writer for publications based in Seattle, WA, and Austin, TX.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    
+                    
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-12 discover-more">
+            <p class="title">Discover more </p>
+                                    <div id="blog-tags">
+                        <span><a href="https://thriveworks.com/blog/tag/ego/" rel="tag">ego</a> <a href="https://thriveworks.com/blog/tag/healthy-relationships/" rel="tag">healthy relationships</a> <a href="https://thriveworks.com/blog/tag/human-behavior/" rel="tag">human behavior</a> <a href="https://thriveworks.com/blog/tag/long-term-memory/" rel="tag">long-term memory</a> <a href="https://thriveworks.com/blog/tag/memory/" rel="tag">memory</a> <a href="https://thriveworks.com/blog/tag/mental-health/" rel="tag">mental health</a><br /></span>
+                    </div>
+                            </div>
+        </div>
+    </div>
+</section>
+    <section class="bottom-cta">
+        <div class="container">
+            <div class="row blog-col">
+                <div class="cta-container">
+                    <h3>Are you struggling?</h3>
+<h3>Thriveworks can help.</h3>
+                    <p>Browse top-rated therapists near you, and find one who meets your needs. We accept most insurances, and offer weekend and evening sessions.</p>
+                    <div class="bottom-cta-btns">
+                        <a href="https://thriveworks.com/app/providers"  class="cta-book-session btn blue-rounded bottom-tail">
+                            Book a session                        </a>
+                        <a href="tel:855-641-1379" class="cta-call-session"> 855-641-1379 </a>
+                    </div>
+                    <img width="112" height="30" data-src="https://thriveworks.com/wp-content/themes/Thriveworks-Three/assets/img/star-img.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="112" height="30" src="https://thriveworks.com/wp-content/themes/Thriveworks-Three/assets/img/star-img.png"/></noscript>
+                    <p>Rated 4.5 overall from 10,849 Google reviews</p>
+                </div>					
+            </div>
+        </div>
+    </section>
+	<div class="popular-articles">
+		<div class="container">
+			<div class="row">
+				<div class="title-h3">Popular articles</div>
+			</div>
+			<div class="popular-post-wrapper">
+				<div class="popular-slider">
+					<div class="regular slider">
+													<article id="pop-204177" class="rela-item items">
+								<div class="inner-box">
+									<a class="img-wrapper cta-click-article image bottom-tail" href="https://thriveworks.com/blog/healing-abandonment-advice-light-way/">
+										<img width="300" height="194"   alt="Woman holds illuminated umbrella under starry sky" decoding="async" loading="lazy" data-srcset="https://thriveworks.com/wp-content/uploads/2018/04/pexels-matheus-bertelli-573238.png 1080w, https://thriveworks.com/wp-content/uploads/2018/04/pexels-matheus-bertelli-573238.png?resize=300,194 300w, https://thriveworks.com/wp-content/uploads/2018/04/pexels-matheus-bertelli-573238.png?resize=768,498 768w, https://thriveworks.com/wp-content/uploads/2018/04/pexels-matheus-bertelli-573238.png?resize=1024,664 1024w"  data-src="https://thriveworks.com/wp-content/uploads/2018/04/pexels-matheus-bertelli-573238.png?w=300" data-sizes="(max-width: 300px) 100vw, 300px" class="attachment-medium size-medium wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="300" height="194" src="https://thriveworks.com/wp-content/uploads/2018/04/pexels-matheus-bertelli-573238.png?w=300" class="attachment-medium size-medium wp-post-image" alt="Woman holds illuminated umbrella under starry sky" decoding="async" loading="lazy" srcset="https://thriveworks.com/wp-content/uploads/2018/04/pexels-matheus-bertelli-573238.png 1080w, https://thriveworks.com/wp-content/uploads/2018/04/pexels-matheus-bertelli-573238.png?resize=300,194 300w, https://thriveworks.com/wp-content/uploads/2018/04/pexels-matheus-bertelli-573238.png?resize=768,498 768w, https://thriveworks.com/wp-content/uploads/2018/04/pexels-matheus-bertelli-573238.png?resize=1024,664 1024w" sizes="(max-width: 300px) 100vw, 300px" /></noscript>									</a>
+									<div class="content">
+										<a id="title-204177" class="cta-click-article title bottom-tail" href="https://thriveworks.com/blog/healing-abandonment-advice-light-way/" minlength="10" maxlength="500">
+											Healing abandonment issues: 5 pieces of advice that light the way										</a>
+
+										<div class="meta-description">
+											<div class="meta">
+												<a class="author-link" href="https://thriveworks.com/blog/author/taylorbennett/" rel="author">Taylor Bennett</a>
+												<div class="reading-time">5 min read</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</article>
+													<article id="pop-204177" class="rela-item items">
+								<div class="inner-box">
+									<a class="img-wrapper cta-click-article image bottom-tail" href="https://thriveworks.com/blog/flustered-regain-control-challenging-inner-critic-finding-calm/">
+										<img width="300" height="194"   alt="Music" decoding="async" loading="lazy" data-srcset="https://thriveworks.com/wp-content/uploads/2019/05/blog-thriveworks-music-work-video.jpg 1080w, https://thriveworks.com/wp-content/uploads/2019/05/blog-thriveworks-music-work-video.jpg?resize=300,194 300w, https://thriveworks.com/wp-content/uploads/2019/05/blog-thriveworks-music-work-video.jpg?resize=768,498 768w, https://thriveworks.com/wp-content/uploads/2019/05/blog-thriveworks-music-work-video.jpg?resize=1024,664 1024w"  data-src="https://thriveworks.com/wp-content/uploads/2019/05/blog-thriveworks-music-work-video.jpg?w=300" data-sizes="(max-width: 300px) 100vw, 300px" class="attachment-medium size-medium wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="300" height="194" src="https://thriveworks.com/wp-content/uploads/2019/05/blog-thriveworks-music-work-video.jpg?w=300" class="attachment-medium size-medium wp-post-image" alt="Music" decoding="async" loading="lazy" srcset="https://thriveworks.com/wp-content/uploads/2019/05/blog-thriveworks-music-work-video.jpg 1080w, https://thriveworks.com/wp-content/uploads/2019/05/blog-thriveworks-music-work-video.jpg?resize=300,194 300w, https://thriveworks.com/wp-content/uploads/2019/05/blog-thriveworks-music-work-video.jpg?resize=768,498 768w, https://thriveworks.com/wp-content/uploads/2019/05/blog-thriveworks-music-work-video.jpg?resize=1024,664 1024w" sizes="(max-width: 300px) 100vw, 300px" /></noscript>									</a>
+									<div class="content">
+										<a id="title-204177" class="cta-click-article title bottom-tail" href="https://thriveworks.com/blog/flustered-regain-control-challenging-inner-critic-finding-calm/" minlength="10" maxlength="500">
+											Feeling flustered? Regain control by challenging your inner critic and finding your calm										</a>
+
+										<div class="meta-description">
+											<div class="meta">
+												<a class="author-link" href="https://thriveworks.com/blog/author/taylorbennett/" rel="author">Taylor Bennett</a>
+												<div class="reading-time">4 min read</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</article>
+													<article id="pop-204177" class="rela-item items">
+								<div class="inner-box">
+									<a class="img-wrapper cta-click-article image bottom-tail" href="https://thriveworks.com/blog/5-ways-deal-with-temptation/">
+										<img width="300" height="194"   alt="woman closing eyes with rainbow" decoding="async" loading="lazy" data-srcset="https://thriveworks.com/wp-content/uploads/2019/07/blog-thriveworks-womens-health.jpg 1080w, https://thriveworks.com/wp-content/uploads/2019/07/blog-thriveworks-womens-health.jpg?resize=300,194 300w, https://thriveworks.com/wp-content/uploads/2019/07/blog-thriveworks-womens-health.jpg?resize=768,498 768w, https://thriveworks.com/wp-content/uploads/2019/07/blog-thriveworks-womens-health.jpg?resize=1024,664 1024w"  data-src="https://thriveworks.com/wp-content/uploads/2019/07/blog-thriveworks-womens-health.jpg?w=300" data-sizes="(max-width: 300px) 100vw, 300px" class="attachment-medium size-medium wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="300" height="194" src="https://thriveworks.com/wp-content/uploads/2019/07/blog-thriveworks-womens-health.jpg?w=300" class="attachment-medium size-medium wp-post-image" alt="woman closing eyes with rainbow" decoding="async" loading="lazy" srcset="https://thriveworks.com/wp-content/uploads/2019/07/blog-thriveworks-womens-health.jpg 1080w, https://thriveworks.com/wp-content/uploads/2019/07/blog-thriveworks-womens-health.jpg?resize=300,194 300w, https://thriveworks.com/wp-content/uploads/2019/07/blog-thriveworks-womens-health.jpg?resize=768,498 768w, https://thriveworks.com/wp-content/uploads/2019/07/blog-thriveworks-womens-health.jpg?resize=1024,664 1024w" sizes="(max-width: 300px) 100vw, 300px" /></noscript>									</a>
+									<div class="content">
+										<a id="title-204177" class="cta-click-article title bottom-tail" href="https://thriveworks.com/blog/5-ways-deal-with-temptation/" minlength="10" maxlength="500">
+											5 Ways to Deal with Temptation										</a>
+
+										<div class="meta-description">
+											<div class="meta">
+												<a class="author-link" href="https://thriveworks.com/blog/author/taylorbennett/" rel="author">Taylor Bennett</a>
+												<div class="reading-time">5 min read</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</article>
+													<article id="pop-204177" class="rela-item items">
+								<div class="inner-box">
+									<a class="img-wrapper cta-click-article image bottom-tail" href="https://thriveworks.com/blog/humor-can-help-you-manage-grief-and-cope-with-loss/">
+										<img width="300" height="194"   alt="Grief" decoding="async" loading="lazy" data-srcset="https://thriveworks.com/wp-content/uploads/2019/05/blog-thriveworks-grief-humor.jpg 1080w, https://thriveworks.com/wp-content/uploads/2019/05/blog-thriveworks-grief-humor.jpg?resize=300,194 300w, https://thriveworks.com/wp-content/uploads/2019/05/blog-thriveworks-grief-humor.jpg?resize=768,498 768w, https://thriveworks.com/wp-content/uploads/2019/05/blog-thriveworks-grief-humor.jpg?resize=1024,664 1024w"  data-src="https://thriveworks.com/wp-content/uploads/2019/05/blog-thriveworks-grief-humor.jpg?w=300" data-sizes="(max-width: 300px) 100vw, 300px" class="attachment-medium size-medium wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="300" height="194" src="https://thriveworks.com/wp-content/uploads/2019/05/blog-thriveworks-grief-humor.jpg?w=300" class="attachment-medium size-medium wp-post-image" alt="Grief" decoding="async" loading="lazy" srcset="https://thriveworks.com/wp-content/uploads/2019/05/blog-thriveworks-grief-humor.jpg 1080w, https://thriveworks.com/wp-content/uploads/2019/05/blog-thriveworks-grief-humor.jpg?resize=300,194 300w, https://thriveworks.com/wp-content/uploads/2019/05/blog-thriveworks-grief-humor.jpg?resize=768,498 768w, https://thriveworks.com/wp-content/uploads/2019/05/blog-thriveworks-grief-humor.jpg?resize=1024,664 1024w" sizes="(max-width: 300px) 100vw, 300px" /></noscript>									</a>
+									<div class="content">
+										<a id="title-204177" class="cta-click-article title bottom-tail" href="https://thriveworks.com/blog/humor-can-help-you-manage-grief-and-cope-with-loss/" minlength="10" maxlength="500">
+											Humor can help you manage grief and cope with loss										</a>
+
+										<div class="meta-description">
+											<div class="meta">
+												<a class="author-link" href="https://thriveworks.com/blog/author/taylorbennett/" rel="author">Taylor Bennett</a>
+												<div class="reading-time">5 min read</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</article>
+													<article id="pop-204177" class="rela-item items">
+								<div class="inner-box">
+									<a class="img-wrapper cta-click-article image bottom-tail" href="https://thriveworks.com/blog/true-healing-requires-feeling/">
+										<img width="300" height="194"   alt="woman in yellow shirt hugging woman in blue shirt" decoding="async" loading="lazy" data-srcset="https://thriveworks.com/wp-content/uploads/2018/03/blog-thriveworks-painful-emotions.jpg 1080w, https://thriveworks.com/wp-content/uploads/2018/03/blog-thriveworks-painful-emotions.jpg?resize=300,194 300w, https://thriveworks.com/wp-content/uploads/2018/03/blog-thriveworks-painful-emotions.jpg?resize=768,498 768w, https://thriveworks.com/wp-content/uploads/2018/03/blog-thriveworks-painful-emotions.jpg?resize=1024,664 1024w"  data-src="https://thriveworks.com/wp-content/uploads/2018/03/blog-thriveworks-painful-emotions.jpg?w=300" data-sizes="(max-width: 300px) 100vw, 300px" class="attachment-medium size-medium wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="300" height="194" src="https://thriveworks.com/wp-content/uploads/2018/03/blog-thriveworks-painful-emotions.jpg?w=300" class="attachment-medium size-medium wp-post-image" alt="woman in yellow shirt hugging woman in blue shirt" decoding="async" loading="lazy" srcset="https://thriveworks.com/wp-content/uploads/2018/03/blog-thriveworks-painful-emotions.jpg 1080w, https://thriveworks.com/wp-content/uploads/2018/03/blog-thriveworks-painful-emotions.jpg?resize=300,194 300w, https://thriveworks.com/wp-content/uploads/2018/03/blog-thriveworks-painful-emotions.jpg?resize=768,498 768w, https://thriveworks.com/wp-content/uploads/2018/03/blog-thriveworks-painful-emotions.jpg?resize=1024,664 1024w" sizes="(max-width: 300px) 100vw, 300px" /></noscript>									</a>
+									<div class="content">
+										<a id="title-204177" class="cta-click-article title bottom-tail" href="https://thriveworks.com/blog/true-healing-requires-feeling/" minlength="10" maxlength="500">
+											How to Deal With Painful Emotions: True Healing Requires True Feeling										</a>
+
+										<div class="meta-description">
+											<div class="meta">
+												<a class="author-link" href="https://thriveworks.com/blog/author/taylorbennett/" rel="author">Taylor Bennett</a>
+												<div class="reading-time">4 min read</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</article>
+													<article id="pop-204177" class="rela-item items">
+								<div class="inner-box">
+									<a class="img-wrapper cta-click-article image bottom-tail" href="https://thriveworks.com/blog/life-unpredictable-stay-calm-chaos/">
+										<img width="300" height="112"   alt="" decoding="async" loading="lazy" data-srcset="https://thriveworks.com/wp-content/uploads/2018/01/brooke-cagle-320838-e1516716511541.jpg 1080w, https://thriveworks.com/wp-content/uploads/2018/01/brooke-cagle-320838-e1516716511541.jpg?resize=300,112 300w, https://thriveworks.com/wp-content/uploads/2018/01/brooke-cagle-320838-e1516716511541.jpg?resize=768,286 768w, https://thriveworks.com/wp-content/uploads/2018/01/brooke-cagle-320838-e1516716511541.jpg?resize=1024,381 1024w"  data-src="https://thriveworks.com/wp-content/uploads/2018/01/brooke-cagle-320838-e1516716511541.jpg?w=300" data-sizes="(max-width: 300px) 100vw, 300px" class="attachment-medium size-medium wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="300" height="112" src="https://thriveworks.com/wp-content/uploads/2018/01/brooke-cagle-320838-e1516716511541.jpg?w=300" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://thriveworks.com/wp-content/uploads/2018/01/brooke-cagle-320838-e1516716511541.jpg 1080w, https://thriveworks.com/wp-content/uploads/2018/01/brooke-cagle-320838-e1516716511541.jpg?resize=300,112 300w, https://thriveworks.com/wp-content/uploads/2018/01/brooke-cagle-320838-e1516716511541.jpg?resize=768,286 768w, https://thriveworks.com/wp-content/uploads/2018/01/brooke-cagle-320838-e1516716511541.jpg?resize=1024,381 1024w" sizes="(max-width: 300px) 100vw, 300px" /></noscript>									</a>
+									<div class="content">
+										<a id="title-204177" class="cta-click-article title bottom-tail" href="https://thriveworks.com/blog/life-unpredictable-stay-calm-chaos/" minlength="10" maxlength="500">
+											Life Is Unpredictable—Stay Calm Through the Chaos										</a>
+
+										<div class="meta-description">
+											<div class="meta">
+												<a class="author-link" href="https://thriveworks.com/blog/author/taylorbennett/" rel="author">Taylor Bennett</a>
+												<div class="reading-time">5 min read</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</article>
+													<article id="pop-204177" class="rela-item items">
+								<div class="inner-box">
+									<a class="img-wrapper cta-click-article image bottom-tail" href="https://thriveworks.com/blog/writing-thinking-failures-reduces-stress/">
+										<img width="300" height="112"   alt="" decoding="async" loading="lazy" data-srcset="https://thriveworks.com/wp-content/uploads/2018/04/calum-macaulay-60673-unsplash-e1522676608326.jpg 1080w, https://thriveworks.com/wp-content/uploads/2018/04/calum-macaulay-60673-unsplash-e1522676608326.jpg?resize=300,112 300w, https://thriveworks.com/wp-content/uploads/2018/04/calum-macaulay-60673-unsplash-e1522676608326.jpg?resize=768,286 768w, https://thriveworks.com/wp-content/uploads/2018/04/calum-macaulay-60673-unsplash-e1522676608326.jpg?resize=1024,381 1024w"  data-src="https://thriveworks.com/wp-content/uploads/2018/04/calum-macaulay-60673-unsplash-e1522676608326.jpg?w=300" data-sizes="(max-width: 300px) 100vw, 300px" class="attachment-medium size-medium wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="300" height="112" src="https://thriveworks.com/wp-content/uploads/2018/04/calum-macaulay-60673-unsplash-e1522676608326.jpg?w=300" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://thriveworks.com/wp-content/uploads/2018/04/calum-macaulay-60673-unsplash-e1522676608326.jpg 1080w, https://thriveworks.com/wp-content/uploads/2018/04/calum-macaulay-60673-unsplash-e1522676608326.jpg?resize=300,112 300w, https://thriveworks.com/wp-content/uploads/2018/04/calum-macaulay-60673-unsplash-e1522676608326.jpg?resize=768,286 768w, https://thriveworks.com/wp-content/uploads/2018/04/calum-macaulay-60673-unsplash-e1522676608326.jpg?resize=1024,381 1024w" sizes="(max-width: 300px) 100vw, 300px" /></noscript>									</a>
+									<div class="content">
+										<a id="title-204177" class="cta-click-article title bottom-tail" href="https://thriveworks.com/blog/writing-thinking-failures-reduces-stress/" minlength="10" maxlength="500">
+											Writing and Thinking About Past Failures Reduces Stress and Enhances Future Performances										</a>
+
+										<div class="meta-description">
+											<div class="meta">
+												<a class="author-link" href="https://thriveworks.com/blog/author/taylorbennett/" rel="author">Taylor Bennett</a>
+												<div class="reading-time">4 min read</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</article>
+													<article id="pop-204177" class="rela-item items">
+								<div class="inner-box">
+									<a class="img-wrapper cta-click-article image bottom-tail" href="https://thriveworks.com/blog/life-knocks-down-implement-strategies/">
+										<img width="300" height="194"   alt="Friends" decoding="async" loading="lazy" data-srcset="https://thriveworks.com/wp-content/uploads/2019/12/blog-thriveworks-make-friends-at-work-video.jpg 1080w, https://thriveworks.com/wp-content/uploads/2019/12/blog-thriveworks-make-friends-at-work-video.jpg?resize=300,194 300w, https://thriveworks.com/wp-content/uploads/2019/12/blog-thriveworks-make-friends-at-work-video.jpg?resize=768,498 768w, https://thriveworks.com/wp-content/uploads/2019/12/blog-thriveworks-make-friends-at-work-video.jpg?resize=1024,664 1024w"  data-src="https://thriveworks.com/wp-content/uploads/2019/12/blog-thriveworks-make-friends-at-work-video.jpg?w=300" data-sizes="(max-width: 300px) 100vw, 300px" class="attachment-medium size-medium wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="300" height="194" src="https://thriveworks.com/wp-content/uploads/2019/12/blog-thriveworks-make-friends-at-work-video.jpg?w=300" class="attachment-medium size-medium wp-post-image" alt="Friends" decoding="async" loading="lazy" srcset="https://thriveworks.com/wp-content/uploads/2019/12/blog-thriveworks-make-friends-at-work-video.jpg 1080w, https://thriveworks.com/wp-content/uploads/2019/12/blog-thriveworks-make-friends-at-work-video.jpg?resize=300,194 300w, https://thriveworks.com/wp-content/uploads/2019/12/blog-thriveworks-make-friends-at-work-video.jpg?resize=768,498 768w, https://thriveworks.com/wp-content/uploads/2019/12/blog-thriveworks-make-friends-at-work-video.jpg?resize=1024,664 1024w" sizes="(max-width: 300px) 100vw, 300px" /></noscript>									</a>
+									<div class="content">
+										<a id="title-204177" class="cta-click-article title bottom-tail" href="https://thriveworks.com/blog/life-knocks-down-implement-strategies/" minlength="10" maxlength="500">
+											When Life Knocks You Down, Implement These 6 Strategies										</a>
+
+										<div class="meta-description">
+											<div class="meta">
+												<a class="author-link" href="https://thriveworks.com/blog/author/taylorbennett/" rel="author">Taylor Bennett</a>
+												<div class="reading-time">4 min read</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</article>
+													<article id="pop-204177" class="rela-item items">
+								<div class="inner-box">
+									<a class="img-wrapper cta-click-article image bottom-tail" href="https://thriveworks.com/blog/grief-loss-pet/">
+										<img width="300" height="112"   alt="" decoding="async" loading="lazy" data-srcset="https://thriveworks.com/wp-content/uploads/2017/12/pexels-photo-59523-e1513194022437.jpeg 1080w, https://thriveworks.com/wp-content/uploads/2017/12/pexels-photo-59523-e1513194022437.jpeg?resize=300,112 300w, https://thriveworks.com/wp-content/uploads/2017/12/pexels-photo-59523-e1513194022437.jpeg?resize=768,286 768w, https://thriveworks.com/wp-content/uploads/2017/12/pexels-photo-59523-e1513194022437.jpeg?resize=1024,381 1024w"  data-src="https://thriveworks.com/wp-content/uploads/2017/12/pexels-photo-59523-e1513194022437.jpeg?w=300" data-sizes="(max-width: 300px) 100vw, 300px" class="attachment-medium size-medium wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="300" height="112" src="https://thriveworks.com/wp-content/uploads/2017/12/pexels-photo-59523-e1513194022437.jpeg?w=300" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://thriveworks.com/wp-content/uploads/2017/12/pexels-photo-59523-e1513194022437.jpeg 1080w, https://thriveworks.com/wp-content/uploads/2017/12/pexels-photo-59523-e1513194022437.jpeg?resize=300,112 300w, https://thriveworks.com/wp-content/uploads/2017/12/pexels-photo-59523-e1513194022437.jpeg?resize=768,286 768w, https://thriveworks.com/wp-content/uploads/2017/12/pexels-photo-59523-e1513194022437.jpeg?resize=1024,381 1024w" sizes="(max-width: 300px) 100vw, 300px" /></noscript>									</a>
+									<div class="content">
+										<a id="title-204177" class="cta-click-article title bottom-tail" href="https://thriveworks.com/blog/grief-loss-pet/" minlength="10" maxlength="500">
+											Grief and the Loss of a Pet										</a>
+
+										<div class="meta-description">
+											<div class="meta">
+												<a class="author-link" href="https://thriveworks.com/blog/author/selena-tyler/" rel="author">Selena Tyler, LPC</a>
+												<div class="reading-time">5 min read</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</article>
+													<article id="pop-204177" class="rela-item items">
+								<div class="inner-box">
+									<a class="img-wrapper cta-click-article image bottom-tail" href="https://thriveworks.com/blog/defense-mechanisms/">
+										<img width="300" height="112"   alt="" decoding="async" loading="lazy" data-srcset="https://thriveworks.com/wp-content/uploads/2017/08/warren-wong-277326-e1503929339786.jpg 1080w, https://thriveworks.com/wp-content/uploads/2017/08/warren-wong-277326-e1503929339786.jpg?resize=300,112 300w, https://thriveworks.com/wp-content/uploads/2017/08/warren-wong-277326-e1503929339786.jpg?resize=768,286 768w, https://thriveworks.com/wp-content/uploads/2017/08/warren-wong-277326-e1503929339786.jpg?resize=1024,381 1024w"  data-src="https://thriveworks.com/wp-content/uploads/2017/08/warren-wong-277326-e1503929339786.jpg?w=300" data-sizes="(max-width: 300px) 100vw, 300px" class="attachment-medium size-medium wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="300" height="112" src="https://thriveworks.com/wp-content/uploads/2017/08/warren-wong-277326-e1503929339786.jpg?w=300" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://thriveworks.com/wp-content/uploads/2017/08/warren-wong-277326-e1503929339786.jpg 1080w, https://thriveworks.com/wp-content/uploads/2017/08/warren-wong-277326-e1503929339786.jpg?resize=300,112 300w, https://thriveworks.com/wp-content/uploads/2017/08/warren-wong-277326-e1503929339786.jpg?resize=768,286 768w, https://thriveworks.com/wp-content/uploads/2017/08/warren-wong-277326-e1503929339786.jpg?resize=1024,381 1024w" sizes="(max-width: 300px) 100vw, 300px" /></noscript>									</a>
+									<div class="content">
+										<a id="title-204177" class="cta-click-article title bottom-tail" href="https://thriveworks.com/blog/defense-mechanisms/" minlength="10" maxlength="500">
+											What Are Defense Mechanisms?										</a>
+
+										<div class="meta-description">
+											<div class="meta">
+												<a class="author-link" href="https://thriveworks.com/blog/author/taylorbennett/" rel="author">Taylor Bennett</a>
+												<div class="reading-time">5 min read</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</article>
+													<article id="pop-204177" class="rela-item items">
+								<div class="inner-box">
+									<a class="img-wrapper cta-click-article image bottom-tail" href="https://thriveworks.com/blog/combat-mental-physical-exhaustion-refocus-thoughts/">
+										<img width="300" height="112"   alt="" decoding="async" loading="lazy" data-srcset="https://thriveworks.com/wp-content/uploads/2018/03/stacey-rozells-304672-unsplash-e1521033272675.jpg 1080w, https://thriveworks.com/wp-content/uploads/2018/03/stacey-rozells-304672-unsplash-e1521033272675.jpg?resize=300,112 300w, https://thriveworks.com/wp-content/uploads/2018/03/stacey-rozells-304672-unsplash-e1521033272675.jpg?resize=768,286 768w, https://thriveworks.com/wp-content/uploads/2018/03/stacey-rozells-304672-unsplash-e1521033272675.jpg?resize=1024,381 1024w"  data-src="https://thriveworks.com/wp-content/uploads/2018/03/stacey-rozells-304672-unsplash-e1521033272675.jpg?w=300" data-sizes="(max-width: 300px) 100vw, 300px" class="attachment-medium size-medium wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="300" height="112" src="https://thriveworks.com/wp-content/uploads/2018/03/stacey-rozells-304672-unsplash-e1521033272675.jpg?w=300" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://thriveworks.com/wp-content/uploads/2018/03/stacey-rozells-304672-unsplash-e1521033272675.jpg 1080w, https://thriveworks.com/wp-content/uploads/2018/03/stacey-rozells-304672-unsplash-e1521033272675.jpg?resize=300,112 300w, https://thriveworks.com/wp-content/uploads/2018/03/stacey-rozells-304672-unsplash-e1521033272675.jpg?resize=768,286 768w, https://thriveworks.com/wp-content/uploads/2018/03/stacey-rozells-304672-unsplash-e1521033272675.jpg?resize=1024,381 1024w" sizes="(max-width: 300px) 100vw, 300px" /></noscript>									</a>
+									<div class="content">
+										<a id="title-204177" class="cta-click-article title bottom-tail" href="https://thriveworks.com/blog/combat-mental-physical-exhaustion-refocus-thoughts/" minlength="10" maxlength="500">
+											Combat Mental and Physical Exhaustion: Refocus Your Thoughts										</a>
+
+										<div class="meta-description">
+											<div class="meta">
+												<a class="author-link" href="https://thriveworks.com/blog/author/taylorbennett/" rel="author">Taylor Bennett</a>
+												<div class="reading-time">5 min read</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</article>
+													<article id="pop-204177" class="rela-item items">
+								<div class="inner-box">
+									<a class="img-wrapper cta-click-article image bottom-tail" href="https://thriveworks.com/blog/humor-helps-with-healing-humor-can-help-you-cope-with-mental-illnesses-like-anxiety/">
+										<img width="300" height="194"   alt="humor therapy - woman in city" decoding="async" loading="lazy" data-srcset="https://thriveworks.com/wp-content/uploads/2019/04/blog-thriveworks-humor-anxiety.jpg 1080w, https://thriveworks.com/wp-content/uploads/2019/04/blog-thriveworks-humor-anxiety.jpg?resize=300,194 300w, https://thriveworks.com/wp-content/uploads/2019/04/blog-thriveworks-humor-anxiety.jpg?resize=768,498 768w, https://thriveworks.com/wp-content/uploads/2019/04/blog-thriveworks-humor-anxiety.jpg?resize=1024,664 1024w"  data-src="https://thriveworks.com/wp-content/uploads/2019/04/blog-thriveworks-humor-anxiety.jpg?w=300" data-sizes="(max-width: 300px) 100vw, 300px" class="attachment-medium size-medium wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="300" height="194" src="https://thriveworks.com/wp-content/uploads/2019/04/blog-thriveworks-humor-anxiety.jpg?w=300" class="attachment-medium size-medium wp-post-image" alt="humor therapy - woman in city" decoding="async" loading="lazy" srcset="https://thriveworks.com/wp-content/uploads/2019/04/blog-thriveworks-humor-anxiety.jpg 1080w, https://thriveworks.com/wp-content/uploads/2019/04/blog-thriveworks-humor-anxiety.jpg?resize=300,194 300w, https://thriveworks.com/wp-content/uploads/2019/04/blog-thriveworks-humor-anxiety.jpg?resize=768,498 768w, https://thriveworks.com/wp-content/uploads/2019/04/blog-thriveworks-humor-anxiety.jpg?resize=1024,664 1024w" sizes="(max-width: 300px) 100vw, 300px" /></noscript>									</a>
+									<div class="content">
+										<a id="title-204177" class="cta-click-article title bottom-tail" href="https://thriveworks.com/blog/humor-helps-with-healing-humor-can-help-you-cope-with-mental-illnesses-like-anxiety/" minlength="10" maxlength="500">
+											Humor helps with healing: Humor can help you cope with mental health issues										</a>
+
+										<div class="meta-description">
+											<div class="meta">
+												<a class="author-link" href="https://thriveworks.com/blog/author/taylorbennett/" rel="author">Taylor Bennett</a>
+												<div class="reading-time">3 min read</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</article>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<section id="post-comments" class="container no-comments">
+		<span class="no-comment-msg">No comments yet</span>
+	</section>
+<section  class="disclaimer">
+	<div class="container">
+		<div class="row">
+			<div class="col-12 col-md-8">
+				<div class="title-h4">Disclaimer</div>
+				<p>The information on this page is not intended to replace assistance, diagnosis, or treatment from a clinical or medical professional. Readers are urged to seek professional help if they are struggling with a mental health condition or another health concern.</p>
+<p>If you’re in a crisis, do not use this site. Please call the Suicide &amp; Crisis Lifeline at <a href="tel:988">988</a> or use <a href="https://thriveworks.com/immediate-help/">these resources to get immediate help. </a></p>
+			</div>
+		</div>
+	</div>
+</section><div class="spacer-25"></div><div class="footerSlant">
+    <div class="footerSlantinner">
+    </div>
+</div>
+<div id="sub_footer">
+    <div class="container seopress-check3">
+        
+            <nav  aria-label="breadcrumb"><ol class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList"><li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemscope itemtype="http://schema.org/WebPage" itemprop="item" itemid="https://thriveworks.com" href="https://thriveworks.com"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li><li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemscope itemtype="http://schema.org/WebPage" itemprop="item" itemid="https://thriveworks.com/help-with/mental-health-topics/" href="https://thriveworks.com/help-with/mental-health-topics/"><span itemprop="name">Mental Health Topics</span></a><meta itemprop="position" content="2" /></li><li class="breadcrumb-item active" aria-current="page" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><span itemprop="name">Restorative vs. reflective nostalgia: Learn to spot the differences and combat memory distortions</span><meta itemprop="position" content="3" /></li></ol></nav>
+            </div>
+    <br />
+    <div class="container">
+                <div class="row">
+            <div class="col-12 text-center">
+                <span class="social-icons">
+    Follow us: <a href="https://www.facebook.com/Thriveworks"><i class="fa fa-facebook"></i></a>
+    <a href="https://twitter.com/Thriveworks"><i class="fa fa-twitter"></i></a>
+    <a href="https://www.linkedin.com/company/thriveworks"><i class="fa fa-linkedin"></i></a>
+    <a href="https://www.instagram.com/thriveworks/"><i class="fa fa-instagram"></i></a>
+    <a href="https://www.youtube.com/channel/UC7cZyvZrFeeCuAbwh3sh2Rw"><i class="fa fa-youtube"></i></a>
+</span>
+            </div>
+        </div>
+        <div class="text-center">
+            <button id="showLocations" type="button" class="btn rounded-button yellow-button d-xl-none d-lg-none">See all locations</button>
+            <button id="hideLocations" type="button" class="btn rounded-button yellow-button d-xl-none d-lg-none d-none">Hide all locations</button>
+        </div>
+
+    </div>
+</div><footer id="main-footer">
+	<div class="container">
+		<div class="row justify-content-center">
+			<div class="col-md-11 col-12">
+				<div class="row">
+					<div class="col-md-5 col-12">
+						<div class="emailer">
+							<div class="blogSignup">
+								<h3>Join the movement — gain access to expert mental health tips and discussions, delivered directly to your inbox.</h3>
+								
+<script type="text/javascript">
+    jQuery(document).ready(function(){
+        /* apply only to a textarea with a class of gf_readonly */
+        jQuery("li.gf_readonly input").attr("readonly","readonly");
+    });
+</script>
+
+<script type="text/javascript"></script>
+                <div class='gf_browser_unknown gform_wrapper footer-vwo-form_wrapper gform_legacy_markup_wrapper' id='gform_wrapper_24' ><div id='gf_24' class='gform_anchor' tabindex='-1'></div><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_24' id='gform_24' class='footer-vwo-form gform_legacy_markup' action='/blog/restorative-vs-reflective-nostalgia/#gf_24' >
+                        <div class='gform_body gform-body'><ul id='gform_fields_24' class='gform_fields top_label form_sublabel_below description_below'><li id="field_24_1"  class="gfield field_sublabel_below field_description_below gfield_visibility_visible"  data-js-reload="field_24_1"><label class='gfield_label screen-reader-text' for='input_24_1' >Email Address</label><div class='ginput_container ginput_container_email'>
+                            <input name='input_1' id='input_24_1' type='text' value='' class='medium' tabindex='49'  placeholder='Email Address'  aria-invalid="false"  />
+                        </div></li></ul></div>
+        <div class='gform_footer top_label'> <input type='submit' id='gform_submit_button_24' class='gform_button button' value='Sign Me Up &gt;&gt;' tabindex='50' onclick='if(window["gf_submitting_24"]){return false;}  window["gf_submitting_24"]=true;  ' onkeypress='if( event.keyCode == 13 ){ if(window["gf_submitting_24"]){return false;} window["gf_submitting_24"]=true;  jQuery("#gform_24").trigger("submit",[true]); }' /> <input type='hidden' name='gform_ajax' value='form_id=24&amp;title=&amp;description=&amp;tabindex=49' />
+            <input type='hidden' class='gform_hidden' name='is_submit_24' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='24' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_24' value='WyJbXSIsIjk2YzMxMzY5NzA0MzJkMTE0ODVjOWNkMGJjN2E3MDZlIl0=' />
+            <input type='hidden' class='gform_hidden' name='gform_target_page_number_24' id='gform_target_page_number_24' value='0' />
+            <input type='hidden' class='gform_hidden' name='gform_source_page_number_24' id='gform_source_page_number_24' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+            
+        </div>
+                        <p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="114"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>
+                        </div>
+                <iframe style='display:none;width:0px;height:0px;' src='about:blank' name='gform_ajax_frame_24' id='gform_ajax_frame_24' title='This iframe contains the logic required to handle Ajax powered Gravity Forms.'></iframe>
+                <script type="text/javascript">
+gform.initializeOnLoaded( function() {gformInitSpinner( 24, 'https://thriveworks.com/wp-content/plugins/gravityforms/images/spinner.svg' );jQuery('#gform_ajax_frame_24').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_24');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_24').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_24').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_24').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_24').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_24').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_24').val();gformInitSpinner( 24, 'https://thriveworks.com/wp-content/plugins/gravityforms/images/spinner.svg' );jQuery(document).trigger('gform_page_loaded', [24, current_page]);window['gf_submitting_24'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_24').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_24').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [24]);window['gf_submitting_24'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_24').text());}, 50);}else{jQuery('#gform_24').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [24, current_page]);} );} );
+</script>
+							</div>
+						</div>
+					</div>
+					<div class="offset-md-1 col-md-2 col-12">
+						<div class="footer-menu-container">
+							<h4 class="title">Quick Links</h4>
+							<ul id="menu-footer-quick-links" class="quick-links menu"><li id="menu-item-174242" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-174242"><a href="/find-counselor/">Find A Counselor</a></li>
+<li id="menu-item-174243" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-174243"><a href="/online-counseling/#selectState">Online Counseling</a></li>
+<li id="menu-item-174244" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-174244"><a href="/professional-counseling/">About Us</a></li>
+<li id="menu-item-174246" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-174246"><a href="/free-download/">Free eBook</a></li>
+<li id="menu-item-174247" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-174247"><a href="/employment/counseling-jobs/">Counseling Jobs</a></li>
+<li id="menu-item-174248" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-174248"><a href="/counseling-franchise/">Franchise</a></li>
+<li id="menu-item-174249" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-174249"><a href="/covid-19-safety/">COVID-19 Response</a></li>
+</ul>						</div>
+					</div>
+					<div class="col-md-4 col-12">
+						<div class="footer-menu-container">
+							<h4 class="title">How can we help you?</h4>
+							<ul id="menu-content-clusters" class="help-menu menu"><li id="menu-item-174254" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-174254"><a href="https://thriveworks.com/substance-abuse-addiction-counseling/">Addiction Counseling</a></li>
+<li id="menu-item-174258" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-174258"><a href="https://thriveworks.com/anger-management/">Anger Management</a></li>
+<li id="menu-item-174260" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-174260"><a href="https://thriveworks.com/anxiety-disorder-counseling/">Anxiety Counseling</a></li>
+<li id="menu-item-174262" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-174262"><a href="https://thriveworks.com/career-counseling/">Career Counseling</a></li>
+<li id="menu-item-174267" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-174267"><a href="https://thriveworks.com/child-therapy/">Child Therapy</a></li>
+<li id="menu-item-174270" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-174270"><a href="https://thriveworks.com/cognitive-behavioral-therapy/">CBT</a></li>
+<li id="menu-item-174274" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-174274"><a href="https://thriveworks.com/couples-counseling/">Couples Counseling</a></li>
+<li id="menu-item-174284" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-174284"><a href="https://thriveworks.com/depression-counseling/">Depression Counseling</a></li>
+<li id="menu-item-174287" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-174287"><a href="https://thriveworks.com/family-therapy/">Family Therapy</a></li>
+<li id="menu-item-174289" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-174289"><a href="https://thriveworks.com/grief-counseling/">Grief Counseling</a></li>
+<li id="menu-item-174293" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-174293"><a href="https://thriveworks.com/life-coaching/">Life Coaching</a></li>
+<li id="menu-item-174296" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-174296"><a href="https://thriveworks.com/marriage-counseling/">Marriage Counseling</a></li>
+<li id="menu-item-174301" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-174301"><a href="/psychiatry/">Online Psychiatry</a></li>
+<li id="menu-item-174304" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-174304"><a href="https://thriveworks.com/premarital-counseling/">Premarital Counseling</a></li>
+<li id="menu-item-174307" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-174307"><a href="https://thriveworks.com/psychologists/">Psychologists</a></li>
+<li id="menu-item-174311" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-174311"><a href="https://thriveworks.com/trauma-therapy/">Trauma Therapy</a></li>
+<li id="menu-item-174316" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-174316"><a href="https://thriveworks.com/mental-health-topics/">View all Topics&#8230;</a></li>
+</ul>						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="footer-bottom">
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-md-11 col-12">
+					<div class="row">
+						<div class="col-lg-9 col-12 order-lg-first order-last">
+							<br />
+							<p id='footerDeetz'>
+								<a href='https://thriveworks.com/'>&copy; 2022 Thriveworks Counseling</a>
+								|
+								<a href='/privacy-policy-terms-use/'>Privacy Policy &amp; Terms of Use</a>
+								|
+								<a href='/medical-records-request/'>Medical Records Request</a>
+								<br />
+								<span>
+									Thriveworks is currently working towards complete Accessibility of this website. If you have any questions, comments or concerns about this website <a href='/website-feedback/'>please send us a message.</a>
+								</span>
+							</p>
+						</div>
+						<div class="col-lg-3 col-12 order-lg-last order-first text-right">
+							<span class="social-icons">
+    Follow us: <a href="https://www.facebook.com/Thriveworks"><i class="fa fa-facebook"></i></a>
+    <a href="https://twitter.com/Thriveworks"><i class="fa fa-twitter"></i></a>
+    <a href="https://www.linkedin.com/company/thriveworks"><i class="fa fa-linkedin"></i></a>
+    <a href="https://www.instagram.com/thriveworks/"><i class="fa fa-instagram"></i></a>
+    <a href="https://www.youtube.com/channel/UC7cZyvZrFeeCuAbwh3sh2Rw"><i class="fa fa-youtube"></i></a>
+</span>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+<!-- #main-footer -->
+
+</div>
+<!-- #main-area -->
+
+</div>
+<!-- #page-container -->
+
+<div id="banner"></div>
+
+<link rel='stylesheet' id='all-css-0' href='https://thriveworks.com/_static/??-eJydy00KgzAQBtALtU6tYnEhPcsYxxDIj8yXKrm9duNetw8ebcvTpJglZlr8z7oIssqry2VOGkBeLJtCBqA/qEByFVysDnnQxY3Ax7yzVXgqxjNwq4+aNoie+RuGuvvU71fftO0OVbhitA==' type='text/css' media='all' />
+<script type="text/javascript" src="https://thriveworks.com/_static/??-eJyVjUsKgDAMRC+kRvG3Ei/hBWwJmNofTVC8vSKCW90MbxZvBvaY6+AFvYAs6JBhWhJtuIe0cn4xIlhSwJb0WjjyheEMPls6URT+5ViS447fbyoEYUlzBMNveWZGN1RdX9ZN27SdOQGeOFw7" ></script><script src='https://cdn.callrail.com/companies/786290431/6557eac645ff78314816/12/swap.js' id='swap-js'></script>
+<script type="text/javascript" src="https://thriveworks.com/_static/??-eJyVj9FuwjAMRX9oqZmg8IT4if1A2njUxYkzOynq3xNNQtokQOLN0j3H14ZrdpRGrgENZoNRYsRUnGLmtYuUutk+oEGjpNICKBPGhn5NSgteRS/m2owITAPMPxV17RbPFHzBt/17u41Kudjd/XtgICuwYAqioHjGhOqLqNOaCsV/lc+0FmXh9ZuYX+KTyMUe/RCry1zPlOx3l1dDXt2262GoxAFYfEBt1ikeP/eHzXbX7/r9fAP0KYbS" ></script><script data-parsely-site="thriveworks.com" src='https://cdn.parsely.com/keys/thriveworks.com/p.js?ver=3.5.2' id="parsely-cfg"></script>
+<script type="text/javascript" src="https://thriveworks.com/_static/??/wp-content/plugins/wp-smushit/app/assets/js/smush-lazy-load.min.js,/wp-includes/js/dist/dom-ready.min.js?m=1671209345j" ></script><script src='https://thriveworks.com/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae' id='wp-i18n-js'></script>
+<script id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script src='https://thriveworks.com/wp-includes/js/dist/a11y.min.js?ver=ecce20f002eda4c19664' id='wp-a11y-js'></script>
+<script id='gform_gravityforms-js-extra'>
+var gform_i18n = {"datepicker":{"days":{"monday":"Mon","tuesday":"Tue","wednesday":"Wed","thursday":"Thu","friday":"Fri","saturday":"Sat","sunday":"Sun"},"months":{"january":"January","february":"February","march":"March","april":"April","may":"May","june":"June","july":"July","august":"August","september":"September","october":"October","november":"November","december":"December"},"firstDay":1,"iconText":"Select date"}};
+var gf_legacy_multi = [];
+var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file is not allowed. Must be one of the following:","delete_file":"Delete this file","in_progress":"in progress","file_exceeds_limit":"File exceeds size limit","illegal_extension":"This type of file is not allowed.","max_reached":"Maximum number of files reached","unknown_error":"There was a problem while saving the file on the server","currently_uploading":"Please wait for the uploading to complete","cancel":"Cancel","cancel_upload":"Cancel this upload","cancelled":"Cancelled"},"vars":{"images_url":"https:\/\/thriveworks.com\/wp-content\/plugins\/gravityforms\/images"}};
+var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2,"code":"USD"},"base_url":"https:\/\/thriveworks.com\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/thriveworks.com\/wp-content\/plugins\/gravityforms\/images\/spinner.svg","strings":{"newRowAdded":"New row added.","rowRemoved":"Row removed","formSaved":"The form has been saved.  The content contains the link to return and complete the form."}};
+</script>
+<script type="text/javascript" src="https://thriveworks.com/_static/??-eJzTLy/QTc7PK0nNK9EvyClNz8wr1k8vSizLLKlMyy/KLdbPAqLC0tSiSr2s4vw8vdzMPCBDR58Ibch8UvQV5CQmp2bk56SkFhXrQe2GaLfPtTU0Mzc0MrA0NjHJAgChRkaz" ></script>	<script src='https://stats.wp.com/e-202250.js' defer></script>
+	<script>
+		_stq = window._stq || [];
+		_stq.push([ 'view', {v:'ext',blog:'190873492',post:'204177',tz:'-5',srv:'thriveworks.com',hp:'vip',j:'1:11.6'} ]);
+		_stq.push([ 'clickTrackerInit', '190873492', '204177' ]);
+	</script><script type="text/javascript">
+gform.initializeOnLoaded( function() { jQuery(document).on('gform_post_render', function(event, formId, currentPage){if(formId == 24) {if(typeof Placeholders != 'undefined'){
+                        Placeholders.enable();
+                    }} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} ) } );
+</script>
+<script type="text/javascript">
+gform.initializeOnLoaded( function() { jQuery(document).trigger('gform_post_render', [24, 1]) } );
+</script>
+
+</body>
+
+</html>

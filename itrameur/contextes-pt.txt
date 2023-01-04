@@ -221,31 +221,50 @@ Nostalgia pode ser ruim?
 </page> §
 <page="pt-13">
 <text>
-   #Feed de comentários para Vida Simples » Por que sentimos nostalgia?
+   Last modified: Wed Jan 5 12:57:21 PST 2022
+
+    #Feed de comentários para Vida simples » Por que sentimos nostalgia?
    alternate alternate alternate
 
 --
-     *
+   Vida Emocional (BUTTON)
 
 Por que sentimos nostalgia?
 
-     * TEXTO Alessandro Fernandes
+   A nostalgia – uma sensação comum na vida das pessoas – é um fenômeno
+   cada vez mais presente em filmes, conversas nas redes sociais ou em
+   rodas de amigos. Que efeitos a nostalgia tem no nosso corpo? Ela é
+   diferente de saudade? O que te faz sentir isso? A Vida Simples te
+   explica e convida […]
+   POR Alessandro Fernandes   7 min de leitura
+   COMPARTILHE
+   Por que sentimos nostalgia? Harold Wijnholds uma menina com um cachecol
+   vermelho e preto olha fixamente para uma vitrine. Ela tem pele branca e
+   cabelos castanhos lisos. nostalgia
+
+   Neste artigo:
+     * Efeitos da nostalgia no nosso corpo
+     * Nostalgia e o mundo contemporâneo
+     * VOCÊ PODE GOSTAR
+     * Nostalgia é o mesmo que saudade?
+     * O que te traz nostalgia?
+     * Andressa Apolinário - Logística e Distribuição
+     * Karen Oliveira - Marketing digital
 --
-     * DATA: 28/09/2022
+     * Carolina Vellei - Editora online
 
    A nostalgia – uma sensação comum na vida das pessoas – é um fenômeno
    cada vez mais presente em filmes, conversas nas redes sociais ou em
    rodas de amigos. Que efeitos a nostalgia tem no nosso corpo? Ela é
    diferente de saudade? O que te faz sentir isso? A Vida Simples te
    explica e convida a compartilhar suas histórias conosco.
---
-
+     __________________________________________________________________
 
    Basta uma rápida pesquisa no buscador com a palavra “nostalgia” que
    aparecerá, provavelmente, dezenas de matérias e notícias sobre famosos
    que compartilham fotos antigas, lembranças da carreira e memórias
 --
-
+   para te buscar e levar para viagens ao litoral.
 
 Efeitos da nostalgia no nosso corpo
 
@@ -260,7 +279,6 @@ Efeitos da nostalgia no nosso corpo
    recompensa produzida no cérebro quando sentimos nostalgia. É por isso
    que esse sentimento pode, na maioria das vezes, ser tão prazeroso e
    benéfico para a saúde humana.
-
 
 Nostalgia e o mundo contemporâneo
 
@@ -278,7 +296,7 @@ Nostalgia e o mundo contemporâneo
    lembrança ruim, na maioria das vezes ela nos remete a um momento feliz
    ou positivo de nossas vidas”, acrescenta a psicóloga.
 --
-
+   – O que faço com a saudade?
 
 Nostalgia é o mesmo que saudade?
 
@@ -296,7 +314,7 @@ Nostalgia é o mesmo que saudade?
    – mas também existe simbolicamente -, “é um sentimento que, dependendo
    do objeto, pode ser sanado com o contato com o objeto, quando possível.
 --
-
+   alivia”, diferencia Graça Leal.
 
 O que te traz nostalgia?
 
@@ -305,7 +323,6 @@ O que te traz nostalgia?
    Abaixo, compartilhamos algumas das histórias e convidamos você, leitor,
    a utilizar a área de comentários para interagir e contar o que te faz
    sentir nostalgia.
-
 
 Andressa Apolinário – Logística e Distribuição
 
@@ -336,25 +353,15 @@ Carolina Vellei – Editora online
    Sandy &amp; Junior e lembro da minha adolescência. Minhas nostalgia vem
    principalmente pelos sentidos do olfato e da audição.
 
-
    E você, o que te traz nostalgia? Conta pra gente nos comentários!
-     * Clique e assine as newsletters da Vida Simples.
      __________________________________________________________________
---
-   da sociedade e no potencial da escrita e do Jornalismo em tocar as
-   pessoas.
-     * TAGS: autoconhecimento, emoções, lembranças, memória, nostalgia,
-       reflexão, saudade, sentimentos, vida interior
-     __________________________________________________________________
---
-Dulce
 
-   Nostalgia prá mim é lembrar momentos com meus filhos pequenos, os
-   passeios, as brincadeiras…
-   Nostalgia é uma saudade doída daquilo que sabemos não poder viver mais!
-   Nostalgia não é saudade, não é tristeza … Nostalgia é quase Amor!!!
-   Responder
-     *
+--
+     * lembranças
+     * memória
+     * nostalgia
+     * reflexão
+     * saudade
 </text>
 </page> §
 <page="pt-14">
@@ -935,7 +942,7 @@ Nostalgia pode ser ruim?
 </page> §
 <page="pt-1">
 <text>
-   A seguir
+       PELÉ
 
 Sentimento de nostalgia pode reduzir a percepção da dor, diz estudo
 
@@ -1111,8 +1118,8 @@ O papel da nostalgia no comportamento humano
 
    "Eu acredito que sim. Mas eu também acredito que ele pode ficar
 --
-   macroalga (Foto: Divulgação/UFC) Pesquisa da UFC é selecionada em
-   importante edital do CNPq
+   médico e disponibilidade para fazer o tratamento completo (Foto: Breno
+   Esaki/Saúde-DF) Projetos da UFC oferecem tratamento para diabetes
    Tags:Comportamento, marketing, nostalgia, passado
      * Tweet this article
      *
@@ -1323,7 +1330,7 @@ A potência estética da nostalgia
 </page> §
 <page="pt-22">
 <text>
-   Fale com consultor
+   Teste grátis
 
 Marketing da nostalgia, por que ele é tão eficaz?
 
@@ -1960,7 +1967,7 @@ Afinal, de onde vem essa nostalgia?
 </page> §
 <page="pt-2">
 <text>
-   Newsletter do g1
+   em Copacabana Lula e mercado financeiro
 
 Nostalgia pode aliviar a dor
 
@@ -2500,30 +2507,26 @@ Problema histórico
    não é um fenômeno recente e faz parte da Itália desde o pós-Segunda
    Guerra Mundial. “Sentimentos positivos sobre Mussolini sempre estiveram
 --
+Principais Manchetes
 
-AO VIVO: Croácia e Marrocos decidem o 3º lugar da Copa; siga
      * A perigosa nostalgia do fascismo na Itália
 
-Apetite do PT, Centrão, orçamento secreto: o que tem travado a composição do
-governo Lula
+Com novos decretos, Executivo se une ao Judiciário no caminho da censura
      * A perigosa nostalgia do fascismo na Itália
 
-Resistência a Requião acirra disputa pelo comando de Itaipu no governo Lula
+Revogaço de Lula pode atingir decretos que regulamentam marco do saneamento
      * A perigosa nostalgia do fascismo na Itália
 
-Os “Twitter Files” e a liberdade de expressão agredida
+No mercado de trabalho, uma “herança bendita” de Bolsonaro
+     * A perigosa nostalgia do fascismo na Itália
+
+O que, ao certo, é o conservadorismo?
 --
-
-Cargos no governo Lula são só para quem paga o dízimo socialista
+Ministro da Educação extingue secretaria da alfabetização, mas diz que tema é
+“prioridade”
      * A perigosa nostalgia do fascismo na Itália
 
-No Brasil entregue ao PT, ditadura de toga vira rotina
---
-Gregor Samsa acorda de sonhos intranquilos no país dos “atos
-antidemocráticos”
-     * A perigosa nostalgia do fascismo na Itália
-
-Fim melancólico: à espera de uma “solução mágica”, Brasil está entregue ao PT
+Lula e PT dão início a um famigerado governo de aparências
 --
     1. Gazeta do Povo
     2. Educação
@@ -2534,9 +2537,9 @@ Fim melancólico: à espera de uma “solução mágica”, Brasil está entregu
 </page> §
 <page="pt-38">
 <text>
-   #alternate Feed para ZUM » Feed de comentários para ZUM » Feed de
-   comentários para ZUM » Deep Nostalgia e o falseamento profundo da
-   história pelas IAs alternate alternate alternate
+   #alternate alternate Feed para ZUM » Feed de comentários para ZUM »
+   Feed de comentários para ZUM » Deep Nostalgia e o falseamento profundo
+   da história pelas IAs alternate alternate alternate
 
 --
    Colunistas
@@ -2706,8 +2709,297 @@ Nossos parceiros:
 
    @radionostalgiafm
 
-   ©  2022 Rádio Nostalgia FM. Built using WordPress and OnePage Express
+   ©  2023 Rádio Nostalgia FM. Built using WordPress and OnePage Express
    Theme.
+</text>
+</page> §
+<page="pt-41">
+<text>
+   [seta1.jpg]
+
+A Novela Ti-Ti-Ti: A Nostalgia da Moda Brasil
+
+--
+   nas passarelas da Casa de Criadores,Iesa Rodrigues e Ana Maria Braga na
+--
+   desfiles virtuais....
+   De qualquer forma o re-make de Ti-T-Ti, traz a nostalgia do mundo da
+</text>
+</page> §
+<page="pt-42">
+<text>
+   #Feed de comentários para GGN » Nostalgia restauradora e retorno ao
+   passado: o sentido das práticas desconstituintes no Brasil atual, por
+   Cristiano Paixão
+--
+     * Apoie
+
+   Artigos Nostalgia restauradora e retorno ao passado: o sentido das
+   práticas desconstituintes no Brasil atual, por Cristiano Paixão
+
+Nostalgia restauradora e retorno ao passado: o sentido das práticas
+desconstituintes no Brasil atual, por Cristiano Paixão
+
+--
+   do Coletivo Transforma MP
+
+   Nostalgia restauradora e retorno ao passado: o sentido das práticas
+   desconstituintes no Brasil atual
+
+--
+   passado?
+
+               Estamos diante de uma manifestação de nostalgia. Uma
+   nostalgia artificial, construída por meio de atos políticos, homenagens
+   e narrativas sobre o passado. Num belo livro, a ensaísta Svetlana Boym
+   propõe uma diferenciação entre dois tipos de nostalgia: podemos
+   encontrar um tipo de sentimento em relação ao passado que é muito comum
+   entre imigrantes e povos submetidos a deslocamento ou diáspora[3]. Essa
+   é a nostalgia “reflexiva”, na qual o passado é visto como algo próximo
+   e distante, como referência importante (quase central) mas firmemente
+   estabelecida no passado e sempre marcada pela ambiguidade (temporal e
+   espacial) e pela dúvida sobre o efetivo papel desse passado. Está claro
+   que não é essa a nostalgia que informa o atual governo, as forças
+   armadas e seus apoiadores.
+
+               O que se procura impor no Brasil contemporâneo é diferente.
+   Trata-se da “nostalgia restauradora”, que tem outras características,
+   segundo Svetlana Boym. Nessa tentativa de restauração, não há dúvida,
+   não há ambivalência. O projeto nostálgico é de um retorno a um passado
+--
+   nostálgico, um torturador se transforma em “herói nacional”.
+
+               Há, contudo, um obstáculo a essa nostalgia da opressão. Ela
+   não encontra amparo na Constituição vigente, voltada, em muitos de seus
+   dispositivos, para a construção de um futuro caracterizado pelo
+--
+   2020, p. 58.
+
+   [3] BOYM, Svetlana. The future of nostalgia. New York: Basic Books,
+   2001, p. 7-43.
+</text>
+</page> §
+<page="pt-43">
+<text>
+   (BUTTON)
+
+Dua Lipa anuncia turnê Future Nostalgia no Brasil; Saiba como comprar o
+ingresso!
+
+--
+   9 Fotos
+   Veja as fotos!
+   Dua Lipa anuncia turnê Future Nostalgia no Brasil; Saiba como comprar o
+   ingresso!
+   Dua Lipa anuncia turnê Future Nostalgia no Brasil; Saiba como comprar o
+   ingresso! Dua Lipa anuncia turnê Future Nostalgia no Brasil; Saiba como
+   comprar o ingresso!
+   Dua Lipa vai fazer show solo no Brasil. Saiba detalhes! Dua Lipa vai
+   fazer show solo no Brasil. Saiba detalhes!
+   Dua Lipa vai trazer turnê Future Nostalgia ao Brasil Dua Lipa vai
+   trazer turnê Future Nostalgia ao Brasil
+   Dua Lipa vai fazer show da turnê Future Nostalgia  no Distrito Anhembi,
+   em São Paulo Dua Lipa vai fazer show da turnê Future Nostalgia  no
+   Distrito Anhembi, em São Paulo
+   Dua Lipa tem show solo em São Paulo marcado para o dia 08 de setembro
+--
+   no Brasil Dua Lipa, Justin Bieber, Coldplay e Avril Lavigne vão fazer
+   show solo no Brasil
+   Dua Lipa vai trazer a turnê Future Nostalgia ao Brasil! Assim como
+   Justin Bieber, Coldplay e Avril Lavigne, a cantora agitou es fãs com o
+   anúncio de que fará uma apresentação solo em São Paulo, no mês de
+--
+
+   Atração confirmada no Rock in Rio 2022, Dua Lipa decidiu também trazer
+   a turnê Future Nostalgia ao Brasil. Segundo anuncio feito pela empresa
+   em vendas de ingressos Eventim, a estrela britânica vai fazer uma
+   apresentação única em São Paulo e a data marcada para esse encontro com
+</text>
+</page> §
+<page="pt-44">
+<text>
+   #Feed para Plusber » Feed de comentários para Plusber » Feed de
+   comentários para Plusber » Nostalgia: O Brasil do Rock alternate
+   alternate alternate
+
+--
+     * Contato
+
+Nostalgia: O Brasil do Rock
+
+   19 de julho de 202119 de julho de 2021 by Ana Gomes
+</text>
+</page> §
+<page="pt-45">
+<text>
+    #Feed para Fast Company Brasil » Feed de comentários para Fast Company
+   Brasil » Feed de comentários para Fast Company Brasil » Como as marcas
+   estão aproveitando a obsessão dos GenZs por nostalgia alternate
+   alternate alternate
+
+--
+   16-07-2022 | CO.DESIGN
+
+     Como as marcas estão aproveitando a obsessão dos GenZs por nostalgia
+
+E algumas apostas que deram errado
+--
+   ficar obcecados com o passado.
+
+   A nostalgia está por toda parte. Impulsionada pelas redes sociais, ela
+   parece ter conquistado os consumidores da geração Z. Para surpresa de
+   ninguém, marcas de luxo também estão adotando essa tendência.
+--
+   (pessoas nascidas entre o final dos anos 1990 e o início dos anos
+   2000). As empresas devem entender o que seu público está buscando na
+   nostalgia para então descobrir como adicionar esse toque à marca.
+
+   CONECTADOS À NOSTALGIA
+
+   O que está por trás dessa explosão de nostalgia? É muito fácil
+   responder “a pandemia”. Sim, o longo período de confinamento fez com
+   que muitos da geração Z buscassem conexão e experiências compartilhadas
+--
+   No TikTok, plataforma na qual muitos encontraram uma nova comunidade
+   durante o isolamento social, postagens com elementos retrô
+   frequentemente se tornam virais e a hashtag #nostalgia já conta com
+   18,9 bilhões de visualizações.
+
+--
+   época podem ser acessadas instantaneamente e as plataformas de rede
+   social oferecem um fluxo interminável de memórias, é fácil entender por
+   que essa geração está conectada à nostalgia.
+   Crédito: Depop
+
+--
+
+   No entanto, há muitas armadilhas no caminho para marcas que veem a
+   nostalgia como um atalho para a conexão emocional. Na China, grifes de
+   luxo como Loewe e Gucci receberam críticas de consumidores ao lançar
+   coleções recentes com personagens de animes japoneses, como Totoro e
+--
+   Uma publicação compartilhada por Moschino (@moschino)
+
+   Para que a nostalgia funcione, é necessário algo mais. Aproveitar essa
+   tendência cultural dá à sua marca a oportunidade de criar buzz e guiar
+   a conversa para uma direção diferente. A coleção cápsula Tony the
+--
+   Uma colaboração bem-sucedida é capaz de unir os fãs das duas marcas,
+   bem como atrair consumidores em busca de produtos limitados e
+   exclusivos. Mas acrescentar uma pitada de nostalgia pode ajudar
+   bastante.
+
+--
+   Mas a geração Z é muito mais do que apenas hype e ter nascido em um
+   mundo digital. Eles buscam transparência, autenticidade e honestidade
+   nas marcas. Incorporar elementos de nostalgia pode ajudar a transmitir
+   isso, mas, quando se trata de evocar memórias, nada supera a
+   experiência física.
+
+   Marcas que não ficam só no lançamento de produtos limitados, mas que
+   também trazem nostalgia para seus espaços físicos, podem criar uma
+   conexão ainda maior com o público. Essa versão mais expandida e
+   multissensorial da nostalgia é uma excelente forma de evocar
+   sentimentos e memórias.
+
+--
+   em Londres, é uma celebração do maximalismo dos anos 2000. Já a marca
+   de moda Coach apostou na construção de um cinema drive-in vintage que
+   serviu como passarela para um desfile repleto de nostalgia no ano
+   passado.
+
+--
+   temático com cabeleireiros de celebridades como convidados.
+
+   Em última análise, seja online ou em lojas físicas, a nostalgia sempre
+   fará parte do kit de ferramentas de marketing porque é um impulso
+   humano relembrar o passado.
+</text>
+</page> §
+<page="pt-46">
+<text>
+   AUTOMOBILISMO
+
+F1 completa 50 anos no Brasil e aposta em nostalgia para suprir carência do
+público
+
+--
+   Com o Mundial de 2022 já decidido, conquistado por Max Verstappen, da
+   Red Bull, e novamente sem um brasileiro no grid, a F1 desembarcará no
+   Brasil neste fim de semana apostando na nostalgia para renovar sua
+   conexão com o público, justamente no momento em que essa relação
+   completa 50 anos.
+</text>
+</page> §
+<page="pt-47">
+<text>
+   #Feed para Resenha Crítica » Feed de comentários para Resenha Crítica »
+   Feed de comentários para Resenha Crítica » Nostalgia Imperial:
+   escravidão e formação da identidade nacional no Brasil do Segundo
+   Reinado | Ricardo Salles alternate alternate alternate
+--
+   Fechar
+
+Nostalgia Imperial: escravidão e formação da identidade nacional no Brasil do
+Segundo Reinado | Ricardo Salles
+
+--
+
+   Publicado pela primeira vez em 1996 e reeditado em 2013, o livro
+   Nostalgia Imperial: escravidão e formação da identidade nacional no
+   Brasil do Segundo Reinado, do historiador Ricardo Salles, apresenta uma
+   consistente reflexão intelectual, de matriz marxista, sobre o Estado
+--
+   o sistema de governo a ser empregado no Brasil (monarquia ou república)
+   no início dos anos 1990, Ricardo Salles constata a existência de uma
+   “nostalgia imperial” na consciência coletiva dos brasileiros. Tal
+   sentimento, difuso entre as camadas populares e acentuado nas elites
+   intelectuais, se basearia na percepção de que “houve um tempo [o
+--
+   crítica ao novo regime. Segundo, o próprio estado imperial foi bastante
+   eficiente ao produzir uma dada imagem de si mesmo que dialogasse com o
+   passado, o presente e o futuro da nação. Desta forma, a “nostalgia
+   imperial” não se resumiria à obra destes historiadores, políticos e
+   ensaístas. Ela seria fruto do investimento do estado em setores
+--
+   locais. Assim, a espoliação da cidadania e a exclusão econômico-social
+   se mantiveram no tempo e nos anos de 1990 permaneciam na base do
+   sentimento de “nostalgia imperial”.
+
+   No que compete às discussões sobre a construção do estado, o projeto
+--
+   Brasil. Trata-se de uma obra obrigatória para os estudiosos do
+   Oitocentos e para todos aqueles que se interessam pelas questões
+   referentes à construção do estado. Mas, não somente isso. “Nostalgia
+   Imperial” também instiga a pensar sobre como a exclusão é constitutiva
+   de nossa sociedade atual. Aponta como a matriz escravista produziu
+--
+     __________________________________________________________________
+
+   SALLES, Ricardo. Nostalgia Imperial: escravidão e formação da
+   identidade nacional no Brasil do Segundo Reinado. Rio de Janeiro:
+   Editora Ponteio, 2013. Resenha de: MUAZE, Mariana de Aguiar Ferreira.
+   As partes e o todo: uma leitura de “Nostalgia Imperial”. Almanack,
+   Guarulhos, n.7, p. 165-168, jan./jun., 2014.
+
+--
+   Tags: Almanack (Amr), Almanaque (Am), Editora Ponteio (E), Escravidão,
+   Identidade nacional, Império, MUAZE Mariana de Aguiar Ferreira (Res),
+   Nostalgia Imperial: escravidão e formação da identidade nacional no
+   Brasil do Segundo Reinado (T), SALLES Ricardo (Aut), Segundo Reinado
+</text>
+</page> §
+<page="pt-48">
+<text>
+   min de leitura
+
+Segura a nostalgia! 7 desenhos infantis antigos que te farão voltar à
+infância
+</text>
+</page> §
+<page="pt-49">
+<text>
+
 </text>
 </page> §
 <page="pt-4">
@@ -2742,6 +3034,75 @@ Nostalgia e escapismo em momentos de crise
    nostalgia. Contam com uma série de trabalhos colaborativos com marcas
    como Marvel, Disney, Harry Porter, Star Wars, Toy Story, Elvis e The
    Beatles. São em geral produtos que para a empresa ajudam a sustentar
+</text>
+</page> §
+<page="pt-50">
+<text>
+   El país semanal
+
+O negócio da nostalgia
+
+   Virginia López Enano
+--
+   saga galáctica estruturou grande parte da infância dessas crianças de
+   mais de 30 anos e a substância que envolve o ambiente do Kinépolis se
+   nutre de seu desejo de reviver essa infância. Isso se chama nostalgia e
+   nos últimos anos se transformou em uma poderosa estratégia de
+   marketing.
+--
+   oitentistas também impregnam trabalhos de nova criação. Steven
+   Spielberg as disparou em Jogador Nº 1 e contribuíram para o sucesso da
+   série da Netflix Stranger Things. A nostalgia vende porque o público
+   gosta de lembrar. Por isso, seu segredo está na primeira parte de sua
+   etimologia: nostos, do grego, que significa retorno. Retorno ao passado
+--
+   consumidor além da compra racional. E aqui entra em ação o sentimento”.
+   Quem diz é Beatriz Navarro, diretora de marketing e comunicação da Fnac
+   Espanha. Acrescenta que a nostalgia tem o poder de alcançar e se
+   conectar com duas gerações. Seus potenciais clientes são adultos
+   criados nos anos oitenta e noventa, que se divertem voltando às suas
+--
+   Felipe Hernández
+
+   Tudo parece revestido de nostalgia. Navarro coloca uma exceção: as
+   televisões. “Ainda não aconteceu de lançarmos aqueles aparelhos grandes
+   e antigos. De resto, praticamente todas as categorias culturais estão
+--
+   final dos anos oitenta: o NES Classic Mini.
+
+   O negócio da nostalgia
+
+   Na foto de cima, máquina de jogo Arcade Planet. Na debaixo, um dos
+--
+   destinada à música”.
+
+   O negócio da nostalgia
+
+   Na foto de cima, recriação de uma das naves da saga Star Wars. Embaixo,
+--
+   jogos da coleção de Álvarez
+
+   Mas a nostalgia não é nova. O termo foi criado por Johannes Hofer no
+   século XVII. O médico suíço observou que os soldados experimentavam
+   sintomas estranhos durante as campanhas militares de longa duração, mas
+--
+   desejavam seu lar porque estavam longe dele e podiam fantasiar com a
+   volta. Mas um livro, uma série e uma música podem ser acessados com
+   facilidade. Por que então sentimos nostalgia de um produto cultural?
+   Paniagua acrescenta: “Nesse caso, o que se associa a um filme e um
+   objeto é mais importante do que o fenômeno em si. A música, por
+--
+   objetividade a nosso prazer”.
+
+   Beatriz Navarro (Fnac): “A nostalgia se transformou em um filão porque
+   se conecta com o consumidor além da compra racional”
+
+--
+   “Quando você tem o púbico consumindo os mesmo produtos pensa: como
+   posso vender mais? Segmentando. Já não somos grandes coletivos, somos
+   microcoletivos”. No futuro, prevê Corominas, a nostalgia precisará
+   brigar com muito mais força com outras variáveis. Talvez um salto de
+   geração sentencie sua data de validade, mas por enquanto vive seu
 </text>
 </page> §
 <page="pt-5">

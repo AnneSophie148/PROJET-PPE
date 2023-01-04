@@ -159,7 +159,7 @@ Nossos parceiros:
 
    @radionostalgiafm
 
-   ©  2022 Rádio Nostalgia FM. Built using WordPress and OnePage Express
+   ©  2023 Rádio Nostalgia FM. Built using WordPress and OnePage Express
    Theme.
 
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-PMMN6D8

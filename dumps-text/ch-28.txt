@@ -1,51 +1,229 @@
-UTF-8 and Unicode
+   #alternate alternate alternate alternate
 
-   Unicode Transformation Format 8-bit is a variable-width encoding that
-   can represent every character in the Unicode character set. It was
-   designed for backward compatibility with ASCII and to avoid the
-   complications of endianness and byte order marks in UTF-16 and UTF-32.
-   ^[1]
+     * 百度首页
 
-   UTF-8 encodes each Unicode character as a variable number of 1 to 4
-   octets, where the number of octets depends on the integer value
-   assigned to the Unicode character. It is an efficient encoding of
-   Unicode documents that use mostly US-ASCII characters because it
-   represents each character in the range U+0000 through U+007F as a
-   single octet.
+   网页 新闻 贴吧 知道 网盘 图片 视频 地图 文库 百科
+   ____________________ (BUTTON) 进入词条 (BUTTON) 全站搜索 帮助
+     * 清除历史记录关闭
 
-   UTF-8 is the default encoding for XML and since 2010 has become the
-   dominant character set on the Web.
+   近期有不法分子冒充百度百科官方人员，以删除词条为由威胁并敲诈相关企业。在此严正声明：百度百科是免费编辑平台，绝不存在收费代编服务，请勿上当受骗
+   ！详情>>
 
-Standards
+   首页
+          历史上的今天
 
-     * RFC 3629: UTF-8, a transformation format of ISO 10646. November
-       2003.
-     * The Unicode Standard 5.0, November 2006. [purchase from Amazon.com]
-          + In particular, see the informal description of UTF-8 in
-            sections 2.5 and 2.6, pages 30-32, and a much more formal
-            definition in sections 3.9 and 3.10, pages 77-81.
+          百科冷知识
 
-Articles and background reading
+          图解百科
 
-     * UTF-8 and Unicode FAQ for Unix/Linux by Markus Kuhn
-     * Forms of Unicode, an excellent overview by Mark Davis
-     * Wikipedia UTF-8 contains a good discussion of why five- and
-       six-octet sequences are now illegal UTF-8
-     * Unicode Transformation Formats [czyborra.com]
-     * The Absolute Minimum Every Software Developer Absolutely,
-       Positively Must Know About Unicode and Character Sets (No
-       Excuses!), an amusing and informative article by Joel Spolsky
+   秒懂百科
+          懂啦
 
-Character Sets
+          秒懂本尊答
 
-   The MIME character set attribute for UTF-8 is UTF-8. Character sets are
-   case-insensitive, so utf-8 is equally valid. [IANA Character Sets].
+          秒懂大师说
 
-   In a modern HTML 5 page, place this tag inside <head> ... </head>:
-<meta charset="UTF-8">
+          秒懂看瓦特
 
-   In an XML prolog, the encoding is typically specified as an attribute:
-<?xml version="1.0" encoding="UTF-8" ?>
-     __________________________________________________________________
+          秒懂五千年
 
-   Last modified: Wed Jan 5 12:57:21 PST 2022
+          秒懂全视界
+
+   特色百科
+          数字博物馆
+
+          非遗百科
+
+          恐龙百科
+
+          多肉百科
+
+          艺术百科
+
+          科学百科
+
+   用户
+          蝌蚪团
+
+          热词团
+
+          百科校园
+
+          分类达人
+
+          百科任务
+
+          百科商城
+
+   知识专题
+
+   权威合作
+          合作模式
+
+          常见问题
+
+          联系方式
+
+   下载百科APP 个人中心
+
+   乡愁是一个多义词，请在下列义项上选择浏览（共40个义项） 添加义项
+     * ▪余光中现代诗歌
+     * ▪习近平涉农观点
+     * ▪敖红亮诗歌《乡愁》
+     * ▪三毛作品《乡愁》
+     * ▪邓丽君日语歌曲
+     * ▪黄婉婷演唱歌曲
+     * ▪对家乡眷恋的情感状态
+     * ▪2013年上海三联书店出版的图书
+     * ▪电视剧
+     * ▪陈建年演唱歌曲
+     * ▪蛋堡歌曲《乡愁》
+     * ▪席慕容创作现代诗
+     * ▪1983年安德烈·塔科夫斯基执导电影
+     * ▪朱强演唱歌曲
+     * ▪2015年雷佳演唱的歌曲
+     * ▪贺一航演唱的歌曲
+     * ▪沈西苓导演电影《乡愁》
+     * ▪现代冰心诗作
+     * ▪汉语词语
+     * ▪杨囿民诗词《乡愁》
+     * ▪理查德·克莱德曼歌曲《乡愁》
+     * ▪北石创作的诗歌
+     * ▪2006年舒浩仑执导纪录片
+     * ▪2016年九州出版社出版的图书
+     * ▪宋孟君演唱歌曲
+     * ▪潘田果演唱的歌曲
+     * ▪赵照演唱的歌曲
+     * ▪诗人刘和旭创作的微诗
+     * ▪우원재 (Woo) 演唱歌曲
+     * ▪1983年湖南人民出版社出版的图书
+     * ▪福鼎星光著网络小说
+     * ▪中国文化出版社出版图书
+     * ▪2016年雷佳发行的专辑
+     * ▪2016年北京联合出版公司出版的图书
+     * ▪2018年长江文艺出版社出版的图书
+     * ▪意大利2022年马里奥·马尔托内执导的剧情片
+     * ▪高小梅演唱的一首歌曲。
+     * ▪宋剑伍写的一首诗
+     * ▪2020年江苏文艺出版社出版的图书
+     * ▪2020年华东师范大学出版社出版的图书 全部展开 收起
+
+   收藏
+   查看我的收藏
+   0 有用+1 已投票
+   0
+     *
+     *
+     *
+     *
+
+乡愁
+
+          播报 编辑 锁定 讨论 上传视频 特型编辑
+
+          电视剧
+
+   本词条缺少概述图，补充相关内容使词条更完整，还能快速升级，赶紧来编辑吧！
+   《乡愁》是由北京中泰弘影视文化发展有限公司出品的一部现代都市类型影片。
+
+   中文名
+          乡愁
+
+   出品公司
+          北京中泰弘影视文化发展有限公司
+
+   相关视频
+   查看全部
+   电视剧拍摄制作备案公示表
+   报备机构：北京中泰弘影视文化发展有限公司
+                          2017 年3 月
+                         许可证号： （京）字第4420号
+   剧名
+                                 题材
+   体裁
+   集数
+                                 拍摄日期
+   制作周期
+               一般
+               喜剧
+               戏曲
+   乡愁
+   现代都市
+   √
+                                             40
+   2017.7
+   6 个月
+   内容提要：
+   杨氏宗祠百年祭典临近，耄耋之年的民俗专家杨振祖归乡心切，他本想携儿孙一同荣归故里，没想到儿子杨信厚的婚姻亮起红灯，孙子杨千里因求学与爱人发生分
+   歧，孙女一向反对他专治，宣布旅行结婚去了。杨氏祠堂在修缮中突然倒塌，杨振祖赶回故里，见到即将离世的七爷，勾起了埋藏多年的秘密。对于被诬陷的胞弟
+   杨振宗，杨振祖心有悔意。为了赎罪，准备为家乡建一处民俗博物馆。富商李道恩表示愿意资助。殊不知，李道恩正是来为父杨振宗复仇的。杨氏宗亲先后收到了
+   杨振祖追悼会的请柬。杨振祖决定把祭祖之事改到自己的古宅举行，要求儿孙们搬来同住。李道恩的妻子林晓鸥为阻止老公的复仇，找到杨振祖道出原委。百年祭
+   典日，传统的家族祭祀没有出现，见到的却是杨振祖在宗亲面前的忏悔，并得到了原谅。杨振祖如愿荣归故里，难解的乡愁终于在老人心里化成爱。^ [1]
+   省级管理部门备案意见
+   同意备案，报请总局电视剧管理司公示。
+         相关部门意见
+               备注
+   百度百科内容由网友共同编辑，如您发现自己的词条内容不准确或不完善，欢迎使用本人词条编辑服务（免费）参与修正。立即前往>>
+
+   参考资料
+
+          + 1    ，   ．，[引用日期2017-04-14]
+
+   V百科往期回顾
+
+   词条统计
+
+          + 浏览次数：次
+          + 编辑次数：5次历史版本
+          + 最近更新： 谁抢了我ID345 （2021-08-21）
+
+   为您推荐广告
+
+   新手上路
+          成长任务
+
+          编辑入门
+
+          编辑规则
+
+          本人编辑 new
+
+   我有疑问
+          内容质疑
+
+          在线客服
+
+          官方贴吧
+
+          意见反馈
+
+   投诉建议
+          举报不良信息
+
+          未通过词条申诉
+
+          投诉侵权信息
+
+          封禁查询与解封
+
+   ©2023 Baidu 使用百度前必读 | 百科协议 | 隐私政策 | 百度百科合作平台 | 京ICP证030173号
+   [copy_rignt_24.png]
+
+   京公网安备11000002000001号
+
+   ____________________ (BUTTON) 进入词条
+     * 清除历史记录关闭
+
+   播报 编辑 讨论  收藏 赞
+   登录
+
+扫码下载百科APP
+
+领取50财富值奖励
+
+   分享到微信朋友圈
+   打开微信“扫一扫”即可将网页分享至朋友圈
+
+   选择朗读音色
+   00:00
+   00:00

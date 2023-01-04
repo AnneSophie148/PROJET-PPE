@@ -18,8 +18,10 @@ Nous avons donc choisi d'étudier cet angle en analysant en portugais les mots "
 
 23/11: optimisation du script pour aspirer les pages et récupérer les dumps textuels
 
-30/11:recherche des contextes, et compte du mot nostalgie.
+30/11: recherche des contextes, et compte du mot nostalgie.
 
 7/12: Script itrameur.
 
 14/12: Installation du module wordcloud pour faire les nuages de mots. Correction du script de base. Ajout des expressions régulières car certains compte apparaissait vide puisque le mot était écrit avec une majuscule. Difficulté avec le chinois en raison de deux écritures différentes du même mot d'où la nécessité d'utiliser les expressions régulières.
+
+

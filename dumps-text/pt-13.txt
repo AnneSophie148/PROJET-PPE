@@ -1,52 +1,148 @@
-   #Feed de comentários para Vida Simples » Por que sentimos nostalgia?
+UTF-8 and Unicode
+
+   Unicode Transformation Format 8-bit is a variable-width encoding that
+   can represent every character in the Unicode character set. It was
+   designed for backward compatibility with ASCII and to avoid the
+   complications of endianness and byte order marks in UTF-16 and UTF-32.
+   ^[1]
+
+   UTF-8 encodes each Unicode character as a variable number of 1 to 4
+   octets, where the number of octets depends on the integer value
+   assigned to the Unicode character. It is an efficient encoding of
+   Unicode documents that use mostly US-ASCII characters because it
+   represents each character in the range U+0000 through U+007F as a
+   single octet.
+
+   UTF-8 is the default encoding for XML and since 2010 has become the
+   dominant character set on the Web.
+
+Standards
+
+     * RFC 3629: UTF-8, a transformation format of ISO 10646. November
+       2003.
+     * The Unicode Standard 5.0, November 2006. [purchase from Amazon.com]
+          + In particular, see the informal description of UTF-8 in
+            sections 2.5 and 2.6, pages 30-32, and a much more formal
+            definition in sections 3.9 and 3.10, pages 77-81.
+
+Articles and background reading
+
+     * UTF-8 and Unicode FAQ for Unix/Linux by Markus Kuhn
+     * Forms of Unicode, an excellent overview by Mark Davis
+     * Wikipedia UTF-8 contains a good discussion of why five- and
+       six-octet sequences are now illegal UTF-8
+     * Unicode Transformation Formats [czyborra.com]
+     * The Absolute Minimum Every Software Developer Absolutely,
+       Positively Must Know About Unicode and Character Sets (No
+       Excuses!), an amusing and informative article by Joel Spolsky
+
+Character Sets
+
+   The MIME character set attribute for UTF-8 is UTF-8. Character sets are
+   case-insensitive, so utf-8 is equally valid. [IANA Character Sets].
+
+   In a modern HTML 5 page, place this tag inside <head> ... </head>:
+<meta charset="UTF-8">
+
+   In an XML prolog, the encoding is typically specified as an attribute:
+<?xml version="1.0" encoding="UTF-8" ?>
+     __________________________________________________________________
+
+   Last modified: Wed Jan 5 12:57:21 PST 2022
+
+    #Feed de comentários para Vida simples » Por que sentimos nostalgia?
    alternate alternate alternate
 
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5S55LZV
 
-   [logotipo.png]
+   Vida Simples Logo
+   (BUTTON) Menu
+   (BUTTON)
+   ____________________ (BUTTON)
+     * SUGESTÕES DE BUSCA
+     * Autoconhecimento
+     * Saúde Mental
+     * Podcasts
+     * Medicina Alternativa
+     * Transformar
 
-     *
-     *
-     *
-     *
-     *
-
-   [logotipo.svg]
-     * Carrinho
-     * ASSINE
-     * |
-     * LOGIN
-     __________________________________________________________________
+   RECENTES
 
      * CONTEÚDOS
-          + Ser
-          + Conviver
-          + Transformar
-          + EVENTOS
-          + Brasileiros pelo mundo
-          + LEITORES
-          + PODCASTS
-     * COMUNIDADE VIDA SIMPLES
-     * Revista
+          + Vida Emocional
+          + Vida Social
+          + Vida Prática
+          + Vida profissional
+          + Vida saudável
+          + Vida familiar
+          + Vida plena
+          + Vida longa
+     * Comunidade
      * Colunistas
-     * PARA NEGÓCIOS
-          + Soluções corporativas
-          + Soluções para PME
-          + Profissionais liberais
-     * Loja
+     * Caderno de exercícios
+     * Podcasts
+     * Leitores
+     * Colunista
+     * Revistas
+     * Eventos
+     * Contato
+          + Fale conosco
+          + Para Empresas
+          + Parceiros
+     * REDES SOCIAIS
+          + Instagram
+          + Facebook
+          + Twitter
+          + Youtube
+          + Linkedin
+     * EDIÇÃO DO MÊS
+       250
 
-   ____________________ Submit
-   [harold-wijnholds-e162aG538_k-unsplash-1160x523.jpg]
-     *
-     *
-     *
-     *
+     * FAÇA PARTE
+     * entrar
+     * (BUTTON)
+
+   ____________________ (BUTTON)
+     * SUGESTÕES DE BUSCA
+     * Autoconhecimento
+     * Saúde Mental
+     * Podcasts
+     * Medicina Alternativa
+     * Transformar
+
+   Vida EmocionalVida SocialVida PráticaVida profissionalVida saudávelVida
+   familiarVida plenaVida longa
+
+   COMPARTILHE
+
+     * Início
+     * Matéria
+
+   Vida Emocional (BUTTON)
 
 Por que sentimos nostalgia?
 
-     * TEXTO Alessandro Fernandes
-     * FOTOGRAFIA Harold Wijnholds
-     * DATA: 28/09/2022
+   A nostalgia – uma sensação comum na vida das pessoas – é um fenômeno
+   cada vez mais presente em filmes, conversas nas redes sociais ou em
+   rodas de amigos. Que efeitos a nostalgia tem no nosso corpo? Ela é
+   diferente de saudade? O que te faz sentir isso? A Vida Simples te
+   explica e convida […]
+   POR Alessandro Fernandes   7 min de leitura
+   COMPARTILHE
+   Por que sentimos nostalgia? Harold Wijnholds uma menina com um cachecol
+   vermelho e preto olha fixamente para uma vitrine. Ela tem pele branca e
+   cabelos castanhos lisos. nostalgia
+
+   Neste artigo:
+     * Efeitos da nostalgia no nosso corpo
+     * Nostalgia e o mundo contemporâneo
+     * VOCÊ PODE GOSTAR
+     * Nostalgia é o mesmo que saudade?
+     * O que te traz nostalgia?
+     * Andressa Apolinário - Logística e Distribuição
+     * Karen Oliveira - Marketing digital
+     * Débora Zanelato - Editora-chefe
+     * Carolina Vellei - Editora online
 
    A nostalgia – uma sensação comum na vida das pessoas – é um fenômeno
    cada vez mais presente em filmes, conversas nas redes sociais ou em
@@ -54,9 +150,6 @@ Por que sentimos nostalgia?
    diferente de saudade? O que te faz sentir isso? A Vida Simples te
    explica e convida a compartilhar suas histórias conosco.
      __________________________________________________________________
-
-     * Assine Vida Simples
-
 
    Basta uma rápida pesquisa no buscador com a palavra “nostalgia” que
    aparecerá, provavelmente, dezenas de matérias e notícias sobre famosos
@@ -73,7 +166,6 @@ Por que sentimos nostalgia?
    por isso que o sabor de uma comida pode nos levar para a infância na
    casa da avó ou um modelo de carro pode lembrar daquele que um tio usava
    para te buscar e levar para viagens ao litoral.
-
 
 Efeitos da nostalgia no nosso corpo
 
@@ -93,7 +185,6 @@ Efeitos da nostalgia no nosso corpo
    recompensa produzida no cérebro quando sentimos nostalgia. É por isso
    que esse sentimento pode, na maioria das vezes, ser tão prazeroso e
    benéfico para a saúde humana.
-
 
 Nostalgia e o mundo contemporâneo
 
@@ -120,7 +211,6 @@ Nostalgia e o mundo contemporâneo
    lembrança ruim, na maioria das vezes ela nos remete a um momento feliz
    ou positivo de nossas vidas”, acrescenta a psicóloga.
 
-
 VOCÊ PODE GOSTAR
 
    – Saudade não precisa doer
@@ -128,7 +218,6 @@ VOCÊ PODE GOSTAR
    – A arte de administrar as saudades
 
    – O que faço com a saudade?
-
 
 Nostalgia é o mesmo que saudade?
 
@@ -148,7 +237,6 @@ Nostalgia é o mesmo que saudade?
    Por exemplo, se encontro alguém que tenho saudade, esse sentimento
    alivia”, diferencia Graça Leal.
 
-
 O que te traz nostalgia?
 
    Fizemos esse questionamento à equipe da Vida Simples sobre o que
@@ -160,7 +248,6 @@ O que te traz nostalgia?
    a utilizar a área de comentários para interagir e contar o que te faz
    sentir nostalgia.
 
-
 Andressa Apolinário – Logística e Distribuição
 
    O que me faz sentir nostalgia é lembrar dos tempos na casa da minha
@@ -171,7 +258,6 @@ Andressa Apolinário – Logística e Distribuição
    Ah, e tem uma música que me faz sentir muito isso: “Quero ver você não
    chorar, não olhar pra trás, nem se arrepender do que faz”… Sempre me
    emociono.
-
 
 Karen Oliveira – Marketing digital
 
@@ -186,7 +272,6 @@ Karen Oliveira – Marketing digital
    esperada poderia ter acontecido e não aconteceu por um triz, meio que
    “a vida inteira que podia ter sido e não foi” são vidas paralelas que
    se criaram na expectativa.
-
 
 Débora Zanelato – Editora-chefe
 
@@ -207,7 +292,6 @@ Débora Zanelato – Editora-chefe
    Com a partida daqueles que amamos também vão um pouco dos sabores que
    só eles eram capazes de criar. Mas, felizmente, as memórias permanecem.
 
-
 Carolina Vellei – Editora online
 
    Nostalgia, para mim, é um sentimento de saudade que surge quando a
@@ -218,9 +302,7 @@ Carolina Vellei – Editora online
    Sandy & Junior e lembro da minha adolescência. Minhas nostalgia vem
    principalmente pelos sentidos do olfato e da audição.
 
-
    E você, o que te traz nostalgia? Conta pra gente nos comentários!
-     * Clique e assine as newsletters da Vida Simples.
      __________________________________________________________________
 
    ALESSANDRO FERNANDES é estudante de Jornalismo na Universidade Federal
@@ -228,298 +310,134 @@ Carolina Vellei – Editora online
    acredita no veganismo popular como uma das ferramentas de transformação
    da sociedade e no potencial da escrita e do Jornalismo em tocar as
    pessoas.
-     * TAGS: autoconhecimento, emoções, lembranças, memória, nostalgia,
-       reflexão, saudade, sentimentos, vida interior
-     __________________________________________________________________
+   Avatar
 
-POSTS RELACIONADOS
+     * autoconhecimento
+     * emoções
+     * lembranças
+     * memória
+     * nostalgia
+     * reflexão
+     * saudade
+     * sentimentos
+     * vida interior
 
-     * uma mulher esta fazendo uma postura em uma moto. nômade
-       motochilheira
-       Transformar
+A vida pode ser simples, comece hoje mesmo a viver a sua.
 
-Motochileira, Estefânia percorre o Brasil como nômade
-       Conheça a história de Estefânia, uma motochileira nômade que viaja
-       pelo Brasil em sua moto, carinhosamente apelidada de Menina.
-       Mineira de nascimento, cidadã do mundo de coração, Estefânia Moura
-       é uma terapeuta holística e professora de dança que vive hoje
-       percorrendo o Brasil como uma mochileira nômade, quando decidiu
-       sair de Belo Horizonte na […]
-     * uma pessoa segura uma xícara de chá com pães, uma geleia, algumas
-       fotos e folhas secas simbolizando o outono. calma
-       Transformar
+   Vida Simples transforma vidas há 20 anos. Queremos te acompanhar na sua
+   jornada de autoconhecimento e evolução.
 
-Viva com mais calma
-       Podemos desacelerar e encontrar o nosso próprio ritmo de caminhar
-       na vida, com mais tranquilidade, calma e contemplação   O horto
-       florestal era o parque da minha infância: as árvores frondosas, os
-       bugios que pareciam dançar entre os galhos, o grande lago na
-       entrada, com pedalinhos que hoje já não existem mais, e as vias […]
-     * duas pessoas se encontram durante o por do sol com a vista para a
-       cidade. Há algumas velas ao redor delas, que estão juntas uma da
-       outra sentadas no chão. amor
-       Conviver
+   Assine agora e junte-se à nossa comunidade.
+   Assinar Vida Simples
+   32 comentários
 
-Como encontrar o amor
-       Para entender como o amor floresce é necessário mergulhar mais
-       dentro de si mesmo e descobrir os caminhos que ele percorre no
-       interior de cada um   Quando eu era pequena, adorava perguntar para
-       a minha mãe sobre o dia do casamento dela. Ela me contava sobre os
-       detalhes do vestido, de cetim branco, que […]
+Os comentários são exclusivos para assinantes da Vida Simples.
 
-EDIÇÃO DO MÊS
+   Já é assinante? Faça login
+   Assinar Vida Simples Assine e aproveite conteúdos exclusivos
+   Os comentários não representam a opinião da revista. A responsabilidade
+   é do autor da mensagem.
 
-   Edição 250, dezembro de 2022 COMPRAR
+FELIPE MACEDO
 
-COMENTÁRIOS
+   Há 5 min
+
+   Lorem ipsum dolor sit amet, consectetur atem adipiscing elit. Aenean
+   aliquam nibh ut erose tempor scelerisque. Vestibulum molestie ante eu
+   semper convallis.
+   (BUTTON) RESPONDER
+
+FELIPE MACEDO
+
+   Há 5 min
+
+   Lorem ipsum dolor sit amet, consectetur atem adipiscing elit. Aenean
+   aliquam nibh ut erose tempor scelerisque. Vestibulum molestie ante eu
+   semper convallis.
+   (BUTTON) RESPONDER
+   (BUTTON) Ler todos os comentários (32) (BUTTON) Comentar
+
+Deixe seu comentário
 
 
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   (BUTTON) Enviar comentário
 
-Dulce
+Mais matérias relacionadas
 
-   Nostalgia prá mim é lembrar momentos com meus filhos pequenos, os
-   passeios, as brincadeiras…
-   Nostalgia é uma saudade doída daquilo que sabemos não poder viver mais!
-   Nostalgia não é saudade, não é tristeza … Nostalgia é quase Amor!!!
-   Responder
-     *
+     * (BUTTON) Encontre a esperança
 
-Vida Simples
-       Uma provocação do bem: mas precisa ser doída? 😉
-       (Vida Simples fazendo o papel da analista, haha)
-       Responder
-     __________________________________________________________________
+Vida Emocional
 
-TAMBÉM QUERO COMENTAR Cancelar resposta
+Encontre a esperança
+       O ano que jamais será esquecido em breve caberá numa gaveta da
+       memória. Por mais arrasador que 2020 tenha sido, ele se despede
+       12 min de leitura
+     * (BUTTON) Saiba envelhecer
 
-   Escreva aqui seus comentários*
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   Nome* ______________________________
-   E-mail* ______________________________
+Vida Emocional
 
-   PUBLICAR COMENTÁRIO
-   Campos obrigatórios*
+Saiba envelhecer
+       Edna Aparecida Roldan estava com aquela ansiedade típica das
+       crianças quando sabem que o aniversário está se aproximando. Ela
+       11 min de leitura
+     * (BUTTON) Rotina e hábitos: priorize o que importa para você em 2023
 
-   [logotipo.png]
-     __________________________________________________________________
+Vida Emocional
 
-     * / CONTEÚDOS
-          + / Ser
-          + / Conviver
-          + / Transformar
-          + / EVENTOS
-          + / Brasileiros pelo mundo
-          + / LEITORES
-          + / PODCASTS
-     * / COMUNIDADE VIDA SIMPLES
-     * / Revista
-     * / Colunistas
-     * / PARA NEGÓCIOS
-          + / Soluções corporativas
-          + / Soluções para PME
-          + / Profissionais liberais
-     * / Loja
+Rotina e hábitos: priorize o que importa para você em 2023
+       Listas de realizações, planejamento de objetivos e uma nova
+       oportunidade de recomeçar planos e interesses que ficaram
+       6 min de leitura
 
-     * / Quem Somos
-     * / Mídia kit para empresas
-     * / Contato
-     * / Contrato de Assinatura
-     * / FAQ
-     * / Política de Privacidade e Proteção de dados
+Assine nossa newsletter
 
-ASSINE A NOSSA NEWSLETTER
+   Cadastre-se para receber a nossa seleção de conteúdos, desde as
+   histórias mais populares do dia como entrenimento e matérias de capa de
+   revista.
+   ____________________
+   [X] Notícias Diárias Matérias quentinhas diretamente na sua caixa de
+   entrada diariamente. [ ] Top Matérias Vida Simples Receba as matérias
+   mais exclusivas diretamente na sua caixa de entrada.
+   (BUTTON) Assinar
 
-   ________________________________________
-   [ ]   *Li e aceito as condições da Política de Privacidade de Dados
-   CADASTRAR
-     *
-     *
-     *
-     *
-     *
+   Vida Simples Logo FAÇA PARTE
 
-   ASSINE VIDA SIMPLES
-   Selo
-     __________________________________________________________________
+     * CONTEÚDOS
+     * Vida Emocional
+     * Vida Social
+     * Vida Prática
+     * Vida Profissional
+     * Vida saudável
+     * Vida familiar
+     * Vida plena
+     * Vida longa
+     * Colunista
 
-   COPYRIGHT 2022 - REVISTA VIDA SIMPLES | TODOS OS DIREITOS RESERVADOS
-   Vida Simples ® é uma marca registrada que pertence a Vida Simples
-   Conteúdo Editorial e Negócios Ltda. Desenvolvido por: Olivas Digital
+     * CONTATO
+     * Fale conosco
+     * Parceiros
+     * Para Empresas
 
-Política de Privacidade e Proteção de dados on-line da VIDA SIMPLES
+     * GERAIS
+     * Caderno de exercícios
+     * Colunistas
+     * Podcasts
+     * Leitores
+     * Revistas
 
-   A Vida Simples está feliz de você estar aqui conosco em nosso site/app,
-   vamos a partir de agora construir uma história juntos.
-
-   Na VIDA SIMPLES, proteção de dados têm prioridade. Esta página é
-   projetada para fornecer informações sobre como estamos seguindo as
-   normas de proteção de dados, quais informações coletamos enquanto você
-   está navegando em nosso site/app, e como essas informações são
-   coletadas, utilizadas e protegidas por nós, em conformidade com a Lei
-   nº 13.709/2018 (Lei Geral de Proteção de Dados – “LGPD”).
-
-   Primeiro e mais importante: os seus dados pessoais só serão utilizados
-   nos casos detalhados abaixo e não serão utilizados em quaisquer outros
-   casos sem o seu consentimento expresso.
-
-   Esta Política de Privacidade de Dados aplica-se a coleta e o tratamento
-   de dados somente para as seguintes plataformas/frentes de comunicação:
-   e-mails marketing, mídias sociais (Facebook, LinkedIn , Instagram,
-   Twitter, Telegram , YouTube, Pinterest, TikTok), aplicativo para
-   aparelhos de celular, website corporativo, e WhatsApp (recebimento de
-   conteúdos e informações sobre a marca).
-
-Coleta de dados
-
-   Quando você visitar o site/app da VIDA SIMPLES, informações gerais são
-   coletadas automaticamente (ou seja, não por meio de cadastro) e
-   enviadas para o nosso servidor, porém não são armazenadas como dados
-   pessoais. Os servidores web que são usados tem por padrão armazenar os
-   seguintes dados:
-     * O nome do seu provedor de serviços de internet;
-     * O website a partir do qual você nos visitou;
-     * Os sites que você visita, quando você está com a gente;
-     * O seu endereço de IP;
-     * URL ou arquivo solicitado;
-     * Data e horário da sua visita;
-     * Volume de dado transmitido durante sua navegação;
-     * Informação de status de servidor, como mensagens de erro durante a
-       navegação.
-
-   Estas informações são analisadas de forma anônima. Utilizadas
-   unicamente com a finalidade de melhorar a atratividade, conteúdo e
-   funcionalidade do nosso site/app. Quando os dados forem repassados a
-   prestadores de serviços externos, nós adotamos as medidas técnicas e
-   organizacionais para assegurar que as normas de proteção de dados sejam
-   respeitadas.
-
-Coleta e processamento de dados pessoais
-
-   Dados pessoais só são coletados quando você os fornecer no curso, por
-   exemplo, de seu cadastro em nosso site/app, do preenchimento de
-   formulários ou envio de e-mails, ou por meio de encomendas de produtos
-   ou serviços, consultas ou pedidos de material.
-
-   Seus dados pessoais permanecem com a nossa empresa, nossas afiliadas, e
-   nosso provedor, e poderão ser compartilhados pela VIDA SIMPLES somente
-   com seus fornecedores/prestadores de serviços que necessitem ter acesso
-   a tais dados para o cumprimento de suas obrigações junto à VIDA
-   SIMPLES. Nesta hipótese, tais fornecedores/prestadores de serviços
-   somente poderão utilizar seus dados pessoais de acordo com as nossas
-   instruções e as finalidades previstas abaixo nesta Política, e
-   encontram-se contratualmente obrigados a cumprir com os requisitos
-   legais de proteção de dados aplicáveis.
-
-   Os dados pessoais que nós coletamos somente serão utilizados a fim de
-   cumprir as nossas obrigações junto a você e mantê-lo informado a
-   respeito de eventos, conteúdos técnicos/estudos, produtos, serviços,
-   pesquisas de opinião sobre os produtos e serviços e/ou outras
-   informações da VIDA SIMPLES, conforme seu perfil, por meio de e-mails
-   marketing, SMS, mensagens via WhatsApp e push notifications através do
-   aplicativo ou website da VIDA SIMPLES.
-
-   Importante: seus dados pessoais apenas serão utilizados para qualquer
-   outra finalidade quando você tiver dado seu consentimento específico
-   para tanto. Você pode revogar o seu consentimento para a utilização dos
-   seus dados pessoais a qualquer momento, neste endereço de email:
-   falecom@vidasimples.co a revogação do seu consentimento. Por favor note
-   que esta revogação de consentimento poderá impactar a disponibilidade
-   de certos serviços e programas, bem como seu acesso a informações sobre
-   a VIDA SIMPLES, que são compartilhadas via canais digitais, como
-   e-mails marketing enviados com base em seus interesses.
-   Mesmo após o término da relação contratual, nós poderemos tratar alguns
-   de seus dados pessoais para exercer nossos direitos garantidos em lei,
-   inclusive como prova em processos judiciais, administrativos ou
-   arbitrais, principalmente àqueles relacionados com regularização de
-   potenciais sinistros envolvendo você e/ou terceiros.
-
-Retenção de dados
-
-   Nós armazenamos dados pessoais pelo período necessário para realizar um
-   serviço que você tenha solicitado ou para o cumprimento das finalidades
-   com as quais você tenha concedido sua permissão, desde que não existam
-   requisitos legais contrários, como por exemplo no caso de períodos de
-   retenção exigidos pelo comércio ou normas tributárias.
-
-Segurança
-
-   A VIDA SIMPLES possui medidas de segurança técnicas e organizacionais
-   para prevenir que a informação que você disponibilizou seja manipulada,
-   intencionalmente ou não, perdida, destruída ou acessada por pessoas não
-   autorizadas. Quando os dados pessoais estão sendo coletados e
-   processados, as informações serão transferidas de forma criptografada,
-   a fim de evitar o uso indevido dos dados por terceiros. Nossas medidas
-   de segurança são continuamente analisadas e revistas, de acordo com a
-   tecnologia adequada.
-
-   Embora a VIDA SIMPLES adote os melhores esforços no sentido de
-   preservar a sua privacidade e proteger os seus dados pessoais, nenhuma
-   transmissão de informações é totalmente segura, de modo que a VIDA
-   SIMPLES não pode garantir integralmente que todas as informações que
-   recebe e/ou envia não sejam alvo de acessos não autorizados perpetrados
-   por meio de métodos desenvolvidos para obter informações de forma
-   indevida, como falhas técnicas, vírus ou invasões do banco de dados do
-   site.
-
-   De qualquer forma, na remota hipótese de incidência de episódios desta
-   natureza, a VIDA SIMPLES garante seus melhores esforços para remediar
-   as consequências do evento. A VIDA SIMPLES não se responsabiliza por
-   qualquer outro site que possa ser acessado a partir do nosso, não
-   havendo qualquer vínculo entre tais endereços.
-
-Direito de obter e corrigir informações
-
-   Você tem o direito de obter informações sobre todos os seus dados
-   pessoais armazenados, poderá recebê-los, examiná-los e, se necessário,
-   alterá-los ou apagá-los. Para fazer isso, basta enviar um e-mail ao
-   endereço de e-mail falecom@vidasimples.co. A eliminação dos seus dados
-   pessoais será realizada, a menos que sejamos obrigados por lei a
-   armazenar tais informações (conforme item de “Retenção de Dados”
-   acima).
-
-   A VIDA SIMPLES imputará seus melhores esforços para atender os pedidos
-   de Usuários no menor espaço de tempo possível. No caso de requisição de
-   exclusão, será respeitado o prazo de armazenamento mínimo de
-   informações de usuários de aplicações de Internet, determinado pela
-   legislação brasileira, além de outras leis aplicáveis como a legislação
-   trabalhista e tributária.
-
-Cookies
-
-   Em nosso site/app, só usamos cookies se forem necessários para uma
-   aplicação ou serviço que estamos fornecendo e/ou para identificarmos
-   quais são os assuntos de seu interesse. A maioria dos navegadores é
-   configurada para aceitar automaticamente os cookies. Você pode,
-   contudo, alterar as configurações para bloquear cookies ou alertá-lo
-   quando um cookie estiver sendo enviado ao seu dispositivo. Bloquear
-   todos os cookies vai afetar o funcionamento da sua experiência, pois
-   não será possível identificar suas preferências e recomendar conteúdo e
-   publicidade relevantes. Consulte as instruções do seu navegador para
-   saber mais sobre como ajustar ou alterar suas configurações.
-
-Legislação Aplicável e Foro
-
-   Esta Política será interpretada de acordo com as leis, normas e
-   regulamentos do Brasil, no idioma português, especialmente de acordo
-   com a Lei nº 13.709/2018 (Lei Geral de Proteção de Dados). Quaisquer
-   conflitos serão dirimidos em território nacional e conforme a
-   legislação brasileira aplicável e vigente à época.
-
-Contato
-
-   O desenvolvimento constante da Internet nos traz a necessidade de
-   ajustarmos periodicamente nossas regras de proteção de dados.
-   Reservamo-nos o direito de implantar as mudanças adequadas a qualquer
-   momento. Caso tenha alguma dúvida ou sugestão, entre em contato conosco
-   na VIDA SIMPLES, que teremos o maior prazer em ajudá-lo.
-
-   Luciana Pianaro Mussak - CEO
-
-falecom@vidasimples.co
+   FAÇA PARTE
+   Instagram Facebook Twitter Youtube Linkedin
+   (BUTTON)
+     * Vida Simples Copyright (c) 2023. All Rights Reserved.
+     * Políticas e Termos de Uso
+     * Desenvolvido pela OKN: Technology Agency.

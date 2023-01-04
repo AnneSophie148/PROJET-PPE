@@ -30,40 +30,25 @@
      * Distribuição do Sinal
      * Faça parte da Equipe CNN
 
-   (BUTTON)
-   Assista agora
-   ao vivo
-   Ao Vivo CNN Brasil
    (BUTTON) Busca ____________________
 
-     * SERGIO CABRAL Pena ultrapassou 390 anos, mas agora ex-governador do
-       RJ será solto
-       SERGIO CABRAL
-       Pena ultrapassou 390 anos, mas agora ex-governador do RJ será solto
-     * JOSÉ MÚCIO À CNN, futuro ministro da Defesa diz que Bolsonaro é um
-       democrata
-       JOSÉ MÚCIO
-       À CNN, futuro ministro da Defesa diz que Bolsonaro é um democrata
-     * ARGENTINA X FRANÇA Enganados, argentinos fazem protestos por
-       ingressos
-       ARGENTINA X FRANÇA
-       Enganados, argentinos fazem protestos por ingressos
-     * COPA DO MUNDO
-       COPA DO MUNDO
-     * RÚSSIA X UCRÂNIA
-       RÚSSIA X UCRÂNIA
-
-   Prime Time
-
-   seg - sex
-
-   Apresentação
-
-   Ao vivo
-   (BUTTON)
-   [X] Switch
-
-   A seguir
+     * MERCADO DE AÇÕES Bolsa perdeu R$ 546 bilhões em valor de mercado
+       desde eleição de Lula
+       MERCADO DE AÇÕES
+       Bolsa perdeu R$ 546 bilhões em valor de mercado desde eleição de
+       Lula
+     * SEGUNDO A CGU Nem todos os dados de cartão corporativo serão
+       divulgados
+       SEGUNDO A CGU
+       Nem todos os dados de cartão corporativo serão divulgados
+     * TAXA DE JUROS Haddad diz que situação atual no Brasil é
+       "completamente anômala"
+       TAXA DE JUROS
+       Haddad diz que situação atual no Brasil é "completamente anômala"
+     * GOVERNO LULA
+       GOVERNO LULA
+     * PELÉ
+       PELÉ
 
 Sentimento de nostalgia pode reduzir a percepção da dor, diz estudo
 
@@ -225,15 +210,15 @@ Tópicos
 
 Mais lidas
 
-    1. Com 1.500 peixes, aquário gigante explode em Berlim
-    2. Novas provas enfraquecem hipótese de que ator Thiago Rodrigues foi
-       roubado
-    3. Pena de Sérgio Cabral ultrapassou 390 anos, mas agora ele será
-       solto; entenda
-    4. Decisão do STF de revogar prisão de Sérgio Cabral causa repercussão
-       nas redes
-    5. Entenda o que é Herpes Zoster e quais os principais sintomas da
-       doença
+    1. PF cumpre mandado e apreende mais três armas de Carla Zambelli
+    2. Dois dias após posse de Lula, Bolsonaro faz "anúncio" de redução na
+       tarifa de Itaipu para 2023
+    3. “É uma situação completamente anômala”, diz Haddad sobre taxa de
+       juros no Brasil
+    4. Jeremy Renner, de "Gavião Arqueiro", está na UTI se recuperando de
+       2 cirurgias após acidente
+    5. Fundador da DC Shoes, piloto Ken Block morre em acidente de moto de
+       neve
 
 Newsletters CNN Brasil
 
@@ -254,42 +239,42 @@ Newsletters CNN Brasil
 
 Relacionadas
 
-     * Anvisa pública alerta sobre pomada para cabelo que causa cegueira
-       temporária
-    Anvisa pública alerta sobre pomada para cabelo que causa cegueira
-       temporária
-     * Vacina contra câncer de pele tem resultados positivos e vai entrar
-       em fase final de estudo
-    Vacina contra câncer de pele tem resultados positivos e vai entrar em
-       fase final de estudo
-     * Rio e São Paulo fazem avanço da Covid-19 desacelerar no país,
-       aponta Fiocruz
-    Rio e São Paulo fazem avanço da Covid-19 desacelerar no país, aponta
-       Fiocruz
-     * Biossensor poderá detectar a presença do vírus da-Covid-19 na
-       saliva
-    Biossensor poderá detectar a presença do vírus da-Covid-19 na saliva
-     * Jovem que morreu de varíola dos macacos ficou 50 dias sem remédio
-    Jovem que morreu de varíola dos macacos ficou 50 dias sem remédio
+     * Entenda o que são bactérias resistentes e quais os riscos para a
+       saúde
+    Entenda o que são bactérias resistentes e quais os riscos para a saúde
+     * Dia do Hemofílico: como vivem as pessoas não conseguem coagular o
+       sangue
+    Dia do Hemofílico: como vivem as pessoas não conseguem coagular o
+       sangue
+     * Agência dos EUA permite que pílulas abortivas sejam vendidas em
+       farmácias
+    Agência dos EUA permite que pílulas abortivas sejam vendidas em
+       farmácias
+     * Conheça a variante XBB.1.5 do coronavírus e entenda por que ela se
+       espalha tão rápido
+    Conheça a variante XBB.1.5 do coronavírus e entenda por que ela se
+       espalha tão rápido
+     * Primeira injeção contra obesidade é aprovada pela Anvisa
+    Primeira injeção contra obesidade é aprovada pela Anvisa
 
    Mais Recentes da CNN
-     * Tribunal dos EUA nega recurso que permitiria a expulsão de
-       migrantes
-    Tribunal dos EUA nega recurso que permitiria a expulsão de migrantes
-     * “Em Alta CNN” debate a importância da comédia no país
-    “Em Alta CNN” debate a importância da comédia no país
-     * Deltan Dallagnol critica soltura de Sérgio Cabral: “deveria
-       permanecer preso”
-    Deltan Dallagnol critica soltura de Sérgio Cabral: “deveria permanecer
-       preso”
-     * Enganados por “boatos de novas vendas”, argentinos fazem protestos
-       por ingressos para final da Copa
-    Enganados por “boatos de novas vendas”, argentinos fazem protestos por
-       ingressos para final da Copa
-     * Barroso rejeita pedidos de liberdade a indígena preso por atos
-       antidemocráticos
-    Barroso rejeita pedidos de liberdade a indígena preso por atos
-       antidemocráticos
+     * Artista japonesa de 93 anos ainda pinta todos os dias em hospital
+       psiquiátrico
+    Artista japonesa de 93 anos ainda pinta todos os dias em hospital
+       psiquiátrico
+     * Após ano de perdas recordes, veja o que esperar do mercado de ações
+       dos EUA em 2023
+    Após ano de perdas recordes, veja o que esperar do mercado de ações
+       dos EUA em 2023
+     * Entenda o que são bactérias resistentes e quais os riscos para a
+       saúde
+    Entenda o que são bactérias resistentes e quais os riscos para a saúde
+     * Imagem Fallback CNN Brasil
+    Companhia aérea brasileira é considerada mais pontual do mundo em 2022
+     * Alckmin e Marina Silva assumem ministérios nesta quarta (4); veja
+       detalhes
+    Alckmin e Marina Silva assumem ministérios nesta quarta (4); veja
+       detalhes
 
    (BUTTON)
 

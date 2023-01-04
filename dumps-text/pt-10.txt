@@ -59,7 +59,7 @@ Relembrando o passado: Nostalgia faz bem?
    Por
    Juliana Sonsin
    1
-   16659
+   16848
    Facebook
    Twitter
    Google+
@@ -264,7 +264,7 @@ Categorias
      * Estresse9
      * Família16
      * Fobias13
-     * Gestação17
+     * Gestação18
      * Infância e Adolescência29
      * Luto4
      * Obesidade6
@@ -275,7 +275,7 @@ Categorias
      * Psiquiatria4
      * Relacionamento24
      * Saúde da Mulher10
-     * Sem categoria6
+     * Sem categoria5
      * Sexologia33
      * Síndrome do Pânico7
      * Sono16
@@ -283,11 +283,11 @@ Categorias
      * TDAH4
      * Telavita8
      * TOC5
-     * Trabalho82
+     * Trabalho85
      * Transtorno Bipolar5
      * Transtornos Alimentares12
      * Transtornos de Aprendizagem2
-     * Transtornos Psicológicos21
+     * Transtornos Psicológicos22
      * Traumas Psicológicos4
      * Vícios e Manias10
 
@@ -322,7 +322,7 @@ relacionamentos
 
 CATEGORIA POPULAR
 
-     * Trabalho82
+     * Trabalho85
      * Comportamento58
      * Autoconhecimento51
      * Sexologia33
@@ -330,7 +330,7 @@ CATEGORIA POPULAR
      * Psicoterapia27
      * Relacionamento24
      * Psicologia22
-     * Transtornos Psicológicos21
+     * Transtornos Psicológicos22
 
    © A ajuda que você precisa, onde você estiver ❤️
 

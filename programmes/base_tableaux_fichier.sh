@@ -1,33 +1,29 @@
 #!/usr/bin/env bash
 
-#===============================================================================
-# VOUS DEVEZ MODIFIER CE BLOC DE COMMENTAIRES.
-# Ici, on décrit le comportement du programme.
-# Indiquez, entre autres, comment on lance le programme et quels sont
-# les paramètres.
-# La forme est indicative, sentez-vous libres d'en changer !
-# Notamment pour quelque chose de plus léger, il n'y a pas de norme en bash.
-#===============================================================================
 
 fichier_urls=$1 # le fichier d'URL en entrée
 fichier_tableau=$2 # le fichier HTML en sortie
 mot=$3
 
+#cette partie permet de vérifier que l'utilisateur a bien donné trois arguments
 if [[ $# -ne 3 ]]
 then
 	echo "Ce programme demande exactement trois arguments."
 	exit
 fi
 
-
+#on récupère le nom du fichier sans l'extension
 echo $fichier_urls;
 basename=$(basename -s .txt $fichier_urls)
-
-echo "<html><body>" > $fichier_tableau
-echo "<h2>Tableau $basename :</h2>" >> $fichier_tableau
+#on crée le tableau html pour chaque langue
+echo "<html>" >> $fichier_tableau
+#importation de bulma
+echo "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.min.css\">" >> $fichier_tableau
+echo "<body>" >> $fichier_tableau
+echo "<p align=\"center\" class=is-size-1><FONT COLOR=\"800080\">Tableau $basename :</FONT></p>" >> $fichier_tableau
 echo "<br/>" >> $fichier_tableau
-echo "<table>" >> $fichier_tableau
-echo "<tr><th>ligne</th><th>code</th><th>URL</th><th>encodage</th><th>aspirations</th><th>dumps</th><th>compte</th><th>contextes</th><th>concordances</th></tr>" >> $fichier_tableau
+echo "<table border=1 class=\"table is-striped\" align="center">" >> $fichier_tableau
+echo "<tr style=\"background-color:lavender\"><th>ligne</th><th>code</th><th>URL</th><th>encodage</th><th>aspirations</th><th>dumps</th><th>compte</th><th>contextes</th><th>concordances</th></tr>" >> $fichier_tableau
 
 lineno=1;
 while read -r URL; do
@@ -63,8 +59,7 @@ while read -r URL; do
 		echo "$contexte" > "contextes/$basename-$lineno.txt"
 		
 		
-		
-		if [[ $charset -ne "UTF-8" && -n "$dump" ]]
+		if [[ $charset -ne "(UTF-8|utf-8)" && -n "$dump" ]]
 		then
 			dump=$(echo $dump | iconv -f $charset -t UTF-8//IGNORE)
 		fi
@@ -74,7 +69,7 @@ while read -r URL; do
 		dump=""
 		charset=""
 	fi
-	 # construction des concordance avec une commande externe
+	 # construction des concordances avec une commande externe : on lance le programme des concordanciers
   bash ./programmes/concordance.sh ./dumps-text/$basename-$lineno.txt $mot > ./concordances/$basename-$lineno.html
 
 	echo "<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href=\"../aspirations/$basename-$lineno.html\">aspiration</a></td><td><a href=\"../dumps-text/$basename-$lineno.txt\">dump</a></td><td>$compte</td><td><a href=\"../contextes/$basename-$lineno.txt\">contextes</a></td><td><a href=\"../concordances/$basename-$lineno.html\">concordance</a></td></tr>" >> $fichier_tableau

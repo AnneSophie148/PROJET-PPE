@@ -14,14 +14,21 @@ Nous avons donc choisi d'étudier cet angle en analysant en portugais les mots "
 
 10/11 : Ecriture d'un script pour récupérer l'en-tête de la réponse du serveur.
 
-16/11: création d'un site internet pour le projet à partir de github
+16/11 : création d'un site internet pour le projet à partir de github
 
-23/11: optimisation du script pour aspirer les pages et récupérer les dumps textuels
+23/11 : optimisation du script pour aspirer les pages et récupérer les dumps textuels
 
-30/11: recherche des contextes, et compte du mot nostalgie.
+30/11 : recherche des contextes, et compte du mot nostalgie.
 
-7/12: Script itrameur.
+7/12 : Script itrameur.
 
-14/12: Installation du module wordcloud pour faire les nuages de mots. Correction du script de base. Ajout des expressions régulières car certains compte apparaissait vide puisque le mot était écrit avec une majuscule. Difficulté avec le chinois en raison de deux écritures différentes du même mot d'où la nécessité d'utiliser les expressions régulières.
+14/12 : Installation du module wordcloud pour faire les nuages de mots. Correction du script de base. Ajout des expressions régulières car certains compte apparaissait vide puisque le mot était écrit avec une majuscule. Difficulté avec le chinois en raison de deux écritures différentes du même mot d'où la nécessité d'utiliser les expressions régulières.
 
+<font color='lightblue'>**05/01 [Ji]** </font>  
+<font color='orange'><u>**Traitement de l'anglais**</u></font>
+1.  Installation des modules nécessaires pour traiter la tokénisation, la filtration de textes et le nuage de mots.
+2.  Création d'une image
+   
+<font color='lightblue'>**06/01 [Ji]**</font>  
+<font color='orange'><u>**Traitemet du chinois**</u></font>
 

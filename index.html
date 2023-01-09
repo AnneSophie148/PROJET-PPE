@@ -9,33 +9,55 @@
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.min.css">
         <script defer src="script.js"></script>
         <link rel="stylesheet" href="app.css">
-
-    </head>
+        
+    </head>    
     <body>
-        <section class="section">
+        <div class="js-tab-content" id="accueil">
+            <div class="hero">
+                <div class="hero-inner">
+                    <p class="is-size-1 has-text-white" data-aos="zoom-in" data-aos-delay="800">
+                        NOSTALGIA
+                    </p>
+                    <p class="is-size-3 has-text-white" data-aos="fade-up" data-aos-delay="1000">
+                        Langues : Anglais, Français, Chinois
+                   </p>
+                </div>
+            </div>
+        </div>
+        <div class="hero-foot">
+            <div class="container js-tabs-container">
+            <div class="tabs" style="float:right">
+                <ul>
+                    <!-- chaque item contient un attribut data-tab dont la valeur correspond à l'ID du contenu correspondant -->
+                    <li class="is-active" data-tab="accueil"><a>Accueil</a></li>
+                    <li data-tab="choix">
+                    <a href="#choix">Nostalgia ?</a>
+                    </li>
+                    <li data-tab="nuages">
+                        <a href="#nuages">Nuages de mots</a>
+                    </li>
+                    <li data-tab="itrameur">
+                        <a href="#itrameur">Analyse iTrameur</a> </li>
+                    <li data-tab="tableaux">
+                        <a href="#tableaux">Tableaux</a> </li>
+                    <li data-tab="scripts">
+                        <a href="#scripts">Scripts</a> </li>
+                    <li data-tab="about">
+                        <a href="#about">A propos de nous</a> </li>
+                    
+                </ul>
+            </div>
             
             <!-- entourer les tabs et leurs contenus correspondants d'un élément ayant la classe js-tabs-container. -->
-            <div class="container js-tabs-container">
-
-                <div class="tabs">
-                    <ul>
-                        <!-- chaque item contient un attribut data-tab dont la valeur correspond à l'ID du contenu correspondant -->
-                        <li class="is-active" data-tab="accueil"><a>Accueil</a></li>
-                        <li data-tab="nuages"><a>Nuages de mots</a></li>
-                        <li data-tab="itrameur"><a>Analyse iTrameur</a></li>
-                        <li data-tab="tableaux"><a>Tableaux</a></li>
-                        <li data-tab="scripts"><a>Scripts</a></li>
-						<li data-tab="about"><a>A propos de nous</a></li>
-						
-                    </ul>
-                </div>
+            
 
                 <!-- contenu de la tab dont l'ID correspond à la valeur de l'attribut data-tab du lien associé -->
                 <!-- le contenu initialiement visible au chargement de la page ne porte pas la classe has-display-none -->
                 <!-- chacun des contenus porte la classe js-tab-content -->
-                <div class="js-tab-content" id="accueil">
+          
+                    <div class="has-display-none js-tab-content" id="choix">
                     <article class="message is-dark">
-                        <div class="is-size-1 has-background-warning-light">Choix du mot nostalgie</div>
+                        <div class="is-size-1 has-background-warning-light"><br>Choix du mot nostalgie</div>
                         <div class="message-body">
                             <h1>Pourquoi le mot nostalgie ?</h1>
                         </div>
@@ -47,7 +69,7 @@
                         Nous avons donc choisi d'étudier cet angle en analysant en portugais les mots "nostalgia" et "saudade", puis de nous pencher vers la traduction anglaise "nostalgia", vers le français "nostalgie" et le mandarin 乡愁 xiāngchóu.
                     </p>
                     <p style="text-align:center;">
-                        <br><img src="images/background/el-valor-de-la-nostalgia-850x567.png" title="nostalgia?" align="middle"/>  
+                        <br><img src="./images/https3A2F2Fcdn.png" title="nostalgia?" align="middle"/>  
                     </p>
 
                 </div>
@@ -55,7 +77,7 @@
                 <!-- contenu de la tab "nuages" -->
                 <div class="has-display-none js-tab-content" id="nuages">
                     <article class="message is-info">
-                        <div class="is-size-1 has-background-warning-light">Nuages de mots</div>
+                        <div class="is-size-1 has-background-warning-light"><br>Nuages de mots</div>
                         <div class="message-body">
                             Voici les nuages de mots pour chaque langue
                         </div>
@@ -90,7 +112,7 @@
 
                 <div class="has-display-none js-tab-content" id="itrameur">
                     <article class="message is-dark">
-                        <div class="is-size-1 has-background-warning-light">Analyse itrameur</div>
+                        <div class="is-size-1 has-background-warning-light"><br>Analyse itrameur</div>
                         <div class="message-body">
                             <h1>Concordances et comparaisons</h1>
                         </div>
@@ -102,7 +124,7 @@
                 <!-- contenu de la tab "tableaux" -->
                 <div class="has-display-none js-tab-content" id="tableaux">
                     <article class="message is-primary">
-                        <div class="is-size-1 has-background-warning-light">Tableaux</div>
+                        <div class="is-size-1 has-background-warning-light"><br>Tableaux</div>
                         <div class="message-body">
                             Voici les tableaux
                         </div>
@@ -144,7 +166,7 @@
                 <!-- contenu de la tab "script" -->
                 <div class="has-display-none js-tab-content" id="scripts">
                     <article class="message is-success">
-                        <div class="is-size-1 has-background-warning-light">Scripts</div>
+                        <div class="is-size-1 has-background-warning-light"><br>Scripts</div>
                         <div class="message-body">
                             <a href="#scriptbase">1. Script pour la création automatique des tableaux <br></a>
                             <a href="#concordance">2. Script pour la création du concordancier <br> </a>
@@ -175,7 +197,7 @@
 				<!-- contenu de la tab "A propos de nous" -->
                 <div class="has-display-none js-tab-content" id="about">
                     <article class="message is-primary">
-                        <div class="is-size-1 has-background-warning-light">A propos de nous</div>
+                        <div class="is-size-1 has-background-warning-light"><br>A propos de nous</div>
                         <div class="message-body">
                             Anne-Sophie, Elodie et Ji, trois étudiantes en master TAL
                         </div>
@@ -183,11 +205,11 @@
 
                     <p style="text-align: center;">
                         <br> <br> <strong> Anne-Sophie Foussat </strong>
-                        <br> <br> <img src="./images/us/AnneSophie.png" alt="Photo de Anne-Sophie" width="200"> 
+                        <figure class="image is-128x128" style="float:left">
+                            <img class="is-rounded" src="./images/us/AnneSophie.png" alt="Photo de Anne-Sophie">
+                        </figure>
 					</p>
-
-                    <ol style="margin-left: 10%; margin-right: 10%; list-style-type: disc;" >
-                        <br> 
+                    <br><br><ol style="margin-left: 15%; margin-right: 10%; list-style-type: disc;" >
                         <li>
                             Issue d'une licence en Langues Etrangère Appliquée anglais portugais à Sorbonne Université, je me suis ensuite dirigée vers le master TAL à Sorbonne Nouvelle.
                         </li>
@@ -198,24 +220,31 @@
                     <br>
                     <p style="text-align: center;">
                         <br> <br> <strong> Elodie Esteves </strong>
-                        <br> <br> <img src="./images/us/Elodie.jpg" alt="Photo de Elodie" width="200"> 
+                        <figure class="image is-128x128" style="float:left">
+                            <img class="is-rounded" src="./images/us/Elodie.jpg" alt="Photo de Elodie">
+                        </figure>
 					</p>
 
-                    <ol style="margin-left: 10%; margin-right: 10%; list-style-type: disc;" >
+                    <br><ol style="margin-left: 15%; margin-right: 10%; list-style-type: disc;" >
                         <br> 
-                        <li> Description
+                        <li>
+                            Description
                         </li>
-                        <li> Langues parlées : 
+                        <li>
+                                Langues parlées : 
                         </li>
                     </ol>
-
+                    
+                    
                     <p style="text-align: center;">
                         <br> <br> <strong> Ji An </strong>
-                        <br> <br> <img src="images/us/ja.jpeg" alt="Photo de Ji" width="200">
+                        <figure class="image is-128x128" style="float:left">
+                            <br><br> <img class="is-rounded" src="images/ja.jpeg" alt="Photo de Ji AN">
+                        </figure>
 					</p>
                     
-                    <ol style="margin-left: 10%; margin-right: 10%; list-style-type: disc;" >
-                        <br> 
+                    <br> <ol style="margin-left: 15%; margin-right: 10%; list-style-type: disc;" >
+                        <br><br>
                         <li>
                             Après des études en Master Sciences du langage à l'Inalco, 
                             je prépare actuellement mon mémoire portant sur les dialectes yue, 
@@ -228,7 +257,6 @@
                     </ol>
                 </div>
             </div>
-        </section>
         <script src="app.js"></script>
     </body>
 </html>

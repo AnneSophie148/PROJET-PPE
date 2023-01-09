@@ -1,6 +1,27 @@
+
 /* app.css */
 
  .has-display-none {
     display: none;
     visibility: hidden;
+}
+
+.hero {
+    /* Sizing */
+    width: 100vw;
+    height: 100vh;
+    
+    /* Flexbox stuff */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* Text styles */
+    text-align: center;
+    
+    /* Background styles */
+    background-image: url(./images/background/el-valor-de-la-nostalgia-850x567.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }

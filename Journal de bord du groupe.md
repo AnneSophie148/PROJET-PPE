@@ -32,3 +32,5 @@ Nous avons donc choisi d'étudier cet angle en analysant en portugais les mots "
 <font color='lightblue'>**06/01 [Ji]**</font>  
 <font color='orange'><u>**Traitemet du chinois**</u></font>
 
+10/01: Finalisation et relecture du site web
+

@@ -24,13 +24,17 @@ Nous avons donc choisi d'étudier cet angle en analysant en portugais les mots "
 
 14/12 : Installation du module wordcloud pour faire les nuages de mots. Correction du script de base. Ajout des expressions régulières car certains compte apparaissait vide puisque le mot était écrit avec une majuscule. Difficulté avec le chinois en raison de deux écritures différentes du même mot d'où la nécessité d'utiliser les expressions régulières.
 
-<font color='lightblue'>**05/01 [Ji]** </font>  
-<font color='orange'><u>**Traitement de l'anglais**</u></font>
-1.  Installation des modules nécessaires pour traiter la tokénisation, la filtration de textes et le nuage de mots.
-2.  Création d'une image
+05/01 : Traitement du texte anglais
+1.  Installation des modules nécessaires pour manipuler la tokénisation, la filtration de mots vides et les nuage de mots.
+2.  Création des nuages de mots anglais.
    
-<font color='lightblue'>**06/01 [Ji]**</font>  
-<font color='orange'><u>**Traitemet du chinois**</u></font>
+06/01 : Traitement du texte chinois 
+1.  Segmentation du chinois. Amélioration du script.
+2.  Création des nuages de mots chinois.
 
-10/01: Finalisation et relecture du site web
+09/01 : Analyse iTrameur pour le chinois 
+1.  Modification des dumps textes du chinois pour le chargement sur iTrameur.
+2.  Rédaction des analyses sur le site web.
+
+10/01 : Finalisation et relecture du site web
 

@@ -451,7 +451,8 @@
 
                         Nous commençons l'analyse par charger le fichier <a href="./itrameur/dumps-text-ch_seg.txt">dumps-text-ch_seg.txt</a> 
                         sur iTrameur. Le texte chinois dans ce fichier a été segmenté en amont grâce à notre script <strong>Python</strong>, 
-                        où nous avons recours à la module <strong>JIEBA</strong> pour la tokénisation du chinois. Néanmoins, le fichier <u>n'a pas été correctement chargé</u> sur iTrameur. Par conséquent, nous ne pouvons que 
+                        où nous avons recours à la module <strong>JIEBA</strong> pour la tokénisation du chinois. Néanmoins, le fichier <u>n'a pas été 
+                        correctement chargé</u> sur iTrameur. Par conséquent, nous ne pouvons que 
                         nous borner à utiliser les opérations d'analyse principales qui marchent encore, à savoir le dictionnaire et 
                         le calcul de cooccurrents. 
                         <br><br>
@@ -486,14 +487,22 @@
                     </p>
                     <br><br>
 
-                    Afin de voir plus généralement sur ce que le mot 乡愁 nous donne comme phénomènes sur le portail de recherche, 
-                    nous fixons <strong>10</strong> pour le paramètre <strong>Co-Frequénce</strong> et <strong>3</strong> 
-                    pour le paramètre <strong>Indice de Spécificité minimal</strong>. 
-                    Les deux tableaux ci-dessus nous montrent les mots cooccurents dans l'ordre décroissant. Il est intéressant que 
-                    les marques pour titres d'ouvrage 《 》 figurent à la première place, sans doute parce que 乡愁 renvoie non seulement à un poème 
-                    très célèbre écrit par le poète taïwanais 余光中 qui exprime ses pensées à sa ville natale située au sud-est de la Chine continentale, 
-                    mais aussi à un sujet fréquent dans un nombre de créations littéraires et artistiques (voir le tableau ci-dessous 
-                    pour les conetxtes liés à des auteurs et leurs ouvrages).
+                    <!-- 共现词频：2 -->
+                    <p style="text-align: center;">
+                        <img src="./images/DUMP-CH-XIANGCHOU/cooc2.png" title="Cooccurrents chinois NB=10 (15-29)" align="middle" width="300"/>
+                    </p>
+                    <br><br>
+
+                    <p>
+                        Afin de voir plus généralement sur ce que le mot 乡愁 nous donne comme phénomènes sur le portail de recherche, 
+                        nous fixons <strong>10</strong> pour le paramètre <strong>Co-Frequénce</strong> et <strong>3</strong> 
+                        pour le paramètre <strong>Indice de Spécificité minimal</strong>. 
+                        Les deux tableaux ci-dessus nous montrent les mots cooccurents dans l'ordre décroissant. Il est intéressant que 
+                        les marques pour titres d'ouvrage 《 》 figurent à la première place, sans doute parce que 乡愁 renvoie non seulement à un poème 
+                        très célèbre écrit par le poète taïwanais 余光中 qui exprime ses pensées à sa ville natale située au sud-est de la Chine continentale, 
+                        mais aussi à un sujet fréquent dans un nombre de créations littéraires et artistiques (voir le tableau ci-dessous 
+                        pour les conetxtes liés à des auteurs et leurs ouvrages).
+                    </p>
                     <br><br>
 
                     <p style="text-align: center;">
@@ -501,9 +510,11 @@
                     </p>
                     <br><br>
                     
-                    Ensuite, nous observons que les mots cooccurrents qui suivent concernent principalement des études culturelles, qui évoquent surtout les termes
-                    触发 chúfā "exiter/déclencher (un sentiment)", 要素 yàosù "facteur essentiel" et 研究 yánjiū "étude" autour des phénomènes de la nostalgie 
-                    (voir le tableau ci-dessous où les deux mots ont tendance d'apparaître simultanément sous la plume des chercheurs dans le domaine des sciences humaines.
+                    <p>
+                        Ensuite, nous observons que les mots cooccurrents qui suivent concernent principalement des études culturelles, qui évoquent surtout les termes
+                        触发 chúfā "exiter/déclencher (un sentiment)", 要素 yàosù "facteur essentiel" et 研究 yánjiū "étude" autour des phénomènes de la nostalgie 
+                        (voir le tableau ci-dessous où les deux mots ont tendance d'apparaître simultanément sous la plume des chercheurs dans le domaine des sciences humaines.
+                    </p>
                     <br><br>
 
                     <p style="text-align: center;">
@@ -511,13 +522,47 @@
                     </p>
                     <br><br>
 
-                    
-
-                    <!-- 共现词频：2 -->
-                    <p style="text-align: center;">
-                        <img src="./images/DUMP-CH-XIANGCHOU/cooc2.png" title="Cooccurrents chinois NB=10 (15-29)" align="middle" width="300"/>
+                    <p>
+                        Globalement parlant, ces mots cooccurrents sont des termes se rapportant aux quatres dimensions. 
+                        En effet, c'est ce que le Nœud-Cooc ci-dessous nous montre. 
+                        Nous modifions légèrement ce graphique pour qu'il nous révèle 
+                        plus clairement les 4 sujets principaux dans le contexte de la Chine continentale.
+                        <br><br>
+                        <h6>
+                            <ul style="list-style:disc">
+                                <li><strong>En bas</strong> : 乡愁 en tant que sujet des études sociologiques</li>
+                                    <ul style="list-style:circle">
+                                        <li>理论化 "théorisation" | 理论 "théorie" | 价值 "valeur" | 要素 "facteur essentiel" | 学者 "chercheur"</li>
+                                        <li>研究 "recherche" | 概念 "concept" | 问题 "question" | 什么 "quoi" | 如何 "comment"</li>
+                                    </ul>
+                                <li><strong>À gauche</strong> : 乡愁 en tant que sujet des créations littéraires et artistiques</li>
+                                    <ul style="list-style:circle">
+                                        <li> Les noms : écrivains, chanteurs, compositeurs, metteurs en scène</li>
+                                        <li> Les noms des genres littéraires, des métiers artistiques </li>
+                                    </ul>
+                                <li><strong>À droite</strong> : 乡愁 en tant que sentiment, sa définition, des réflexions sur la vie et sur la "racine"(l'origine, le lieu de naissance et l'enfance) d'une personne</li>
+                                    <ul style="list-style:circle">
+                                        <li> 滋味 "saveur" | 怀旧 "se souvenir du temps passé" | 唤起 "évoquer" | 体验 "expérience"</li>
+                                        <li> 内涵 "connotation" | 情感 "émotion" | 谈论 "parler de" | 传统 "tradition"</li>
+                                    </ul>
+                                <li><strong>En haut</strong> : 乡愁 en tant que mot-clé politique évoqué par le président chinois au sujet du développement et de la modernisation des régions rurales</li>
+                                    <ul style="list-style:circle">
+                                        <li> 地方 "localité" | 城镇化 "urbanisation" | 旅游 "tourisme" | 现代 "contemporain" </li>
+                                        <li> 留住 "retenir" | 记得住 "parvenir à garder la mémoire de" | 指出 "indiquer"</li>
+                                    </ul>
+                            </ul>
+                        </h6>
                     </p>
+
+                    <p>
+                         
+                        
+                    </p>
+
+
                     <br><br>
+
+
 
                     <!-- 共现词频：辐射图 Noeud-Cooc chinois-->
                     <p style="text-align: center;">
@@ -577,7 +622,8 @@
                         <div class="message-body">
                             <a href="#scriptbase">1. Script pour la création automatique des tableaux <br></a>
                             <a href="#concordance">2. Script pour la création du concordancier <br> </a>
-                            <a href="#script_itrameur">3. Script pour itrameur </a>		
+                            <a href="#script_itrameur">3. Script pour itrameur <br></a>	
+                            <a href="#script_python"> 4. Script pour les opérations du chinois et de l'anglais</a>	
                         </div>
                     </article>
                     <div id="scriptbase"> <p align="center" class=is-size-2 style="background-color:whitesmoke">
@@ -588,6 +634,8 @@
                     <p><br> Le script ci-dessus permet de récupérer le code de réponse du serveur ainsi que l'encodage de chaque lien. Ainsi les lignes des tableaux représentent chacune un lien.</p>
                     <p>Le programme va ensuite créer un tableau html où il placera ces informations ainsi que des liens vers les aspirations des pages et le contenu textuel des pages (dumps).</p>
                     <p> Pour comprendre le script étape par étape, merci de consulter les commentaires inscrits dans le script.</p>
+                    
+                    <br>
                     </div>
 
                     <br><br> <div id="concordance"> <p align="center" class=is-size-2 style="background-color:whitesmoke">
@@ -604,6 +652,19 @@
                         <a href="./programmes/correction_itrameur.sh"><br>Cliquez pour télécharger le script de iTrameur</a>
                         <p><br>Le programme ci-dessus se lance sur les contextes ou dumps d'une langue et remplace les éléments pour créer un seul fichier avec des balises qui pourront servir de marqueurs de contexte sur itrameur.</p>
                     </div>
+                    <br><br><br>
+                    <div id="script_python">
+                        <p align="center" class=is-size-2 style="background-color:whitesmoke">
+                            Script Python (Jupyter Notebook)
+                            <br>Filtration des mots vides chinois 
+                            <br>Nuages de mots chinois et anglais
+                        </p>
+                        <br><br>
+                        <p>
+                            <a href="./programmes/seg-wc_CH_EN.html">Cliquez pour consulter le script Python</a>
+                        </p>
+                        <br><br><br><br>
+                    </div>
                 </div>
 
                 <!-- contenu de la tab "Conclusion" -->
@@ -619,6 +680,8 @@
                     Il s'agit d'un mot assez théorique lié à la mélancolie, d'ailleurs en français nous retrouvons le terme mélancolie associé au mot "nostalgie". Nous nous sommes aperçues que la nostalgie est un sentiment utilisé dans le domaine du marketing et en politique afin de jouer et d'éveiller notre désir de retrouver ce quelque chose dont on ressent le manque.
                     "Saudade" est un mot plus spécifique et concret. On parle surtout du manque de quelqu'un quand on utilise "saudade". Il s'agit d'un sentiment physique liée à l'affection et l'éloignement d'une chose ou d'une personne.
                     Nous pouvons donc dire que les termes "saudade" et "nostalgia" ne sont pas vraiment synonymes. Ils sont utilisés à des fins différentes et on ne les retrouve pas dans les mêmes contextes d'apparition. Le mot "saudade" en portugais serait plutôt un mot qui préciserait une certaine forme de "nostalgia", une "nostalgia" particulière et qui est vraiment lié à la chair au manque presque vital. Nous pouvons donc voir la "saudade", comme une branche dans l'arbre de la nostalgie.
+                    Enfin, en ce qui concerne le mot 乡愁 en chinois, il présente plus ou moins une complexité extralinguistique dans la Chine contemporaine. En plus de son sens typique lié à des sentiments personnels, il est également utilisé, par le biais de ce sentiment, à des fins politiques, devenu ainsi une sorte de propagande pour promouvoir la modernisation dans les zones rurales moins développée. En outre, il fait l'objet de nombre de créations littéraires et artistiques, ce qui nous évoque la tradition du "mal du pays" dans la poésie chinoise. 
+                    
                     </p>
                     
                 </div>		

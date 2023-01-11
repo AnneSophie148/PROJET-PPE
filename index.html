@@ -451,8 +451,7 @@
 
                         Nous commençons l'analyse par charger le fichier <a href="./itrameur/dumps-text-ch_seg.txt">dumps-text-ch_seg.txt</a> 
                         sur iTrameur. Le texte chinois dans ce fichier a été segmenté en amont grâce à notre script <strong>Python</strong>, 
-                        où nous avons recours à la module <strong>JIEBA</strong> pour la tokénisation du chinois. Néanmoins, le fichier <u>n'a pas été 
-                        correctement chargé</u> sur iTrameur. Par conséquent, nous ne pouvons que 
+                        où nous avons recours au module <strong>JIEBA</strong> pour la tokénisation du chinois. Néanmoins, le fichier <u>n'a pas été correctement chargé</u> sur iTrameur. Par conséquent, nous ne pouvons que 
                         nous borner à utiliser les opérations d'analyse principales qui marchent encore, à savoir le dictionnaire et 
                         le calcul de cooccurrents. 
                         <br><br>
@@ -487,22 +486,14 @@
                     </p>
                     <br><br>
 
-                    <!-- 共现词频：2 -->
-                    <p style="text-align: center;">
-                        <img src="./images/DUMP-CH-XIANGCHOU/cooc2.png" title="Cooccurrents chinois NB=10 (15-29)" align="middle" width="300"/>
-                    </p>
-                    <br><br>
-
-                    <p>
-                        Afin de voir plus généralement sur ce que le mot 乡愁 nous donne comme phénomènes sur le portail de recherche, 
-                        nous fixons <strong>10</strong> pour le paramètre <strong>Co-Frequénce</strong> et <strong>3</strong> 
-                        pour le paramètre <strong>Indice de Spécificité minimal</strong>. 
-                        Les deux tableaux ci-dessus nous montrent les mots cooccurents dans l'ordre décroissant. Il est intéressant que 
-                        les marques pour titres d'ouvrage 《 》 figurent à la première place, sans doute parce que 乡愁 renvoie non seulement à un poème 
-                        très célèbre écrit par le poète taïwanais 余光中 qui exprime ses pensées à sa ville natale située au sud-est de la Chine continentale, 
-                        mais aussi à un sujet fréquent dans un nombre de créations littéraires et artistiques (voir le tableau ci-dessous 
-                        pour les conetxtes liés à des auteurs et leurs ouvrages).
-                    </p>
+                    Afin d'observer plus généralement sur ce que le mot 乡愁 nous donne comme phénomènes sur le portail de recherche, 
+                    nous fixons <strong>10</strong> pour le paramètre <strong>Co-Frequénce</strong> et <strong>3</strong> 
+                    pour le paramètre <strong>Indice de Spécificité minimal</strong>. 
+                    Les deux tableaux ci-dessus nous montrent les mots cooccurents dans l'ordre décroissant. Il est intéressant que 
+                    les marques pour titres d'ouvrage 《 》 figurent à la première place, sans doute parce que 乡愁 renvoie non seulement à un poème 
+                    très célèbre écrit par le poète taïwanais 余光中 qui exprime ses pensées à sa ville natale située au sud-est de la Chine continentale, 
+                    mais aussi à un sujet fréquent dans un nombre de créations littéraires et artistiques (voir le tableau ci-dessous 
+                    pour les contextes liés à des auteurs et à leurs ouvrages).
                     <br><br>
 
                     <p style="text-align: center;">
@@ -510,11 +501,9 @@
                     </p>
                     <br><br>
                     
-                    <p>
-                        Ensuite, nous observons que les mots cooccurrents qui suivent concernent principalement des études culturelles, qui évoquent surtout les termes
-                        触发 chúfā "exiter/déclencher (un sentiment)", 要素 yàosù "facteur essentiel" et 研究 yánjiū "étude" autour des phénomènes de la nostalgie 
-                        (voir le tableau ci-dessous où les deux mots ont tendance d'apparaître simultanément sous la plume des chercheurs dans le domaine des sciences humaines.
-                    </p>
+                    Ensuite, nous observons que les mots cooccurrents qui suivent concernent principalement des études culturelles, qui évoquent surtout les termes
+                    触发 chúfā "exiter/déclencher (un sentiment)", 要素 yàosù "facteur essentiel" et 研究 yánjiū "étude" autour des phénomènes de la nostalgie 
+                    (voir le tableau ci-dessous où les deux mots ont tendance à apparaître simultanément sous la plume des chercheurs dans le domaine des sciences humaines.
                     <br><br>
 
                     <p style="text-align: center;">
